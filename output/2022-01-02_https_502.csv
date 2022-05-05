@@ -1,10 +1,8 @@
 ip,domain_count,avg_length,standard_deviation,similarity,content,domains
-34.226.46.235,2,212.5,0.009982683969692435,0.999953022663672,"['Cache-Control: private, max-age=0' 'Content-Length: 84'
- 'Content-Type: application/json' 'Date: Sun, 02 Jan 2022 23:35:41 GMT']{""status"":502,""message"":""No route known for groups.yahoo.com"",""additional_error"":""""}",['groups.yahoo.com' 'goodreads.com']
-34.238.11.122,2,212.5,0.009982683969692435,0.999953022663672,"['Cache-Control: private, max-age=0' 'Content-Length: 84'
- 'Content-Type: application/json' 'Date: Sun, 02 Jan 2022 23:36:24 GMT']{""status"":502,""message"":""No route known for groups.yahoo.com"",""additional_error"":""""}",['groups.yahoo.com' 'goodreads.com']
-54.89.106.200,2,212.5,0.009982683969692435,0.999953022663672,"['Cache-Control: private, max-age=0' 'Content-Length: 84'
- 'Content-Type: application/json' 'Date: Sun, 02 Jan 2022 23:36:06 GMT']{""status"":502,""message"":""No route known for groups.yahoo.com"",""additional_error"":""""}",['groups.yahoo.com' 'goodreads.com']
+208.73.204.158,2,237.0,0.0,1.0,"['Content-Length: 90' 'Content-Type: text/html; charset=utf-8'
+ 'Date: Sun, 02 Jan 2022 23:39:55 GMT' 'Etag: ""5fea9890-5a""'
+ 'Server: nginx admin']<html><head><META CONTENT=""0;URL=/cgi-sys/defaultwebpage.cgi""></head><body></body></html>
+",['www.pcusa.org' 'www.pcgamer.com']
 217.67.31.114,2,254.0,0.0,1.0,"['Content-Length: 150' 'Content-Type: text/html'
  'Date: Sun, 02 Jan 2022 23:38:45 GMT' 'Server: nginx']<html>
 <head><title>502 Bad Gateway</title></head>
@@ -14,7 +12,9 @@ ip,domain_count,avg_length,standard_deviation,similarity,content,domains
 </body>
 </html>
 ",['www.cesr.org' 'www.census.gov']
-208.73.204.158,2,237.0,0.0,1.0,"['Content-Length: 90' 'Content-Type: text/html; charset=utf-8'
- 'Date: Sun, 02 Jan 2022 23:39:55 GMT' 'Etag: ""5fea9890-5a""'
- 'Server: nginx admin']<html><head><META CONTENT=""0;URL=/cgi-sys/defaultwebpage.cgi""></head><body></body></html>
-",['www.pcusa.org' 'www.pcgamer.com']
+54.89.106.200,2,212.5,0.009982683969692435,0.999953022663672,"['Cache-Control: private, max-age=0' 'Content-Length: 84'
+ 'Content-Type: application/json' 'Date: Sun, 02 Jan 2022 23:36:06 GMT']{""status"":502,""message"":""No route known for groups.yahoo.com"",""additional_error"":""""}",['groups.yahoo.com' 'goodreads.com']
+34.238.11.122,2,212.5,0.009982683969692435,0.999953022663672,"['Cache-Control: private, max-age=0' 'Content-Length: 84'
+ 'Content-Type: application/json' 'Date: Sun, 02 Jan 2022 23:36:24 GMT']{""status"":502,""message"":""No route known for groups.yahoo.com"",""additional_error"":""""}",['groups.yahoo.com' 'goodreads.com']
+34.226.46.235,2,212.5,0.009982683969692435,0.999953022663672,"['Cache-Control: private, max-age=0' 'Content-Length: 84'
+ 'Content-Type: application/json' 'Date: Sun, 02 Jan 2022 23:35:41 GMT']{""status"":502,""message"":""No route known for groups.yahoo.com"",""additional_error"":""""}",['groups.yahoo.com' 'goodreads.com']

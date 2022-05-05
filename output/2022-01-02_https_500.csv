@@ -225,42 +225,6 @@ ip,domain_count,avg_length,standard_deviation,similarity,content,domains
  'www.tiktok.com' 'www.giganews.com' 'zh.wikipedia.org'
  'www.instagram.com' 'www.dailysabah.com' 'www.securityinabox.org'
  'timesofindia.indiatimes.com']"
-151.101.66.133,4,488.5,0.04925776628665697,0.9998991652686046,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
- 'Content-Length: 260' 'Content-Type: text/html'
- 'Date: Sun, 02 Jan 2022 23:40:06 GMT' 'Retry-After: 0' 'Server: Varnish'
- 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8025-DTW']
-<html>
-<head>
-<title>Fastly error: unknown domain www.teenhealthfx.com</title>
-</head>
-<body>
-<p>Fastly error: unknown domain: www.teenhealthfx.com. Please check that this domain has been added to a service.</p>
-<p>Details: cache-dtw8025-DTW</p></body></html>","['www.teenhealthfx.com' 'www.irna.ir' 'www.womensmediacenter.com'
- 'patreon.com']"
-151.101.2.133,4,488.5,0.04925776628665697,0.9998991652686046,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
- 'Content-Length: 242' 'Content-Type: text/html'
- 'Date: Sun, 02 Jan 2022 23:42:21 GMT' 'Retry-After: 0' 'Server: Varnish'
- 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8029-DTW']
-<html>
-<head>
-<title>Fastly error: unknown domain patreon.com</title>
-</head>
-<body>
-<p>Fastly error: unknown domain: patreon.com. Please check that this domain has been added to a service.</p>
-<p>Details: cache-dtw8029-DTW</p></body></html>","['patreon.com' 'www.womensmediacenter.com' 'www.irna.ir'
- 'www.teenhealthfx.com']"
-151.101.194.133,4,488.5,0.04925776628665697,0.9998991652686046,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
- 'Content-Length: 260' 'Content-Type: text/html'
- 'Date: Sun, 02 Jan 2022 23:42:52 GMT' 'Retry-After: 0' 'Server: Varnish'
- 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8024-DTW']
-<html>
-<head>
-<title>Fastly error: unknown domain www.teenhealthfx.com</title>
-</head>
-<body>
-<p>Fastly error: unknown domain: www.teenhealthfx.com. Please check that this domain has been added to a service.</p>
-<p>Details: cache-dtw8024-DTW</p></body></html>","['www.teenhealthfx.com' 'www.womensmediacenter.com' 'patreon.com'
- 'www.irna.ir']"
 151.101.130.133,4,488.5,0.04925776628665697,0.9998991652686046,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
  'Content-Length: 242' 'Content-Type: text/html'
  'Date: Sun, 02 Jan 2022 23:39:21 GMT' 'Retry-After: 0' 'Server: Varnish'
@@ -273,17 +237,42 @@ ip,domain_count,avg_length,standard_deviation,similarity,content,domains
 <p>Fastly error: unknown domain: www.irna.ir. Please check that this domain has been added to a service.</p>
 <p>Details: cache-dtw8024-DTW</p></body></html>","['www.irna.ir' 'www.teenhealthfx.com' 'www.womensmediacenter.com'
  'patreon.com']"
-151.101.192.81,3,481.0,0.0385597442640154,0.9999198342115093,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+151.101.194.133,4,488.5,0.04925776628665697,0.9998991652686046,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
  'Content-Length: 260' 'Content-Type: text/html'
- 'Date: Sun, 02 Jan 2022 23:39:42 GMT' 'Retry-After: 0' 'Server: Varnish'
- 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8023-DTW']
+ 'Date: Sun, 02 Jan 2022 23:42:52 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8024-DTW']
 <html>
 <head>
-<title>Fastly error: unknown domain bedbathandbeyond.com</title>
+<title>Fastly error: unknown domain www.teenhealthfx.com</title>
 </head>
 <body>
-<p>Fastly error: unknown domain: bedbathandbeyond.com. Please check that this domain has been added to a service.</p>
-<p>Details: cache-dtw8023-DTW</p></body></html>",['bedbathandbeyond.com' 'bbva.es' 'www.beer.com']
+<p>Fastly error: unknown domain: www.teenhealthfx.com. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8024-DTW</p></body></html>","['www.teenhealthfx.com' 'www.womensmediacenter.com' 'patreon.com'
+ 'www.irna.ir']"
+151.101.2.133,4,488.5,0.04925776628665697,0.9998991652686046,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 242' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:42:21 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8029-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain patreon.com</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: patreon.com. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8029-DTW</p></body></html>","['patreon.com' 'www.womensmediacenter.com' 'www.irna.ir'
+ 'www.teenhealthfx.com']"
+151.101.66.133,4,488.5,0.04925776628665697,0.9998991652686046,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 260' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:40:06 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8025-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain www.teenhealthfx.com</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: www.teenhealthfx.com. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8025-DTW</p></body></html>","['www.teenhealthfx.com' 'www.irna.ir' 'www.womensmediacenter.com'
+ 'patreon.com']"
 151.101.0.81,3,481.0,0.0385597442640154,0.9999198342115093,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
  'Content-Length: 234' 'Content-Type: text/html'
  'Date: Sun, 02 Jan 2022 23:39:36 GMT' 'Retry-After: 0' 'Server: Varnish'
@@ -295,17 +284,6 @@ ip,domain_count,avg_length,standard_deviation,similarity,content,domains
 <body>
 <p>Fastly error: unknown domain: bbva.es. Please check that this domain has been added to a service.</p>
 <p>Details: cache-dtw8026-DTW</p></body></html>",['bbva.es' 'bedbathandbeyond.com' 'www.beer.com']
-151.101.64.81,3,481.0,0.0385597442640154,0.9999198342115093,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
- 'Content-Length: 244' 'Content-Type: text/html'
- 'Date: Sun, 02 Jan 2022 23:36:03 GMT' 'Retry-After: 0' 'Server: Varnish'
- 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8025-DTW']
-<html>
-<head>
-<title>Fastly error: unknown domain www.beer.com</title>
-</head>
-<body>
-<p>Fastly error: unknown domain: www.beer.com. Please check that this domain has been added to a service.</p>
-<p>Details: cache-dtw8025-DTW</p></body></html>",['www.beer.com' 'bedbathandbeyond.com' 'bbva.es']
 151.101.128.81,3,481.0,0.0385597442640154,0.9999198342115093,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
  'Content-Length: 234' 'Content-Type: text/html'
  'Date: Sun, 02 Jan 2022 23:35:59 GMT' 'Retry-After: 0' 'Server: Varnish'
@@ -317,6 +295,17 @@ ip,domain_count,avg_length,standard_deviation,similarity,content,domains
 <body>
 <p>Fastly error: unknown domain: bbva.es. Please check that this domain has been added to a service.</p>
 <p>Details: cache-dtw8022-DTW</p></body></html>",['bbva.es' 'www.beer.com' 'bedbathandbeyond.com']
+151.101.64.81,3,481.0,0.0385597442640154,0.9999198342115093,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 244' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:36:03 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8025-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain www.beer.com</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: www.beer.com. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8025-DTW</p></body></html>",['www.beer.com' 'bedbathandbeyond.com' 'bbva.es']
 210.150.110.173,3,310.0,0.0,1.0,"['Content-Length: 190' 'Content-Type: text/html; charset=utf-8'
  'Date: Sun, 02 Jan 2022 23:43:35 GMT' 'Server: U-NEXT']<html>
 <head><title>500 Internal Server Error</title></head>
@@ -326,17 +315,28 @@ ip,domain_count,avg_length,standard_deviation,similarity,content,domains
 </body>
 </html>
 ",['w3schools.com' 'uploaded.to' 'uol.com.br']
-185.199.108.154,2,484.0,0.014609644239391479,0.9999698147846293,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
- 'Content-Length: 244' 'Content-Type: text/html'
- 'Date: Sun, 02 Jan 2022 23:35:19 GMT' 'Retry-After: 0' 'Server: Varnish'
- 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8026-DTW']
+151.101.192.81,3,481.0,0.0385597442640154,0.9999198342115093,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 260' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:39:42 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8023-DTW']
 <html>
 <head>
-<title>Fastly error: unknown domain doordash.com</title>
+<title>Fastly error: unknown domain bedbathandbeyond.com</title>
 </head>
 <body>
-<p>Fastly error: unknown domain: doordash.com. Please check that this domain has been added to a service.</p>
-<p>Details: cache-dtw8026-DTW</p></body></html>",['doordash.com' 'documentforce.com']
+<p>Fastly error: unknown domain: bedbathandbeyond.com. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8023-DTW</p></body></html>",['bedbathandbeyond.com' 'bbva.es' 'www.beer.com']
+185.199.111.154,2,484.0,0.014609644239391479,0.9999698147846293,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 254' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:42:17 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8029-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain documentforce.com</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: documentforce.com. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8029-DTW</p></body></html>",['documentforce.com' 'doordash.com']
 151.101.246.114,2,487.0,0.005807858572374107,0.999988074212377,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
  'Content-Length: 251' 'Content-Type: text/html'
  'Date: Sun, 02 Jan 2022 23:39:42 GMT' 'Retry-After: 0' 'Server: Varnish'
@@ -359,17 +359,8 @@ ip,domain_count,avg_length,standard_deviation,similarity,content,domains
 <body>
 <p>Fastly error: unknown domain: www.habbo.com. Please check that this domain has been added to a service.</p>
 <p>Details: cache-hhn4041-HHN</p></body></html>",['www.habbo.com' 'www.lesbiansubmission.com']
-185.199.111.154,2,484.0,0.014609644239391479,0.9999698147846293,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
- 'Content-Length: 254' 'Content-Type: text/html'
- 'Date: Sun, 02 Jan 2022 23:42:17 GMT' 'Retry-After: 0' 'Server: Varnish'
- 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8029-DTW']
-<html>
-<head>
-<title>Fastly error: unknown domain documentforce.com</title>
-</head>
-<body>
-<p>Fastly error: unknown domain: documentforce.com. Please check that this domain has been added to a service.</p>
-<p>Details: cache-dtw8029-DTW</p></body></html>",['documentforce.com' 'doordash.com']
+50.18.219.153,2,734.5,1.0,0.998638529611981,"['Content-Length: 0' 'Content-Type: text/plain; charset=utf-8'
+ 'Date: Sun, 02 Jan 2022 23:43:22 GMT' 'Server: bfe']nan",['cctv.com' 'www.inbox.com']
 185.199.110.154,2,484.0,0.014609644239391479,0.9999698147846293,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
  'Content-Length: 244' 'Content-Type: text/html'
  'Date: Sun, 02 Jan 2022 23:43:40 GMT' 'Retry-After: 0' 'Server: Varnish'
@@ -392,5 +383,14 @@ ip,domain_count,avg_length,standard_deviation,similarity,content,domains
 <body>
 <p>Fastly error: unknown domain: doordash.com. Please check that this domain has been added to a service.</p>
 <p>Details: cache-dtw8026-DTW</p></body></html>",['doordash.com' 'documentforce.com']
-50.18.219.153,2,734.5,1.0,0.998638529611981,"['Content-Length: 0' 'Content-Type: text/plain; charset=utf-8'
- 'Date: Sun, 02 Jan 2022 23:43:22 GMT' 'Server: bfe']nan",['cctv.com' 'www.inbox.com']
+185.199.108.154,2,484.0,0.014609644239391479,0.9999698147846293,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 244' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:35:19 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8026-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain doordash.com</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: doordash.com. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8026-DTW</p></body></html>",['doordash.com' 'documentforce.com']

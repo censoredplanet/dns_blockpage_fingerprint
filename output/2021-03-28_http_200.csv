@@ -1,0 +1,52 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+54.206.220.49,9,197.0,0.0,1.0,"['Content-Length: 25', 'Content-Type: text/html; charset=utf-8', 'Date: Sun, 28 Mar 2021 23:54:10 GMT', 'Etag: W/""19-CUs+MUe0nihKPOjMhDp5E2dR/cY""', 'X-Powered-By: Express']Server powered by Shwoop!","['extratorrent.cc' 'nyaa.si' 'rutracker.org' 'rarbg.to' '1337x.to'
+ 'thepiratebay.org' 'y2mate.com' 'rezka.ag' 'subscene.com']"
+209.99.64.71,5,2664.0,0.07162295942493059,0.9999731145047204,"['Connection: Keep-Alive', 'Content-Length: 2270', 'Content-Type: text/html; charset=UTF-8', 'Date: Sun, 28 Mar 2021 23:56:30 GMT', 'Keep-Alive: timeout=5, max=108', 'Server: Apache', 'Set-Cookie: vsid=927vr3645213906102522; expires=Fri, 27-Mar-2026 23:56:30 GMT; Max-Age=157680000; path=/; domain=www.snapchat.com; HttpOnly', 'X-Adblock-Key: MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_DfI4t0uVWjvUk3aEk6e9D2rKIbHvavwAS723+aH+1Sna+2zlBDi/2x6lZpQt1nn7VltOFJyFTj1pwoMjM0+SWA==']<!DOCTYPE html>
+<html data-adblockkey=""MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_DfI4t0uVWjvUk3aEk6e9D2rKIbHvavwAS723+aH+1Sna+2zlBDi/2x6lZpQt1nn7VltOFJyFTj1pwoMjM0+SWA=="">
+<head>
+<script type=""text/javascript"">var abp;</script><script type=""text/javascript"" src=""http://www.snapchat.com/px.js?ch=1""></script><script type=""text/javascript"" src=""http://www.snapchat.com/px.js?ch=2""></script><script type=""text/javascript"">function handleABPDetect(){try{if(!abp) return;var imglog = document.createElement(""img"");imglog.style.height=""0px"";imglog.style.width=""0px"";imglog.src=""http://www.snapchat.com/sk-logabpstatus.php?a=V2JLNTM5YmRhVzRMRHNKaDhyenJoVzk4d1UySnRSZ09SR0VlV3pEZFZUcU5FS09nUjZSdm9KVFY4MExxVUY5S3pOdldISCtJSW1JQUVTdnVOaGJ2enUzKytFMlJMRXExWXJibGgwWGIyWXM9&b=""+abp;document.body.appendChild(imglog);if(typeof abperurl !== ""undefined"" && abperurl!="""")window.top.location=abperurl;}catch(err){}}</script>
+    <meta charset=""utf-8"">
+    <style type=""text/css"">
+        html, body, #partner, iframe {
+            height:100%;
+            width:100%;
+            margin:0;
+            padding:0;
+            border:0;
+            outline:0;
+            font-size:100%;
+            vertical-align:baseline;
+            background:transparent;
+        }
+        /*body {
+            overflow:hidden;
+        }*/
+    </style>
+    <meta content=""NOW"" name=""expires"">
+    <meta content=""index, follow, all"" name=""GOOGLEBOT"">
+    <meta content=""index, follow, all"" name=""robots"">
+    <!-- Following Meta-Tag fixes scaling-issues on mobile devices -->
+    <meta content=""width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"" name=""viewport"">
+</head>
+<body>
+
+
+<div id=""partner""></div>
+<script type=""text/javascript"">
+    document.write(
+        '<script type=""text/javascript"" language=""JavaScript""'
+        + 'src=""//sedoparking.com/frmpark/'
+        + window.location.host + '/'
+        + 'skenzor17'
+        + '/park.js"">'
+        + '<\/script>'
+    );
+</script>
+<script type=""text/javascript"" language=""javascript"">
+try{if(typeof handleABPDetect==""function""){handleABPDetect();}}catch(err){}
+</script>
+
+
+</body>
+</html>","['www.snapchat.com' 'www.persecution.org' 'www.ned.org'
+ 'www.privaterra.org' 'www.paganpride.org']"

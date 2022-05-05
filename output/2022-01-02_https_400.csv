@@ -42,6 +42,17 @@ Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(
 </html>
 ","['en-ville.orange.fr' 'community.livejournal.com' 'itgetsbetter.org'
  'fteproxy.org']"
+23.14.5.211,2,402.0,0.0,1.0,"['Connection: close' 'Content-Length: 209' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:35:17 GMT'
+ 'Expires: Sun, 02 Jan 2022 23:35:17 GMT' 'Mime-Version: 1.0'
+ 'Server: AkamaiGHost']<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;1c985468&#46;1641166517&#46;2f5d2719
+</BODY></HTML>
+",['www.eucom.mil' 'www.episcopalchurch.org']
 198.35.26.96,2,2345.0,0.0,1.0,"['Content-Length: 1806' 'Content-Type: text/html; charset=utf-8'
  'Date: Sun, 02 Jan 2022 23:35:41 GMT'
  'Permissions-Policy: interest-cohort=()' 'Server: Varnish'
@@ -84,14 +95,3 @@ Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(
 </div>
 </html>
 ",['winshang.com' 'wikihow.com']
-23.14.5.211,2,402.0,0.0,1.0,"['Connection: close' 'Content-Length: 209' 'Content-Type: text/html'
- 'Date: Sun, 02 Jan 2022 23:35:17 GMT'
- 'Expires: Sun, 02 Jan 2022 23:35:17 GMT' 'Mime-Version: 1.0'
- 'Server: AkamaiGHost']<HTML><HEAD>
-<TITLE>Invalid URL</TITLE>
-</HEAD><BODY>
-<H1>Invalid URL</H1>
-The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
-Reference&#32;&#35;9&#46;1c985468&#46;1641166517&#46;2f5d2719
-</BODY></HTML>
-",['www.eucom.mil' 'www.episcopalchurch.org']

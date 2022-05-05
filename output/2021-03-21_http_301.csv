@@ -1,0 +1,9 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+208.82.16.81,4,306.0,0.0,1.0,"['Content-Length: 164', 'Content-Type: text/html', 'Date: Sun, 21 Mar 2021 23:26:51 GMT', 'Location: https://www.ning.com', 'Server: Unknown']<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>/1.17.7</center>
+</body>
+</html>
+",['www.on-instant.com' 'giphy.com' 'www.dtra.mil' 'www.socom.mil']

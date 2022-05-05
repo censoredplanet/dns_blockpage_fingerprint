@@ -1,0 +1,17 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+213.140.208.235,10,215.0,0.0,1.0,"['Content-Length: 0', 'Content-Type: text/html', 'Date: Sun, 21 Mar 2021 23:27:15 GMT', 'Location: http://nba.gov.cy/', 'Server: Apache/2.2.22 (Debian)', 'Vary: Accept-Encoding', 'X-Powered-By: PHP/5.4.45-0+deb7u7']","['www.slotland.com' 'www.goldenrivieracasino.com' 'www.poker.com'
+ 'www.roxypalace.com' 'www.eurogrand.com' 'www.grandonline.com'
+ 'www.888casino.com' 'www.clubdicecasino.com' 'www.royalvegas.com'
+ 'www.spinpalace.com']"
+159.138.1.62,9,412.1111111111111,0.020430300793176204,0.9999504252609495,"['Content-Length: 258', 'Content-Type: text/html; charset=iso-8859-1', 'Date: Sun, 21 Mar 2021 23:28:03 GMT', 'Location: http://sl.al/', 'Server: Apache']<!DOCTYPE HTML PUBLIC ""-//IETF//DTD HTML 2.0//EN"">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href=""http://sl.al/"">here</a>.</p>
+<hr>
+<address>Apache Server at netflix.com Port 80</address>
+</body></html>
+","['netflix.com' 'hulu.com' 'pandora.com' 'www.pandora.com' 'go.com'
+ 'www.netflix.com' 'www.nbc.com' 'www.bbc.co.uk' 'abc.go.com']"
+195.202.128.170,4,155.0,0.0,1.0,"['Cache-Control: no-cache', 'Content-Length: 0', 'Location: https://www.kabelplus.at/SpecialPages/Gesperrte-Websites-wegen-Urheberrechtsverletzungen.aspx']",['sci-hub.se' '1337x.to' 'thepiratebay.org' 'sci-hub.tw']

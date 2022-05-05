@@ -1,0 +1,2 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+209.44.102.196,3,221.0,0.0,1.0,"['Content-Length: 0', 'Content-Type: text/html', 'Date: Sun, 28 Mar 2021 23:52:16 GMT', 'Location: http://btguard.com/', 'Server: Apache/2.2.34 (Unix) mod_ssl/2.2.34 OpenSSL/1.0.1c PHP/5.4.11', 'X-Powered-By: PHP/5.4.11']",['www.article19.org' 'cannabis.com' 'www.amnesty.org']

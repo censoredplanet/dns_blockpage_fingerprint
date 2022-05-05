@@ -1,0 +1,17 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+159.138.1.62,9,412.1111111111111,0.020430300793176204,0.9999504252609495,"['Content-Length: 258', 'Content-Type: text/html; charset=iso-8859-1', 'Date: Wed, 24 Mar 2021 23:22:18 GMT', 'Location: http://sl.al/', 'Server: Apache']<!DOCTYPE HTML PUBLIC ""-//IETF//DTD HTML 2.0//EN"">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href=""http://sl.al/"">here</a>.</p>
+<hr>
+<address>Apache Server at pandora.com Port 80</address>
+</body></html>
+","['pandora.com' 'www.pandora.com' 'netflix.com' 'www.bbc.co.uk' 'go.com'
+ 'hulu.com' 'www.netflix.com' 'abc.go.com' 'www.nbc.com']"
+200.14.41.2,9,193.0,0.0,1.0,"['Content-Length: 0', 'Content-Type: text/html', 'Date: Wed, 24 Mar 2021 23:25:22 GMT', 'Location: http://www.merca.net.co/mintic/', 'Server: Apache/2.2.15 (CentOS)', 'X-Powered-By: PHP/5.3.3']","['xhamster.com' 'www.bbc.co.uk' 'imgur.com' 'bbc.co.uk' 'www.xvideos.com'
+ 'www.pornhub.com' 'vk.com' 'beeg.com' 'adultfriendfinder.com']"
+176.9.122.179,5,399.0,0.0,1.0,"['Age: 34809', 'Content-Language: en-US', 'Content-Length: 0', 'Date: Wed, 24 Mar 2021 13:47:29 GMT', 'Location: https://anydesk.org/en', 'Server: Shecan', 'Via: 1.1 df7c0ba7857d5300ae11e7566c926f17.cloudfront.net (CloudFront)', 'X-Amz-Cf-Id: wdh3QjVozL5Yasl9uLq_zA4b6LnD9FcOjRX36HVpoKJ9MOgNZQTGOA==', 'X-Amz-Cf-Pop: FRA56-C1', 'X-Cache: Hit from cloudfront', 'X-Original-Uri: https://anydesk.com/']","['www.bahai.org' 'www.asterisk.org' 'www.guerrillagirls.com'
+ 'www.pridemedia.com' 'www.wechat.com' 'service-now.com'
+ 'www.ariannelingerie.com' 'abc.go.com']"

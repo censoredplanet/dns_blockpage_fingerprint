@@ -1,0 +1,910 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+114.129.23.9,11,500.1818181818182,0.017156088028955584,0.9999657002965615,"['Content-Length: 310', 'Content-Type: text/html; charset=iso-8859-1', 'Date: Wed, 29 Sep 2021 22:44:40 GMT', 'Location: https://sehat.hypernet.co.id/', 'Server: Apache/2.4.10 (Debian)']<!DOCTYPE HTML PUBLIC ""-//IETF//DTD HTML 2.0//EN"">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href=""https://sehat.hypernet.co.id/"">here</a>.</p>
+<hr>
+<address>Apache/2.4.10 (Debian) Server at alt.com Port 80</address>
+</body></html>
+","['alt.com' 'pornhub.com' 'onlyfans.com' 'www.pornhub.com' 'hotgaylist.com'
+ 'heavy.com' 'bet9ja.com' 'bet365.com' 'bisexual.org' 'www.betfair.com'
+ 'beeg.com']"
+195.129.111.51,6,724.6666666666666,0.028325306933469463,0.9999609126399263,"['Content-Length: 339', 'Content-Type: text/html; charset=iso-8859-1', 'Date: Wed, 29 Sep 2021 22:58:18 GMT', 'Location: http://webstop.gamingcommission.be/', 'Server: Apache/2.4.48 (Unix) OpenSSL/1.1.1l', 'Strict-Transport-Security: max-age=63072000; includeSubDomains; preload', 'X-Content-Type-Options: nosniff', 'X-Frame-Options: SAMEORIGIN', 'X-Xss-Protection: 1; mode=block']<!DOCTYPE HTML PUBLIC ""-//IETF//DTD HTML 2.0//EN"">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href=""http://webstop.gamingcommission.be/"">here</a>.</p>
+<hr>
+<address>Apache/2.4.48 (Unix) OpenSSL/1.1.1l Server at www.eurogrand.com Port 80</address>
+</body></html>
+","['www.eurogrand.com' 'www.casinotropez.com' 'www.spinpalace.com'
+ 'www.betfair.com' 'www.europacasino.com' 'www.nazi-lauck-nsdapao.com']"
+212.143.162.130,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:34 GMT', 'Location: https://www.dla.mil/', 'Server: AkamaiGHost']","['www.dla.mil' 'www.dtra.mil' 'www.northcom.mil' 'www.stratcom.mil'
+ 'www.dfas.mil' 'www.pfpa.mil' 'www.dia.mil' 'www.pacom.mil'
+ 'www.southcom.mil' 'www.nro.gov' 'www.dcaa.mil' 'www.jcs.mil'
+ 'www.dcma.mil' 'www.dpaa.mil' 'www.dss.mil' 'www.centcom.mil'
+ 'www.defenselink.mil' 'www.jpeocbrnd.osd.mil' 'www.nationalguard.mil']"
+203.121.59.105,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:05:21 GMT', 'Location: https://www.dcaa.mil/', 'Server: AkamaiGHost']","['www.dcaa.mil' 'www.dfas.mil' 'www.dtra.mil' 'www.pfpa.mil'
+ 'www.southcom.mil' 'www.centcom.mil' 'www.dia.mil' 'www.dla.mil'
+ 'www.stratcom.mil' 'www.jcs.mil' 'www.pacom.mil' 'www.nro.gov'
+ 'www.dpaa.mil' 'www.jpeocbrnd.osd.mil' 'www.dss.mil' 'www.northcom.mil'
+ 'www.nationalguard.mil' 'www.dcma.mil' 'www.defenselink.mil']"
+177.69.235.72,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:04:43 GMT', 'Location: https://www.stratcom.mil/', 'Server: AkamaiGHost']","['www.stratcom.mil' 'www.dia.mil' 'www.nro.gov' 'www.pfpa.mil'
+ 'www.southcom.mil' 'www.pacom.mil' 'www.centcom.mil' 'www.dcma.mil'
+ 'www.dtra.mil' 'www.jcs.mil' 'www.dla.mil' 'www.dfas.mil' 'www.dpaa.mil'
+ 'www.northcom.mil' 'www.jpeocbrnd.osd.mil' 'www.dcaa.mil'
+ 'www.defenselink.mil' 'www.dss.mil' 'www.nationalguard.mil']"
+186.125.155.56,19,119.73684210526316,0.1106976918821929,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:49 GMT', 'Location: https://www.jcs.mil/', 'Server: AkamaiGHost']","['www.jcs.mil' 'www.dfas.mil' 'www.centcom.mil' 'www.dia.mil'
+ 'www.nro.gov' 'www.dcma.mil' 'www.southcom.mil' 'www.dcaa.mil'
+ 'www.dpaa.mil' 'www.pacom.mil' 'www.dla.mil' 'www.nationalguard.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.dss.mil' 'www.pfpa.mil' 'www.northcom.mil'
+ 'www.stratcom.mil' 'www.dtra.mil' 'www.defenselink.mil']"
+80.239.237.50,20,119.4,0.12388517311290179,0.9989624357360728,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:38 GMT', 'Location: https://www.dla.mil/', 'Server: AkamaiGHost']","['www.dla.mil' 'www.pacom.mil' 'www.northcom.mil' 'chip.de' 'www.jcs.mil'
+ 'www.pfpa.mil' 'www.jpeocbrnd.osd.mil' 'www.dcaa.mil' 'www.centcom.mil'
+ 'www.nationalguard.mil' 'www.dfas.mil' 'www.stratcom.mil' 'www.dcma.mil'
+ 'www.dtra.mil' 'www.southcom.mil' 'www.dia.mil' 'www.defenselink.mil'
+ 'www.nro.gov' 'www.dss.mil' 'www.dpaa.mil']"
+92.123.106.210,20,119.65,0.11167789626277083,0.9990666285310257,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:44 GMT', 'Location: https://www.dfas.mil/', 'Server: AkamaiGHost']","['www.dfas.mil' 'www.nato.int' 'www.jpeocbrnd.osd.mil' 'www.dpaa.mil'
+ 'www.centcom.mil' 'www.dia.mil' 'www.dcaa.mil' 'www.pacom.mil'
+ 'www.northcom.mil' 'www.pfpa.mil' 'www.dcma.mil' 'www.nationalguard.mil'
+ 'www.dla.mil' 'www.jcs.mil' 'www.nro.gov' 'www.dss.mil'
+ 'www.defenselink.mil' 'www.southcom.mil' 'www.dtra.mil'
+ 'www.stratcom.mil']"
+23.196.229.115,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:59:00 GMT', 'Location: https://www.dpaa.mil/', 'Server: AkamaiGHost']","['www.dpaa.mil' 'www.nationalguard.mil' 'www.dfas.mil' 'www.pfpa.mil'
+ 'www.dia.mil' 'www.nro.gov' 'www.dcaa.mil' 'www.stratcom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.dcma.mil' 'www.dla.mil' 'www.centcom.mil'
+ 'www.southcom.mil' 'www.dss.mil' 'www.dtra.mil' 'www.northcom.mil'
+ 'www.jcs.mil' 'www.pacom.mil' 'www.defenselink.mil']"
+118.97.158.217,17,119.3529411764706,0.09173699362916557,0.9992313805363746,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:58:59 GMT', 'Location: https://www.dia.mil/', 'Server: AkamaiGHost']","['www.dia.mil' 'www.jcs.mil' 'www.dpaa.mil' 'www.nato.int' 'www.dtra.mil'
+ 'www.northcom.mil' 'www.southcom.mil' 'www.dla.mil' 'www.dcaa.mil'
+ 'www.centcom.mil' 'www.stratcom.mil' 'www.nro.gov' 'www.dcma.mil'
+ 'www.dss.mil' 'www.dfas.mil' 'www.defenselink.mil'
+ 'www.nationalguard.mil']"
+80.239.254.23,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:05:26 GMT', 'Location: https://www.pacom.mil/', 'Server: AkamaiGHost']","['www.pacom.mil' 'www.dcma.mil' 'www.dfas.mil' 'www.dcaa.mil'
+ 'www.dtra.mil' 'www.pfpa.mil' 'www.centcom.mil' 'www.nro.gov'
+ 'www.jpeocbrnd.osd.mil' 'www.jcs.mil' 'www.dla.mil' 'www.dss.mil'
+ 'www.dpaa.mil' 'www.defenselink.mil' 'www.northcom.mil'
+ 'www.southcom.mil' 'www.stratcom.mil' 'www.dia.mil'
+ 'www.nationalguard.mil']"
+184.150.70.96,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:05:23 GMT', 'Location: https://www.jcs.mil/', 'Server: AkamaiGHost']","['www.jcs.mil' 'www.nro.gov' 'www.jpeocbrnd.osd.mil' 'www.dcaa.mil'
+ 'www.dpaa.mil' 'www.dtra.mil' 'www.stratcom.mil' 'www.pfpa.mil'
+ 'www.nationalguard.mil' 'www.dia.mil' 'www.dcma.mil' 'www.dfas.mil'
+ 'www.southcom.mil' 'www.dla.mil' 'www.pacom.mil' 'www.dss.mil'
+ 'www.centcom.mil' 'www.defenselink.mil' 'www.northcom.mil']"
+171.102.244.122,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:34 GMT', 'Location: https://www.pfpa.mil/', 'Server: AkamaiGHost']","['www.pfpa.mil' 'www.jpeocbrnd.osd.mil' 'www.northcom.mil'
+ 'www.centcom.mil' 'www.jcs.mil' 'www.dpaa.mil' 'www.dla.mil'
+ 'www.dtra.mil' 'www.nationalguard.mil' 'www.dfas.mil' 'www.stratcom.mil'
+ 'www.nro.gov' 'www.pacom.mil' 'www.dcaa.mil' 'www.dcma.mil' 'www.dss.mil'
+ 'www.southcom.mil' 'www.dia.mil' 'www.defenselink.mil']"
+193.247.43.178,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:02:26 GMT', 'Location: https://www.pfpa.mil/', 'Server: AkamaiGHost']","['www.pfpa.mil' 'www.dtra.mil' 'www.centcom.mil' 'www.nationalguard.mil'
+ 'www.nro.gov' 'www.dfas.mil' 'www.dia.mil' 'www.dpaa.mil' 'www.pacom.mil'
+ 'www.northcom.mil' 'www.jpeocbrnd.osd.mil' 'www.jcs.mil' 'www.dss.mil'
+ 'www.southcom.mil' 'www.stratcom.mil' 'www.defenselink.mil' 'www.dla.mil'
+ 'www.dcaa.mil' 'www.dcma.mil']"
+80.239.150.56,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:59:46 GMT', 'Location: https://www.dla.mil/', 'Server: AkamaiGHost']","['www.dla.mil' 'www.dpaa.mil' 'www.pacom.mil' 'www.dcma.mil' 'www.nro.gov'
+ 'www.dtra.mil' 'www.centcom.mil' 'www.dcaa.mil' 'www.southcom.mil'
+ 'www.nationalguard.mil' 'www.dia.mil' 'www.stratcom.mil' 'www.pfpa.mil'
+ 'www.defenselink.mil' 'www.jcs.mil' 'www.dss.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.dfas.mil' 'www.northcom.mil']"
+23.58.93.104,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:44 GMT', 'Location: https://www.dtra.mil/', 'Server: AkamaiGHost']","['www.dtra.mil' 'www.northcom.mil' 'www.southcom.mil' 'www.jcs.mil'
+ 'www.dcma.mil' 'www.dpaa.mil' 'www.dfas.mil' 'www.pfpa.mil' 'www.nro.gov'
+ 'www.pacom.mil' 'www.centcom.mil' 'www.dla.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.dia.mil' 'www.defenselink.mil' 'www.dcaa.mil' 'www.dss.mil'
+ 'www.stratcom.mil' 'www.nationalguard.mil']"
+190.98.144.179,18,119.33333333333333,0.09179707667684352,0.9992307507541046,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:04:15 GMT', 'Location: https://www.nro.gov/', 'Server: AkamaiGHost']","['www.nro.gov' 'www.dcma.mil' 'www.dfas.mil' 'www.pacom.mil'
+ 'www.centcom.mil' 'www.nationalguard.mil' 'www.northcom.mil'
+ 'www.dla.mil' 'www.jcs.mil' 'www.dpaa.mil' 'www.dtra.mil' 'www.pfpa.mil'
+ 'www.defenselink.mil' 'www.southcom.mil' 'www.dia.mil' 'www.dcaa.mil'
+ 'www.dss.mil' 'www.stratcom.mil']"
+23.59.175.120,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:35 GMT', 'Location: https://www.dcaa.mil/', 'Server: AkamaiGHost']","['www.dcaa.mil' 'www.dla.mil' 'www.pacom.mil' 'www.stratcom.mil'
+ 'www.nro.gov' 'www.dpaa.mil' 'www.jcs.mil' 'www.dia.mil' 'www.dcma.mil'
+ 'www.dss.mil' 'www.northcom.mil' 'www.nationalguard.mil'
+ 'www.defenselink.mil' 'www.southcom.mil' 'www.dtra.mil' 'www.centcom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.dfas.mil' 'www.pfpa.mil']"
+80.239.150.74,20,119.65,0.11167789626277083,0.9990666285310257,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:08 GMT', 'Location: https://www.dia.mil/', 'Server: AkamaiGHost']","['www.dia.mil' 'www.southcom.mil' 'www.nationalguard.mil' 'www.dfas.mil'
+ 'www.dpaa.mil' 'www.nato.int' 'www.centcom.mil' 'www.dcma.mil'
+ 'www.jcs.mil' 'www.pfpa.mil' 'www.dla.mil' 'www.nro.gov'
+ 'www.defenselink.mil' 'www.dcaa.mil' 'www.pacom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.dss.mil' 'www.dtra.mil' 'www.northcom.mil'
+ 'www.stratcom.mil']"
+72.246.196.186,10,118.4,0.03622907194176895,0.999694011216708,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:05 GMT', 'Location: https://www.dia.mil/', 'Server: AkamaiGHost']","['www.dia.mil' 'www.dtra.mil' 'www.dcma.mil' 'www.dla.mil' 'www.dfas.mil'
+ 'www.defenselink.mil' 'www.dcaa.mil' 'www.dss.mil' 'www.centcom.mil'
+ 'www.dpaa.mil']"
+119.110.115.202,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:02:24 GMT', 'Location: https://www.dcaa.mil/', 'Server: AkamaiGHost']","['www.dcaa.mil' 'www.northcom.mil' 'www.southcom.mil' 'www.nro.gov'
+ 'www.dpaa.mil' 'www.jpeocbrnd.osd.mil' 'www.dfas.mil' 'www.pacom.mil'
+ 'www.dla.mil' 'www.centcom.mil' 'www.nationalguard.mil' 'www.jcs.mil'
+ 'www.dss.mil' 'www.defenselink.mil' 'www.dia.mil' 'www.dcma.mil'
+ 'www.dtra.mil' 'www.stratcom.mil' 'www.pfpa.mil']"
+186.215.125.136,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:59 GMT', 'Location: https://www.nro.gov/', 'Server: AkamaiGHost']","['www.nro.gov' 'www.dcma.mil' 'www.dla.mil' 'www.dpaa.mil'
+ 'www.stratcom.mil' 'www.jcs.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.northcom.mil' 'www.nationalguard.mil' 'www.southcom.mil'
+ 'www.pacom.mil' 'www.centcom.mil' 'www.defenselink.mil' 'www.dia.mil'
+ 'www.dfas.mil' 'www.pfpa.mil' 'www.dss.mil' 'www.dcaa.mil' 'www.dtra.mil']"
+122.155.237.219,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:45 GMT', 'Location: https://www.dcma.mil/', 'Server: AkamaiGHost']","['www.dcma.mil' 'www.dfas.mil' 'www.pfpa.mil' 'www.centcom.mil'
+ 'www.nationalguard.mil' 'www.dla.mil' 'www.dcaa.mil' 'www.jcs.mil'
+ 'www.southcom.mil' 'www.defenselink.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.dss.mil' 'www.dpaa.mil' 'www.dtra.mil' 'www.northcom.mil'
+ 'www.stratcom.mil' 'www.dia.mil' 'www.nro.gov' 'www.pacom.mil']"
+114.4.168.41,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:26 GMT', 'Location: https://www.dtra.mil/', 'Server: AkamaiGHost']","['www.dtra.mil' 'www.northcom.mil' 'www.nationalguard.mil' 'www.dla.mil'
+ 'www.dcaa.mil' 'www.pfpa.mil' 'www.jcs.mil' 'www.dfas.mil'
+ 'www.pacom.mil' 'www.dia.mil' 'www.defenselink.mil' 'www.dcma.mil'
+ 'www.dss.mil' 'www.nro.gov' 'www.dpaa.mil' 'www.stratcom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.centcom.mil' 'www.southcom.mil']"
+42.106.164.43,19,119.73684210526316,0.11069769188219288,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:00:56 GMT', 'Location: https://www.dfas.mil/', 'Server: AkamaiGHost']","['www.dfas.mil' 'www.northcom.mil' 'www.dcaa.mil' 'www.nationalguard.mil'
+ 'www.dia.mil' 'www.jpeocbrnd.osd.mil' 'www.jcs.mil' 'www.pacom.mil'
+ 'www.southcom.mil' 'www.centcom.mil' 'www.stratcom.mil' 'www.dpaa.mil'
+ 'www.defenselink.mil' 'www.dtra.mil' 'www.dcma.mil' 'www.dla.mil'
+ 'www.nro.gov' 'www.dss.mil' 'www.pfpa.mil']"
+72.246.151.139,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:00:55 GMT', 'Location: https://www.jcs.mil/', 'Server: AkamaiGHost']","['www.jcs.mil' 'www.dfas.mil' 'www.pacom.mil' 'www.stratcom.mil'
+ 'www.dia.mil' 'www.southcom.mil' 'www.nro.gov' 'www.pfpa.mil'
+ 'www.defenselink.mil' 'www.dcma.mil' 'www.dpaa.mil' 'www.dtra.mil'
+ 'www.dla.mil' 'www.dcaa.mil' 'www.dss.mil' 'www.northcom.mil'
+ 'www.centcom.mil' 'www.jpeocbrnd.osd.mil' 'www.nationalguard.mil']"
+121.119.254.185,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:00:44 GMT', 'Location: https://www.dcma.mil/', 'Server: AkamaiGHost']","['www.dcma.mil' 'www.centcom.mil' 'www.dia.mil' 'www.dcaa.mil'
+ 'www.pacom.mil' 'elpais.com' 'www.dpaa.mil' 'www.nro.gov'
+ 'www.stratcom.mil' 'www.dla.mil' 'www.dtra.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.dfas.mil' 'www.defenselink.mil' 'www.northcom.mil' 'www.pfpa.mil'
+ 'www.southcom.mil' 'www.nationalguard.mil' 'www.jcs.mil' 'www.dss.mil']"
+27.67.51.57,17,119.17647058823529,0.08898749133059773,0.9992533132514214,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:58:58 GMT', 'Location: https://www.dcaa.mil/', 'Server: AkamaiGHost']","['www.dcaa.mil' 'www.dpaa.mil' 'www.dla.mil' 'www.pacom.mil' 'www.nro.gov'
+ 'www.dcma.mil' 'www.dfas.mil' 'www.pfpa.mil' 'www.dtra.mil'
+ 'www.nationalguard.mil' 'www.dia.mil' 'www.centcom.mil'
+ 'www.defenselink.mil' 'www.dss.mil' 'www.jcs.mil' 'www.northcom.mil'
+ 'www.southcom.mil']"
+92.123.48.128,18,119.33333333333333,0.09179707667684349,0.9992307507541046,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:58:58 GMT', 'Location: https://www.dcaa.mil/', 'Server: AkamaiGHost']","['www.dcaa.mil' 'www.dpaa.mil' 'www.stratcom.mil' 'www.pfpa.mil'
+ 'www.centcom.mil' 'www.dla.mil' 'www.dcma.mil' 'www.dtra.mil'
+ 'www.dia.mil' 'www.jcs.mil' 'www.nro.gov' 'www.dfas.mil' 'www.pacom.mil'
+ 'www.northcom.mil' 'www.nationalguard.mil' 'www.defenselink.mil'
+ 'www.dss.mil' 'www.southcom.mil']"
+217.31.233.57,19,119.73684210526316,0.1106976918821929,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:58:11 GMT', 'Location: https://www.jcs.mil/', 'Server: AkamaiGHost']","['www.jcs.mil' 'www.northcom.mil' 'www.dcma.mil' 'www.dla.mil'
+ 'www.centcom.mil' 'www.dia.mil' 'www.dcaa.mil' 'www.pacom.mil'
+ 'www.dpaa.mil' 'www.jpeocbrnd.osd.mil' 'www.pfpa.mil'
+ 'www.defenselink.mil' 'www.nro.gov' 'www.nationalguard.mil'
+ 'www.southcom.mil' 'www.dss.mil' 'www.dfas.mil' 'www.dtra.mil'
+ 'www.stratcom.mil']"
+124.155.222.155,18,119.61111111111111,0.10909565702404114,0.9990879136895343,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:44 GMT', 'Location: https://www.dla.mil/', 'Server: AkamaiGHost']","['www.dla.mil' 'www.dfas.mil' 'www.dtra.mil' 'www.pacom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.dia.mil' 'www.jcs.mil' 'www.dpaa.mil'
+ 'www.dcaa.mil' 'www.dcma.mil' 'www.pfpa.mil' 'www.nro.gov'
+ 'www.centcom.mil' 'www.defenselink.mil' 'www.southcom.mil' 'www.dss.mil'
+ 'www.northcom.mil' 'www.nationalguard.mil']"
+131.203.3.25,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:20 GMT', 'Location: https://www.centcom.mil/', 'Server: AkamaiGHost']","['www.centcom.mil' 'www.southcom.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.northcom.mil' 'www.dcaa.mil' 'www.dcma.mil' 'www.dpaa.mil'
+ 'www.nationalguard.mil' 'www.pfpa.mil' 'www.stratcom.mil' 'www.dtra.mil'
+ 'www.dfas.mil' 'www.pacom.mil' 'www.defenselink.mil' 'www.dia.mil'
+ 'www.dss.mil' 'www.nro.gov' 'www.dla.mil' 'www.jcs.mil']"
+202.138.181.194,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:20 GMT', 'Location: https://www.northcom.mil/', 'Server: AkamaiGHost']","['www.northcom.mil' 'www.nationalguard.mil' 'www.dla.mil' 'www.dcaa.mil'
+ 'www.dpaa.mil' 'www.dtra.mil' 'www.pfpa.mil' 'www.dcma.mil'
+ 'www.pacom.mil' 'www.dia.mil' 'www.nro.gov' 'www.stratcom.mil'
+ 'www.dss.mil' 'www.centcom.mil' 'www.defenselink.mil' 'www.southcom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.jcs.mil' 'www.dfas.mil']"
+202.138.181.201,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:10 GMT', 'Location: https://www.dcaa.mil/', 'Server: AkamaiGHost']","['www.dcaa.mil' 'www.pacom.mil' 'www.dpaa.mil' 'www.pfpa.mil'
+ 'www.nro.gov' 'www.stratcom.mil' 'www.dla.mil' 'www.dfas.mil'
+ 'www.nationalguard.mil' 'www.dia.mil' 'www.jcs.mil' 'www.dss.mil'
+ 'www.southcom.mil' 'www.dtra.mil' 'www.centcom.mil' 'www.northcom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.dcma.mil' 'www.defenselink.mil']"
+118.98.93.154,16,119.4375,0.09092540713332693,0.9992387197728241,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:05:23 GMT', 'Location: https://www.centcom.mil/', 'Server: AkamaiGHost']","['www.centcom.mil' 'www.northcom.mil' 'www.jcs.mil' 'www.dfas.mil'
+ 'www.dcaa.mil' 'www.nationalguard.mil' 'www.dla.mil' 'www.dtra.mil'
+ 'www.defenselink.mil' 'www.southcom.mil' 'www.dss.mil' 'www.dia.mil'
+ 'www.dpaa.mil' 'www.nro.gov' 'www.dcma.mil' 'www.stratcom.mil']"
+190.98.142.68,18,119.33333333333333,0.09179707667684352,0.9992307507541046,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:04:53 GMT', 'Location: https://www.jcs.mil/', 'Server: AkamaiGHost']","['www.jcs.mil' 'www.dpaa.mil' 'www.pfpa.mil' 'www.nro.gov'
+ 'www.stratcom.mil' 'www.nationalguard.mil' 'www.dla.mil' 'www.dss.mil'
+ 'www.dtra.mil' 'www.pacom.mil' 'www.centcom.mil' 'www.dia.mil'
+ 'www.defenselink.mil' 'www.northcom.mil' 'www.dcaa.mil' 'www.dcma.mil'
+ 'www.dfas.mil' 'www.southcom.mil']"
+80.239.137.160,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:04:22 GMT', 'Location: https://www.dcma.mil/', 'Server: AkamaiGHost']","['www.dcma.mil' 'www.pfpa.mil' 'www.northcom.mil' 'www.stratcom.mil'
+ 'www.nationalguard.mil' 'www.dla.mil' 'www.dia.mil' 'www.dss.mil'
+ 'www.dfas.mil' 'www.dpaa.mil' 'www.dtra.mil' 'www.southcom.mil'
+ 'www.pacom.mil' 'www.defenselink.mil' 'www.dcaa.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.jcs.mil' 'www.nro.gov' 'www.centcom.mil']"
+79.140.80.89,10,118.4,0.03622907194176894,0.999694011216708,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:04:04 GMT', 'Location: https://www.centcom.mil/', 'Server: AkamaiGHost']","['www.centcom.mil' 'www.dcma.mil' 'www.dfas.mil' 'www.dtra.mil'
+ 'www.defenselink.mil' 'www.dcaa.mil' 'www.dpaa.mil' 'www.dia.mil'
+ 'www.dla.mil' 'www.dss.mil']"
+87.245.212.43,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:33 GMT', 'Location: https://www.nationalguard.mil/', 'Server: AkamaiGHost']","['www.nationalguard.mil' 'www.dfas.mil' 'www.pacom.mil' 'www.stratcom.mil'
+ 'www.dpaa.mil' 'www.dtra.mil' 'www.jcs.mil' 'www.northcom.mil'
+ 'www.dia.mil' 'www.dcaa.mil' 'www.nro.gov' 'www.dss.mil'
+ 'www.centcom.mil' 'www.southcom.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.dla.mil' 'www.dcma.mil' 'www.pfpa.mil' 'www.defenselink.mil']"
+80.67.66.90,19,119.73684210526316,0.1106976918821929,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:24 GMT', 'Location: https://www.pacom.mil/', 'Server: AkamaiGHost']","['www.pacom.mil' 'www.centcom.mil' 'www.dcaa.mil' 'www.dtra.mil'
+ 'www.southcom.mil' 'www.jpeocbrnd.osd.mil' 'www.dcma.mil' 'www.dpaa.mil'
+ 'www.dia.mil' 'www.defenselink.mil' 'www.dss.mil' 'www.northcom.mil'
+ 'www.stratcom.mil' 'www.dla.mil' 'www.pfpa.mil' 'www.nationalguard.mil'
+ 'www.jcs.mil' 'www.nro.gov' 'www.dfas.mil']"
+184.150.70.81,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:23 GMT', 'Location: https://www.northcom.mil/', 'Server: AkamaiGHost']","['www.northcom.mil' 'www.dtra.mil' 'www.dia.mil' 'www.dla.mil'
+ 'www.nro.gov' 'www.stratcom.mil' 'www.jpeocbrnd.osd.mil' 'www.jcs.mil'
+ 'www.dss.mil' 'www.pacom.mil' 'www.dcaa.mil' 'www.dcma.mil'
+ 'www.dfas.mil' 'www.dpaa.mil' 'www.pfpa.mil' 'www.defenselink.mil'
+ 'www.southcom.mil' 'www.nationalguard.mil' 'www.centcom.mil']"
+23.48.213.122,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:03 GMT', 'Location: https://www.nationalguard.mil/', 'Server: AkamaiGHost']","['www.nationalguard.mil' 'www.dla.mil' 'www.dtra.mil' 'www.dia.mil'
+ 'www.dcma.mil' 'www.pacom.mil' 'www.centcom.mil' 'www.southcom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.nro.gov' 'www.dfas.mil' 'www.stratcom.mil'
+ 'www.dcaa.mil' 'www.dpaa.mil' 'www.defenselink.mil' 'www.dss.mil'
+ 'www.northcom.mil' 'www.jcs.mil' 'www.pfpa.mil']"
+195.175.177.35,18,119.33333333333333,0.09179707667684352,0.9992307507541046,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:42 GMT', 'Location: https://www.dcma.mil/', 'Server: AkamaiGHost']","['www.dcma.mil' 'www.dla.mil' 'www.dcaa.mil' 'www.jcs.mil'
+ 'www.nationalguard.mil' 'www.dpaa.mil' 'www.dia.mil' 'www.nro.gov'
+ 'www.dss.mil' 'www.centcom.mil' 'www.southcom.mil' 'www.dfas.mil'
+ 'www.dtra.mil' 'www.pfpa.mil' 'www.northcom.mil' 'www.pacom.mil'
+ 'www.defenselink.mil' 'www.stratcom.mil']"
+168.197.123.211,19,119.73684210526316,0.1106976918821929,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:21 GMT', 'Location: https://www.dcma.mil/', 'Server: AkamaiGHost']","['www.dcma.mil' 'www.dpaa.mil' 'www.dtra.mil' 'www.centcom.mil'
+ 'www.stratcom.mil' 'www.dcaa.mil' 'www.dla.mil' 'www.dss.mil'
+ 'www.pfpa.mil' 'www.northcom.mil' 'www.jpeocbrnd.osd.mil' 'www.jcs.mil'
+ 'www.defenselink.mil' 'www.nationalguard.mil' 'www.dia.mil'
+ 'www.dfas.mil' 'www.pacom.mil' 'www.southcom.mil' 'www.nro.gov']"
+183.87.86.175,18,119.88888888888889,0.10804092248966884,0.9990988245575468,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:12 GMT', 'Location: https://www.dcma.mil/', 'Server: AkamaiGHost']","['www.dcma.mil' 'www.jcs.mil' 'www.pfpa.mil' 'www.southcom.mil'
+ 'www.stratcom.mil' 'www.jpeocbrnd.osd.mil' 'www.dfas.mil' 'www.dpaa.mil'
+ 'www.defenselink.mil' 'www.dia.mil' 'www.dla.mil' 'www.dcaa.mil'
+ 'www.dss.mil' 'www.pacom.mil' 'www.nationalguard.mil' 'www.dtra.mil'
+ 'www.centcom.mil' 'www.northcom.mil']"
+49.231.114.192,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:12 GMT', 'Location: https://www.nro.gov/', 'Server: AkamaiGHost']","['www.nro.gov' 'www.nationalguard.mil' 'www.southcom.mil' 'www.dcaa.mil'
+ 'www.dtra.mil' 'www.pacom.mil' 'www.dia.mil' 'www.jcs.mil' 'www.pfpa.mil'
+ 'www.northcom.mil' 'www.dss.mil' 'www.dfas.mil' 'www.dcma.mil'
+ 'www.dpaa.mil' 'www.centcom.mil' 'www.defenselink.mil' 'www.stratcom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.dla.mil']"
+204.237.204.104,17,119.17647058823529,0.08898749133059773,0.9992533132514214,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:02 GMT', 'Location: https://www.dia.mil/', 'Server: AkamaiGHost']","['www.dia.mil' 'www.dfas.mil' 'www.nro.gov' 'www.dcaa.mil' 'www.pacom.mil'
+ 'www.southcom.mil' 'www.dla.mil' 'www.pfpa.mil' 'www.defenselink.mil'
+ 'www.northcom.mil' 'www.dss.mil' 'www.dtra.mil' 'www.nationalguard.mil'
+ 'www.jcs.mil' 'www.dcma.mil' 'www.dpaa.mil' 'www.centcom.mil']"
+120.51.198.59,19,119.73684210526316,0.11069769188219288,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:00:40 GMT', 'Location: https://www.dla.mil/', 'Server: AkamaiGHost']","['www.dla.mil' 'www.jcs.mil' 'www.dpaa.mil' 'www.nationalguard.mil'
+ 'www.pfpa.mil' 'www.northcom.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.defenselink.mil' 'www.southcom.mil' 'www.stratcom.mil'
+ 'www.centcom.mil' 'www.dcaa.mil' 'www.dss.mil' 'www.dia.mil'
+ 'www.dcma.mil' 'www.nro.gov' 'www.dfas.mil' 'www.dtra.mil'
+ 'www.pacom.mil']"
+163.28.5.59,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:17 GMT', 'Location: https://www.pfpa.mil/', 'Server: AkamaiGHost']","['www.pfpa.mil' 'www.jpeocbrnd.osd.mil' 'www.dla.mil' 'www.dfas.mil'
+ 'www.pacom.mil' 'www.southcom.mil' 'www.dcma.mil' 'www.nationalguard.mil'
+ 'www.nro.gov' 'www.northcom.mil' 'www.dcaa.mil' 'www.dtra.mil'
+ 'www.defenselink.mil' 'www.stratcom.mil' 'www.dss.mil' 'www.dpaa.mil'
+ 'www.centcom.mil' 'www.dia.mil' 'www.jcs.mil']"
+201.159.158.162,18,119.33333333333333,0.0917970766768435,0.9992307507541046,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:56:48 GMT', 'Location: https://www.dla.mil/', 'Server: AkamaiGHost']","['www.dla.mil' 'www.dcaa.mil' 'www.northcom.mil' 'www.nro.gov'
+ 'www.dfas.mil' 'www.pfpa.mil' 'www.stratcom.mil' 'www.dss.mil'
+ 'www.nationalguard.mil' 'www.dia.mil' 'www.centcom.mil' 'www.dtra.mil'
+ 'www.pacom.mil' 'www.defenselink.mil' 'www.jcs.mil' 'www.dcma.mil'
+ 'www.dpaa.mil' 'www.southcom.mil']"
+110.164.29.203,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:05:27 GMT', 'Location: https://www.nro.gov/', 'Server: AkamaiGHost']","['www.nro.gov' 'www.nationalguard.mil' 'www.dfas.mil' 'www.dla.mil'
+ 'www.jcs.mil' 'www.dcma.mil' 'www.dpaa.mil' 'www.dss.mil' 'www.pacom.mil'
+ 'www.defenselink.mil' 'www.pfpa.mil' 'www.dcaa.mil' 'www.dtra.mil'
+ 'www.stratcom.mil' 'www.northcom.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.dia.mil' 'www.centcom.mil' 'www.southcom.mil']"
+201.30.129.185,18,119.33333333333333,0.0917970766768435,0.9992307507541046,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:05:26 GMT', 'Location: https://www.dcma.mil/', 'Server: AkamaiGHost']","['www.dcma.mil' 'www.dpaa.mil' 'www.centcom.mil' 'www.dfas.mil'
+ 'www.dla.mil' 'www.dss.mil' 'www.dtra.mil' 'www.pacom.mil' 'www.nro.gov'
+ 'www.dcaa.mil' 'www.defenselink.mil' 'www.southcom.mil'
+ 'www.stratcom.mil' 'www.nationalguard.mil' 'www.dia.mil'
+ 'www.northcom.mil' 'www.jcs.mil' 'www.pfpa.mil']"
+197.80.130.27,19,119.73684210526316,0.1106976918821929,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:04:23 GMT', 'Location: https://www.jcs.mil/', 'Server: AkamaiGHost']","['www.jcs.mil' 'www.pfpa.mil' 'www.dcma.mil' 'www.nationalguard.mil'
+ 'www.dfas.mil' 'www.centcom.mil' 'www.stratcom.mil' 'www.dcaa.mil'
+ 'www.southcom.mil' 'www.nro.gov' 'www.defenselink.mil' 'www.northcom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.dss.mil' 'www.dpaa.mil' 'www.dtra.mil'
+ 'www.dla.mil' 'elpais.com' 'www.dia.mil' 'www.pacom.mil']"
+210.201.32.25,19,119.73684210526316,0.11069769188219288,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:04:23 GMT', 'Location: https://www.northcom.mil/', 'Server: AkamaiGHost']","['www.northcom.mil' 'www.stratcom.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.nationalguard.mil' 'www.dia.mil' 'www.dla.mil' 'www.centcom.mil'
+ 'www.dpaa.mil' 'www.defenselink.mil' 'www.dcaa.mil' 'www.dcma.mil'
+ 'www.pacom.mil' 'www.nro.gov' 'www.dfas.mil' 'www.pfpa.mil' 'www.jcs.mil'
+ 'www.dss.mil' 'www.dtra.mil' 'www.southcom.mil']"
+204.237.175.184,10,120.2,0.07962386764729051,0.9993375718165782,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:04:22 GMT', 'Location: https://www.jcs.mil/', 'Server: AkamaiGHost']","['www.jcs.mil' 'www.southcom.mil' 'www.dfas.mil' 'www.stratcom.mil'
+ 'www.dss.mil' 'www.nro.gov' 'www.northcom.mil' 'www.dcaa.mil'
+ 'www.defenselink.mil' 'www.nationalguard.mil']"
+200.63.193.106,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:04:19 GMT', 'Location: https://www.northcom.mil/', 'Server: AkamaiGHost']","['www.northcom.mil' 'www.dtra.mil' 'www.jpeocbrnd.osd.mil' 'www.dla.mil'
+ 'www.dfas.mil' 'www.southcom.mil' 'www.dcaa.mil' 'www.dpaa.mil'
+ 'www.pacom.mil' 'www.dss.mil' 'www.stratcom.mil' 'www.dcma.mil'
+ 'www.defenselink.mil' 'www.dia.mil' 'www.centcom.mil'
+ 'www.nationalguard.mil' 'www.jcs.mil' 'www.pfpa.mil' 'www.nro.gov']"
+200.28.95.219,20,119.65,0.11167789626277082,0.9990666285310257,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:04:13 GMT', 'Location: https://www.nato.int/', 'Server: AkamaiGHost']","['www.nato.int' 'www.pfpa.mil' 'www.southcom.mil' 'www.dla.mil'
+ 'www.stratcom.mil' 'www.dcaa.mil' 'www.dss.mil' 'www.centcom.mil'
+ 'www.defenselink.mil' 'www.jcs.mil' 'www.nro.gov' 'www.dcma.mil'
+ 'www.dpaa.mil' 'www.jpeocbrnd.osd.mil' 'www.dfas.mil' 'www.northcom.mil'
+ 'www.dia.mil' 'www.dtra.mil' 'www.pacom.mil' 'www.nationalguard.mil']"
+171.102.244.106,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:49 GMT', 'Location: https://www.dla.mil/', 'Server: AkamaiGHost']","['www.dla.mil' 'www.jcs.mil' 'www.centcom.mil' 'www.nationalguard.mil'
+ 'www.dcma.mil' 'www.pfpa.mil' 'www.defenselink.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.pacom.mil' 'www.southcom.mil'
+ 'www.stratcom.mil' 'www.dfas.mil' 'www.dia.mil' 'www.dcaa.mil'
+ 'www.dss.mil' 'www.dtra.mil' 'www.nro.gov' 'www.dpaa.mil'
+ 'www.northcom.mil']"
+171.102.11.9,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:28 GMT', 'Location: https://www.jcs.mil/', 'Server: AkamaiGHost']","['www.jcs.mil' 'www.nationalguard.mil' 'www.dia.mil' 'www.dfas.mil'
+ 'www.dtra.mil' 'www.dss.mil' 'www.defenselink.mil' 'www.dpaa.mil'
+ 'www.pfpa.mil' 'www.pacom.mil' 'www.centcom.mil' 'www.northcom.mil'
+ 'www.stratcom.mil' 'www.dcma.mil' 'www.jpeocbrnd.osd.mil' 'www.nro.gov'
+ 'www.southcom.mil' 'www.dla.mil' 'www.dcaa.mil']"
+190.98.140.3,18,119.33333333333333,0.09179707667684349,0.9992307507541046,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:25 GMT', 'Location: https://www.dla.mil/', 'Server: AkamaiGHost']","['www.dla.mil' 'www.dia.mil' 'www.dcaa.mil' 'www.dcma.mil' 'www.pacom.mil'
+ 'www.stratcom.mil' 'www.pfpa.mil' 'www.dss.mil' 'www.jcs.mil'
+ 'www.dfas.mil' 'www.dtra.mil' 'www.defenselink.mil' 'www.dpaa.mil'
+ 'www.centcom.mil' 'www.nationalguard.mil' 'www.nro.gov'
+ 'www.southcom.mil' 'www.northcom.mil']"
+130.105.254.10,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:20 GMT', 'Location: https://www.dia.mil/', 'Server: AkamaiGHost']","['www.dia.mil' 'www.nro.gov' 'www.northcom.mil' 'www.stratcom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.dtra.mil' 'www.dcaa.mil' 'www.dcma.mil'
+ 'www.dla.mil' 'www.jcs.mil' 'www.dfas.mil' 'www.defenselink.mil'
+ 'www.dss.mil' 'www.centcom.mil' 'www.dpaa.mil' 'www.pacom.mil'
+ 'www.pfpa.mil' 'www.southcom.mil' 'www.nationalguard.mil']"
+82.78.147.41,19,119.73684210526316,0.1106976918821929,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:02:24 GMT', 'Location: https://www.centcom.mil/', 'Server: AkamaiGHost']","['www.centcom.mil' 'www.dcma.mil' 'www.pfpa.mil' 'www.stratcom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.jcs.mil' 'www.nro.gov' 'www.dfas.mil'
+ 'www.dcaa.mil' 'www.defenselink.mil' 'www.dss.mil' 'www.dpaa.mil'
+ 'www.nationalguard.mil' 'www.dia.mil' 'www.pacom.mil' 'www.northcom.mil'
+ 'www.southcom.mil' 'www.dla.mil' 'www.dtra.mil']"
+87.245.209.216,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:58 GMT', 'Location: https://www.jpeocbrnd.osd.mil/', 'Server: AkamaiGHost']","['www.jpeocbrnd.osd.mil' 'www.dcaa.mil' 'www.stratcom.mil' 'www.dfas.mil'
+ 'www.nationalguard.mil' 'www.pfpa.mil' 'www.centcom.mil'
+ 'www.defenselink.mil' 'www.dtra.mil' 'www.southcom.mil' 'www.dcma.mil'
+ 'www.dss.mil' 'www.dpaa.mil' 'www.dia.mil' 'www.pacom.mil' 'www.dla.mil'
+ 'www.nro.gov' 'www.northcom.mil' 'www.jcs.mil']"
+195.175.180.49,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:58 GMT', 'Location: https://www.jcs.mil/', 'Server: AkamaiGHost']","['www.jcs.mil' 'www.jpeocbrnd.osd.mil' 'www.nationalguard.mil'
+ 'www.stratcom.mil' 'www.centcom.mil' 'www.defenselink.mil'
+ 'www.northcom.mil' 'www.dpaa.mil' 'www.pfpa.mil' 'www.pacom.mil'
+ 'www.southcom.mil' 'www.nro.gov' 'www.dcma.mil' 'www.dfas.mil'
+ 'www.dia.mil' 'www.dcaa.mil' 'www.dss.mil' 'www.dtra.mil' 'www.dla.mil']"
+200.69.125.216,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:58 GMT', 'Location: https://www.dia.mil/', 'Server: AkamaiGHost']","['www.dia.mil' 'www.southcom.mil' 'www.dtra.mil' 'www.northcom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.jcs.mil' 'www.dss.mil' 'www.pfpa.mil'
+ 'www.defenselink.mil' 'www.stratcom.mil' 'www.nationalguard.mil'
+ 'www.dpaa.mil' 'www.dcma.mil' 'elpais.com' 'www.dla.mil' 'www.pacom.mil'
+ 'www.nro.gov' 'www.dcaa.mil' 'www.centcom.mil' 'www.dfas.mil']"
+104.85.248.113,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:42 GMT', 'Location: https://www.dfas.mil/', 'Server: AkamaiGHost']","['www.dfas.mil' 'www.pfpa.mil' 'www.nationalguard.mil' 'www.dpaa.mil'
+ 'www.defenselink.mil' 'www.jpeocbrnd.osd.mil' 'www.dla.mil'
+ 'www.stratcom.mil' 'www.southcom.mil' 'www.jcs.mil' 'www.dcaa.mil'
+ 'www.dtra.mil' 'www.centcom.mil' 'www.nro.gov' 'www.dss.mil'
+ 'www.dia.mil' 'www.dcma.mil' 'www.pacom.mil' 'www.northcom.mil']"
+189.247.198.192,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:30 GMT', 'Location: https://www.pfpa.mil/', 'Server: AkamaiGHost']","['www.pfpa.mil' 'www.pacom.mil' 'elpais.com' 'www.dia.mil' 'www.dcma.mil'
+ 'www.centcom.mil' 'www.dla.mil' 'www.dtra.mil' 'www.stratcom.mil'
+ 'www.dcaa.mil' 'www.dss.mil' 'www.dfas.mil' 'www.northcom.mil'
+ 'www.southcom.mil' 'www.jpeocbrnd.osd.mil' 'www.jcs.mil'
+ 'www.defenselink.mil' 'www.nationalguard.mil' 'www.nro.gov'
+ 'www.dpaa.mil']"
+193.229.109.26,20,119.4,0.12388517311290179,0.9989624357360728,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:26 GMT', 'Location: https://www.dia.mil/', 'Server: AkamaiGHost']","['www.dia.mil' 'www.jcs.mil' 'www.dcma.mil' 'www.stratcom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.southcom.mil' 'www.nationalguard.mil'
+ 'chip.de' 'www.dcaa.mil' 'www.dpaa.mil' 'www.centcom.mil'
+ 'www.defenselink.mil' 'www.nro.gov' 'www.dtra.mil' 'www.pacom.mil'
+ 'www.dfas.mil' 'www.dla.mil' 'www.dss.mil' 'www.pfpa.mil'
+ 'www.northcom.mil']"
+210.71.227.203,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:21 GMT', 'Location: https://www.dia.mil/', 'Server: AkamaiGHost']","['www.dia.mil' 'www.nro.gov' 'www.northcom.mil' 'www.nationalguard.mil'
+ 'www.pfpa.mil' 'www.stratcom.mil' 'www.dfas.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.dss.mil' 'www.dtra.mil' 'www.pacom.mil' 'www.defenselink.mil'
+ 'www.dpaa.mil' 'www.centcom.mil' 'www.jcs.mil' 'www.dcma.mil'
+ 'www.dla.mil' 'www.dcaa.mil' 'www.southcom.mil']"
+79.140.95.185,20,119.65,0.11167789626277082,0.9990666285310257,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:16 GMT', 'Location: https://www.dia.mil/', 'Server: AkamaiGHost']","['www.dia.mil' 'www.southcom.mil' 'www.dcma.mil' 'www.dfas.mil'
+ 'www.pfpa.mil' 'www.centcom.mil' 'www.stratcom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.defenselink.mil' 'www.nationalguard.mil'
+ 'www.jcs.mil' 'www.dpaa.mil' 'www.dtra.mil' 'www.nato.int' 'www.dcaa.mil'
+ 'www.nro.gov' 'www.dss.mil' 'www.dla.mil' 'www.pacom.mil'
+ 'www.northcom.mil']"
+200.42.50.81,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:07 GMT', 'Location: https://www.southcom.mil/', 'Server: AkamaiGHost']","['www.southcom.mil' 'www.jpeocbrnd.osd.mil' 'www.nationalguard.mil'
+ 'www.dfas.mil' 'www.dcaa.mil' 'www.dtra.mil' 'www.pacom.mil'
+ 'www.nro.gov' 'www.dcma.mil' 'www.centcom.mil' 'www.defenselink.mil'
+ 'www.dia.mil' 'www.dss.mil' 'www.pfpa.mil' 'www.northcom.mil'
+ 'www.dla.mil' 'www.stratcom.mil' 'www.jcs.mil' 'www.dpaa.mil']"
+92.122.225.51,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:00:35 GMT', 'Location: https://www.dcaa.mil/', 'Server: AkamaiGHost']","['www.dcaa.mil' 'www.dtra.mil' 'www.southcom.mil' 'www.jcs.mil'
+ 'www.centcom.mil' 'www.jpeocbrnd.osd.mil' 'www.nro.gov'
+ 'www.northcom.mil' 'www.dss.mil' 'www.dcma.mil' 'www.dfas.mil'
+ 'www.dpaa.mil' 'www.dia.mil' 'www.dla.mil' 'www.pfpa.mil' 'www.pacom.mil'
+ 'www.nationalguard.mil' 'www.defenselink.mil' 'www.stratcom.mil']"
+190.85.253.73,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:00:03 GMT', 'Location: https://www.northcom.mil/', 'Server: AkamaiGHost']","['www.northcom.mil' 'www.jpeocbrnd.osd.mil' 'www.jcs.mil' 'www.dcaa.mil'
+ 'www.pacom.mil' 'www.dpaa.mil' 'www.pfpa.mil' 'www.centcom.mil'
+ 'www.defenselink.mil' 'www.stratcom.mil' 'www.nationalguard.mil'
+ 'www.dia.mil' 'www.southcom.mil' 'www.dla.mil' 'www.nro.gov'
+ 'www.dcma.mil' 'www.dfas.mil' 'www.dss.mil' 'www.dtra.mil']"
+121.79.127.57,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:58:58 GMT', 'Location: https://www.southcom.mil/', 'Server: AkamaiGHost']","['www.southcom.mil' 'www.dia.mil' 'www.centcom.mil' 'www.dcma.mil'
+ 'www.pfpa.mil' 'www.dla.mil' 'www.stratcom.mil' 'www.nationalguard.mil'
+ 'www.jcs.mil' 'www.dcaa.mil' 'www.dss.mil' 'www.dfas.mil' 'www.dpaa.mil'
+ 'www.pacom.mil' 'www.nro.gov' 'www.dtra.mil' 'www.northcom.mil'
+ 'www.defenselink.mil' 'www.jpeocbrnd.osd.mil']"
+68.106.122.137,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:58:57 GMT', 'Location: https://www.dla.mil/', 'Server: AkamaiGHost']","['www.dla.mil' 'www.dtra.mil' 'www.pfpa.mil' 'www.southcom.mil'
+ 'www.dcma.mil' 'www.centcom.mil' 'www.dss.mil' 'www.pacom.mil'
+ 'www.dia.mil' 'www.dcaa.mil' 'www.stratcom.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.nro.gov' 'www.defenselink.mil' 'www.jcs.mil' 'www.nationalguard.mil'
+ 'www.dfas.mil' 'www.dpaa.mil' 'www.northcom.mil']"
+195.175.176.232,18,119.33333333333333,0.09179707667684352,0.9992307507541046,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:22 GMT', 'Location: https://www.dfas.mil/', 'Server: AkamaiGHost']","['www.dfas.mil' 'www.dpaa.mil' 'www.nro.gov' 'www.dcaa.mil' 'www.dcma.mil'
+ 'www.nationalguard.mil' 'www.pacom.mil' 'www.dia.mil' 'www.pfpa.mil'
+ 'www.defenselink.mil' 'www.dtra.mil' 'www.northcom.mil'
+ 'www.stratcom.mil' 'www.centcom.mil' 'www.dla.mil' 'www.dss.mil'
+ 'www.jcs.mil' 'www.southcom.mil']"
+203.74.95.88,18,119.33333333333333,0.09179707667684349,0.9992307507541046,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:04:42 GMT', 'Location: https://www.dla.mil/', 'Server: AkamaiGHost']","['www.dla.mil' 'www.dcma.mil' 'www.centcom.mil' 'www.northcom.mil'
+ 'www.dpaa.mil' 'www.dcaa.mil' 'www.dss.mil' 'www.dfas.mil' 'www.dia.mil'
+ 'www.jcs.mil' 'www.nro.gov' 'www.pfpa.mil' 'www.stratcom.mil'
+ 'www.pacom.mil' 'www.dtra.mil' 'www.defenselink.mil'
+ 'www.nationalguard.mil' 'www.southcom.mil']"
+45.64.77.120,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:04:29 GMT', 'Location: https://www.jcs.mil/', 'Server: AkamaiGHost']","['www.jcs.mil' 'www.dtra.mil' 'www.dpaa.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.dss.mil' 'www.pacom.mil' 'www.pfpa.mil' 'www.nro.gov'
+ 'www.defenselink.mil' 'www.stratcom.mil' 'www.dia.mil' 'www.dla.mil'
+ 'www.dcma.mil' 'www.dfas.mil' 'www.centcom.mil' 'www.southcom.mil'
+ 'www.nationalguard.mil' 'www.dcaa.mil' 'www.northcom.mil']"
+184.26.54.129,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:04:21 GMT', 'Location: https://www.stratcom.mil/', 'Server: AkamaiGHost']","['www.stratcom.mil' 'www.nationalguard.mil' 'www.dfas.mil' 'www.dpaa.mil'
+ 'www.pfpa.mil' 'www.southcom.mil' 'www.jpeocbrnd.osd.mil' 'www.dla.mil'
+ 'www.dia.mil' 'www.defenselink.mil' 'www.dcma.mil' 'www.northcom.mil'
+ 'www.jcs.mil' 'www.nro.gov' 'www.dcaa.mil' 'www.centcom.mil'
+ 'www.dtra.mil' 'www.pacom.mil' 'www.dss.mil']"
+203.177.62.47,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:32 GMT', 'Location: https://www.centcom.mil/', 'Server: AkamaiGHost']","['www.centcom.mil' 'www.northcom.mil' 'www.southcom.mil' 'www.dia.mil'
+ 'www.dfas.mil' 'www.pacom.mil' 'www.dcma.mil' 'www.dss.mil' 'www.nro.gov'
+ 'www.dcaa.mil' 'www.dpaa.mil' 'www.jpeocbrnd.osd.mil' 'www.dla.mil'
+ 'www.dtra.mil' 'www.stratcom.mil' 'www.jcs.mil' 'www.pfpa.mil'
+ 'www.defenselink.mil' 'www.nationalguard.mil']"
+118.69.16.197,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:02:00 GMT', 'Location: https://www.southcom.mil/', 'Server: AkamaiGHost']","['www.southcom.mil' 'www.nationalguard.mil' 'www.dla.mil' 'www.jcs.mil'
+ 'www.dpaa.mil' 'www.centcom.mil' 'www.dss.mil' 'www.dtra.mil'
+ 'www.pacom.mil' 'www.northcom.mil' 'www.dcaa.mil' 'www.dfas.mil'
+ 'www.pfpa.mil' 'www.dia.mil' 'www.nro.gov' 'www.dcma.mil'
+ 'www.stratcom.mil' 'www.defenselink.mil' 'www.jpeocbrnd.osd.mil']"
+210.57.59.209,19,119.73684210526316,0.1106976918821929,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:39 GMT', 'Location: https://www.jpeocbrnd.osd.mil/', 'Server: AkamaiGHost']","['www.jpeocbrnd.osd.mil' 'www.pfpa.mil' 'www.pacom.mil' 'www.dia.mil'
+ 'www.nro.gov' 'www.dss.mil' 'www.stratcom.mil' 'www.dcma.mil'
+ 'www.dfas.mil' 'www.dpaa.mil' 'www.defenselink.mil' 'www.jcs.mil'
+ 'www.nationalguard.mil' 'www.dla.mil' 'www.dcaa.mil' 'www.dtra.mil'
+ 'www.centcom.mil' 'www.northcom.mil' 'www.southcom.mil']"
+113.171.230.174,19,119.73684210526316,0.1106976918821929,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:25 GMT', 'Location: https://www.dia.mil/', 'Server: AkamaiGHost']","['www.dia.mil' 'www.jpeocbrnd.osd.mil' 'www.defenselink.mil'
+ 'www.dcaa.mil' 'www.pacom.mil' 'www.centcom.mil' 'www.southcom.mil'
+ 'www.dss.mil' 'www.dpaa.mil' 'www.pfpa.mil' 'www.dla.mil' 'www.nro.gov'
+ 'www.nationalguard.mil' 'www.jcs.mil' 'www.northcom.mil'
+ 'www.stratcom.mil' 'www.dcma.mil' 'www.dfas.mil' 'www.dtra.mil']"
+81.243.1.235,19,119.73684210526316,0.1106976918821929,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:23 GMT', 'Location: https://www.centcom.mil/', 'Server: AkamaiGHost']","['www.centcom.mil' 'www.northcom.mil' 'www.dia.mil' 'www.pfpa.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.dla.mil' 'www.dss.mil' 'www.defenselink.mil'
+ 'www.stratcom.mil' 'www.southcom.mil' 'www.jcs.mil' 'www.dpaa.mil'
+ 'www.dtra.mil' 'www.dcma.mil' 'www.dfas.mil' 'www.nationalguard.mil'
+ 'www.dcaa.mil' 'www.pacom.mil' 'www.nro.gov']"
+179.184.214.195,8,119.25,0.0747696205456059,0.9993730010855715,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:21 GMT', 'Location: https://www.dpaa.mil/', 'Server: AkamaiGHost']","['www.dpaa.mil' 'www.dfas.mil' 'www.dtra.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.dss.mil' 'www.dia.mil' 'www.dla.mil' 'www.defenselink.mil']"
+195.175.180.26,19,119.73684210526316,0.1106976918821929,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:14 GMT', 'Location: https://www.northcom.mil/', 'Server: AkamaiGHost']","['www.northcom.mil' 'www.dcaa.mil' 'www.dss.mil' 'www.dcma.mil'
+ 'www.centcom.mil' 'www.nationalguard.mil' 'www.dia.mil' 'www.jcs.mil'
+ 'www.dpaa.mil' 'www.defenselink.mil' 'www.nro.gov' 'www.pfpa.mil'
+ 'www.stratcom.mil' 'www.jpeocbrnd.osd.mil' 'www.southcom.mil'
+ 'www.dtra.mil' 'www.pacom.mil' 'www.dla.mil' 'www.dfas.mil']"
+95.101.133.43,20,119.4,0.12388517311290179,0.9989624357360728,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:07 GMT', 'Location: https://chip.de/', 'Server: AkamaiGHost']","['chip.de' 'www.dla.mil' 'www.centcom.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.dss.mil' 'www.stratcom.mil' 'www.pfpa.mil' 'www.dia.mil'
+ 'www.jcs.mil' 'www.pacom.mil' 'www.defenselink.mil' 'www.southcom.mil'
+ 'www.dcaa.mil' 'www.dcma.mil' 'www.northcom.mil' 'www.nationalguard.mil'
+ 'www.nro.gov' 'www.dfas.mil' 'www.dpaa.mil' 'www.dtra.mil']"
+123.176.32.26,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:00:34 GMT', 'Location: https://www.dfas.mil/', 'Server: AkamaiGHost']","['www.dfas.mil' 'www.pfpa.mil' 'www.dla.mil' 'www.stratcom.mil'
+ 'www.dss.mil' 'www.northcom.mil' 'www.dcaa.mil' 'www.dcma.mil'
+ 'www.defenselink.mil' 'www.dia.mil' 'www.nationalguard.mil' 'www.nro.gov'
+ 'www.dpaa.mil' 'www.dtra.mil' 'www.pacom.mil' 'www.southcom.mil'
+ 'www.jcs.mil' 'www.centcom.mil' 'www.jpeocbrnd.osd.mil']"
+204.237.175.129,10,120.2,0.07962386764729051,0.9993375718165782,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:00:34 GMT', 'Location: https://www.stratcom.mil/', 'Server: AkamaiGHost']","['www.stratcom.mil' 'www.nationalguard.mil' 'www.dss.mil'
+ 'www.northcom.mil' 'www.southcom.mil' 'www.jcs.mil' 'www.nro.gov'
+ 'www.dcaa.mil' 'www.defenselink.mil' 'www.dfas.mil']"
+183.82.12.195,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:00:08 GMT', 'Location: https://www.dpaa.mil/', 'Server: AkamaiGHost']","['www.dpaa.mil' 'www.dla.mil' 'www.pacom.mil' 'www.nationalguard.mil'
+ 'www.dcaa.mil' 'www.defenselink.mil' 'www.dcma.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.dss.mil' 'www.dtra.mil' 'www.centcom.mil'
+ 'www.southcom.mil' 'www.dia.mil' 'www.nro.gov' 'www.dfas.mil'
+ 'www.pfpa.mil' 'www.northcom.mil' 'www.stratcom.mil' 'www.jcs.mil']"
+131.203.3.41,20,119.4,0.1238851731129018,0.9989624357360728,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:59:46 GMT', 'Location: https://www.dia.mil/', 'Server: AkamaiGHost']","['www.dia.mil' 'www.dcaa.mil' 'www.dpaa.mil' 'www.stratcom.mil'
+ 'www.dcma.mil' 'www.dtra.mil' 'www.defenselink.mil' 'www.jcs.mil'
+ 'www.southcom.mil' 'www.nro.gov' 'chip.de' 'www.pfpa.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.pacom.mil' 'www.nationalguard.mil'
+ 'www.dla.mil' 'www.dss.mil' 'www.dfas.mil' 'www.centcom.mil'
+ 'www.northcom.mil']"
+161.49.20.24,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:58:59 GMT', 'Location: https://www.dla.mil/', 'Server: AkamaiGHost']","['www.dla.mil' 'www.dcma.mil' 'www.dfas.mil' 'www.centcom.mil'
+ 'www.northcom.mil' 'www.nro.gov' 'www.dss.mil' 'www.pacom.mil'
+ 'www.southcom.mil' 'www.jpeocbrnd.osd.mil' 'www.stratcom.mil'
+ 'www.defenselink.mil' 'www.dia.mil' 'www.jcs.mil' 'www.dtra.mil'
+ 'www.dcaa.mil' 'www.dpaa.mil' 'www.nationalguard.mil' 'www.pfpa.mil']"
+86.51.45.203,17,119.52941176470588,0.10590203577118977,0.9991140085590009,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:58:20 GMT', 'Location: https://www.dcaa.mil/', 'Server: AkamaiGHost']","['www.dcaa.mil' 'www.dpaa.mil' 'www.nato.int' 'www.pacom.mil'
+ 'www.dfas.mil' 'www.jcs.mil' 'www.dss.mil' 'www.pfpa.mil'
+ 'www.centcom.mil' 'www.jpeocbrnd.osd.mil' 'www.nationalguard.mil'
+ 'www.dia.mil' 'www.dcma.mil' 'www.northcom.mil' 'www.dla.mil'
+ 'www.dtra.mil' 'www.defenselink.mil']"
+72.136.198.154,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:58:18 GMT', 'Location: https://www.southcom.mil/', 'Server: AkamaiGHost']","['www.southcom.mil' 'www.dia.mil' 'www.northcom.mil' 'www.dla.mil'
+ 'www.nro.gov' 'www.dss.mil' 'www.pacom.mil' 'www.dcaa.mil'
+ 'www.nationalguard.mil' 'www.dtra.mil' 'www.centcom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.dfas.mil' 'www.defenselink.mil'
+ 'www.stratcom.mil' 'www.dpaa.mil' 'www.pfpa.mil' 'www.jcs.mil'
+ 'www.dcma.mil']"
+82.148.119.237,20,119.4,0.12388517311290179,0.9989624357360728,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:58:00 GMT', 'Location: https://chip.de/', 'Server: AkamaiGHost']","['chip.de' 'www.dcaa.mil' 'www.dcma.mil' 'www.centcom.mil' 'www.dla.mil'
+ 'www.dss.mil' 'www.pfpa.mil' 'www.northcom.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.stratcom.mil' 'www.dfas.mil' 'www.dpaa.mil' 'www.pacom.mil'
+ 'www.southcom.mil' 'www.dtra.mil' 'www.nro.gov' 'www.dia.mil'
+ 'www.jcs.mil' 'www.defenselink.mil' 'www.nationalguard.mil']"
+203.66.199.168,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:44 GMT', 'Location: https://www.dfas.mil/', 'Server: AkamaiGHost']","['www.dfas.mil' 'www.pacom.mil' 'www.centcom.mil' 'www.nationalguard.mil'
+ 'elpais.com' 'www.jpeocbrnd.osd.mil' 'www.dia.mil' 'www.dpaa.mil'
+ 'www.southcom.mil' 'www.defenselink.mil' 'www.jcs.mil' 'www.northcom.mil'
+ 'www.stratcom.mil' 'www.dcma.mil' 'www.dla.mil' 'www.nro.gov'
+ 'www.dcaa.mil' 'www.dss.mil' 'www.dtra.mil' 'www.pfpa.mil']"
+204.237.204.79,18,119.33333333333333,0.09179707667684352,0.9992307507541046,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:25 GMT', 'Location: https://www.dia.mil/', 'Server: AkamaiGHost']","['www.dia.mil' 'www.nationalguard.mil' 'www.dla.mil' 'www.dfas.mil'
+ 'www.pacom.mil' 'www.northcom.mil' 'www.jcs.mil' 'www.dcma.mil'
+ 'www.stratcom.mil' 'www.dcaa.mil' 'www.dss.mil' 'www.pfpa.mil'
+ 'www.dpaa.mil' 'www.dtra.mil' 'www.nro.gov' 'www.centcom.mil'
+ 'www.defenselink.mil' 'www.southcom.mil']"
+207.194.199.72,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:05:25 GMT', 'Location: https://www.jpeocbrnd.osd.mil/', 'Server: AkamaiGHost']","['www.jpeocbrnd.osd.mil' 'www.northcom.mil' 'www.dcma.mil'
+ 'www.defenselink.mil' 'www.dss.mil' 'www.pfpa.mil' 'www.centcom.mil'
+ 'www.nationalguard.mil' 'www.dia.mil' 'www.dla.mil' 'www.nro.gov'
+ 'www.dpaa.mil' 'www.pacom.mil' 'www.jcs.mil' 'www.dfas.mil'
+ 'www.southcom.mil' 'www.dcaa.mil' 'www.dtra.mil' 'www.stratcom.mil']"
+72.136.198.10,19,119.73684210526316,0.1106976918821929,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:05:25 GMT', 'Location: https://www.dcma.mil/', 'Server: AkamaiGHost']","['www.dcma.mil' 'www.dfas.mil' 'www.dla.mil' 'www.defenselink.mil'
+ 'www.southcom.mil' 'www.jpeocbrnd.osd.mil' 'www.jcs.mil' 'www.dcaa.mil'
+ 'www.dpaa.mil' 'www.centcom.mil' 'www.pfpa.mil' 'www.northcom.mil'
+ 'www.nro.gov' 'www.pacom.mil' 'www.nationalguard.mil' 'www.dss.mil'
+ 'www.dtra.mil' 'www.stratcom.mil' 'www.dia.mil']"
+95.166.124.178,20,119.4,0.1238851731129018,0.9989624357360728,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:05:14 GMT', 'Location: https://www.dla.mil/', 'Server: AkamaiGHost']","['www.dla.mil' 'www.jpeocbrnd.osd.mil' 'chip.de' 'www.centcom.mil'
+ 'www.defenselink.mil' 'www.stratcom.mil' 'www.dtra.mil'
+ 'www.northcom.mil' 'www.jcs.mil' 'www.pacom.mil' 'www.dia.mil'
+ 'www.dpaa.mil' 'www.dcma.mil' 'www.dss.mil' 'www.nationalguard.mil'
+ 'www.nro.gov' 'www.dcaa.mil' 'www.pfpa.mil' 'www.dfas.mil'
+ 'www.southcom.mil']"
+201.159.158.171,18,119.33333333333333,0.09179707667684352,0.9992307507541046,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:04:41 GMT', 'Location: https://www.centcom.mil/', 'Server: AkamaiGHost']","['www.centcom.mil' 'www.dpaa.mil' 'www.dla.mil' 'www.dfas.mil'
+ 'www.northcom.mil' 'www.stratcom.mil' 'www.nationalguard.mil'
+ 'www.dss.mil' 'www.jcs.mil' 'www.dtra.mil' 'www.defenselink.mil'
+ 'www.dcaa.mil' 'www.dcma.mil' 'www.pacom.mil' 'www.pfpa.mil'
+ 'www.nro.gov' 'www.southcom.mil' 'www.dia.mil']"
+201.174.96.171,20,119.65,0.1116778962627708,0.9990666285310257,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:04:23 GMT', 'Location: https://www.stratcom.mil/', 'Server: AkamaiGHost']","['www.stratcom.mil' 'www.dla.mil' 'www.dia.mil' 'www.dcma.mil'
+ 'www.dpaa.mil' 'www.defenselink.mil' 'www.northcom.mil' 'www.dcaa.mil'
+ 'www.dfas.mil' 'www.dtra.mil' 'www.pacom.mil' 'www.centcom.mil'
+ 'www.pfpa.mil' 'www.jcs.mil' 'www.jpeocbrnd.osd.mil' 'www.nro.gov'
+ 'www.dss.mil' 'www.nato.int' 'www.southcom.mil' 'www.nationalguard.mil']"
+23.59.175.131,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:48 GMT', 'Location: https://www.dia.mil/', 'Server: AkamaiGHost']","['www.dia.mil' 'www.nro.gov' 'www.nationalguard.mil' 'www.dcaa.mil'
+ 'www.dcma.mil' 'www.dpaa.mil' 'www.stratcom.mil' 'www.defenselink.mil'
+ 'www.centcom.mil' 'www.dfas.mil' 'www.dtra.mil' 'www.jcs.mil'
+ 'www.northcom.mil' 'www.pfpa.mil' 'www.southcom.mil' 'www.dss.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.pacom.mil' 'www.dla.mil']"
+45.121.219.168,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:34 GMT', 'Location: https://www.dcma.mil/', 'Server: AkamaiGHost']","['www.dcma.mil' 'www.dfas.mil' 'www.nro.gov' 'www.dia.mil' 'www.dss.mil'
+ 'www.northcom.mil' 'www.jcs.mil' 'www.pacom.mil' 'www.southcom.mil'
+ 'www.dla.mil' 'www.centcom.mil' 'www.stratcom.mil' 'www.pfpa.mil'
+ 'www.defenselink.mil' 'www.dtra.mil' 'www.dcaa.mil' 'www.dpaa.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.nationalguard.mil']"
+23.196.229.153,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:24 GMT', 'Location: https://www.dcma.mil/', 'Server: AkamaiGHost']","['www.dcma.mil' 'www.dia.mil' 'www.defenselink.mil' 'www.dla.mil'
+ 'www.jcs.mil' 'www.southcom.mil' 'www.dss.mil' 'www.dfas.mil'
+ 'www.stratcom.mil' 'www.nationalguard.mil' 'www.nro.gov' 'www.dpaa.mil'
+ 'www.dtra.mil' 'www.northcom.mil' 'www.jpeocbrnd.osd.mil' 'www.dcaa.mil'
+ 'www.pfpa.mil' 'www.centcom.mil' 'www.pacom.mil']"
+2.21.14.234,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:05 GMT', 'Location: https://www.dcma.mil/', 'Server: AkamaiGHost']","['www.dcma.mil' 'www.stratcom.mil' 'www.dss.mil' 'www.nationalguard.mil'
+ 'www.dla.mil' 'www.centcom.mil' 'www.southcom.mil' 'www.jcs.mil'
+ 'www.dtra.mil' 'www.nro.gov' 'www.defenselink.mil' 'www.northcom.mil'
+ 'www.dia.mil' 'www.dfas.mil' 'www.dpaa.mil' 'www.pacom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.dcaa.mil' 'www.pfpa.mil']"
+190.98.144.145,18,119.33333333333333,0.09179707667684349,0.9992307507541046,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:58 GMT', 'Location: https://www.dfas.mil/', 'Server: AkamaiGHost']","['www.dfas.mil' 'www.centcom.mil' 'www.pacom.mil' 'www.nro.gov'
+ 'www.defenselink.mil' 'www.dpaa.mil' 'www.northcom.mil' 'www.dcaa.mil'
+ 'www.dss.mil' 'www.jcs.mil' 'www.southcom.mil' 'www.stratcom.mil'
+ 'www.dcma.mil' 'www.dtra.mil' 'www.dia.mil' 'www.pfpa.mil' 'www.dla.mil'
+ 'www.nationalguard.mil']"
+204.237.204.114,18,119.33333333333333,0.0917970766768435,0.9992307507541046,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:26 GMT', 'Location: https://www.nro.gov/', 'Server: AkamaiGHost']","['www.nro.gov' 'www.dtra.mil' 'www.dfas.mil' 'www.southcom.mil'
+ 'www.dss.mil' 'www.pacom.mil' 'www.pfpa.mil' 'www.centcom.mil'
+ 'www.defenselink.mil' 'www.northcom.mil' 'www.stratcom.mil' 'www.dla.mil'
+ 'www.nationalguard.mil' 'www.dia.mil' 'www.jcs.mil' 'www.dcaa.mil'
+ 'www.dpaa.mil' 'www.dcma.mil']"
+203.153.50.118,18,119.33333333333333,0.09179707667684352,0.9992307507541046,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:21 GMT', 'Location: https://www.dcma.mil/', 'Server: AkamaiGHost']","['www.dcma.mil' 'www.stratcom.mil' 'www.nro.gov' 'www.pacom.mil'
+ 'www.defenselink.mil' 'www.southcom.mil' 'www.nationalguard.mil'
+ 'www.dia.mil' 'www.centcom.mil' 'www.northcom.mil' 'www.dla.mil'
+ 'www.dfas.mil' 'www.dpaa.mil' 'www.dtra.mil' 'www.jcs.mil' 'www.pfpa.mil'
+ 'www.dcaa.mil' 'www.dss.mil']"
+177.69.235.89,19,119.73684210526316,0.1106976918821929,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:14 GMT', 'Location: https://www.southcom.mil/', 'Server: AkamaiGHost']","['www.southcom.mil' 'www.dcma.mil' 'www.centcom.mil' 'www.dia.mil'
+ 'www.nro.gov' 'www.defenselink.mil' 'www.jpeocbrnd.osd.mil' 'www.jcs.mil'
+ 'www.dtra.mil' 'www.pfpa.mil' 'www.dss.mil' 'www.dfas.mil'
+ 'www.nationalguard.mil' 'www.northcom.mil' 'www.dcaa.mil' 'www.dpaa.mil'
+ 'www.stratcom.mil' 'www.dla.mil' 'www.pacom.mil']"
+118.69.17.8,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:12 GMT', 'Location: https://www.dcaa.mil/', 'Server: AkamaiGHost']","['www.dcaa.mil' 'www.southcom.mil' 'www.dla.mil' 'www.dss.mil'
+ 'www.pfpa.mil' 'www.defenselink.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.dia.mil' 'www.nro.gov' 'www.dcma.mil' 'www.centcom.mil'
+ 'www.dfas.mil' 'www.stratcom.mil' 'www.pacom.mil' 'www.northcom.mil'
+ 'www.nationalguard.mil' 'www.jcs.mil' 'www.dpaa.mil' 'www.dtra.mil']"
+80.67.66.106,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:01 GMT', 'Location: https://www.dcaa.mil/', 'Server: AkamaiGHost']","['www.dcaa.mil' 'www.nro.gov' 'www.dpaa.mil' 'www.pfpa.mil' 'www.dss.mil'
+ 'www.defenselink.mil' 'www.stratcom.mil' 'www.jcs.mil' 'www.dfas.mil'
+ 'www.pacom.mil' 'www.northcom.mil' 'www.jpeocbrnd.osd.mil' 'www.dtra.mil'
+ 'www.southcom.mil' 'www.dla.mil' 'www.dcma.mil' 'www.centcom.mil'
+ 'www.nationalguard.mil' 'www.dia.mil']"
+103.1.139.50,10,118.4,0.03622907194176895,0.999694011216708,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:00:31 GMT', 'Location: https://www.dpaa.mil/', 'Server: AkamaiGHost']","['www.dpaa.mil' 'www.defenselink.mil' 'www.dcma.mil' 'www.dss.mil'
+ 'www.dfas.mil' 'www.centcom.mil' 'www.dla.mil' 'www.dia.mil'
+ 'www.dtra.mil' 'www.dcaa.mil']"
+80.239.137.144,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:00:07 GMT', 'Location: https://www.dcma.mil/', 'Server: AkamaiGHost']","['www.dcma.mil' 'www.dpaa.mil' 'www.dla.mil' 'www.northcom.mil'
+ 'www.dcaa.mil' 'www.dss.mil' 'www.pacom.mil' 'www.nationalguard.mil'
+ 'www.dia.mil' 'www.dtra.mil' 'www.southcom.mil' 'www.nro.gov'
+ 'www.dfas.mil' 'www.stratcom.mil' 'www.jcs.mil' 'www.defenselink.mil'
+ 'www.pfpa.mil' 'www.centcom.mil' 'www.jpeocbrnd.osd.mil']"
+117.239.141.98,17,119.94117647058823,0.10836759936937028,0.9990964937767144,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:59:51 GMT', 'Location: https://www.southcom.mil/', 'Server: AkamaiGHost']","['www.southcom.mil' 'www.nationalguard.mil' 'www.dia.mil'
+ 'www.defenselink.mil' 'www.jpeocbrnd.osd.mil' 'www.nro.gov' 'www.dla.mil'
+ 'www.dfas.mil' 'www.dpaa.mil' 'www.northcom.mil' 'www.dcaa.mil'
+ 'www.centcom.mil' 'www.jcs.mil' 'www.stratcom.mil' 'www.dcma.mil'
+ 'www.dss.mil' 'www.pacom.mil']"
+95.66.1.166,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:21 GMT', 'Location: https://www.dpaa.mil/', 'Server: AkamaiGHost']","['www.dpaa.mil' 'www.nro.gov' 'www.dss.mil' 'www.dfas.mil'
+ 'www.southcom.mil' 'www.dcaa.mil' 'www.pfpa.mil' 'www.defenselink.mil'
+ 'www.stratcom.mil' 'www.dia.mil' 'www.dtra.mil' 'www.northcom.mil'
+ 'www.dla.mil' 'www.jcs.mil' 'www.dcma.mil' 'www.pacom.mil'
+ 'www.centcom.mil' 'www.jpeocbrnd.osd.mil' 'www.nationalguard.mil']"
+189.247.174.195,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:13 GMT', 'Location: https://www.pacom.mil/', 'Server: AkamaiGHost']","['www.pacom.mil' 'www.dtra.mil' 'www.jcs.mil' 'www.defenselink.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.dla.mil' 'www.dfas.mil' 'www.dcma.mil'
+ 'www.dss.mil' 'www.dpaa.mil' 'www.dia.mil' 'www.southcom.mil'
+ 'www.nro.gov' 'www.pfpa.mil' 'www.centcom.mil' 'www.northcom.mil'
+ 'www.nationalguard.mil' 'www.dcaa.mil' 'www.stratcom.mil']"
+120.51.198.43,19,119.73684210526316,0.1106976918821929,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:08 GMT', 'Location: https://www.dtra.mil/', 'Server: AkamaiGHost']","['www.dtra.mil' 'www.pfpa.mil' 'www.southcom.mil' 'www.dla.mil'
+ 'www.jcs.mil' 'www.dcaa.mil' 'www.defenselink.mil' 'www.nro.gov'
+ 'www.dpaa.mil' 'www.nationalguard.mil' 'www.dss.mil' 'www.stratcom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.centcom.mil' 'www.northcom.mil'
+ 'www.dcma.mil' 'www.dfas.mil' 'www.pacom.mil' 'www.dia.mil']"
+190.98.142.215,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:05:29 GMT', 'Location: https://www.dcma.mil/', 'Server: AkamaiGHost']","['www.dcma.mil' 'www.stratcom.mil' 'www.dla.mil' 'www.dss.mil'
+ 'www.dfas.mil' 'www.defenselink.mil' 'www.nationalguard.mil'
+ 'www.jcs.mil' 'www.dcaa.mil' 'www.southcom.mil' 'www.dpaa.mil'
+ 'www.centcom.mil' 'www.nro.gov' 'www.pacom.mil' 'www.pfpa.mil'
+ 'www.dia.mil' 'www.dtra.mil' 'www.northcom.mil' 'www.jpeocbrnd.osd.mil']"
+190.248.95.202,20,119.65,0.11167789626277083,0.9990666285310257,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:05:21 GMT', 'Location: https://www.nro.gov/', 'Server: AkamaiGHost']","['www.nro.gov' 'www.dss.mil' 'www.nationalguard.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.stratcom.mil' 'www.dcma.mil'
+ 'www.centcom.mil' 'www.dla.mil' 'www.nato.int' 'www.dcaa.mil'
+ 'www.dia.mil' 'www.pfpa.mil' 'www.dtra.mil' 'www.defenselink.mil'
+ 'www.northcom.mil' 'www.southcom.mil' 'www.jcs.mil' 'www.dfas.mil'
+ 'www.dpaa.mil' 'www.pacom.mil']"
+72.246.196.168,10,118.4,0.03622907194176894,0.999694011216708,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:04:55 GMT', 'Location: https://www.dia.mil/', 'Server: AkamaiGHost']","['www.dia.mil' 'www.dcma.mil' 'www.dss.mil' 'www.dla.mil'
+ 'www.centcom.mil' 'www.defenselink.mil' 'www.dcaa.mil' 'www.dpaa.mil'
+ 'www.dtra.mil' 'www.dfas.mil']"
+120.28.5.3,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:04:52 GMT', 'Location: https://www.jcs.mil/', 'Server: AkamaiGHost']","['www.jcs.mil' 'www.pacom.mil' 'www.defenselink.mil' 'www.southcom.mil'
+ 'www.dcma.mil' 'www.nationalguard.mil' 'www.dia.mil' 'www.dtra.mil'
+ 'www.pfpa.mil' 'www.stratcom.mil' 'www.nro.gov' 'www.dfas.mil'
+ 'www.centcom.mil' 'www.dpaa.mil' 'www.dla.mil' 'www.northcom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.dcaa.mil' 'www.dss.mil']"
+203.113.63.137,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:23 GMT', 'Location: https://www.dpaa.mil/', 'Server: AkamaiGHost']","['www.dpaa.mil' 'www.dtra.mil' 'www.defenselink.mil'
+ 'www.nationalguard.mil' 'www.nro.gov' 'www.dcaa.mil' 'www.dss.mil'
+ 'www.pacom.mil' 'www.southcom.mil' 'www.centcom.mil' 'www.dla.mil'
+ 'www.jcs.mil' 'www.northcom.mil' 'www.dfas.mil' 'www.stratcom.mil'
+ 'www.dia.mil' 'www.dcma.mil' 'www.pfpa.mil' 'www.jpeocbrnd.osd.mil']"
+212.113.165.24,18,119.33333333333333,0.0917970766768435,0.9992307507541046,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:18 GMT', 'Location: https://www.pacom.mil/', 'Server: AkamaiGHost']","['www.pacom.mil' 'www.dss.mil' 'www.nro.gov' 'www.dla.mil'
+ 'www.northcom.mil' 'www.dtra.mil' 'www.jcs.mil' 'www.pfpa.mil'
+ 'www.stratcom.mil' 'www.dia.mil' 'www.dcaa.mil' 'www.southcom.mil'
+ 'www.nationalguard.mil' 'www.dcma.mil' 'www.centcom.mil'
+ 'www.defenselink.mil' 'www.dfas.mil' 'www.dpaa.mil']"
+110.164.29.192,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:09 GMT', 'Location: https://www.dia.mil/', 'Server: AkamaiGHost']","['www.dia.mil' 'www.pfpa.mil' 'www.centcom.mil' 'www.southcom.mil'
+ 'www.defenselink.mil' 'www.dss.mil' 'www.dcaa.mil' 'www.dpaa.mil'
+ 'www.pacom.mil' 'www.dla.mil' 'www.nro.gov' 'www.stratcom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.jcs.mil' 'www.dcma.mil' 'www.dfas.mil'
+ 'www.northcom.mil' 'www.dtra.mil' 'www.nationalguard.mil']"
+184.150.66.121,10,118.4,0.03622907194176894,0.999694011216708,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:02:53 GMT', 'Location: https://www.dla.mil/', 'Server: AkamaiGHost']","['www.dla.mil' 'www.centcom.mil' 'www.dss.mil' 'www.defenselink.mil'
+ 'www.dcma.mil' 'www.dfas.mil' 'www.dtra.mil' 'www.dcaa.mil'
+ 'www.dpaa.mil' 'www.dia.mil']"
+2.20.249.115,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:02:47 GMT', 'Location: https://www.dtra.mil/', 'Server: AkamaiGHost']","['www.dtra.mil' 'www.pacom.mil' 'www.dfas.mil' 'www.defenselink.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.southcom.mil' 'www.dcma.mil' 'www.pfpa.mil'
+ 'www.nro.gov' 'www.dcaa.mil' 'www.dpaa.mil' 'www.dia.mil' 'www.dla.mil'
+ 'www.centcom.mil' 'www.stratcom.mil' 'www.nationalguard.mil'
+ 'www.jcs.mil' 'www.northcom.mil' 'www.dss.mil']"
+45.64.78.115,18,119.33333333333333,0.0917970766768435,0.9992307507541046,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:02:44 GMT', 'Location: https://www.dcsa.mil/', 'Server: AkamaiGHost']","['www.dss.mil' 'www.dpaa.mil' 'www.pfpa.mil' 'www.southcom.mil'
+ 'www.dcma.mil' 'www.stratcom.mil' 'www.nro.gov' 'www.dcaa.mil'
+ 'www.centcom.mil' 'www.defenselink.mil' 'www.dla.mil' 'www.northcom.mil'
+ 'www.nationalguard.mil' 'www.pacom.mil' 'www.dfas.mil' 'www.dia.mil'
+ 'www.jcs.mil' 'www.dtra.mil']"
+189.72.175.241,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:02:32 GMT', 'Location: https://www.dcsa.mil/', 'Server: AkamaiGHost']","['www.dss.mil' 'www.dpaa.mil' 'www.dtra.mil' 'www.centcom.mil'
+ 'www.stratcom.mil' 'www.jpeocbrnd.osd.mil' 'www.dla.mil' 'www.nro.gov'
+ 'www.pacom.mil' 'www.jcs.mil' 'www.dia.mil' 'www.pfpa.mil' 'www.dcaa.mil'
+ 'www.northcom.mil' 'www.southcom.mil' 'www.defenselink.mil'
+ 'www.nationalguard.mil' 'www.dfas.mil' 'www.dcma.mil']"
+23.196.229.128,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:02:27 GMT', 'Location: https://www.dcaa.mil/', 'Server: AkamaiGHost']","['www.dcaa.mil' 'www.dfas.mil' 'www.southcom.mil' 'www.nro.gov'
+ 'www.centcom.mil' 'www.defenselink.mil' 'www.northcom.mil'
+ 'www.stratcom.mil' 'www.jcs.mil' 'www.dcma.mil' 'www.dtra.mil'
+ 'www.dia.mil' 'www.dla.mil' 'www.dpaa.mil' 'www.dss.mil' 'www.pacom.mil'
+ 'www.pfpa.mil' 'www.jpeocbrnd.osd.mil' 'www.nationalguard.mil']"
+210.201.32.50,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:02:25 GMT', 'Location: https://www.dfas.mil/', 'Server: AkamaiGHost']","['www.dfas.mil' 'www.dss.mil' 'www.northcom.mil' 'www.southcom.mil'
+ 'www.jcs.mil' 'www.nro.gov' 'www.defenselink.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.dla.mil' 'www.dcaa.mil' 'www.dcma.mil' 'www.dpaa.mil' 'www.dtra.mil'
+ 'www.pacom.mil' 'www.centcom.mil' 'www.nationalguard.mil' 'www.dia.mil'
+ 'www.pfpa.mil' 'www.stratcom.mil']"
+195.175.180.184,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:02:01 GMT', 'Location: https://www.pfpa.mil/', 'Server: AkamaiGHost']","['www.pfpa.mil' 'www.nro.gov' 'www.dss.mil' 'www.pacom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.centcom.mil' 'www.defenselink.mil'
+ 'www.nationalguard.mil' 'www.dia.mil' 'www.northcom.mil'
+ 'www.stratcom.mil' 'www.dcma.mil' 'www.jcs.mil' 'www.dcaa.mil'
+ 'www.dtra.mil' 'www.dla.mil' 'www.dfas.mil' 'www.southcom.mil'
+ 'www.dpaa.mil']"
+193.246.48.184,19,119.73684210526316,0.1106976918821929,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:53 GMT', 'Location: https://www.dpaa.mil/', 'Server: AkamaiGHost']","['www.dpaa.mil' 'www.nationalguard.mil' 'www.nro.gov'
+ 'www.defenselink.mil' 'www.dss.mil' 'www.dia.mil' 'www.dla.mil'
+ 'www.dcaa.mil' 'www.centcom.mil' 'www.northcom.mil' 'www.dfas.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.jcs.mil' 'www.dcma.mil' 'www.dtra.mil'
+ 'www.pfpa.mil' 'www.southcom.mil' 'www.pacom.mil' 'www.stratcom.mil']"
+104.115.80.48,19,119.73684210526316,0.1106976918821929,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:19 GMT', 'Location: https://www.jcs.mil/', 'Server: AkamaiGHost']","['www.jcs.mil' 'www.dcaa.mil' 'www.defenselink.mil' 'www.southcom.mil'
+ 'www.nro.gov' 'www.dss.mil' 'www.dpaa.mil' 'www.dia.mil' 'www.dtra.mil'
+ 'www.nationalguard.mil' 'www.dla.mil' 'www.dfas.mil' 'www.dcma.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.pfpa.mil' 'www.centcom.mil'
+ 'www.stratcom.mil' 'www.northcom.mil' 'www.pacom.mil']"
+121.79.127.66,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:16 GMT', 'Location: https://www.dpaa.mil/', 'Server: AkamaiGHost']","['www.dpaa.mil' 'www.pacom.mil' 'www.dss.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.dcma.mil' 'www.dfas.mil' 'www.northcom.mil' 'www.stratcom.mil'
+ 'www.dla.mil' 'www.dcaa.mil' 'www.nationalguard.mil' 'www.centcom.mil'
+ 'www.defenselink.mil' 'www.jcs.mil' 'www.southcom.mil' 'www.dia.mil'
+ 'www.nro.gov' 'www.dtra.mil' 'www.pfpa.mil']"
+151.248.104.59,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:13 GMT', 'Location: https://www.nro.gov/', 'Server: AkamaiGHost']","['www.nro.gov' 'www.dcaa.mil' 'www.dpaa.mil' 'www.defenselink.mil'
+ 'www.dla.mil' 'www.dfas.mil' 'www.dtra.mil' 'www.nationalguard.mil'
+ 'www.dia.mil' 'www.dcma.mil' 'www.pfpa.mil' 'www.stratcom.mil'
+ 'www.pacom.mil' 'www.centcom.mil' 'www.southcom.mil' 'www.jcs.mil'
+ 'www.dss.mil' 'www.northcom.mil' 'www.jpeocbrnd.osd.mil']"
+2.21.231.24,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:07 GMT', 'Location: https://www.dcsa.mil/', 'Server: AkamaiGHost']","['www.dss.mil' 'www.dia.mil' 'www.dcaa.mil' 'www.southcom.mil'
+ 'www.dcma.mil' 'www.dpaa.mil' 'www.centcom.mil' 'www.defenselink.mil'
+ 'www.dla.mil' 'www.jcs.mil' 'www.nro.gov' 'www.pfpa.mil' 'www.dfas.mil'
+ 'www.stratcom.mil' 'www.dtra.mil' 'www.pacom.mil' 'www.nationalguard.mil'
+ 'www.northcom.mil' 'www.jpeocbrnd.osd.mil']"
+79.140.94.48,10,118.4,0.03622907194176895,0.999694011216708,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:00:41 GMT', 'Location: https://www.dcaa.mil/', 'Server: AkamaiGHost']","['www.dcaa.mil' 'www.dla.mil' 'www.dss.mil' 'www.dia.mil' 'www.dtra.mil'
+ 'www.centcom.mil' 'www.dcma.mil' 'www.dfas.mil' 'www.dpaa.mil'
+ 'www.defenselink.mil']"
+82.178.158.116,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:58:58 GMT', 'Location: https://www.dcaa.mil/', 'Server: AkamaiGHost']","['www.dcaa.mil' 'www.nationalguard.mil' 'www.centcom.mil'
+ 'www.defenselink.mil' 'www.dia.mil' 'www.jcs.mil' 'www.nro.gov'
+ 'www.dcma.mil' 'www.pacom.mil' 'www.stratcom.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.dss.mil' 'www.dla.mil' 'www.dfas.mil' 'www.dpaa.mil' 'www.dtra.mil'
+ 'www.pfpa.mil' 'www.southcom.mil' 'www.northcom.mil']"
+187.32.193.72,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:58:58 GMT', 'Location: https://www.dcsa.mil/', 'Server: AkamaiGHost']","['www.dss.mil' 'www.pfpa.mil' 'www.northcom.mil' 'www.defenselink.mil'
+ 'www.jcs.mil' 'www.nro.gov' 'www.dpaa.mil' 'www.dla.mil'
+ 'www.southcom.mil' 'www.stratcom.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.pacom.mil' 'www.centcom.mil' 'www.dcaa.mil' 'www.dcma.mil'
+ 'www.nationalguard.mil' 'www.dfas.mil' 'www.dia.mil' 'www.dtra.mil']"
+106.51.42.19,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:58:16 GMT', 'Location: https://www.dcsa.mil/', 'Server: AkamaiGHost']","['www.dss.mil' 'www.dcaa.mil' 'www.jpeocbrnd.osd.mil' 'www.dia.mil'
+ 'www.jcs.mil' 'www.dfas.mil' 'www.defenselink.mil' 'www.southcom.mil'
+ 'www.nationalguard.mil' 'www.dpaa.mil' 'www.pacom.mil' 'www.centcom.mil'
+ 'www.dcma.mil' 'www.northcom.mil' 'www.stratcom.mil' 'www.dla.mil'
+ 'www.nro.gov' 'www.dtra.mil' 'www.pfpa.mil']"
+203.177.62.70,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:57 GMT', 'Location: https://www.nro.gov/', 'Server: AkamaiGHost']","['www.nro.gov' 'www.dcaa.mil' 'www.dcma.mil' 'www.dpaa.mil'
+ 'www.pacom.mil' 'www.dss.mil' 'www.defenselink.mil' 'www.pfpa.mil'
+ 'www.centcom.mil' 'www.jpeocbrnd.osd.mil' 'www.dia.mil' 'www.dtra.mil'
+ 'www.stratcom.mil' 'www.jcs.mil' 'www.dla.mil' 'www.nationalguard.mil'
+ 'www.southcom.mil' 'www.dfas.mil' 'www.northcom.mil']"
+184.150.66.145,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:30 GMT', 'Location: https://www.jcs.mil/', 'Server: AkamaiGHost']","['www.jcs.mil' 'www.dpaa.mil' 'www.northcom.mil' 'www.defenselink.mil'
+ 'www.pfpa.mil' 'www.stratcom.mil' 'www.dss.mil' 'www.dtra.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.dla.mil' 'www.southcom.mil' 'www.dcaa.mil'
+ 'www.dia.mil' 'www.dcma.mil' 'www.nro.gov' 'www.dfas.mil' 'www.pacom.mil'
+ 'www.centcom.mil' 'www.nationalguard.mil']"
+23.200.238.202,19,119.73684210526316,0.11069769188219288,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:24 GMT', 'Location: https://www.dla.mil/', 'Server: AkamaiGHost']","['www.dla.mil' 'www.nro.gov' 'www.jpeocbrnd.osd.mil' 'www.dia.mil'
+ 'www.jcs.mil' 'www.dss.mil' 'www.nationalguard.mil' 'www.dtra.mil'
+ 'www.pfpa.mil' 'www.southcom.mil' 'www.dfas.mil' 'www.stratcom.mil'
+ 'www.dcma.mil' 'www.dcaa.mil' 'www.centcom.mil' 'www.dpaa.mil'
+ 'www.northcom.mil' 'www.defenselink.mil' 'www.pacom.mil']"
+23.32.46.90,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:17 GMT', 'Location: https://www.dcaa.mil/', 'Server: AkamaiGHost']","['www.dcaa.mil' 'www.dla.mil' 'www.nro.gov' 'www.defenselink.mil'
+ 'www.dtra.mil' 'www.centcom.mil' 'www.southcom.mil'
+ 'www.nationalguard.mil' 'www.dia.mil' 'www.dcma.mil' 'www.dss.mil'
+ 'www.jcs.mil' 'www.pfpa.mil' 'www.pacom.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.dfas.mil' 'www.dpaa.mil' 'www.northcom.mil' 'www.stratcom.mil']"
+27.67.51.59,17,119.17647058823529,0.08898749133059773,0.9992533132514214,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:14 GMT', 'Location: https://www.pacom.mil/', 'Server: AkamaiGHost']","['www.pacom.mil' 'www.nationalguard.mil' 'www.nro.gov'
+ 'www.defenselink.mil' 'www.dcma.mil' 'www.centcom.mil' 'www.pfpa.mil'
+ 'www.dia.mil' 'www.northcom.mil' 'www.southcom.mil' 'www.dcaa.mil'
+ 'www.dss.mil' 'www.dtra.mil' 'www.dla.mil' 'www.dfas.mil' 'www.dpaa.mil'
+ 'www.jcs.mil']"
+118.69.16.215,20,119.4,0.12388517311290181,0.9989624357360728,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:10 GMT', 'Location: https://www.stratcom.mil/', 'Server: AkamaiGHost']","['www.stratcom.mil' 'www.dss.mil' 'www.pfpa.mil' 'www.dfas.mil'
+ 'www.dpaa.mil' 'www.pacom.mil' 'www.dla.mil' 'www.defenselink.mil'
+ 'www.northcom.mil' 'chip.de' 'www.dia.mil' 'www.centcom.mil'
+ 'www.jcs.mil' 'www.dcaa.mil' 'www.dcma.mil' 'www.dtra.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.nationalguard.mil' 'www.nro.gov'
+ 'www.southcom.mil']"
+119.110.115.138,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:09 GMT', 'Location: https://www.dtra.mil/', 'Server: AkamaiGHost']","['www.dtra.mil' 'www.southcom.mil' 'www.dla.mil' 'www.dcma.mil'
+ 'www.dpaa.mil' 'www.pacom.mil' 'www.defenselink.mil'
+ 'www.nationalguard.mil' 'www.dss.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.jcs.mil' 'www.dfas.mil' 'www.pfpa.mil' 'www.centcom.mil'
+ 'www.northcom.mil' 'www.dia.mil' 'www.nro.gov' 'www.dcaa.mil'
+ 'www.stratcom.mil']"
+92.123.106.171,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:07 GMT', 'Location: https://www.dcsa.mil/', 'Server: AkamaiGHost']","['www.dss.mil' 'www.southcom.mil' 'www.centcom.mil' 'www.dfas.mil'
+ 'www.pfpa.mil' 'www.jpeocbrnd.osd.mil' 'www.nationalguard.mil'
+ 'www.dpaa.mil' 'www.dcaa.mil' 'www.northcom.mil' 'www.nro.gov'
+ 'www.dtra.mil' 'www.pacom.mil' 'www.jcs.mil' 'www.dcma.mil'
+ 'www.stratcom.mil' 'www.dia.mil' 'www.dla.mil' 'www.defenselink.mil']"
+203.5.76.40,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:05:27 GMT', 'Location: https://www.jcs.mil/', 'Server: AkamaiGHost']","['www.jcs.mil' 'www.defenselink.mil' 'www.northcom.mil'
+ 'www.nationalguard.mil' 'www.pfpa.mil' 'www.stratcom.mil' 'www.dss.mil'
+ 'www.southcom.mil' 'www.dfas.mil' 'www.dpaa.mil' 'www.pacom.mil'
+ 'www.dla.mil' 'www.nro.gov' 'www.dcaa.mil' 'www.dtra.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.dia.mil' 'www.dcma.mil' 'www.centcom.mil']"
+80.97.209.243,19,119.73684210526316,0.1106976918821929,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:05:20 GMT', 'Location: https://www.jcs.mil/', 'Server: AkamaiGHost']","['www.jcs.mil' 'www.dss.mil' 'www.stratcom.mil' 'www.dla.mil'
+ 'www.nro.gov' 'www.dcma.mil' 'www.dtra.mil' 'www.pfpa.mil'
+ 'www.centcom.mil' 'www.dcaa.mil' 'www.dpaa.mil' 'www.southcom.mil'
+ 'www.nationalguard.mil' 'www.dfas.mil' 'www.defenselink.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.dia.mil' 'www.pacom.mil' 'www.northcom.mil']"
+80.239.236.40,20,119.65,0.1116778962627708,0.9990666285310257,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:04:23 GMT', 'Location: https://www.dcsa.mil/', 'Server: AkamaiGHost']","['www.dss.mil' 'www.pfpa.mil' 'www.dia.mil' 'www.dcaa.mil'
+ 'www.stratcom.mil' 'www.nro.gov' 'www.southcom.mil' 'www.dfas.mil'
+ 'www.centcom.mil' 'www.dla.mil' 'www.dtra.mil' 'www.pacom.mil'
+ 'www.dcma.mil' 'www.defenselink.mil' 'www.nationalguard.mil' 'elpais.com'
+ 'www.jcs.mil' 'www.jpeocbrnd.osd.mil' 'www.dpaa.mil' 'www.nato.int'
+ 'www.northcom.mil']"
+179.185.57.104,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:04:13 GMT', 'Location: https://www.defense.gov/', 'Server: AkamaiGHost']","['www.defenselink.mil' 'www.northcom.mil' 'www.dcaa.mil' 'www.dfas.mil'
+ 'www.dla.mil' 'www.dpaa.mil' 'www.dtra.mil' 'www.dcma.mil' 'www.nro.gov'
+ 'elpais.com' 'www.jcs.mil' 'www.southcom.mil' 'www.nationalguard.mil'
+ 'www.dia.mil' 'www.stratcom.mil' 'www.dss.mil' 'www.pacom.mil'
+ 'www.centcom.mil' 'www.pfpa.mil' 'www.jpeocbrnd.osd.mil']"
+80.239.254.27,19,119.73684210526316,0.1106976918821929,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:48 GMT', 'Location: https://www.dcsa.mil/', 'Server: AkamaiGHost']","['www.dss.mil' 'www.dtra.mil' 'www.nationalguard.mil' 'www.dcaa.mil'
+ 'www.pfpa.mil' 'www.dfas.mil' 'www.defenselink.mil' 'www.dia.mil'
+ 'www.dcma.mil' 'www.southcom.mil' 'www.stratcom.mil' 'www.dpaa.mil'
+ 'www.centcom.mil' 'www.jpeocbrnd.osd.mil' 'www.pacom.mil' 'www.jcs.mil'
+ 'www.nro.gov' 'www.dla.mil' 'www.northcom.mil']"
+201.30.129.177,18,119.33333333333333,0.0917970766768435,0.9992307507541046,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:23 GMT', 'Location: https://www.dcma.mil/', 'Server: AkamaiGHost']","['www.dcma.mil' 'www.dss.mil' 'www.dla.mil' 'www.dfas.mil'
+ 'www.northcom.mil' 'www.dia.mil' 'www.nro.gov' 'www.jcs.mil'
+ 'www.centcom.mil' 'www.nationalguard.mil' 'www.pacom.mil'
+ 'www.southcom.mil' 'www.stratcom.mil' 'www.dcaa.mil'
+ 'www.defenselink.mil' 'www.dpaa.mil' 'www.dtra.mil' 'www.pfpa.mil']"
+92.122.225.58,11,118.72727272727273,0.046272419386640506,0.9996102629301279,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:21 GMT', 'Location: https://www.dcsa.mil/', 'Server: AkamaiGHost']","['www.dss.mil' 'www.dfas.mil' 'www.southcom.mil' 'www.defenselink.mil'
+ 'www.dcaa.mil' 'www.dcma.mil' 'www.centcom.mil' 'www.dpaa.mil'
+ 'www.dla.mil' 'www.dia.mil' 'www.dtra.mil']"
+121.254.136.88,18,119.33333333333333,0.0917970766768435,0.9992307507541046,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:18 GMT', 'Location: https://www.dia.mil/', 'Server: AkamaiGHost']","['www.dia.mil' 'www.nro.gov' 'www.dcma.mil' 'www.centcom.mil'
+ 'www.defenselink.mil' 'www.dfas.mil' 'www.dtra.mil'
+ 'www.nationalguard.mil' 'www.dcaa.mil' 'www.southcom.mil' 'www.pacom.mil'
+ 'www.dla.mil' 'www.dpaa.mil' 'www.jcs.mil' 'www.dss.mil' 'www.pfpa.mil'
+ 'www.northcom.mil' 'www.stratcom.mil']"
+187.32.193.75,20,119.65,0.11167789626277083,0.9990666285310257,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:11 GMT', 'Location: https://www.dcma.mil/', 'Server: AkamaiGHost']","['www.dcma.mil' 'www.dss.mil' 'www.defenselink.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.jcs.mil' 'www.dcaa.mil' 'www.dia.mil'
+ 'www.dtra.mil' 'www.pacom.mil' 'www.stratcom.mil' 'www.nro.gov'
+ 'www.nationalguard.mil' 'www.pfpa.mil' 'www.southcom.mil' 'www.dla.mil'
+ 'www.centcom.mil' 'www.dfas.mil' 'www.dpaa.mil' 'www.nato.int'
+ 'www.northcom.mil']"
+209.148.204.97,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:08 GMT', 'Location: https://www.dtra.mil/', 'Server: AkamaiGHost']","['www.dtra.mil' 'www.defenselink.mil' 'www.southcom.mil' 'www.pacom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.dss.mil' 'www.dfas.mil'
+ 'www.nationalguard.mil' 'www.jcs.mil' 'www.centcom.mil' 'www.dpaa.mil'
+ 'www.northcom.mil' 'www.stratcom.mil' 'www.dla.mil' 'www.nro.gov'
+ 'www.dcma.mil' 'www.dia.mil' 'www.dcaa.mil' 'www.pfpa.mil']"
+177.65.108.64,15,118.86666666666666,0.05932854533531304,0.9995008815591533,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:02:46 GMT', 'Location: https://www.dla.mil/', 'Server: AkamaiGHost']","['www.dla.mil' 'www.dss.mil' 'www.jcs.mil' 'www.dcma.mil' 'www.dpaa.mil'
+ 'www.pfpa.mil' 'www.northcom.mil' 'www.dia.mil' 'www.defenselink.mil'
+ 'www.dtra.mil' 'www.stratcom.mil' 'www.dcaa.mil' 'www.southcom.mil'
+ 'www.dfas.mil' 'www.pacom.mil']"
+95.66.1.41,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:02:25 GMT', 'Location: https://www.dia.mil/', 'Server: AkamaiGHost']","['www.dia.mil' 'www.defenselink.mil' 'www.northcom.mil' 'www.stratcom.mil'
+ 'www.centcom.mil' 'www.jpeocbrnd.osd.mil' 'www.dtra.mil'
+ 'www.southcom.mil' 'www.nationalguard.mil' 'www.dcaa.mil' 'www.dla.mil'
+ 'www.jcs.mil' 'www.nro.gov' 'www.dcma.mil' 'www.dpaa.mil' 'www.dss.mil'
+ 'www.dfas.mil' 'www.pfpa.mil' 'www.pacom.mil']"
+122.155.237.241,20,119.65,0.11167789626277082,0.9990666285310257,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:02:25 GMT', 'Location: https://www.dcsa.mil/', 'Server: AkamaiGHost']","['www.dss.mil' 'www.nro.gov' 'www.pfpa.mil' 'www.southcom.mil'
+ 'www.pacom.mil' 'www.centcom.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.nationalguard.mil' 'www.dtra.mil' 'www.jcs.mil' 'www.dfas.mil'
+ 'www.dpaa.mil' 'www.nato.int' 'www.northcom.mil' 'www.dcaa.mil'
+ 'www.dcma.mil' 'www.defenselink.mil' 'www.dla.mil' 'www.dia.mil'
+ 'www.stratcom.mil']"
+186.125.155.91,21,119.33333333333333,0.12448201092266592,0.9989568546570726,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:02:02 GMT', 'Location: https://www.nro.gov/', 'Server: AkamaiGHost']","['www.nro.gov' 'www.dss.mil' 'www.nationalguard.mil' 'www.dcaa.mil'
+ 'www.dtra.mil' 'www.defenselink.mil' 'www.northcom.mil' 'www.dpaa.mil'
+ 'www.dcma.mil' 'www.nato.int' 'www.pfpa.mil' 'www.pacom.mil'
+ 'www.centcom.mil' 'www.dia.mil' 'www.dla.mil' 'www.dfas.mil'
+ 'www.stratcom.mil' 'chip.de' 'www.jcs.mil' 'www.southcom.mil'
+ 'www.jpeocbrnd.osd.mil']"
+203.211.4.170,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:55 GMT', 'Location: https://www.defense.gov/', 'Server: AkamaiGHost']","['www.defenselink.mil' 'www.dpaa.mil' 'www.centcom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.dla.mil' 'www.pfpa.mil' 'www.dia.mil'
+ 'www.nro.gov' 'www.dcma.mil' 'www.nationalguard.mil' 'www.stratcom.mil'
+ 'www.dtra.mil' 'www.pacom.mil' 'www.northcom.mil' 'www.southcom.mil'
+ 'www.jcs.mil' 'www.dcaa.mil' 'www.dss.mil' 'www.dfas.mil']"
+23.223.244.144,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:42 GMT', 'Location: https://www.dla.mil/', 'Server: AkamaiGHost']","['www.dla.mil' 'www.dpaa.mil' 'www.defenselink.mil'
+ 'www.nationalguard.mil' 'www.dcaa.mil' 'www.dtra.mil' 'www.southcom.mil'
+ 'www.stratcom.mil' 'www.jpeocbrnd.osd.mil' 'www.dss.mil' 'www.pfpa.mil'
+ 'www.pacom.mil' 'www.northcom.mil' 'www.dia.mil' 'www.nro.gov'
+ 'www.dcma.mil' 'www.dfas.mil' 'www.jcs.mil' 'www.centcom.mil']"
+23.48.213.72,19,119.73684210526316,0.1106976918821929,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:42 GMT', 'Location: https://www.dcsa.mil/', 'Server: AkamaiGHost']","['www.dss.mil' 'www.jpeocbrnd.osd.mil' 'www.jcs.mil' 'www.dfas.mil'
+ 'www.dtra.mil' 'www.pfpa.mil' 'www.pacom.mil' 'www.nro.gov'
+ 'www.centcom.mil' 'www.defenselink.mil' 'www.dia.mil' 'www.dpaa.mil'
+ 'www.nationalguard.mil' 'www.dcaa.mil' 'www.southcom.mil'
+ 'www.stratcom.mil' 'www.dla.mil' 'www.dcma.mil' 'www.northcom.mil']"
+212.113.165.162,18,119.33333333333333,0.09179707667684349,0.9992307507541046,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:42 GMT', 'Location: https://www.dcsa.mil/', 'Server: AkamaiGHost']","['www.dss.mil' 'www.nro.gov' 'www.dla.mil' 'www.dcma.mil'
+ 'www.southcom.mil' 'www.dcaa.mil' 'www.dpaa.mil' 'www.pacom.mil'
+ 'www.defenselink.mil' 'www.dfas.mil' 'www.dia.mil' 'www.dtra.mil'
+ 'www.pfpa.mil' 'www.centcom.mil' 'www.northcom.mil' 'www.stratcom.mil'
+ 'www.nationalguard.mil' 'www.jcs.mil']"
+23.32.46.152,19,119.73684210526316,0.1106976918821929,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:22 GMT', 'Location: https://www.dcsa.mil/', 'Server: AkamaiGHost']","['www.dss.mil' 'www.stratcom.mil' 'www.dla.mil' 'www.nationalguard.mil'
+ 'www.dcma.mil' 'www.dfas.mil' 'www.pacom.mil' 'www.dtra.mil'
+ 'www.southcom.mil' 'www.nro.gov' 'www.dcaa.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.dia.mil' 'www.pfpa.mil' 'www.centcom.mil' 'www.defenselink.mil'
+ 'www.jcs.mil' 'www.dpaa.mil' 'www.northcom.mil']"
+82.148.119.243,20,119.4,0.12388517311290183,0.9989624357360728,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:21 GMT', 'Location: https://www.nro.gov/', 'Server: AkamaiGHost']","['www.nro.gov' 'www.dss.mil' 'www.nationalguard.mil' 'www.dfas.mil'
+ 'www.stratcom.mil' 'www.pfpa.mil' 'www.pacom.mil' 'www.northcom.mil'
+ 'www.dpaa.mil' 'www.dia.mil' 'www.defenselink.mil' 'www.dcaa.mil'
+ 'www.dcma.mil' 'www.centcom.mil' 'www.dla.mil' 'www.dtra.mil'
+ 'www.jpeocbrnd.osd.mil' 'chip.de' 'www.jcs.mil' 'www.southcom.mil']"
+204.191.74.97,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:05 GMT', 'Location: https://www.dcsa.mil/', 'Server: AkamaiGHost']","['www.dss.mil' 'www.centcom.mil' 'www.northcom.mil' 'www.stratcom.mil'
+ 'www.nationalguard.mil' 'www.dcma.mil' 'www.jcs.mil' 'www.nro.gov'
+ 'www.dtra.mil' 'www.dfas.mil' 'www.dpaa.mil' 'www.southcom.mil'
+ 'www.dia.mil' 'www.dcaa.mil' 'www.pacom.mil' 'www.dla.mil' 'www.pfpa.mil'
+ 'www.defenselink.mil' 'www.jpeocbrnd.osd.mil']"
+86.51.45.32,16,119.625,0.10499357732146684,0.9991223107433942,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:00:41 GMT', 'Location: https://www.dcsa.mil/', 'Server: AkamaiGHost']","['www.dss.mil' 'www.dcma.mil' 'www.centcom.mil' 'www.pfpa.mil'
+ 'www.nationalguard.mil' 'www.jpeocbrnd.osd.mil' 'www.jcs.mil'
+ 'www.dla.mil' 'www.dfas.mil' 'www.dpaa.mil' 'www.northcom.mil'
+ 'www.dtra.mil' 'www.dia.mil' 'www.defenselink.mil' 'www.dcaa.mil'
+ 'www.pacom.mil']"
+124.155.222.249,18,119.61111111111111,0.10909565702404116,0.9990879136895343,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:00:07 GMT', 'Location: https://www.dla.mil/', 'Server: AkamaiGHost']","['www.dla.mil' 'www.dss.mil' 'www.centcom.mil' 'www.dia.mil'
+ 'www.dcaa.mil' 'www.pacom.mil' 'www.dcma.mil' 'www.dfas.mil'
+ 'www.defenselink.mil' 'www.northcom.mil' 'www.nationalguard.mil'
+ 'www.jcs.mil' 'www.nro.gov' 'www.dpaa.mil' 'www.southcom.mil'
+ 'www.jpeocbrnd.osd.mil' 'www.dtra.mil' 'www.pfpa.mil']"
+184.150.58.9,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:59:39 GMT', 'Location: https://www.dia.mil/', 'Server: AkamaiGHost']","['www.dia.mil' 'www.dss.mil' 'www.pacom.mil' 'www.dla.mil' 'www.dcma.mil'
+ 'www.centcom.mil' 'www.northcom.mil' 'www.southcom.mil'
+ 'www.nationalguard.mil' 'www.nro.gov' 'www.jcs.mil' 'www.dpaa.mil'
+ 'www.dtra.mil' 'www.dfas.mil' 'www.dcaa.mil' 'www.stratcom.mil'
+ 'www.defenselink.mil' 'www.pfpa.mil' 'www.jpeocbrnd.osd.mil']"
+23.196.229.113,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:59:00 GMT', 'Location: https://www.dcsa.mil/', 'Server: AkamaiGHost']","['www.dss.mil' 'www.stratcom.mil' 'www.jpeocbrnd.osd.mil' 'www.dcma.mil'
+ 'www.defenselink.mil' 'www.nationalguard.mil' 'www.pacom.mil'
+ 'www.southcom.mil' 'www.dla.mil' 'www.nro.gov' 'www.dfas.mil'
+ 'www.dtra.mil' 'www.dia.mil' 'www.jcs.mil' 'www.dcaa.mil' 'www.dpaa.mil'
+ 'www.pfpa.mil' 'www.centcom.mil' 'www.northcom.mil']"
+203.74.95.96,18,119.33333333333333,0.0917970766768435,0.9992307507541046,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:23 GMT', 'Location: https://www.dia.mil/', 'Server: AkamaiGHost']","['www.dia.mil' 'www.dcaa.mil' 'www.dss.mil' 'www.southcom.mil'
+ 'www.dpaa.mil' 'www.centcom.mil' 'www.dla.mil' 'www.pfpa.mil'
+ 'www.defenselink.mil' 'www.nationalguard.mil' 'www.pacom.mil'
+ 'www.dcma.mil' 'www.northcom.mil' 'www.jcs.mil' 'www.nro.gov'
+ 'www.dfas.mil' 'www.stratcom.mil' 'www.dtra.mil']"
+23.45.234.26,19,119.73684210526316,0.11069769188219293,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:20 GMT', 'Location: https://www.defense.gov/', 'Server: AkamaiGHost']","['www.defenselink.mil' 'www.dpaa.mil' 'www.stratcom.mil' 'www.nro.gov'
+ 'www.dtra.mil' 'www.dcaa.mil' 'www.dla.mil' 'www.northcom.mil'
+ 'www.dia.mil' 'www.dss.mil' 'www.pacom.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.dfas.mil' 'www.centcom.mil' 'www.southcom.mil' 'www.jcs.mil'
+ 'www.pfpa.mil' 'www.dcma.mil' 'www.nationalguard.mil']"
+189.247.174.147,19,119.73684210526316,0.11069769188219289,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:19 GMT', 'Location: https://www.nro.gov/', 'Server: AkamaiGHost']","['www.nro.gov' 'www.dss.mil' 'www.jpeocbrnd.osd.mil' 'www.dia.mil'
+ 'www.dpaa.mil' 'www.stratcom.mil' 'www.dcma.mil' 'www.defenselink.mil'
+ 'www.nationalguard.mil' 'www.dtra.mil' 'www.pfpa.mil' 'www.pacom.mil'
+ 'www.dcaa.mil' 'www.dfas.mil' 'www.southcom.mil' 'www.jcs.mil'
+ 'www.northcom.mil' 'www.dla.mil' 'www.centcom.mil']"
+209.170.113.30,19,119.73684210526316,0.11069769188219292,0.9990754918040609,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:09 GMT', 'Location: https://www.dia.mil/', 'Server: AkamaiGHost']","['www.dia.mil' 'www.dpaa.mil' 'www.pacom.mil' 'www.defenselink.mil'
+ 'www.jcs.mil' 'www.dfas.mil' 'www.centcom.mil' 'www.stratcom.mil'
+ 'www.dla.mil' 'www.dcaa.mil' 'www.dtra.mil' 'www.dss.mil' 'www.pfpa.mil'
+ 'www.southcom.mil' 'www.jpeocbrnd.osd.mil' 'www.nationalguard.mil'
+ 'www.dcma.mil' 'www.nro.gov' 'www.northcom.mil']"
+201.0.221.90,4,119.5,0.02510460251046025,0.9997899196442639,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:01:13 GMT', 'Location: https://www.centcom.mil/', 'Server: AkamaiGHost']",['www.centcom.mil' 'www.dcma.mil' 'www.defenselink.mil' 'www.dcaa.mil']
+195.8.22.73,11,120.0,0.0816496580927726,0.9993195861825602,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 22:57:30 GMT', 'Location: https://www.dfas.mil/', 'Server: AkamaiGHost']","['www.dfas.mil' 'www.northcom.mil' 'www.dtra.mil' 'www.jpeocbrnd.osd.mil'
+ 'www.dcma.mil' 'www.centcom.mil' 'www.dla.mil' 'www.dss.mil'
+ 'www.stratcom.mil' 'www.southcom.mil' 'www.nro.gov']"
+195.8.22.74,11,120.0,0.0816496580927726,0.9993195861825602,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:04:04 GMT', 'Location: https://www.dfas.mil/', 'Server: AkamaiGHost']","['www.dfas.mil' 'www.stratcom.mil' 'www.dcma.mil' 'www.dtra.mil'
+ 'www.dss.mil' 'www.centcom.mil' 'www.southcom.mil' 'www.nro.gov'
+ 'www.dla.mil' 'www.northcom.mil' 'www.jpeocbrnd.osd.mil']"
+189.26.4.179,8,119.875,0.07775329252265797,0.9993513802500716,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:03:24 GMT', 'Location: https://www.dfas.mil/', 'Server: AkamaiGHost']","['www.dfas.mil' 'www.dss.mil' 'www.stratcom.mil' 'www.dia.mil'
+ 'www.dla.mil' 'www.dtra.mil' 'www.southcom.mil' 'www.jpeocbrnd.osd.mil']"
+201.0.221.64,4,119.5,0.02510460251046025,0.9997899196442639,"['Content-Length: 0', 'Date: Wed, 29 Sep 2021 23:04:53 GMT', 'Location: https://www.dcma.mil/', 'Server: AkamaiGHost']",['www.dcma.mil' 'www.defenselink.mil' 'www.dcaa.mil' 'www.centcom.mil']

@@ -1,0 +1,392 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+208.91.112.55,593,409.0,0.0,1.0,"['Cache-Control: no-cache', 'Connection: close', 'Content-Length: 311', 'Content-Type: text/html']<!DOCTYPE html>
+<html>	
+	<head>
+	</head>
+	<body>
+		<iframe src=""/fortiadc_error_page/index.html"" frameborder=""0"" width=""100%"" scrolling=""no"" onload=""function resizeIframe(obj) {
+	    obj.style.height = obj.contentWindow.document.body.scrollHeight + 10 + 'px';
+	  };resizeIframe(this)""></iframe>
+	</body>
+</html>","['www.vanguardnewsnetwork.com' 'www.jdl.org' 'www.feminist.com' 'yts.mx'
+ 'www.bacardi.com' 'www.tunnelbear.com' 'www.proxyweb.net' 'forbes.com'
+ 'firefoxchina.cn' 'youporn.com' 'www.feminist.org' 'fsrn.org' 'imdb.com'
+ 'www.rackspace.com' 'www.150m.com' 'www.europacasino.com' 'www.vibe.com'
+ 'www.change.org' 'www.rollitup.org' 'www.youtube.com' 'hotstar.com'
+ 'www.betternet.co' 'www.bitfinex.com' 'www.coquette.com' 'google.pt'
+ 'gdz.ru' 'spankbang.com' 'www.thehacktivist.com' 'www.babylon-x.com'
+ 'www.startmail.com' 'www.pmi.com' 'www.absolut.com' 'youtube.com'
+ 'getintra.org' 'safervpn.com' 'www.betfair.com' 'www.gamespot.com'
+ 'www.blackjackinfo.com' 'www.globaleaks.org' 'www.2ddepot.com'
+ 'www.deathmetal.org' 'manyvids.com' 'www.womenonwaves.org'
+ 'shadowsocks.org' 'www.winespectator.com' 'focus.cn' 'www.dropbox.com'
+ 'www.dailymotion.com' 'www.americannaziparty.com' 'www.shazam.com'
+ 'friends.walla.co.il' 'protonvpn.com' 'flashscore.com'
+ 'www.megaproxy.com' 'abc.go.com' 'hurirk.net' 'facebook.com'
+ 'www.newnownext.com' 'www.onlinegambling.com' 'vimeo.com'
+ 'download.i2p2.de' 'unsplash.com' 'battle.net' 'mydramalist.com'
+ 'sexetc.org' 'brilio.net' '52pk.com' 'livestream.com' 'www.gambling.com'
+ 'onlybingo.com' 'ultrasurf.us' 'globalwitness.org'
+ 'anonymizer.secuser.com' 'hbomax.com' 'www.itunes.com' 'sxyprn.com'
+ 'www.worldcoalition.org' 'www.xroxy.com' 'forum.grasscity.com'
+ 'www.pridemedia.com' 'bilibili.com' 'www.hacktivismo.com'
+ 'www.888casino.com' 'google.es' 'www.eurogrand.com' 'www.freshpair.com'
+ 'gmarket.co.kr' 'cpanel.net' 'peacefire.org' 'trashy.com' 'www.89.com'
+ 'www.rxmarijuana.com' 'www.talkyou.me' 'geti2p.net' 'www.veoh.com'
+ 'www.anonymizer.com' 'google.az' 'google.com.vn' 'aidaccess.org'
+ 'wetransfer.com' 'www.dreamhost.com' 'zhanqi.tv' 'gitlab.com'
+ 'siteground.com' 'www.nazi-lauck-nsdapao.com' 'hitwe.com'
+ 'www.warhammeronline.com' 'www.lushstories.com' 'btguard.com'
+ 'www.roulette.sh' 'www.scruff.com' 'fedex.com' 'dailymotion.com'
+ 'secondlife.com' 'www.lingerieatlarge.com' 'www.theglobalfund.org'
+ 'sci-hub.se' 'spotify.com' 'www.scarleteen.com' 'www.pcgamer.com'
+ 'bet9ja.com' 'www.terrorismfiles.org' 'google.com.mx'
+ 'www.sputniknews.cn' 'go.com' 'www.runescape.com' 'googlevideo.com'
+ 'www.tripod.lycos.com' 'freedns.afraid.org' 'google.fr' 'www.xxlmag.com'
+ 'www.gotgayporn.com' 'www.realbeer.com' 'www.purevpn.com'
+ 'www.4online-gambling.com' 'bongacams.com' 'files.wordpress.com'
+ 'hotgaylist.com' 'www.no-ip.com' 'howtogrowmarijuana.com'
+ 'www.guildwars.com' 'www.asstr.org' 'www.mate1.com' 'www.fidh.org'
+ 'surfshark.com' 'google.co.th' 'www.sexandu.ca' 'www.chantelle.com'
+ 'goodreads.com' 'www.utorrent.com' 'mileroticos.com'
+ 'www.thegailygrind.com' 'farfetch.com' 'goaskalice.columbia.edu'
+ 'rarbg.to' 'adultfriendfinder.com' 'www.shinto.org' 'www.ted.com'
+ 'www.flickr.com' 'www.partypoker.net' 'www.sexedlibrary.org' 'dmm.co.jp'
+ 'chess.com' 'zcool.com.cn' 'www.biz.ly' 'www.harkatulmujahideen.org'
+ 'www.alqassam.ps' 'aparat.com' 'www.globet.com' 'mymemory.translated.net'
+ 'www.skype.com' 'www.ushareit.com' 'www.dotster.com' 'disneyplus.com'
+ 'www.uproxy.org' 'www.submission.org' 'www.counter-strike.net'
+ 'www.bittorrent.com' 'www.tialsoft.com' 'www.figleaves.com'
+ 'www.eveonline.com' 'www.carnivalcasino.com' 'google.org'
+ 'gisanddata.maps.arcgis.com' 'bravotube.net' 'www.glaad.org'
+ 'www.4shared.com' 'www.securitytracker.com' 'flickr.com' 'google.com.hk'
+ 'www.scribd.com' 'google.pl' 'anonymouse.org' 'subscene.com' 'phrack.org'
+ 'yy.com' 'savefrom.net' 'www.appzplanet.com' 'freenetproject.org'
+ 'twitch.tv' 'www.guerrillagirls.com' 'www.ifeminists.com'
+ 'www.whitepower.com' 'www.transferbigfiles.com' 'www.square-enix.com'
+ 'premierbet.co.ao' 'www.clubdicecasino.com' 'www.teensource.org'
+ 'www.eharmony.com' 'google.ro' 'fool.com' 'www.rollingstone.com'
+ 'drugs-forum.com' 'www.pornhub.com' 'mp3.com' 'www.weebly.com'
+ 'geeksforgeeks.org' 'google.co.uk' 'www.ictj.org' 'www.out.com'
+ 'blueskyswimwear.com' 'avaaz.org' 'www.anonymizer.ru'
+ 'global.blackberry.com' 'www.gayhealth.com' 'genpi.co' 'psiphon.ca'
+ 'medpot.net' 'onlyfans.com' 'www.ariannelingerie.com' 'google.co.id'
+ 'www.pinkcupid.com' 'www.stumbleupon.com' 'www.crazyshit.com'
+ 'www.goldenrivieracasino.com' '666games.net' 'sci-hub.tw' 'www.bat.com'
+ 'google.com.pe' 'panties.com' 'hugedomains.com' 'www.terredeshommes.nl'
+ 'www.womenonweb.org' 'www.ghostrecon.com' 'genius.com'
+ 'thunder.free-signal.com' 'www.netflix.com' 'www.topcities.com'
+ 'www.spinpalace.com' 'flirtylingerie.com' 'www.sex.com'
+ 'www.monacogoldcasino.com' 'weedfarmer.com' 'google.co.kr'
+ 'www.bitcomet.com' 'nicovideo.jp' 'telewebion.com' 'thepiratebay.org'
+ 'www.tiktok.com' 'www.speeddater.co.uk' 'picasa.google.com'
+ 'fidelity.com' 'www.systranbox.com' 'www.riverbelle.com'
+ 'www.ebaumsworld.com' 'www.towleroad.com' 'imgur.com' 'www.southcom.mil'
+ 'www.metacafe.com' 'bittornado.com' 'www.torproject.org'
+ 'www.ultimate-anonymity.com' 'google.cl' 'www.teenhealthfx.com'
+ 'www.schwarzreport.org' 'docin.com' 'filimo.com' 'securevpn.com'
+ 'www.thegooddrugsguide.com' 'www.tawk.to' 'www.lesbiansubmission.com'
+ 'www.privacyinternational.org' 'youku.com' 'www.shroomery.org'
+ 'mediafire.com' 'thehiddenwiki.org' 'wowhead.com' 'www.sida.se'
+ 'google.com.ar' 'getoutline.org' 'www.casinotropez.com'
+ 'www.zensur.freerk.com' 'tinder.com' 'www.acquisitionx.com'
+ 'www.slideshare.net' 'abs-cbn.com' 'zoomshare.com' 'google.com'
+ 'google.com.sg' 'www.theonion.com' 'bet365.com' 'www.blackhat.be'
+ 'www.churchofeuthanasia.org' 'google.dz' 'www.datingdirect.com'
+ 'google.com.sa' 'gmw.cn' 'google.co.za' 'www.grandonline.com' 'jjwxc.net'
+ 'www.righttodie.ca' 'rapidgator.net' 'hola.org' 'panda.tv'
+ 'livejasmin.com' 'europedatingonline.com' 'sites.google.com'
+ 'crjugate.com' 'www.peacefire.org' 'www.socom.mil' 'badoo.com'
+ 'www.23.org' 'www.omct.org' 'kickassclassical.com' 'gawker.com'
+ 'www.lovoo.com' 'www.cannaweed.com' 'store.steampowered.com'
+ 'www.pandora.com' 'freedomhouse.org' 'www.hightail.com' 'tudou.com'
+ 'xvideos.com' 'xnxx.com' 'google.gr' 'www.freehomepage.com'
+ 'www.sendthisfile.com' 'twitpic.com' 'soundcloud.com' 'www.4chan.org'
+ 'cannabis.com' 'www.xvideos.com' 'www.stonewall.org.uk'
+ 'www.pokerpages.com' 'www.rockstargames.com' 'www.usacasino.com'
+ 'tor.eff.org' 'www.youporn.com' 'www.paganpride.org' 'www.fotolog.com'
+ 'casino.com' 'www.survive.org.uk' 'vidio.com' '8thstreetlatinas.com'
+ 'pirateparty.org.au' 'wplay.co' 'www.depositfiles.com' 'google.ru'
+ 'www.dit-inc.us' 'primevideo.com' 'ebc.net.tw' 'doubleclick.net'
+ 'google.ca' 'xhamster.com' 'www.luckynugget.com' 'pandora.com'
+ 'www.topdrawers.com' 'russia.tv' 'www.spotify.com'
+ 'bridges.torproject.org' 'www.tango.me' 'namasha.com' 'ea.com'
+ 'www.pof.com' 'www.positive.org' 'weebly.com' 'www.delicates.co.uk'
+ 'www.twitch.tv' 'www.protest.net' 'tails.boum.org' 'www.f-list.net'
+ 'ooni.torproject.org' 'www.pogo.com' 'www.hotspotshield.com'
+ 'www.collegehumor.com' 'vvvdj.com' 'google.com.eg' 'beeg.com'
+ 'www.wfp.org' 'www.repubblica.com' 'www.aleph.to' 'tiktok.com'
+ 'fteproxy.org' 'roblox.com' 'foxnews.com' 'www.atimes.com'
+ 'www.hostgator.com' 'slideshare.net' 'google.co.jp' 'fc2.com'
+ 'www.imdb.com' 'freshdesk.com' 'www.okcupid.com' 'hulu.com'
+ 'globalvoices.org' 'guardster.com' 'freelancer.com'
+ 'anon.inf.tu-dresden.de' 'family.cloudflare-dns.com' 'worldsingles.com'
+ 'uploaded.to' 'dextroverse.org' 'www.ipvanish.com' 'rutracker.org'
+ 'secure.proxpn.com' 'zhibo8.cc' 'www.themwl.org' 'google.com.ua'
+ 'www.serials.ws' 'www.absinth.com' 'www.abcunderwear.com'
+ 'www.3wishes.com' 'www.anonymsurfen.com' 'steamcommunity.com'
+ 'www.swpa.gov' 'coronavirus.app' 'www.namecheap.com' 'stealthchat.com'
+ 'www.mininova.org' 'www.sos-reporters.net' 'snappea.com' 'www.textra.me'
+ 'shahed4u.land' 'www.fuckingfreemovies.com' 'www.geocities.com'
+ 'www.enom.com' 'zippyshare.com' 'freee.co.jp' 'www.telegraph.co.uk'
+ 'www.talafone.com' 'inmotionhosting.com' 'www.http-tunnel.com'
+ 'google.com.tw' 'www.securityfocus.com' 'www.planetromeo.com'
+ 'turbobit.net' 'flipkart.com' 'scribd.com' 'chaturbate.com' 'www.nbc.com'
+ 'grid.id' 'www.premaritalsex.info' 'github.com' 'freemuse.org'
+ 'gist.github.com' 'onedrive.live.com' 'freespeechdebate.com'
+ 'fr.wikipedia.org' 'google.co.in' 'www.mediafire.com' 'anonym.to'
+ 'getpocket.com' 'www.fotki.com' 'www.royalvegas.com' '3dmgame.com'
+ 'google.com.br' 'www.jackdaniels.com' 'www.volcanomail.com'
+ 'google.com.pk' 'exoclick.com' 'google.com.tr' 'imageshack.com'
+ 'www.freeservers.com' '9gag.com' 'www.photobucket.com' 'www.aceshigh.com'
+ 'www.afterellen.com' 'www.2shared.com' 'www.victoriassecret.com'
+ 'www.moderndrunkardmagazine.com' 'google.it' 'kapanlagi.com'
+ 'www.cyber-pirates.org' 'www.hustler.com' 'www.ipredator.se'
+ 'www.persecution.org' 'bluehost.com' 'www.freewebspace.com'
+ 'www.godaddy.com' 'www.tobacco.org' 'alt.com' 'www.angryharry.com'
+ 'www.wikia.com' 'www.familyequality.org' 'godhatesfags.com' 'www.last.fm'
+ 'www.erowid.org' 'www.privateinternetaccess.com' 'proxify.com'
+ 'www.shoe.org' 'www.slotland.com' 'www.liveleak.com' 'www.om.org'
+ 'box.com' 'fandom.com' 'gittigidiyor.com' 'www.nmrc.org' 'multiproxy.org'
+ 'www.prolife.com' 'www.state.gov' 'www.playboy.com' 'rottentomatoes.com'
+ 'iqiyi.com' 'www.solicitorsfromhell.com' 'www.anonymitychecker.com'
+ 'proxytools.sourceforge.net' 'gmail.com' 'www.freespeechcoalition.com'
+ 'www.100webspace.com' 'www.hidemyass.com' 'www.budweiser.com'
+ 'www.stratcom.mil' 'google.co.ve' 'www.xbox.com' '1337x.to'
+ 'strongvpn.com' 'sfsi.org' 'www.hackhull.com' 'ddo.com' 'speedify.com'
+ 'nordvpn.com' 'feministing.com' 'axieinfinity.com' 'gome.com.cn'
+ 'rctiplus.com' 'gmanetwork.com' 'google.com.au' 'www.securityinabox.org'
+ 'dropbox.com' 'goo.ne.jp' 'worldofwarcraft.com' 'netflix.com'
+ 'www.datpiff.com' 'www.hrw.org' 'www.blizzard.com'
+ 'www.plannedparenthood.org' 'www.habbo.com' 'kids.yahoo.com'
+ 'allhugeblog.com' 'www.bme.com' 'video.google.com' 'getlantern.org'
+ 'www.1and1.com' 'www.gamingday.com' 'fadverdirect.com'
+ 'www.marijuana.com' 'www.eurobicon.org' 'www.snapchat.com'
+ 'www.chess.com' 'www.nifty.org' 'www.ea.com' 'force.com' 'www.tmz.com'
+ 'www.agentprovocateur.com' 'www.theatlantic.com' 'www.slsknet.org'
+ 'buzzfeed.com' 'secure.flickr.com' 'www.poker.com' 'www.grindr.com'
+ 'feedly.com' 'www.itsyoursexlife.com' 'y2mate.com' 'pornhub.com'
+ 'google.cn' 'people.com' 'www.theguardian.com' 'www.theepochtimes.com'
+ 'gadgetnews.net' 'www.sss.gov' 'gmx.net' 'hostgator.com'
+ 'www.amnestyusa.org' 'cultdeadcow.com' 'radiofreetexas.org' 'giphy.com'
+ 'google.de' 'www.siecus.org' 'torrentz.eu' 'astalavista.box.sk'
+ 'poshukach.com' 'www.sina.com.cn' 'www.dating.com']"
+104.244.43.208,11,802.7272727272727,0.07416345917589072,0.9999076106397582,"['Accept-Ranges: bytes', 'Content-Length: 511', 'Content-Type: text/html; charset=utf-8', 'Date: Wed, 29 Sep 2021 23:03:51 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-dtw8026-DTW', 'X-Timer: S1632956630.433417,VS0,VE1302']
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""
+ ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html>
+  <head>
+    <title>503 Backend unavailable, connection timeout</title>
+  </head>
+  <body>
+    <h1>Error 503 Backend unavailable, connection timeout</h1>
+    <p>Backend unavailable, connection timeout</p>
+    <h3>Guru Mediation:</h3>
+    <p>Details: cache-dtw8023-DTW 1632956632 3759051291</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
+","['hootsuite.com' 'tiktok.com' 'flickr.com' 'discord.com' 'chaturbate.com'
+ 'xnxx.com' 'xhamster.com' 'sites.google.com' 'duckduckgo.com' 'badoo.com'
+ 'telegra.ph']"
+151.101.77.164,11,805.0909090909091,0.07319843314501226,0.9999090805369698,"['Accept-Ranges: bytes', 'Content-Length: 508', 'Content-Type: text/html; charset=utf-8', 'Date: Wed, 29 Sep 2021 23:05:23 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-hkg17926-HKG', 'X-Timer: S1632956723.076263,VS0,VE10']
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""
+ ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html>
+  <head>
+    <title>503 Backend unavailable (ACL check failed)</title>
+  </head>
+  <body>
+    <h1>Error 503 Backend unavailable (ACL check failed)</h1>
+    <p>Backend unavailable (ACL check failed)</p>
+    <h3>Guru Mediation:</h3>
+    <p>Details: cache-hkg17932-HKG 1632956723 243367001</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
+","['sites.google.com' 'duckduckgo.com' 'telegra.ph' 'chaturbate.com'
+ 'xhamster.com' 'hootsuite.com' 'badoo.com' 'tiktok.com' 'xnxx.com'
+ 'flickr.com' 'discord.com']"
+104.244.43.228,11,802.7272727272727,0.07399586653173337,0.9999078194188167,"['Accept-Ranges: bytes', 'Content-Length: 519', 'Content-Type: text/html; charset=utf-8', 'Date: Wed, 29 Sep 2021 23:04:43 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-dtw8027-DTW', 'X-Timer: S1632956683.337012,VS0,VE3']
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""
+ ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html>
+  <head>
+    <title>503 hostname doesn't match against certificate</title>
+  </head>
+  <body>
+    <h1>Error 503 hostname doesn't match against certificate</h1>
+    <p>hostname doesn't match against certificate</p>
+    <h3>Guru Mediation:</h3>
+    <p>Details: cache-dtw8028-DTW 1632956683 270715064</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
+","['flickr.com' 'sites.google.com' 'chaturbate.com' 'badoo.com' 'tiktok.com'
+ 'xnxx.com' 'duckduckgo.com' 'xhamster.com' 'telegra.ph' 'hootsuite.com'
+ 'discord.com']"
+104.244.43.182,11,802.7272727272727,0.07416345917589072,0.9999076106397582,"['Accept-Ranges: bytes', 'Content-Length: 510', 'Content-Type: text/html; charset=utf-8', 'Date: Wed, 29 Sep 2021 23:01:15 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-dtw8027-DTW', 'X-Timer: S1632956475.582943,VS0,VE1302']
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""
+ ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html>
+  <head>
+    <title>503 Backend unavailable, connection timeout</title>
+  </head>
+  <body>
+    <h1>Error 503 Backend unavailable, connection timeout</h1>
+    <p>Backend unavailable, connection timeout</p>
+    <h3>Guru Mediation:</h3>
+    <p>Details: cache-dtw8028-DTW 1632956476 269114452</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
+","['xnxx.com' 'telegra.ph' 'duckduckgo.com' 'xhamster.com' 'chaturbate.com'
+ 'hootsuite.com' 'tiktok.com' 'sites.google.com' 'badoo.com' 'flickr.com'
+ 'discord.com']"
+104.244.43.99,11,802.7272727272727,0.07416345917589072,0.9999076106397582,"['Accept-Ranges: bytes', 'Content-Length: 510', 'Content-Type: text/html; charset=utf-8', 'Date: Wed, 29 Sep 2021 22:56:45 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-dtw8027-DTW', 'X-Timer: S1632956204.474313,VS0,VE1315']
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""
+ ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html>
+  <head>
+    <title>503 Backend unavailable, connection timeout</title>
+  </head>
+  <body>
+    <h1>Error 503 Backend unavailable, connection timeout</h1>
+    <p>Backend unavailable, connection timeout</p>
+    <h3>Guru Mediation:</h3>
+    <p>Details: cache-dtw8028-DTW 1632956206 267031281</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
+","['chaturbate.com' 'telegra.ph' 'hootsuite.com' 'xhamster.com'
+ 'duckduckgo.com' 'discord.com' 'xnxx.com' 'flickr.com' 'sites.google.com'
+ 'badoo.com' 'tiktok.com']"
+104.244.43.229,11,802.7272727272727,0.07416345917589072,0.9999076106397582,"['Accept-Ranges: bytes', 'Content-Length: 520', 'Content-Type: text/html; charset=utf-8', 'Date: Wed, 29 Sep 2021 23:05:20 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-dtw8029-DTW', 'X-Timer: S1632956720.006098,VS0,VE203']
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""
+ ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html>
+  <head>
+    <title>503 hostname doesn't match against certificate</title>
+  </head>
+  <body>
+    <h1>Error 503 hostname doesn't match against certificate</h1>
+    <p>hostname doesn't match against certificate</p>
+    <h3>Guru Mediation:</h3>
+    <p>Details: cache-dtw8027-DTW 1632956720 3727155871</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
+","['discord.com' 'xhamster.com' 'telegra.ph' 'duckduckgo.com' 'tiktok.com'
+ 'sites.google.com' 'chaturbate.com' 'xnxx.com' 'badoo.com'
+ 'hootsuite.com' 'flickr.com']"
+104.244.43.128,10,802.3,0.07272175690630456,0.9999093583984715,"['Accept-Ranges: bytes', 'Content-Length: 454', 'Content-Type: text/html; charset=utf-8', 'Date: Wed, 29 Sep 2021 23:01:28 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-dtw8025-DTW', 'X-Timer: S1632956488.207195,VS0,VE1']
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""
+ ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html>
+  <head>
+    <title>503 Backend is unhealthy</title>
+  </head>
+  <body>
+    <h1>Error 503 Backend is unhealthy</h1>
+    <p>Backend is unhealthy</p>
+    <h3>Guru Mediation:</h3>
+    <p>Details: cache-dtw8026-DTW 1632956488 2058931957</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
+","['duckduckgo.com' 'badoo.com' 'xhamster.com' 'xnxx.com' 'sites.google.com'
+ 'telegra.ph' 'flickr.com' 'discord.com' 'chaturbate.com' 'hootsuite.com']"
+104.244.43.57,10,802.4,0.07409125126017639,0.9999076629470836,"['Accept-Ranges: bytes', 'Content-Length: 510', 'Content-Type: text/html; charset=utf-8', 'Date: Wed, 29 Sep 2021 23:01:41 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-dtw8025-DTW', 'X-Timer: S1632956500.805172,VS0,VE1301']
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""
+ ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html>
+  <head>
+    <title>503 Backend unavailable, connection timeout</title>
+  </head>
+  <body>
+    <h1>Error 503 Backend unavailable, connection timeout</h1>
+    <p>Backend unavailable, connection timeout</p>
+    <h3>Guru Mediation:</h3>
+    <p>Details: cache-dtw8028-DTW 1632956501 269303495</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
+","['chaturbate.com' 'hootsuite.com' 'discord.com' 'sites.google.com'
+ 'xnxx.com' 'tiktok.com' 'badoo.com' 'telegra.ph' 'duckduckgo.com'
+ 'flickr.com']"
+104.244.43.234,10,802.2,0.0738913330454957,0.9999078891385621,"['Accept-Ranges: bytes', 'Content-Length: 511', 'Content-Type: text/html; charset=utf-8', 'Date: Wed, 29 Sep 2021 22:56:41 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-dtw8023-DTW', 'X-Timer: S1632956200.468917,VS0,VE1303']
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""
+ ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html>
+  <head>
+    <title>503 Backend unavailable, connection timeout</title>
+  </head>
+  <body>
+    <h1>Error 503 Backend unavailable, connection timeout</h1>
+    <p>Backend unavailable, connection timeout</p>
+    <h3>Guru Mediation:</h3>
+    <p>Details: cache-dtw8022-DTW 1632956202 3034191399</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
+","['tiktok.com' 'duckduckgo.com' 'badoo.com' 'discord.com' 'xnxx.com'
+ 'hootsuite.com' 'flickr.com' 'sites.google.com' 'xhamster.com'
+ 'chaturbate.com']"
+104.244.43.104,10,802.2,0.0738913330454957,0.9999078891385621,"['Accept-Ranges: bytes', 'Content-Length: 510', 'Content-Type: text/html; charset=utf-8', 'Date: Wed, 29 Sep 2021 23:05:22 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-dtw8021-DTW', 'X-Timer: S1632956721.365229,VS0,VE1301']
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""
+ ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html>
+  <head>
+    <title>503 Backend unavailable, connection timeout</title>
+  </head>
+  <body>
+    <h1>Error 503 Backend unavailable, connection timeout</h1>
+    <p>Backend unavailable, connection timeout</p>
+    <h3>Guru Mediation:</h3>
+    <p>Details: cache-dtw8028-DTW 1632956723 271009919</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
+","['xnxx.com' 'chaturbate.com' 'badoo.com' 'xhamster.com' 'hootsuite.com'
+ 'telegra.ph' 'duckduckgo.com' 'discord.com' 'sites.google.com'
+ 'flickr.com']"
+104.244.43.248,10,802.3,0.073992434979495,0.9999077746042883,"['Accept-Ranges: bytes', 'Content-Length: 453', 'Content-Type: text/html; charset=utf-8', 'Date: Wed, 29 Sep 2021 22:57:44 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-dtw8023-DTW', 'X-Timer: S1632956264.456235,VS0,VE1']
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""
+ ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html>
+  <head>
+    <title>503 Backend is unhealthy</title>
+  </head>
+  <body>
+    <h1>Error 503 Backend is unhealthy</h1>
+    <p>Backend is unhealthy</p>
+    <h3>Guru Mediation:</h3>
+    <p>Details: cache-dtw8025-DTW 1632956264 674873337</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
+","['duckduckgo.com' 'sites.google.com' 'telegra.ph' 'tiktok.com'
+ 'flickr.com' 'badoo.com' 'chaturbate.com' 'hootsuite.com' 'discord.com'
+ 'xnxx.com']"

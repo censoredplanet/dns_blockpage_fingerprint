@@ -1,0 +1,89 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+104.244.43.57,7,452.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 173', 'Content-Type: text/html', 'Date: Wed, 29 Sep 2021 23:01:39 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-dtw8028-DTW', 'X-Timer: S1632956500.816068,VS0,VE0']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['breitbart.com' 'www.facebook.com' 'medium.com' 'www.youtube.com'
+ 'pornhub.com' 'web.archive.org' 'www.wikipedia.org']"
+104.244.43.104,7,452.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 173', 'Content-Type: text/html', 'Date: Wed, 29 Sep 2021 23:05:21 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-dtw8028-DTW', 'X-Timer: S1632956721.371333,VS0,VE0']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['pornhub.com' 'www.facebook.com' 'www.wikipedia.org' 'www.youtube.com'
+ 'medium.com' 'web.archive.org' 'breitbart.com']"
+104.244.43.248,7,452.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 173', 'Content-Type: text/html', 'Date: Wed, 29 Sep 2021 22:57:44 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-dtw8020-DTW', 'X-Timer: S1632956264.410446,VS0,VE0']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['www.youtube.com' 'web.archive.org' 'www.wikipedia.org' 'medium.com'
+ 'pornhub.com' 'breitbart.com' 'www.facebook.com']"
+104.244.43.128,7,452.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 173', 'Content-Type: text/html', 'Date: Wed, 29 Sep 2021 23:01:28 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-dtw8025-DTW', 'X-Timer: S1632956488.098484,VS0,VE0']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['www.facebook.com' 'pornhub.com' 'www.wikipedia.org' 'www.youtube.com'
+ 'web.archive.org' 'breitbart.com' 'medium.com']"
+104.244.43.182,7,452.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 173', 'Content-Type: text/html', 'Date: Wed, 29 Sep 2021 23:01:14 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-dtw8021-DTW', 'X-Timer: S1632956475.655388,VS0,VE0']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['pornhub.com' 'web.archive.org' 'www.facebook.com' 'breitbart.com'
+ 'medium.com' 'www.wikipedia.org' 'www.youtube.com']"
+104.244.43.234,7,452.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 173', 'Content-Type: text/html', 'Date: Wed, 29 Sep 2021 22:56:40 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-dtw8028-DTW', 'X-Timer: S1632956200.466374,VS0,VE1']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['medium.com' 'www.youtube.com' 'www.facebook.com' 'www.wikipedia.org'
+ 'web.archive.org' 'breitbart.com' 'pornhub.com']"
+151.101.77.164,7,453.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 173', 'Content-Type: text/html', 'Date: Wed, 29 Sep 2021 23:05:22 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-hkg17926-HKG', 'X-Timer: S1632956722.136348,VS0,VE0']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['medium.com' 'www.youtube.com' 'www.facebook.com' 'www.wikipedia.org'
+ 'breitbart.com' 'web.archive.org' 'pornhub.com']"
+104.244.43.229,7,452.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 173', 'Content-Type: text/html', 'Date: Wed, 29 Sep 2021 23:05:20 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-dtw8025-DTW', 'X-Timer: S1632956720.018512,VS0,VE0']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['www.facebook.com' 'breitbart.com' 'web.archive.org' 'pornhub.com'
+ 'www.wikipedia.org' 'medium.com' 'www.youtube.com']"
+104.244.43.228,7,452.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 173', 'Content-Type: text/html', 'Date: Wed, 29 Sep 2021 23:04:43 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-dtw8029-DTW', 'X-Timer: S1632956683.300932,VS0,VE0']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['breitbart.com' 'www.wikipedia.org' 'www.youtube.com' 'pornhub.com'
+ 'medium.com' 'www.facebook.com' 'web.archive.org']"
+104.244.43.99,7,452.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 173', 'Content-Type: text/html', 'Date: Wed, 29 Sep 2021 22:56:44 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-dtw8026-DTW', 'X-Timer: S1632956204.482095,VS0,VE0']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['medium.com' 'pornhub.com' 'www.wikipedia.org' 'breitbart.com'
+ 'www.facebook.com' 'www.youtube.com' 'web.archive.org']"
+104.244.43.208,6,452.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 173', 'Content-Type: text/html', 'Date: Wed, 29 Sep 2021 23:03:50 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-dtw8022-DTW', 'X-Timer: S1632956630.396906,VS0,VE0']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['www.youtube.com' 'medium.com' 'www.wikipedia.org' 'breitbart.com'
+ 'pornhub.com' 'web.archive.org']"

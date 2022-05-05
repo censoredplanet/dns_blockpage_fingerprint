@@ -1,0 +1,23 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+159.138.1.62,9,412.1111111111111,0.020430300793176204,0.9999504252609495,"['Content-Length: 258', 'Content-Type: text/html; charset=iso-8859-1', 'Date: Sun, 28 Mar 2021 23:56:44 GMT', 'Location: http://sl.al/', 'Server: Apache']<!DOCTYPE HTML PUBLIC ""-//IETF//DTD HTML 2.0//EN"">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href=""http://sl.al/"">here</a>.</p>
+<hr>
+<address>Apache Server at netflix.com Port 80</address>
+</body></html>
+","['netflix.com' 'www.netflix.com' 'www.bbc.co.uk' 'go.com'
+ 'www.pandora.com' 'abc.go.com' 'www.nbc.com' 'hulu.com' 'pandora.com']"
+176.9.122.179,6,399.0,0.0,1.0,"['Age: 36354', 'Content-Language: en-US', 'Content-Length: 0', 'Date: Sun, 28 Mar 2021 13:47:54 GMT', 'Location: https://anydesk.org/en', 'Server: Shecan', 'Via: 1.1 660f4277d8fbef27985e8a4a97e362cc.cloudfront.net (CloudFront)', 'X-Amz-Cf-Id: ZwG5ztoRLC0-QbEuDUHlyAidYwgTvP7jlQX7JKcSABfe1QJQznkcKA==', 'X-Amz-Cf-Pop: FRA53-C1', 'X-Cache: Hit from cloudfront', 'X-Original-Uri: https://anydesk.com/']","['www.refugeesinternational.org' 'www.ariannelingerie.com'
+ 'www.shazam.com' 'service-now.com' 'www.pridemedia.com' 'td.com'
+ 'www.freespeechcoalition.com' 'abc.go.com']"
+193.134.194.220,3,474.3333333333333,0.0017213561087724373,0.9999963709990679,"['Connection: Keep-Alive', 'Content-Length: 229', 'Content-Type: text/html; charset=iso-8859-1', 'Date: Sun, 28 Mar 2021 23:54:38 GMT', 'Keep-Alive: timeout=5, max=100', 'Location: https://www.ilo.org/global/lang--en/index.htm', 'Server: Apache']<!DOCTYPE HTML PUBLIC ""-//IETF//DTD HTML 2.0//EN"">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href=""https://www.ilo.org/global/lang--en/index.htm"">here</a>.</p>
+</body></html>
+",['twitpic.com' 'mheducation.com' 'jpnn.com']

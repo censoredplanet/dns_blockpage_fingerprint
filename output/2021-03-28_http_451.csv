@@ -1,0 +1,86 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+193.58.251.1,20,2766.0,0.0,1.0,"['Content-Length: 2697', 'Content-Type: text/html; encoding=utf-8', 'Date: Sun, 28 Mar 2021 23:54:44 GMT', 'Server: SkyDNS', 'Set-Cookie: _csrf=04f8da29bae24c37415beea86e1ee46b; expires=Mon, 29 Mar 2021 00:09:45 GMT', 'Set-Cookie: sessionid=EAVebGgYLnlOwLrsPIusFhpnvghZoeIs; expires=Mon, 29 Mar 2021 01:54:45 GMT; path=/; HttpOnly', 'Vary: Cookie']
+  <!DOCTYPE html>
+  <html class=""[ page ] [ 
+  theme_white
+ ]"">
+    <head>
+      <meta charset=""utf-8"">
+      
+  
+    <title>
+  Настройки фильтра обновляются
+</title>
+  
+  <base href=""https://cdn-b.skydns.ru/static/"" target=""_blank"">
+  <link rel=""preload stylesheet"" href=""css/styles.css"" type=""text/css"" as=""style"">
+  <link rel=""preload"" href=""fonts/pt/regular.ttf"" type=""font/ttf"" as=""font"" crossorigin=""preload anonymous"">
+  <link rel=""preload"" href=""fonts/pt/bold.ttf"" type=""font/ttf"" as=""font"" crossorigin=""preload anonymous"">
+
+    </head>
+    
+  <body class=""cover"">
+    <div class=""[ cover__centered ] [ stack center center_width_x1.5 ]"">
+      <header class=""stack"">
+        
+          <svg class=""icon icon_color_blue icon_size_x10"" xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 32 32"">
+            <path d=""M7.7 16A8.3 8.3 0 0117 7.7l-3.9 4 1.7 1.7 6.7-6.7L14.7 0 13 1.7l3.8 3.6H16a10.7 10.7 0 00-7.2 18.6l1.7-1.7A8.3 8.3 0 017.7 16zm19 0c0-3.2-1.4-6-3.5-8l-1.7 1.8A8.3 8.3 0 0116 24.3l-.9-.1 4-3.9-1.7-1.7-6.7 6.7 6.7 6.7 1.6-1.7-3.7-3.7h.7c5.8 0 10.6-4.8 10.6-10.6z""/>
+          </svg>
+        
+        <hgroup class=""font-weight_bold"">
+          <h1 class=""font-size_s5 color_blue"">
+            
+              
+  Настройки фильтра обновляются
+
+            
+          </h1>
+          <h2>
+            
+              
+              
+  Ваши новые настройки пока еще не вступили в силу. Рекомендуем перезагрузить страницу или очистить кеш браузера.
+
+            
+          </h2>
+        </hgroup>
+      </header>
+      <main class=""stack"">
+        
+          <p>
+  Как очистить кеш браузера вы можете посмотреть в <a class=""link"" href=""https://www.skydns.ru/guide/"">инструкции</a>. Если проблема будет сохраняться - свяжитесь со <a class=""link"" href=""https://www.skydns.ru/feedback/"">службой технической поддержки</a>.
+</p>
+        
+      </main>
+      <footer>
+        
+          <button class=""[ link color_blue ] [ icon-container ]"" onclick=""javascript:history.back(); return false;"">
+            <svg class=""[ icon-container__icon ] [ icon icon_color_blue ]"" xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 32 32"">
+              <path d=""M3.7 17l6 6-1.4 1.3L0 16l8.3-8.3L9.7 9l-6 6H32v2zm0 0""/>
+            </svg>
+            
+  Вернуться назад
+
+          </button>
+        
+      </footer>
+    </div>
+    
+    
+  
+    <!-- profile: 0 -->
+  
+
+    
+  
+    <!-- xray: 2e34dd -->
+  
+
+  </body>
+
+  </html>
+","['yy.com' 'www.dating.com' 'www.nifty.org' 'protonmail.com' 'mgid.com'
+ '8thstreetlatinas.com' 'www.crazyshit.com' 'www.paltalk.com' 'bet9ja.com'
+ 'deviantart.com' 'autistici.org' 'informer.com' 'www.stumbleupon.com'
+ 'www.feminist.com' 'delicious.com' 'www.gmhc.org' 'www.thegailygrind.com'
+ 'www.fark.com' 'facebook.com' 'www.queerty.com']"

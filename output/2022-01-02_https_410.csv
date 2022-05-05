@@ -1,16 +1,4 @@
 ip,domain_count,avg_length,standard_deviation,similarity,content,domains
-151.101.77.164,9,446.0,0.0,1.0,"['Accept-Ranges: bytes' 'Content-Length: 173' 'Content-Type: text/html'
- 'Date: Sun, 02 Jan 2022 23:39:29 GMT' 'Retry-After: 0' 'Server: Varnish'
- 'Via: 1.1 varnish' 'X-Cache: MISS' 'X-Cache-Hits: 0'
- 'X-Served-By: cache-hkg17922-HKG' 'X-Timer: S1641166769.296361,VS0,VE0']<html>
-<head></head>
-<body>
-nothing here
-<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
-</body>
-</html>","['web.archive.org' 'www.pokerstars.com' 'daum.net' 'www.facebook.com'
- 'www.youtube.com' 'www.wikipedia.org' 'pornhub.com' 'medium.com'
- 'breitbart.com']"
 104.244.43.99,9,445.0,0.0,1.0,"['Accept-Ranges: bytes' 'Content-Length: 173' 'Content-Type: text/html'
  'Date: Sun, 02 Jan 2022 23:35:41 GMT' 'Retry-After: 0' 'Server: Varnish'
  'Via: 1.1 varnish' 'X-Cache: MISS' 'X-Cache-Hits: 0'
@@ -23,6 +11,18 @@ nothing here
 </html>","['medium.com' 'breitbart.com' 'www.youtube.com' 'www.pokerstars.com'
  'www.wikipedia.org' 'www.facebook.com' 'daum.net' 'web.archive.org'
  'pornhub.com']"
+151.101.77.164,9,446.0,0.0,1.0,"['Accept-Ranges: bytes' 'Content-Length: 173' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:39:29 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Cache: MISS' 'X-Cache-Hits: 0'
+ 'X-Served-By: cache-hkg17922-HKG' 'X-Timer: S1641166769.296361,VS0,VE0']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['web.archive.org' 'www.pokerstars.com' 'daum.net' 'www.facebook.com'
+ 'www.youtube.com' 'www.wikipedia.org' 'pornhub.com' 'medium.com'
+ 'breitbart.com']"
 104.244.43.35,8,445.0,0.0,1.0,"['Accept-Ranges: bytes' 'Content-Length: 173' 'Content-Type: text/html'
  'Date: Sun, 02 Jan 2022 23:37:04 GMT' 'Retry-After: 0' 'Server: Varnish'
  'Via: 1.1 varnish' 'X-Cache: MISS' 'X-Cache-Hits: 0'

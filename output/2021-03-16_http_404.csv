@@ -1,0 +1,106 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+104.244.45.246,297,203.0,0.0,1.0,"['Cache-Control: no-cache, no-store, max-age=0', 'Content-Length: 0', 'Date: Tue, 16 Mar 2021 04:52:38 GMT', 'Server: tsa_c', 'X-Connection-Hash: 06ba9082664dcf26cfa68743c6ca63fd', 'X-Response-Time: 14']","['ytmp3.cc' 'www.scribd.com' 'www.bitfinex.com' 'www.democracynow.org'
+ 'www.youporn.com' 'multimedia.scmp.com' 'google.co.kr' 'google.com.mx'
+ 'youtube.com' 'www.ndi.org' 'discordapp.com' 'googlevideo.com'
+ 'www.ifj.org' 'digg.com' 'ask.com' 'flickr.com' 'nypost.com' 'google.ru'
+ 'google.com.pe' 'surfshark.com' 'www.giganews.com' 'pixnet.net' 'redd.it'
+ 'www.binance.com' 'businessinsider.com' 'globalvoices.org'
+ 'www.xvideos.com' 'www.slideshare.net' 'www.amnesty.org'
+ 'theguardian.com' 'www.nbcnews.com' 'google.com.eg' 'google.co.uk'
+ 'www.torproject.org' 'citizenlab.ca' 'nikkei.com' 'www.xxlmag.com'
+ 'duckduckgo.com' 'www.cpj.org' 'google.at' 'google.com.pk' 'google.ro'
+ 'en.wikipedia.org' 'bbc.com' 'bravotube.net' 'www.sendspace.com'
+ 'dagospia.com' 'psiphon.ca' 'www.ask.com' 'blogger.com' 'www.hrw.org'
+ 'www.lemonde.fr' 'google.com.my' 'mastodon.cloud' 'dailymail.co.uk'
+ 'istockphoto.com' 'www.opentech.fund' 'www.cbc.ca' 'zh.wikipedia.org'
+ 'www.4shared.com' 'www.amnestyusa.org' 'fr.wikipedia.org'
+ 'www.betternet.co' 'geti2p.net' 'google.ch' 'www.adventist.org'
+ 'www.quora.com' 'google.com.tw' 'ca.wikipedia.org' 'joinmastodon.org'
+ 'issuu.com' 'google.co.ve' 'www.frontlinedefenders.org' 'xvideos.com'
+ 'redbubble.com' 'sites.google.com' 'telegra.ph' 'uptodown.com'
+ 'medium.com' '9gag.com' 'google.pl' 'google.com.br' 'deviantart.com'
+ 'beeg.com' 'coursehero.com' 'www.lightsailvpn.com' 'www.tumblr.com'
+ 'slate.com' 'plus.google.com' 'ultrasurf.us' 'kumparan.com'
+ 'en.m.wikipedia.org' 'web.telegram.org' 'washingtonpost.com' 'ltn.com.tw'
+ 'dw.com' 'www.crazyshit.com' 'google.gr' 'www.meetme.com' 'google.ca'
+ 'www.ftchinese.com' 'www.twitch.tv' 'bet365.com' 'freenetproject.org'
+ 'nytimes.com' 'www.joinclubhouse.com' 'nicovideo.jp' 'www.pornhub.com'
+ 'www.asstr.org' 'www.hotspotshield.com' 'www.rfa.org' 'btguard.com'
+ 'kakao.com' 'peacefire.org' 'searx.me' 'www.pinterest.com'
+ 'pchome.com.tw' 'bbc.co.uk' 'google.com.sa' 'google.de' 'blogspot.com'
+ 'apkpure.com' 'tumblr.com' 'wikileaks.org' 'genius.com' 'www.youtube.com'
+ 'google.es' 'chaturbate.com' 'tor.eff.org' 'www.transparency.org'
+ 'www.uproxy.org' 'telegram.org' 'myabortionstory.tumblr.com'
+ 'www.csmonitor.com' 'www.google.com' 'groups.google.com' 'disqus.com'
+ 'app.wire.com' 'www.aljazeera.com' 'archive.org' 'goodreads.com'
+ 'google.co.th' 'nownews.com' 'www.tango.me' 'guardster.com'
+ 'www.search.com' 'www.bbc.com' 'www.purevpn.com' 'rakuten.co.jp'
+ 'google.com.ua' 'www.proxyweb.net' 'www.peacefire.org' 'www.whatsapp.com'
+ 'setn.com' 'mastodon.xyz' 'www.theguardian.com' 'wire.com' 'etsy.com'
+ 'www.nytimes.com' 'twitch.tv' 'turbobit.net' 'openvpn.net'
+ 'www.brookings.edu' 'mstdn.io' 'google.com.tr' 'nordvpn.com' 'signal.org'
+ 'bridges.torproject.org' 'google.co.za' 'google.com.ar' 'google.cl'
+ 'livestream.com' 'ar.wikipedia.org' 'freedomhouse.org' 'whatsapp.com'
+ 'www.messenger.com' 'y2mate.com' 'de.wikipedia.org' 'dcard.tw'
+ 'www.bbc.co.uk' 'appledaily.com' 'www.change.org'
+ 'www.ultimate-anonymity.com' 'it.wikipedia.org' 'line.me' 'google.fr'
+ 'thepiratebay.org' 'www.dailymail.co.uk' 'www.dw.com' 'google.com.au'
+ 'livejasmin.com' 'dailymotion.com' 'xnxx.com' 'depositphotos.com'
+ 'www.theatlantic.com' 'www.facebook.com' 'binance.com' 'google.co.in'
+ 'pinterest.com' 'google.com.hk' 'imo.im' 'www.securityinabox.org'
+ 'www.reuters.com' 'archiveofourown.org' 'getlantern.org'
+ 'mastodon.social' 'abc.net.au' 'vimeo.com' 'facebook.com' 'xhamster.com'
+ 'groups.yahoo.com' 'theepochtimes.com' 'docs.google.com'
+ 'tvants.uptodown.com' 'google.com.co' 'www.dailysabah.com' 'alt.com'
+ 'proxify.com' 'riseup.net' 'google.az' 'www.ned.org'
+ 'freespeechdebate.com' 'unpo.org' 'www.pokerstars.com' 'elpais.com'
+ 'imgur.com' 'reddit.com' 'es.wikipedia.org' 'google.com.sg'
+ 'pt.m.wikipedia.org' 'www.flickr.com' 'www.xroxy.com' 'speedify.com'
+ 'www.economist.com' 'www.reddit.com' 'www.wikipedia.org' 'securevpn.com'
+ 'encrypted.google.com' 'daum.net' 'breitbart.com' 'ru.wikipedia.org'
+ 'www.theepochtimes.com' 'google.co.jp' 'theintercept.com' 'ok.ru'
+ 'mixi.jp' 'onedrive.live.com' 'getoutline.org' 'www.heritage.org'
+ 'pornhub.com' 'thunder.free-signal.com' 'google.com.vn' 'google.it'
+ 'shopee.tw' 'www.anonymizer.com' 'www.ebaumsworld.com'
+ 'www.privateinternetaccess.com' 'rsf.org' 'youporn.com'
+ 'www.gotgayporn.com' 'behance.net' 'reuters.com' 'ja.wikipedia.org'
+ 'nbcnews.com' 'timesofindia.indiatimes.com' 'protonvpn.com'
+ 'google.co.id' 'www.altavista.com' 'www.hizb-ut-tahrir.org'
+ 'ar.m.wikipedia.org' 'www.dailymotion.com' 'www.persecution.org'
+ 'www.goodreads.com' 'dropbox.com' 'slideshare.net' 'soundcloud.com'
+ 'pinterest.jp' 'quora.com' 'www.dropbox.com' '1337x.to' 'spankbang.com'
+ 'wikipedia.org' 'hootsuite.com' 'goo.ne.jp' 'ooni.torproject.org'
+ 'www.megaproxy.com' 'www.getoutline.org' 'google.nl' 'www.blogger.com'
+ 'web.archive.org' 'es.m.wikipedia.org' 'www.voanews.com' 'feedly.com'
+ 'badoo.com' 'steamcommunity.com' 'bloomberg.com' 'www.rferl.org']"
+172.217.5.206,31,1694.0,0.0,1.0,"['Content-Length: 1561', 'Content-Type: text/html; charset=UTF-8', 'Date: Tue, 16 Mar 2021 04:54:04 GMT', 'Referrer-Policy: no-referrer']<!DOCTYPE html>
+<html lang=en>
+  <meta charset=utf-8>
+  <meta name=viewport content=""initial-scale=1, minimum-scale=1, width=device-width"">
+  <title>Error 404 (Not Found)!!1</title>
+  <style>
+    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
+  </style>
+  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>
+  <p><b>404.</b> <ins>That’s an error.</ins>
+  <p>The requested URL <code>/</code> was not found on this server.  <ins>That’s all we know.</ins>
+","['bongacams.com' 'xvideos.com' 'www.hustler.com' 'hotgaylist.com'
+ 'bravotube.net' 'livejasmin.com' 'www.youporn.com' 'spankbang.com'
+ 'www.asstr.org' 'youporn.com' 'chaturbate.com' 'dmm.co.jp' 'alt.com'
+ 'anonym.to' 'sxyprn.com' '8thstreetlatinas.com' 'adultfriendfinder.com'
+ 'www.nifty.org' 'pornhub.com' 'www.crazyshit.com' 'xhamster.com'
+ 'xnxx.com' 'www.lushstories.com' 'www.sex.com' 'www.playboy.com'
+ 'beeg.com' 'onlyfans.com' 'www.pornhub.com' 'download.cnet.com'
+ 'www.xvideos.com' 'www.ebaumsworld.com']"
+216.58.208.211,3,1731.0,0.0,1.0,"['Content-Length: 1561', 'Content-Type: text/html; charset=UTF-8', 'Date: Tue, 16 Mar 2021 04:52:20 GMT', 'Server: ghs', 'X-Frame-Options: SAMEORIGIN', 'X-Xss-Protection: 0']<!DOCTYPE html>
+<html lang=en>
+  <meta charset=utf-8>
+  <meta name=viewport content=""initial-scale=1, minimum-scale=1, width=device-width"">
+  <title>Error 404 (Not Found)!!1</title>
+  <style>
+    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
+  </style>
+  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>
+  <p><b>404.</b> <ins>That’s an error.</ins>
+  <p>The requested URL <code>/</code> was not found on this server.  <ins>That’s all we know.</ins>
+",['www.terredeshommes.nl' 'primevideo.com' 'cdc.gov']

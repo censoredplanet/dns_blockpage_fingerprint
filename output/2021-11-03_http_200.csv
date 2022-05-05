@@ -1,0 +1,2076 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+159.255.26.69,397,2239.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 2036', 'Content-Type: text/html', 'Date: Wed, 03 Nov 2021 22:42:08 GMT', 'Etag: ""61612aa6-7f4""', 'Last-Modified: Sat, 09 Oct 2021 05:37:42 GMT', 'Server: nginx']<body>
+<!-- Yandex.Metrika counter -->
+<div style=""display:none;""><script type=""text/javascript""> (function(w, c) {
+     (w[c] = w[c] || []).push(function() {
+         try {
+             w.yaCounter9542920 = new Ya.Metrika({id:9542920,enableAll: true});
+         }
+         catch(e) { }
+     });
+})(window, ""yandex_metrika_callbacks"");
+</script></div>
+<script src=""//mc.yandex.ru/metrika/watch.js"" type=""text/javascript"" defer=""defer""></script>
+<noscript><div><img src=""//mc.yandex.ru/watch/9542920""
+style=""position:absolute; left:-9999px;"" alt="""" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Yandex.Metrika counter -->
+<script type=""text/javascript"" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, ""script"", ""https://mc.yandex.ru/metrika/tag.js"", ""ym"");
+
+   ym(55577485, ""init"", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src=""https://mc.yandex.ru/watch/55577485"" style=""position:absolute; left:-9999px;"" alt="""" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics_debug.js','ga');
+
+ga('create', 'UA-5639384-17', 'auto');
+ga('send', 'pageview');
+</script>
+<script type=""text/javascript"">
+  if(document.body.clientWidth > 600){
+    document.location.href=""/block_big.html"";
+  } else if(document.documentElement.clientWidth > 300) {
+    document.location.href=""/block_middle.html"";
+  } else {
+    document.location.href=""/block_small.html"";
+  }
+</script>
+","['www.pravda.ru' 'www.rollingstone.com' 'myanimelist.net' 'shareasale.com'
+ 'anonymouse.org' 'renren.com' 'wildberries.ru' 'www.gamespot.com'
+ 'www.yelp.com' '8thstreetlatinas.com' 'www.hidemyass.com' 'wikipedia.org'
+ 'dailymail.co.uk' 'www.gmhc.org' 'www.theatlantic.com'
+ 'www.lgbtqnation.com' 'identi.ca' 'msn.com' 'twitter.com'
+ 'timesofindia.indiatimes.com' 'www.rockstargames.com' 'www.hustler.com'
+ 'www.888casino.com' 'jw.org' 'www.peacefire.org' 'www.advocate.com'
+ 'transsexual.org' 'www.photobucket.com' 'commons.wikimedia.org'
+ 'www.collegehumor.com' 'www.tunnelbear.com' 'dailymotion.com'
+ 'www.youtube.com' 'www.ning.com' 'olx.ua' 'www.meetup.com'
+ 'www.playboy.com' 'www.exgay.com' 'howtogrowmarijuana.com'
+ 'pt.m.wikipedia.org' 'www.gaystarnews.com' 'binance.com' 'pornhub.com'
+ 'www.twitch.tv' 'www.ushmm.org' 'impress.co.jp' 'www.appzplanet.com'
+ 'usatoday.com' 'www.slotland.com' 'ar.m.wikipedia.org'
+ 'www.lingerieatlarge.com' 'peacefire.org' 'fr.wikipedia.org'
+ 'godhatesfags.com' 'indiatimes.com' 'pridesource.com'
+ 'encrypted.google.com' 'doordash.com' 'www.wechat.com' 'www.snapchat.com'
+ 'goodreads.com' 'sina.com.cn' 'www.delicates.co.uk'
+ 'community.livejournal.com' 'www.4chan.org' 'uol.com.br'
+ 'www.whitepower.com' 'livejasmin.com' 'vecteezy.com'
+ 'www.goldenrivieracasino.com' 'aliexpress.com' 'casino.com'
+ 'www.reddit.com' 'gist.github.com' 'www.positive.org' 'secure.flickr.com'
+ 'www.instagram.com' 'mashable.com' 'onlyfans.com' 'translate.google.com'
+ 'www.ilga-europe.org' 'www.scribd.com' 'www.feminist.org' 'iqiyi.com'
+ 'www.vice.com' 'flickr.com' 'issuu.com' 'www.aceshigh.com'
+ 'www.agentprovocateur.com' 'xbox.com' 'xhamster.com' 'www.queerty.com'
+ 'www.betfair.com' 'family.cloudflare-dns.com' 'badoo.com'
+ 'www.theregister.co.uk' 'secure.hi5.com' 'flirtylingerie.com'
+ 'www.securityinabox.org' 'slate.com' 'worldsingles.com' 'www.bme.com'
+ 'www.dailymotion.com' 'www.abcunderwear.com' 'www.eveonline.com'
+ 'www.thegailygrind.com' 'www.xroxy.com' 'www.wiktionary.org'
+ 'www.teenhealthfx.com' 'aparat.com' 'instagram.com' 'kickstarter.com'
+ 'ru.wikipedia.org' 'pflag.org' 'www.spinpalace.com' 'hotmail.msn.com'
+ 'upload.wikimedia.org' 'www.thetrevorproject.org' 'redtube.com'
+ 'wikihow.com' 'beeg.com' 'www.breastenlargementmagazine.com'
+ 'www.alarabiya.net' 'www.freeservers.com' 'panties.com'
+ 'thepiratebay.org' 'www.privateinternetaccess.com' 'ultrasurf.us'
+ 'www.budweiser.com' 'ar.wikipedia.org' 'forum.grasscity.com' 'ivi.ru'
+ 'livejournal.com' 'mgid.com' 'sexetc.org' 'www.lushstories.com'
+ 'www.partypoker.net' 'www.implantinfo.com' 'www.megaproxy.com'
+ 'www.mininova.org' 'ja.wikipedia.org' 'www.anonymizer.com'
+ 'www.advocatesforyouth.org' 'moneycontrol.com'
+ 'www.freespeechcoalition.com' 'www.itsyoursexlife.com' 'www.poker.com'
+ '360.cn' '9gag.com' 'www.lesbiansubmission.com' 'www.stonewall.org.uk'
+ 'buzzfeed.com' 'twitpic.com' 'www.khilafah.com'
+ 'www.religioustolerance.org' 'aliexpress.ru' 'rbc.ru' 'weibo.com'
+ 'www.casinotropez.com' 'www.grandonline.com' 'www.hrc.org'
+ 'steamcommunity.com' 'archive.org' 'www.anonymitychecker.com'
+ 'creativecommons.org' 'khilafah.net' 'mileroticos.com' 'www.siecus.org'
+ 'www.dogpile.com' 'www.asstr.org' 'nypost.com' 'rutracker.org'
+ 'cc.bingj.com' 'www.mate1.com' 'www.sex.com' 'www.pcgamer.com'
+ 'rakuten.com' 'www.coquette.com' 'www.cia.gov' 'www.planetromeo.com'
+ 'www.usacasino.com' 'dmm.co.jp' 'nicovideo.jp' 'phrack.org' 'tass.ru'
+ 'torrentz.eu' 'web.archive.org' 'tumblr.com' 'www.anonymizer.ru'
+ 'deviantart.com' 'www.guerrillagirls.com' 'www.bbc.com'
+ 'www.counter-strike.net' 'www.pornhub.com' 'scribd.com' 'psiphon.ca'
+ 'tiktok.com' 'www.eharmony.com' 'www.avert.org' 'ilga.org' 'bisexual.org'
+ 'businessinsider.com' 'www.towleroad.com' 'bet9ja.com' 'www.search.com'
+ 'www.scarleteen.com' 'twitch.tv' 'i.instagram.com' 'lenta.ru'
+ 'vseigru.net' 'www.carnivalcasino.com' 'www.gambling.com'
+ 'www.facebook.com' 'www.flickr.com' 'www.xxlmag.com' 'yelp.com'
+ 'groups.yahoo.com' 'www.speeddater.co.uk' 'sfsi.org' 'softonic.com'
+ 'www.stumbleupon.com' 'ddo.com' 'www.messenger.com' 'www.pinterest.com'
+ 'www.gayhealth.com' 'soso.com' 'www.meetme.com' 'www.beer.com'
+ 'chaturbate.com' 'www.4online-gambling.com' 'www.proxyweb.net'
+ 'advocacy.globalvoicesonline.org' 'hootsuite.com' 'xnxx.com'
+ 'www.absolut.com' 'www.veoh.com' 'www.liveleak.com' 'www.livejournal.com'
+ 'xvideos.com' 'taobao.com' 'www.fuckingfreemovies.com'
+ 'www.ultimate-anonymity.com' 'depositphotos.com' 'bitcoin.org' 't.co'
+ 'ok.ru' 'google.de' 'telegra.ph' 'www.torproject.org' 'www.no-porn.com'
+ 'reddit.com' 'getadblock.com' 'www.no-ip.com' 'store.steampowered.com'
+ 'www.wikipedia.org' 'disqus.com' 'pinterest.com' 'strongvpn.com'
+ 'bridges.torproject.org' 'feministing.com'
+ 'www.moderndrunkardmagazine.com' 'www.europacasino.com'
+ 'it.wikipedia.org' 'www.serials.ws' 'www.rollitup.org'
+ 'washingtonpost.com' 'xanga.com' 'hugedomains.com'
+ 'goaskalice.columbia.edu' 'www.youporn.com' 'www.tsroadmap.com'
+ 'www.tumblr.com' 'rakuten.co.jp' 'techradar.com' 'www.inetprivacy.com'
+ 'www.queernet.org' 'www.pogo.com' 'statcounter.com' 'multiproxy.org'
+ 'pastebin.com' 'alibaba.com' 'zh.wikipedia.org' 'ozon.ru'
+ 'en.wikipedia.org' 'mynet.com' 'guardster.com' 'boingboing.net'
+ 'www.freshpair.com' 'es.m.wikipedia.org' 'rt.com' 'adultfriendfinder.com'
+ 'trashy.com' 'es.wikipedia.org' 'www.xbox.com' 'www.glaad.org'
+ 'bet365.com' 'www.deathmetal.org' 'genius.com' 'tudou.com' 'sogou.com'
+ 'www.dailymail.co.uk' 'plus.google.com' 'www.afterellen.com'
+ 'www.indiatimes.com' 'ria.ru' 'search.aol.com' 'teenadvice.about.com'
+ 'sputniknews.com' 'www.newnownext.com' '666games.net' 'researchgate.net'
+ 'www.sexandu.ca' 'www.startmail.com' 'facebook.com' 'www.fark.com'
+ 'qq.com' 'lifestream.aol.com' 'webcache.googleusercontent.com'
+ 'www.lovoo.com' 'www.mamma.com' 'www.okcupid.com' 'www.metacrawler.com'
+ 'bebo.com' 'www.gotgayporn.com' 'list-manage.com'
+ 'www.angelfire.lycos.com' 'linkedin.com' 'www.last.fm' 'tradingview.com'
+ 'www.glil.org' 'www.msn.com' 'www.huffingtonpost.com'
+ 'www.pinknews.co.uk' 'vk.com' 'lifo.gr' 'www.teensource.org' 'poki.com'
+ 'archiveofourown.org' 'lambdalegal.org' 'www.datingdirect.com'
+ 'roblox.com' 'blueskyswimwear.com' 'bbc.com' 'www.gay.com' 'alt.com'
+ 'www.ebaumsworld.com' 'wikimedia.org' 'www.pokerstars.com'
+ 'www.tiktok.com' 'www.babylon-x.com' 'www.bitfinex.com'
+ 'www.researchgate.net' 'www.glsen.org' 'www.http-tunnel.com'
+ 'jezebel.com' 'cultdeadcow.com' 'ooni.torproject.org'
+ 'www.onlinegambling.com' 'www.erowid.org' 'worldofwarcraft.com'
+ 'www.binance.com' 'myabortionstory.tumblr.com' 'www.out.com'
+ 'www.pof.com' 'anonym.to' 'txxx.com' 'www.hotspotshield.com'
+ 'bongacams.com' 'proxify.com' 'hola.org' 'en.m.wikipedia.org' 'npr.org'
+ 'www.rt.com' 'gawker.com' 'www.crazyshit.com' 'hotgaylist.com'
+ 'www.zensur.freerk.com' 'www.89.com' 'secondlife.com' 'de.wikipedia.org'
+ 'soundcloud.com' 'heavy.com' 'www.linkedin.com' 'www.3wishes.com'
+ 'www.sina.com.cn' 'www.doctissimo.fr' 'www.wikidata.org'
+ 'cloudflare-dns.com' 'myspace.com' 'youtube.com'
+ 'mozilla.cloudflare-dns.com' 'ca.wikipedia.org' 'www.theonion.com'
+ 'www.goodreads.com' 'www.nifty.org' 'www.xvideos.com' 'www.tmz.com']"
+75.126.150.210,291,246.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 4', 'Content-Type: text/html', 'Date: Wed, 03 Nov 2021 22:44:52 GMT', 'Etag: ""e0b594fe20a4d71:0""', 'Last-Modified: Tue, 07 Sep 2021 19:46:04 GMT', 'Server: Microsoft-IIS/8.0', 'X-Powered-By: ASP.NET']A42b","['rsf.org' 'fr.wikipedia.org' 'telegram.org' 'web.telegram.org'
+ 'www.reuters.com' 'btguard.com' 'www.heritage.org' 'googlevideo.com'
+ 'imo.im' 'quora.com' 'www.dailymail.co.uk' 'www.ftchinese.com'
+ 'www.ultimate-anonymity.com' 'udn.com' 'docs.google.com' 'securevpn.com'
+ 'google.com.tw' 'www.instagram.com' 'plus.google.com' 'ultrasurf.us'
+ 'www.giganews.com' 'www.uproxy.org' 'thepiratebay.org' 'goo.ne.jp'
+ 'google.ru' 'onedrive.live.com' 'kumparan.com'
+ 'timesofindia.indiatimes.com' 'www.adventist.org' 'www.dropbox.com'
+ 'www.4shared.com' 'www.xroxy.com' 'jawapos.com' 'www.blogger.com'
+ 'flickr.com' 'www.joinclubhouse.com' 'google.com.br' 'protonvpn.com'
+ 'nypost.com' 'medium.com' 'www.amnestyusa.org' 'www.youporn.com'
+ 'www.slideshare.net' 'bbc.com' 'facebook.com' 'getoutline.org' 'alt.com'
+ 'chaturbate.com' 'www.youtube.com' 'www.cpj.org' 'google.com.tr'
+ 'www.omct.org' 'torrentz.eu' 'google.ca' 'riseup.net' 'slate.com'
+ 'multimedia.scmp.com' 'www.bitfinex.com' '9gag.com' 'uptodown.com'
+ 'tradingview.com' 'tumblr.com' 'google.com.my' 'www.clubhouse.com'
+ 'www.nbcnews.com' 'nordvpn.com' 'substack.com' 'www.securityinabox.org'
+ 'google.it' 'citizenlab.ca' 'duckduckgo.com' 'twitter.com'
+ 'freespeechdebate.com' 'www.binance.com' 'mega.nz' 'groups.google.com'
+ 'www.flickr.com' 'www.whatsapp.com' 'google.co.ve' 'google.es'
+ 'badoo.com' 'blogger.com' 'nikkei.com' 'external-content.duckduckgo.com'
+ 'www.theepochtimes.com' 'www.cbc.ca' 'ask.com' 'www.asstr.org'
+ 'www.trendsmap.com' 'google.com.pe' 'dropbox.com' 'line.me'
+ 'www.gotgayporn.com' 'bravotube.net' 'archive.is' 'it.wikipedia.org'
+ 'speedify.com' 'bridges.torproject.org' 'google.com.au' 'google.com.eg'
+ 'wire.com' 'ok.ru' 'slideshare.net' 'www.washingtontimes.com'
+ 'discord.com' 'surfshark.com' 'google.de' 'www.opentech.fund'
+ 'instagram.com' 'bet365.com' 'google.co.in' 'www.ndi.org' 'disqus.com'
+ 'wikipedia.org' 'txxx.com' 'ar.m.wikipedia.org' 'www.ebaumsworld.com'
+ 'daum.net' 'steamcommunity.com' 'www.tiktok.com' 'www.nytimes.com'
+ 'google.com.ar' 'www.purevpn.com' 'www.aljazeera.com' 'es.wikipedia.org'
+ 'en.m.wikipedia.org' 'ja.wikipedia.org' 'google.gr' 'twitch.tv'
+ 'google.ch' 'issuu.com' 'ndtv.com' 'genius.com' 'bloomberg.com'
+ 'www.voanews.com' 'breitbart.com' 'www.dailymotion.com'
+ 'www.peacefire.org' 'huffpost.com' 'google.co.kr' 'google.fr'
+ 'www.scribd.com' 'pixnet.net' 'www.messenger.com' 'www.anonymizer.com'
+ 'www.fidh.org' 'www.dw.com' 'www.torproject.org' 'avaaz.org'
+ 'www.pokerstars.com' 'freenetproject.org' 'unpo.org' 'freedomhouse.org'
+ 'google.com.ua' 'www.tumblr.com' 'livestream.com' 'www.wikipedia.org'
+ 'web.archive.org' 'redtube.com' 'telegra.ph' 'www.tango.me' 'www.ask.com'
+ 'livemint.com' 'www.privateinternetaccess.com' 'mastodon.social'
+ 'de.wikipedia.org' 'www.bbc.co.uk' 'google.com.vn' 'livejasmin.com'
+ 'groups.yahoo.com' 'hootsuite.com' 'xvideos.com' 'www.goodreads.com'
+ 'google.com.sa' 'turbobit.net' 'google.az' 'geti2p.net' 'mastodon.cloud'
+ 'brave.com' 'google.cl' 'xhamster.com' 'kakao.com' '1337x.to'
+ 'www.economist.com' 'www.hrw.org' 'www.getoutline.org'
+ 'webcache.googleusercontent.com' 'www.lemonde.fr' 'whatsapp.com'
+ 'www.crazyshit.com' 'theguardian.com' 'globalvoices.org' 'www.ifj.org'
+ 'www.meetme.com' 'archiveofourown.org' 'www.occrp.org' 'discordapp.com'
+ 'imgur.com' 'www.transparency.org' 'pinterest.jp' 'ameba.jp'
+ 'google.com.sg' 'www.search.com' 'bybit.com' 'pchome.com.tw'
+ 'theintercept.com' 'coinmarketcap.com' 'ar.wikipedia.org'
+ 'ooni.torproject.org' 'pinterest.com' 'beeg.com' 'www.persecution.org'
+ 'tiktok.com' 'sites.google.com' 'www.clubhouseapi.com' 'dailymail.co.uk'
+ 'www.lightsailvpn.com' 'redd.it' 'www.twitch.tv' 'google.pl'
+ 'joinmastodon.org' 'google.com.hk' 'en.wikipedia.org' 'www.pinterest.com'
+ 'peacefire.org' 'www.brookings.edu' 'y2mate.com' 'getlantern.org'
+ 'blogspot.com' 'dcard.tw' 'elpais.com' 'soundcloud.com' 'wikileaks.org'
+ 'xnxx.com' 'mastodon.xyz' 'guardster.com' 'www.megaproxy.com'
+ 'www.theatlantic.com' 'miro.medium.com' 'es.m.wikipedia.org' 'setn.com'
+ 'www.rferl.org' 'www.frontlinedefenders.org' 'google.com.mx' 'google.ro'
+ 'secure.flickr.com' 'pornhub.com' 'tvants.uptodown.com' 'i.instagram.com'
+ 'proxify.com' 'reddit.com' 'rakuten.co.jp' 'ru.wikipedia.org'
+ 'google.co.th' 'shopee.tw' 'archive.org' 'psiphon.ca' 'depositphotos.com'
+ 'searx.me' 'zh.wikipedia.org' 'ftx.com' 'ca.wikipedia.org'
+ 'encrypted.google.com' 'dailymotion.com' 'www.xxlmag.com' 'storm.mg'
+ 'pt.m.wikipedia.org' 'mstdn.io' 'www.hotspotshield.com' 'jw.org'
+ 'digg.com' 'www.facebook.com' 'www.csmonitor.com' 'etsy.com'
+ 'nytimes.com' 'google.co.id' 'myabortionstory.tumblr.com'
+ 'coursehero.com' 'www.change.org' 'binance.com' 'www.betternet.co'
+ 'app.wire.com' 'coingecko.com' 'mixi.jp' 'tor.eff.org'
+ 'www.overdrive.com' 'washingtonpost.com' 'youtube.com' 'www.reddit.com'
+ 'gate.io' 'www.quora.com']"
+64.13.232.149,286,280.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 47', 'Content-Type: text/html', 'Date: Wed, 03 Nov 2021 22:40:33 GMT', 'Etag: ""2f-469204026d7c0""', 'Last-Modified: Tue, 05 May 2009 01:32:23 GMT', 'Server: Apache/2.4.39', 'Vary: User-Agent']<html>
+<body>
+<!-- default -->
+</body>
+</html>
+","['freedomhouse.org' 'depositphotos.com' 'speedify.com' 'google.gr'
+ 'pt.m.wikipedia.org' 'web.archive.org' 'storm.mg' 'searx.me'
+ 'google.com.ar' 'www.betternet.co' 'ru.wikipedia.org' 'livemint.com'
+ 'www.hotspotshield.com' 'google.com.my' 'google.de' 'washingtonpost.com'
+ 'jawapos.com' 'i.instagram.com' 'www.giganews.com' 'en.wikipedia.org'
+ 'archive.is' 'googlevideo.com' 'telegram.org' 'nikkei.com' 'nownews.com'
+ 'setn.com' 'www.bbc.co.uk' 'livejasmin.com' 'flickr.com' 'ameba.jp'
+ 'ar.wikipedia.org' 'www.frontlinedefenders.org' 'www.ned.org'
+ 'getlantern.org' 'nordvpn.com' 'www.persecution.org' 'google.com.br'
+ 'www.tiktok.com' 'beeg.com' 'www.cbc.ca' 'bloomberg.com' 'bravotube.net'
+ 'www.bbc.com' 'ftx.com' 'www.clubhouseapi.com' 'www.trendsmap.com'
+ 'www.lightsailvpn.com' 'www.pinterest.com' 'zh.wikipedia.org'
+ 'es.wikipedia.org' 'www.aljazeera.com' 'redtube.com' 'proxify.com'
+ 'brave.com' 'www.dailymotion.com' 'www.democracynow.org'
+ 'www.messenger.com' 'www.fidh.org' 'www.adventist.org' 'groups.yahoo.com'
+ 'www.securityinabox.org' 'globalvoices.org' 'google.co.uk' 'bbc.co.uk'
+ 'digg.com' 'discordapp.com' 'getoutline.org' 'blogger.com' 'ask.com'
+ 'app.wire.com' 'goodreads.com' 'vimeo.com' 'www.facebook.com'
+ 'multimedia.scmp.com' 'theintercept.com' 'bet365.com' 'uptodown.com'
+ 'www.uproxy.org' 'www.wikipedia.org' 'disqus.com' 'www.youtube.com'
+ 'btguard.com' 'timesofindia.indiatimes.com' 'www.nytimes.com'
+ 'www.bitfinex.com' 'dropbox.com' 'slate.com' 'torrentz.eu'
+ 'www.meetme.com' 'www.ifj.org' 'www.asstr.org' 'www.xxlmag.com'
+ 'duckduckgo.com' 'www.washingtontimes.com' 'txxx.com' 'livestream.com'
+ 'nypost.com' 'google.az' 'www.youporn.com' 'signal.org'
+ 'sites.google.com' 'www.voanews.com' 'ltn.com.tw' 'google.ca' 'daum.net'
+ 'redd.it' 'udn.com' 'openvpn.net' 'www.google.com' 'goo.ne.jp'
+ 'google.co.jp' 'www.gotgayporn.com' 'www.ultimate-anonymity.com'
+ 'es.m.wikipedia.org' 'google.ru' 'www.transparency.org' 'pornhub.com'
+ 'tor.eff.org' 'www.megaproxy.com' 'google.com.vn' 'secure.flickr.com'
+ 'www.lemonde.fr' 'archive.org' 'businessinsider.com' 'kakao.com'
+ 'citizenlab.ca' 'thunder.free-signal.com'
+ 'webcache.googleusercontent.com' 'www.dw.com' 'groups.google.com'
+ 'coursehero.com' 'archiveofourown.org' 'badoo.com' 'ar.m.wikipedia.org'
+ 'google.com.eg' 'www.peacefire.org' 'google.it' 'slideshare.net'
+ 'etsy.com' 'guardster.com' 'external-content.duckduckgo.com'
+ 'surfshark.com' 'www.pokerstars.com' 'www.pornhub.com'
+ 'www.crazyshit.com' 'jw.org' 'steamcommunity.com' 'google.co.id'
+ 'bybit.com' 'www.reddit.com' 'google.com.pe' 'www.ebaumsworld.com'
+ 'www.heritage.org' 'google.es' 'breitbart.com' 'www.clubhouse.com'
+ 'www.brookings.edu' 'youtube.com' 'www.nbcnews.com' 'theguardian.com'
+ 'www.xvideos.com' 'www.search.com' 'fr.wikipedia.org' 'thepiratebay.org'
+ 'avaaz.org' 'www.slideshare.net' 'www.goodreads.com' 'unpo.org'
+ 'twitter.com' 'www.instagram.com' 'blogspot.com' 'tradingview.com'
+ '1337x.to' 'www.xroxy.com' 'coinmarketcap.com' 'www.hrw.org'
+ 'www.ndi.org' 'www.rfa.org' 'nytimes.com' 'quora.com' 'www.omct.org'
+ 'www.binance.com' 'www.4shared.com' 'freespeechdebate.com' 'binance.com'
+ 'line.me' 'soundcloud.com' 'psiphon.ca' 'google.ch' 'google.co.th'
+ 'www.theepochtimes.com' 'shopee.tw' 'xvideos.com' 'joinmastodon.org'
+ 'rakuten.co.jp' 'www.change.org' 'google.com.sg' 'www.quora.com'
+ 'protonvpn.com' 'bbc.com' 'www.reuters.com' 'www.proxyweb.net'
+ 'ja.wikipedia.org' 'en.m.wikipedia.org' 'www.rferl.org' 'peacefire.org'
+ 'imo.im' 'hootsuite.com' 'www.twitch.tv' 'mastodon.social' 'turbobit.net'
+ 'dailymotion.com' 'y2mate.com' 'xnxx.com' 'google.co.kr' 'genius.com'
+ 'www.whatsapp.com' 'google.co.in' 'pchome.com.tw' 'de.wikipedia.org'
+ 'discord.com' 'it.wikipedia.org' 'google.com.ua' 'google.co.ve'
+ 'elpais.com' 'pinterest.jp' 'www.blogger.com' 'ultrasurf.us' 'dcard.tw'
+ 'ocsp.int-x3.letsencrypt.org' 'plus.google.com' 'whatsapp.com'
+ 'www.theatlantic.com' 'twitch.tv' 'google.com.mx' 'www.overdrive.com'
+ 'www.dailymail.co.uk' 'telegra.ph' 'miro.medium.com'
+ 'www.privateinternetaccess.com' 'deviantart.com' 'coingecko.com'
+ 'www.ask.com' 'pinterest.com' 'encrypted.google.com' 'facebook.com'
+ 'www.economist.com' 'www.occrp.org' 'pixnet.net' 'medium.com' 'google.pl'
+ 'google.com.sa' 'mastodon.xyz' 'mixi.jp' 'ndtv.com' 'gate.io'
+ 'google.com.tr' 'www.cfr.org' 'geti2p.net' 'freenetproject.org'
+ 'www.anonymizer.com' 'www.theguardian.com' 'mastodon.cloud'
+ 'dailymail.co.uk' 'riseup.net' '9gag.com' 'www.flickr.com'
+ 'google.com.au' 'wikipedia.org' 'substack.com' 'www.amnestyusa.org'
+ 'google.ro' 'ca.wikipedia.org' 'securevpn.com' 'xhamster.com'
+ 'tvants.uptodown.com' 'google.fr' 'www.opentech.fund' 'google.cl'
+ 'reddit.com' 'nicovideo.jp' 'www.ftchinese.com' 'alt.com' 'mstdn.io'
+ 'imgur.com' 'www.dropbox.com']"
+202.182.98.125,197,66474.12182741117,0.0024184454685496604,0.9999999636182412,"['Cache-Control: no-cache, private', 'Content-Type: text/html; charset=UTF-8', 'Date: Wed, 03 Nov 2021 22:48:31 GMT', 'Server: Apache/2.4.46 (Ubuntu)', 'Set-Cookie: XSRF-TOKEN=eyJpdiI6IjBldWQrdndhNjNWbTZRdm9SNVcwV2c9PSIsInZhbHVlIjoiYi9VRS9FNCt0WHlHZTRzWVhSZUxyZVAycm5RdnhQcDdWZ3NsYlgzekJqem5JektNcXdsYnRqS2NTZllSbFFIcEp0ck9oLzlQY3NaNDlmTVVCWCs1Z3duREozUVJGTmR4YnZRUDg3dFpqbktpVmhRcXBkN3R6WWlUVHpQMjIyY3ciLCJtYWMiOiJiYzY2MDFmZmEwZTQyZjgzYzAwMWFmNjZjZDNhODAxMzM3Nzk4YTYwOTljYTA1ZDExNDNlNjdlMmU1ZjZlODRmIiwidGFnIjoiIn0%3D; expires=Thu, 04-Nov-2021 00:48:31 GMT; Max-Age=7200; path=/; samesite=lax', 'Set-Cookie: laravel_session=eyJpdiI6Ikp0ZWNZZFJvUVVzdVdQbW12TkpwUmc9PSIsInZhbHVlIjoiNWdmRUswODRZeHIxbFUzVG5FTnVVcGxpVTBMeitTSVY3aWdmb2Nxd2pUdHFsSmxJcTV2M1NjaUJrVE5VRmUvaFNKSEJmSDBuN1paTDFIemtOWTFubmlJS0FQOGxvUTgzTTJzM2gxTWRFcVVIM0lOMkQ2ODZFcXg0VVFkU1dvQXciLCJtYWMiOiIxOTlkYTU1NjM5MzU1ZjNlMmM0ZThhNTQ1NDNkN2UzYTE1OGI2NzBmZTM1MmJhYTZmNGU0NWE2NjEyZGRhMWRmIiwidGFnIjoiIn0%3D; expires=Thu, 04-Nov-2021 00:48:31 GMT; Max-Age=7200; path=/; httponly; samesite=lax', 'Vary: Accept-Encoding']<!DOCTYPE html>
+<html lang=""en"">
+
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <meta http-equiv=""X-UA-Compatible"" content=""ie=edge"">
+
+    <!-- Primary Meta Tags -->
+    <title>CryptoZoon</title>
+    <meta name=""title"" content=""CryptoZoon"">
+    <meta name=""description""
+          content=""CryptoZoon is a complete platform of Digital Creatures Universe live on the Binance Smart Chain (BSC)."">
+
+    <!-- Open Graph / Facebook -->
+    <meta property=""og:type"" content=""website"">
+    <meta property=""og:url"" content=""https://cryptozoon.io/"">
+    <meta property=""og:title"" content=""CryptoZoon"">
+    <meta property=""og:description""
+          content=""CryptoZoon is a complete platform of Digital Creatures Universe live on the Binance Smart Chain (BSC)."">
+    <meta property=""og:image"" content=""http://docs.google.com/images/meta.png"">
+
+    <!-- Twitter -->
+    <meta property=""twitter:card"" content=""summary_large_image"">
+    <meta property=""twitter:url"" content=""https://cryptozoon.io/"">
+    <meta property=""twitter:title"" content=""CryptoZoon"">
+    <meta property=""twitter:description""
+          content=""CryptoZoon is a complete platform of Digital Creatures Universe live on the Binance Smart Chain (BSC)."">
+    <meta property=""twitter:image"" content=""images/meta.png"">
+
+    
+    <link rel=""stylesheet"" href=""https://pro.fontawesome.com/releases/v5.10.0/css/all.css"" integrity=""sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"" crossorigin=""anonymous""/>
+
+    <link rel=""stylesheet"" href=""http://docs.google.com/css/flaticon.css"">
+    <link rel=""stylesheet"" href=""http://docs.google.com/css/magnific-popup.css"">
+    <link rel=""stylesheet"" href=""http://docs.google.com/css/bootstrap.min.css"">
+    <link rel=""stylesheet"" href=""http://docs.google.com/css/swiper.min.css"">
+    <link rel=""stylesheet"" href=""http://docs.google.com/css/animate.css"">
+
+    <link rel=""stylesheet"" href=""http://docs.google.com/css/style.css"">
+    <link rel=""stylesheet"" href=""http://docs.google.com/css/responsive.css"">
+
+    <link rel=""apple-touch-icon"" sizes=""180x180"" href=""http://docs.google.com/images/apple-touch-icon.png"">
+    <link rel=""icon"" type=""image/png"" sizes=""32x32"" href=""http://docs.google.com/images/favicon-32x32.png"">
+    <link rel=""icon"" type=""image/png"" sizes=""16x16"" href=""http://docs.google.com/images/favicon-16x16.png"">
+    <link rel=""manifest"" href=""http://docs.google.com/images/site.webmanifest"">
+    <link rel=""mask-icon"" href=""http://docs.google.com/images/safari-pinned-tab.svg"" color=""#5bbad5"">
+    <meta name=""msapplication-TileColor"" content=""#da532c"">
+    <meta name=""theme-color"" content=""#ffffff"">
+    <script type=""text/javascript"" src=""http://docs.google.com/js/jquery-2.1.3.min.js""></script>
+    <script type=""text/javascript"" src=""http://docs.google.com/js/i18next-1.8.0.min.js""></script>
+    <script type=""text/javascript"">
+        let langSelected = localStorage.getItem(""lang"")
+        if (!langSelected) {
+            langSelected = ""en""
+        }
+        $(document).ready(function () {
+            if (langSelected === ""ru"") {
+                console.log('ru')
+                $("".navbar-collapse .main-menu li a"").css({""font-weight"": ""bold"", ""font-size"": ""13px""})
+            }
+        })
+        i18n.init({
+            lng: langSelected,
+            resGetPath: 'res/locales/__lng__/__ns__.json',
+            ns: 'messages'
+        }, function (t) {
+            $(""body"").i18n();
+            $('#en-lang').click(function () {
+                i18n.setLng('en', function (t) {
+                    $(""body"").i18n();
+                    localStorage.setItem(""lang"", ""en"")
+                    $("".navbar-collapse .main-menu li a"").css({""font-weight"": ""400"", ""font-size"": ""18px""})
+                });
+            });
+            $('#cn-lang').click(function () {
+                i18n.setLng('cn', function (t) {
+                    $(""body"").i18n();
+                    localStorage.setItem(""lang"", ""cn"")
+                    $("".navbar-collapse .main-menu li a"").css({""font-weight"": ""400"", ""font-size"": ""18px""})
+                });
+            });
+            $('#ru-lang').click(function () {
+                i18n.setLng('ru', function (t) {
+                    $(""body"").i18n();
+                    localStorage.setItem(""lang"", ""ru"")
+                    $("".navbar-collapse .main-menu li a"").css({""font-weight"": ""bold"", ""font-size"": ""13px""})
+                });
+            });
+        });
+    </script>
+</head>
+
+<body>
+
+<div class=""preloader"">
+    <div class=""preloader-inner"">
+        <div class=""preloader-icon"">
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+</div>
+
+<div class=""cursor""></div>
+
+<header class=""header-section"" id=""header"">
+    <div class=""header"">
+        <div class=""header-top-area"">
+            <div class=""container"">
+                <div class=""header-top-content d-flex flex-wrap align-items-center justify-content-between"">
+                    <div class=""header-logo"">
+                        <a class=""site-logo site-title"" href=""/"">
+                            <img src=""http://docs.google.com/images/logo.svg"" alt=""site-logo""/>
+                        </a>
+                    </div>
+                    <div class=""header-right d-flex flex-wrap align-items-center"">
+                        <div class=""header-social-area"">
+                            <ul class=""header-social"">
+                                <li>
+                                    <a href=""#"" target=""_blank"">
+                                        <i class=""fab fa-telegram-plane""></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href=""#"" target=""_blank"">
+                                        <i class=""fab fa-telegram""></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href=""#"" target=""_blank"">
+                                        <i class=""fab fa-twitter""></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href=""#"" target=""_blank"">
+                                        <i class=""fab fa-instagram""></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href=""#"" target=""_blank"">
+                                        <i class=""fab fa-reddit-alien""></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <!--                        <div class=""header-action"">-->
+                        <!--                            <a href=""#0"" class=""cmn-btn"">Join Us</a>-->
+                        <!--                        </div>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class=""header-bottom"">
+            <div class=""container"">
+                <nav class=""navbar navbar-expand-lg p-0"">
+                    <a class=""site-logo site-title d-lg-none"" href=""index.html"">
+                        <img src=""http://docs.google.com/images/logo.svg"" alt=""site-logo"">
+                    </a>
+                    <button class=""navbar-toggler ml-auto"" type=""button"" data-toggle=""collapse""
+                            data-target=""#navbarSupportedContent"" aria-controls=""navbarSupportedContent""
+                            aria-expanded=""false"" aria-label=""Toggle navigation"">
+                        <span class=""fas fa-bars""></span>
+                    </button>
+                    <div class=""collapse navbar-collapse"" id=""navbarSupportedContent"">
+                        <ul class=""navbar-nav main-menu"">
+                            <li class=""active"">
+                                <a href=""/"" data-i18n=""header.home"">Home</a>
+                            </li>
+                            <li>
+                                <a href=""#features"" data-i18n=""header.features"">Features</a>
+                            </li>
+                            <li>
+                                <a href=""#howtoplay"" data-i18n=""header.howToPlay"">How to play</a>
+                            </li>
+                            <li>
+                                <a href=""#howtoplay"" data-i18n=""header.tokenomics"">Tokenomics</a>
+                            </li>
+                            <li>
+                                <a href=""#roadmap"" data-i18n=""header.roadMap"">Roadmap</a>
+                            </li>
+                            <li>
+                                <a href=""#faq"" data-i18n=""header.faq"">FAQ</a>
+                            </li>
+                            <li>
+                                <a href=""#partners"">
+                                    Partners
+                                </a>
+                            </li>
+                            <li>
+                                <a href=""#community"" data-i18n=""header.community"">Community</a>
+                            </li>
+                            <li class=""menu_has_children""><a href=""#0"">
+                                <b data-i18n=""header.audit"">Audit</b>
+                                <i class=""fa fa-caret-down"" aria-hidden=""true""></i>
+                            </a>
+                                <ul class=""sub-menu"">
+                                    <li>
+                                        <a href=""https://www.certik.org/projects/cryptozoon"" target=""_blank"">
+                                            Certik
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href=""./PeckShield-Audit-Report-CryptoZoan-v1.0.pdf"" target=""_blank"">
+                                            PeckShield
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href=""https://dessertswap.finance/audits/CryptoZoon%20BEP-20%20Audit%209551341.pdf"" target=""_blank"">
+                                            Dessertswap
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+
+                            <li class=""menu_has_children""><a href=""#0"">More <i class=""fa fa-caret-down"" aria-hidden=""true""></i>
+                            </a>
+                                <ul class=""sub-menu"">
+                                    <li>
+                                        <a href=""./CryptoZoon-WhitePaper.pdf"" data-i18n=""header.whitepaper"">Whitepaper</a>
+                                    </li>
+                                    <li>
+                                        <a href=""https://leaderboard.cryptozoon.io"">
+                                            Leaderboard
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!--Banner-->
+<section class=""banner-section bg bg_img"" data-background=""http://docs.google.com/images/banner-bg.png"">
+
+    <div class=""banner-element-eight"">
+        <img src=""http://docs.google.com/images/line3.png"" alt=""element"">
+    </div>
+    <div class=""banner-element-nine"">
+        <img src=""http://docs.google.com/images/line4.png"" alt=""element"">
+    </div>
+    <div class=""banner-element-twelve"">
+        <img src=""http://docs.google.com/images/line3.png"" alt=""element"">
+    </div>
+    <div class=""banner-element-thirteen"">
+        <img src=""http://docs.google.com/images/line6.png"" alt=""element"">
+    </div>
+    <div class=""banner-element-fourteen"">
+        <img src=""http://docs.google.com/images/line6.png"" alt=""element"">
+    </div>
+    <div class=""banner-element-fifteen"">
+        <img src=""http://docs.google.com/images/line3.png"" alt=""element"">
+    </div>
+    <div class=""banner-element-sixteen"">
+        <img src=""http://docs.google.com/images/line7.png"" alt=""element"">
+    </div>
+    <div class=""banner-element-seventeen"">
+        <img src=""http://docs.google.com/images/line1.png"" alt=""element"">
+    </div>
+    <div class=""banner-element-eightteen"">
+        <img src=""http://docs.google.com/images/manyline.png"" alt=""element"">
+    </div>
+    <div class=""banner-element-nineteen"">
+        <img src=""http://docs.google.com/images/whitedot.png"" alt=""element"">
+    </div>
+    <div class=""container d-flex align-content-center align-items-center"">
+        <div class=""row"">
+            <div class=""col-12"">
+                <div class=""banner-content"">
+                    <h2 class=""title mb-30"">
+                        <span class=""text-primary"">CryptoZoon</span><br/>
+                        <div data-i18n=""banner.title""></div>
+                        <br>
+                        <div data-i18n=""banner.title"">a complete platform of Digital Creatures Universe live on the Binance Smart Chain</div>
+                    </h2>
+
+                    <h5 class=""text-white"">
+                        ZOON address
+                    </h5>
+                    <div class=""input-group copy-contract"">
+                        <input id=""zoon-address"" type=""text"" class=""form-control""
+                               value=""0x9D173E6c594f479B4d47001F8E6A95A7aDDa42bC"" readonly/>
+                        <div class=""input-group-append"">
+                            <button id=""copyaddress"" class=""btn btn-outline-secondary"" type=""button""
+                                    data-clipboard-target=""#zoon-address"">
+                                <i class=""fas fa-copy text-white""></i>
+                            </button>
+                        </div>
+                    </div>
+                    <a href=""https://bscscan.com/address/0x9D173E6c594f479B4d47001F8E6A95A7aDDa42bC"" target=""_blank""
+                       class=""text-yellow"">
+                        <div data-i18n=""banner.check""></div>
+                    </a>
+                    <h5 class=""text-white mt-3"">
+                        YAG address
+                    </h5>
+                    <div class=""input-group copy-contract"">
+                        <input id=""yag-address"" type=""text"" class=""form-control""
+                               value=""0x2722c9db0Fc6818DC9DD3A01254Afc3804438b64"" readonly/>
+                        <div class=""input-group-append"">
+                            <button id=""copyaddress"" class=""btn btn-outline-secondary"" type=""button""
+                                    data-clipboard-target=""#yag-address"">
+                                <i class=""fas fa-copy text-white""></i>
+                            </button>
+                        </div>
+                    </div>
+                    <a href=""https://bscscan.com/address/0x2722c9db0Fc6818DC9DD3A01254Afc3804438b64"" target=""_blank""
+                       class=""text-yellow"">
+                        <div data-i18n=""banner.check""></div>
+                    </a>
+
+                    <div class=""banner-btn-area"">
+                        <div class=""dropdown show"">
+                            <a class=""cmn-btn-border dropdown-toggle ml-0"" href=""#"" role=""button"" id=""dropdownMenuLink""
+                               data-toggle=""dropdown"" aria-haspopup=""true"" aria-expanded=""false"">
+                                <span>Buy ZOON - YAG</span>
+                            </a>
+                            <div class=""dropdown-menu"" aria-labelledby=""dropdownMenuLink"">
+                                <a class=""dropdown-item"" href=""https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x9D173E6c594f479B4d47001F8E6A95A7aDDa42bC"" target=""_blank"">
+                                    Buy ZOON
+                                </a>
+                                <a class=""dropdown-item"" href=""https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x2722c9db0Fc6818DC9DD3A01254Afc3804438b64""
+                                   target=""_blank"">
+                                    BUY YAG
+                                </a>
+                            </div>
+                        </div>
+                        <div class=""dropdown show"">
+                            <a class=""cmn-btn-border dropdown-toggle"" href=""#"" role=""button"" id=""dropdownMenuLink""
+                               data-toggle=""dropdown"" aria-haspopup=""true"" aria-expanded=""false"">
+                                <span data-i18n=""banner.docs"">Documentation</span>
+                            </a>
+                            <div class=""dropdown-menu"" aria-labelledby=""dropdownMenuLink"">
+                                <a class=""dropdown-item"" href=""https://docs.cryptozoon.io"" target=""_blank"">ENG</a>
+                                <a class=""dropdown-item"" href=""https://docs-cn.cryptozoon.io""
+                                   target=""_blank"">Chinese</a>
+                            </div>
+                        </div>
+                    <div class=""banner-btn-area mb-5"">
+                        <a href=""https://app.cryptozoon.io"" class=""cmn-btn enter-app"" target=""_blank""
+                           data-i18n=""banner.enter"">Enter App<i
+                                class=""fas fa-arrow-right""></i></a>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class=""content-wrapper"">
+    <!--Features-->
+    <section class=""about-section pt-120 pb-120"" id=""features"">
+        <div class=""about-element-one"">
+            <img src=""http://docs.google.com/images/icon-1.png"" alt=""icon"">
+        </div>
+        <div class=""about-element-two"">
+            <img src=""http://docs.google.com/images/icon-2.png"" alt=""icon"">
+        </div>
+        <div class=""about-element-three"">
+            <img src=""http://docs.google.com/images/icon-3.png"" alt=""icon"">
+        </div>
+        <div class=""about-element-four"">
+            <img src=""http://docs.google.com/images/icon-4.png"" alt=""icon"">
+        </div>
+        <div class=""about-element-five"">
+            <img src=""http://docs.google.com/images/icon-5.png"" alt=""icon"">
+        </div>
+        <div class=""about-element-six"">
+            <img src=""http://docs.google.com/images/icon-5.png"" alt=""icon"">
+        </div>
+        <div class=""about-element-seven"">
+            <img src=""http://docs.google.com/images/icon-6.png"" alt=""icon"">
+        </div>
+        <div class=""about-element-eight"">
+            <img src=""http://docs.google.com/images/icon-7.png"" alt=""icon"">
+        </div>
+        <div class=""about-element-nine"">
+            <img src=""http://docs.google.com/images/icon-8.png"" alt=""icon"">
+        </div>
+        <div class=""about-element-ten"">
+            <img src=""http://docs.google.com/images/icon-9.png"" alt=""icon"">
+        </div>
+        <div class=""container"">
+            <div class=""row justify-content-center mb-5"">
+                <div class=""col-lg-3 mb-30 d-flex justify-content-center"">
+                    <div class=""counter text-center mt-30 bg-primary"">
+                        <div class=""counter-value value-price"">
+                            N/A
+                        </div>
+                        <h3 class=""counter-title"" data-i18n=""banner.price"">
+                        </h3>
+                    </div>
+                </div>
+                <div class=""col-lg-3 mb-30 order-lg-0 order-1 d-flex justify-content-center"">
+                    <div class=""counter text-center mt-30 bg-primary"">
+                        <div class=""counter-value value-nft"">
+                            N/A
+                        </div>
+                        <h3 class=""counter-title"" data-i18n=""banner.totalNft"">
+                        </h3>
+                    </div>
+                </div>
+                <div class=""col-lg-3 mb-30 order-lg-0 order-1 d-flex justify-content-center"">
+                    <div class=""counter text-center mt-30 bg-primary"">
+                        <div class=""counter-value value-not-migration"">
+                            N/A
+                        </div>
+                        <h3 class=""counter-title"" data-i18n=""banner.notMigration"">
+                        </h3>
+                    </div>
+                </div>
+            </div>
+            <div class=""row justify-content-center align-items-center mb-30-none"">
+                <div class=""col-lg-6 mb-30 order-lg-0 order-1"">
+                    <div class=""about-item-area"">
+                        <div class=""row justify-content-center mb-30-none"">
+                            <div class=""col-lg-6"">
+                                <div class=""about-item text-center"">
+                                    <div class=""about-icon"">
+                                        <img src=""http://docs.google.com/images/features-fight.svg"" alt=""fight"">
+                                    </div>
+                                    <h3 class=""title"" data-i18n=""about.fightMonster""></h3>
+                                </div>
+                            </div>
+                            <div class=""col-lg-6"">
+                                <div class=""about-item about-item--style text-center mt-30"">
+                                    <div class=""about-icon"">
+                                        <img src=""http://docs.google.com/images/features-farming.svg"" alt=""farming"">
+                                    </div>
+                                    <h3 class=""title"" data-i18n=""about.farm"">
+                                    </h3>
+                                </div>
+                            </div>
+                            <div class=""col-lg-6 mb-30"">
+                                <div class=""about-item text-center"">
+                                    <div class=""about-icon"">
+                                        <img src=""http://docs.google.com/images/features-breeding.svg"" alt=""breeding"">
+                                    </div>
+                                    <h3 class=""title"" data-i18n=""about.breeding"">
+                                    </h3>
+                                </div>
+                            </div>
+                            <div class=""col-lg-6 mb-30"">
+                                <div class=""about-item about-item--style-two text-center mt-30"">
+                                    <div class=""about-icon"">
+                                        <img src=""http://docs.google.com/images/features-training.svg"" alt=""training"">
+                                    </div>
+                                    <h3 class=""title"" data-i18n=""about.training"">
+                                    </h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class=""col-lg-6 mb-30 order-lg-1 order-0"">
+                    <div class=""about-content"">
+                        <h3 class=""sub-title"">Play-to-earn Features</h3>
+                        <h2 class=""title"" data-i18n=""about.title"">
+                        </h2>
+                        <p data-i18n=""about.description"">
+                        </p>
+                        <div class=""about-content-btn"">
+                            <a href=""https://docs.cryptozoon.io/"" class=""cmn-btn"" target=""_blank"">Read Our Story<i
+                                    class=""fas fa-long-arrow-alt-right""></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--How to play-->
+    <section class=""challenge-section"" id=""howtoplay"">
+        <div class=""container"">
+            <div class=""challenge-area"">
+                <div class=""row justify-content-center mb-30"">
+                    <div class=""col-12 text-center"">
+                        <h2 class=""section-title"" data-i18n=""howto.title""></h2>
+                    </div>
+                </div>
+                <div class=""row justify-content-center mb-30-none"">
+                    <div class=""col-lg-4 col-md-8 col-sm-12 mb-30"">
+                        <div class=""challenge-item text-center"">
+                            <div class=""challenge-thumb"">
+                                <img src=""http://docs.google.com/images/icon-owned.svg"" alt=""owned"">
+                            </div>
+                            <div class=""challenge-content"">
+                                <h3 class=""title"" data-i18n=""howto.owned"">
+                                </h3>
+                                <p data-i18n=""howto.description"">
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class=""col-lg-4 col-md-8 col-sm-12 mb-30"">
+                        <div class=""challenge-item text-center"">
+                            <div class=""challenge-thumb"">
+                                <img src=""http://docs.google.com/images/icon-play.svg"" alt=""play"">
+                            </div>
+                            <div class=""challenge-content"">
+                                <h3 class=""title"" data-i18n=""howto.playToEarn""></h3>
+                                <p data-i18n=""howto.perform"">
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class=""col-lg-4 col-md-8 col-sm-12 mb-30"">
+                        <div class=""challenge-item text-center"">
+                            <div class=""challenge-thumb"">
+                                <img src=""http://docs.google.com/images/icon-repeat.svg"" alt=""repeat"">
+                            </div>
+                            <div class=""challenge-content"">
+                                <h3 class=""title"" data-i18n=""howto.repeat""></h3>
+                                <p data-i18n=""howto.useZOON"">
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--Tokenomics-->
+    <section class=""client-section pt-120 pb-120"" id=""tokenomics"">
+        <div class=""client-element-two"">
+            <img src=""http://docs.google.com/images/circle-2.png"" alt=""shape"">
+        </div>
+        <div class=""client-element-three"">
+            <img src=""http://docs.google.com/images/icon-5.png"" alt=""shape"">
+        </div>
+        <div class=""client-element-four"">
+            <img src=""http://docs.google.com/images/icon-6.png"" alt=""shape"">
+        </div>
+        <div class=""client-element-five"">
+            <img src=""http://docs.google.com/images/icon-7.png"" alt=""shape"">
+        </div>
+        <div class=""client-element-six"">
+            <img src=""http://docs.google.com/images/icon-5.png"" alt=""shape"">
+        </div>
+        <div class=""client-element-seven"">
+            <img src=""http://docs.google.com/images/icon-6.png"" alt=""shape"">
+        </div>
+        <div class=""client-element-eight"">
+            <img src=""http://docs.google.com/images/icon-7.png"" alt=""shape"">
+        </div>
+        <div class=""container"">
+            <div class=""row justify-content-center align-items-center mb-30-none"">
+                <div class=""col-lg-10 col-12 text-center"">
+                    <h3 class=""sub-title mb-4 text-primary"" data-i18n=""tokenomics""></h3>
+                    <img src=""http://docs.google.com/images/tokenomics.png"">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--Roadmap-->
+    <section class=""pricing-section pt-120"" id=""roadmap"">
+
+        <div class=""container"">
+            <div class=""row justify-content-center"">
+                <div class=""col-lg-8 text-center"">
+                    <div class=""section-header"">
+                        <h3 class=""sub-title"">CryptoZoon</h3>
+                        <h2 class=""section-title"" data-i18n=""roadMap.title""></h2>
+                    </div>
+                </div>
+            </div>
+            <div class=""pricing-item-area"">
+                <div class=""row justify-content-center mb-30-none"">
+                    <div class=""col-lg-4 col-md-6 col-sm-8 mb-30"">
+                        <div class=""pricing-item"">
+
+                            <div class=""pricing-header text-center"">
+                                <h2 class=""title""><span data-i18n=""roadMap.phase"">Phase</span>&nbsp;1</h2>
+                            </div>
+                            <ul class=""pricing-list"">
+                                <li class=""d-flex align-items-center"">
+                                    <i class=""fas fa-check text-success mr-1""></i>
+                                    <span data-i18n=""roadMap.content.p1.1"">
+                                        Graphic designs characters and Marketplace
+                                    </span>
+                                </li>
+                                <li class=""d-flex align-items-center"">
+                                    <i class=""fas fa-check text-success mr-1""></i>
+                                    <span data-i18n=""roadMap.content.p1.2"">
+                                        Launch Social + Website
+                                    </span>
+                                </li>
+                                <li class=""d-flex align-items-center"">
+                                    <i class=""fas fa-check text-success mr-1""></i>
+                                    <span data-i18n=""roadMap.content.p1.3"">
+                                        Audit Contract
+                                    </span>
+                                </li>
+                                <li class=""d-flex align-items-center"">
+                                    <i class=""fas fa-check text-success mr-1""></i>
+                                    <span data-i18n=""roadMap.content.p1.4"">
+                                        Marketing / Pre-sale on UniCrypt
+                                    </span>
+                                </li>
+                                <li class=""d-flex align-items-center"">
+                                    <i class=""fas fa-check text-success mr-1""></i>
+                                    <span data-i18n=""roadMap.content.p1.5"">
+                                        Public Launch on PancakeSwap
+                                    </span>
+                                </li>
+                                <li class=""d-flex align-items-center"">
+                                    <i class=""fas fa-check text-success mr-1""></i>
+                                    <span data-i18n=""roadMap.content.p1.6"">
+                                        Public Launch NFT Battle
+                                    </span>
+                                </li>
+                                <li class=""d-flex align-items-center"">
+                                    <i class=""fas fa-check text-success mr-1""></i>
+                                    <span data-i18n=""roadMap.content.p1.7"">
+                                        Public Launch NFT Marketplace
+                                    </span>
+                                </li>
+                                <li class=""d-flex align-items-center"">
+                                    <i class=""fas fa-check text-success mr-1""></i>
+                                    <span data-i18n=""roadMap.content.p1.8"">
+                                        Coingecko, Coinmarketcap Listing
+                                    </span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class=""col-lg-4 col-md-6 col-sm-8 mb-30"">
+                        <div class=""pricing-item"">
+                            <div class=""pricing-header text-center"">
+                                <h2 class=""title""><span data-i18n=""roadMap.phase"">Phase</span>&nbsp;2</h2>
+                                <!--                                <span class=""sub-title"">April Q2 2021</span>-->
+                            </div>
+                            <ul class=""pricing-list"">
+                                <li class=""d-flex align-items-center"">
+                                    <i class=""fas fa-check text-success mr-1""></i>
+                                    <span data-i18n=""roadMap.content.p2.1"">
+                                        CEX Listing
+                                    </span>
+                                </li>
+                                <li class=""d-flex align-items-center"">
+                                    <i class=""fas fa-check text-success mr-1""></i>
+                                    <span data-i18n=""roadMap.content.p2.2"">
+                                        Public Launch Against Yaki Bosses
+                                    </span>
+                                </li>
+                                <li class=""d-flex align-items-center"">
+                                    <i class=""fas fa-check text-success mr-1""></i>
+                                    <span>
+                                        Public Launch The Second Token - Yaki Gold
+                                    </span>
+                                </li>
+                                <li class=""d-flex align-items-center"">
+                                    <i class=""fas fa-check text-success mr-1""></i>
+                                    <span data-i18n=""roadMap.content.p2.5"">
+                                        Release more ZOAN NFT characters
+                                    </span>
+                                </li>
+                                <li class=""d-flex align-items-center"">
+                                    <i class=""fas fa-check text-success mr-1""></i>
+                                    <span data-i18n=""roadMap.content.p2.4"">
+                                        Influencer Marketing
+                                    </span>
+                                </li>
+                                <li class=""d-flex align-items-center"">
+                                    <i class=""fas fa-check text-success mr-1""></i>
+                                    <span data-i18n=""roadMap.content.p2.3"">
+                                        Public Launch NFT Farming
+                                    </span>
+                                </li>
+                                <li class=""d-flex align-items-center"">
+                                    <i class=""fas fa-check text-success mr-1""></i>
+                                    <span data-i18n=""roadMap.content.p2.6"">
+                                        ZOON Training alpha version
+                                    </span>
+                                </li>
+                                <li class=""d-flex align-items-center"">
+                                    <i class=""fas fa-check text-danger mr-1""></i>
+                                    <span data-i18n=""roadMap.content.p2.7"">
+                                        ZOON's Item
+                                    </span>
+                                </li>
+                                <li class=""d-flex align-items-center"">
+                                    <i class=""fas fa-check text-danger mr-1""></i>
+                                    <span data-i18n=""roadMap.content.p2.8"">
+                                        Expanding team
+                                    </span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class=""col-lg-4 col-md-6 col-sm-8 mb-30"">
+                        <div class=""pricing-item"">
+                            <div class=""pricing-header text-center"">
+                                <h2 class=""title""><span data-i18n=""roadMap.phase"">Phase</span>&nbsp;3</h2>
+                            </div>
+                            <ul class=""pricing-list"">
+                                <li>
+                                    <i class=""fas fa-check text-danger mr-1""></i>
+                                    <span data-i18n=""roadMap.content.p3.1"">
+                                        Game studio/Partnerships expanded
+                                    </span>
+                                </li>
+                                <li>
+                                    <i class=""fas fa-check text-danger mr-1""></i>
+                                    <span data-i18n=""roadMap.content.p3.2"">
+                                        ZOON Training beta - Web version
+                                    </span>
+                                </li>
+                                <li>
+                                    <i class=""fas fa-check text-danger mr-1""></i>
+                                    <span data-i18n=""roadMap.content.p3.3"">
+                                        More Exchanges
+                                    </span>
+                                </li>
+                                <li>
+                                    <i class=""fas fa-check text-danger mr-1""></i>
+                                    <span data-i18n=""roadMap.content.p3.4"">
+                                        ZOON Dapp Mobile game (IOS, Android)
+                                    </span>
+                                </li>
+                                <li>
+                                    <i class=""fas fa-check text-danger mr-1""></i>
+                                    <span data-i18n=""roadMap.content.p3.5"">
+                                        CryptoZoon Global Tournament
+                                    </span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ -->
+
+    <section class=""pricing-section pt-120"" id=""faq"">
+        <div class=""container"">
+            <div class=""row justify-content-center"">
+                <div class=""col-lg-8 text-center"">
+                    <div class=""section-header"">
+                        <h3 class=""sub-title"">FAQ</h3>
+                    </div>
+                </div>
+            </div>
+            <div class=""pricing-item-area"">
+                <div class=""row justify-content-center mb-30-none"">
+                    <div class=""col-lg-8 col-sm-12 mb-30"">
+                        <div class=""pricing-item"">
+                            <div id=""accordion"">
+                                <div class=""card"">
+                                    <div class=""card-header"" id=""headingOne"">
+                                        <h5 class=""mb-0"">
+                                            <button class=""btn btn-link"" data-toggle=""collapse""
+                                                    data-target=""#collapseOne"" aria-expanded=""true""
+                                                    aria-controls=""collapseOne""
+                                                    data-i18n=""faq.question.1""
+                                            >
+                                                Why the total supply is increasing?
+                                            </button>
+                                        </h5>
+                                    </div>
+                                    <div id=""collapseOne"" class=""collapse"" aria-labelledby=""headingOne""
+                                         data-parent=""#accordion"">
+                                        <div class=""card-body"">
+                                            <ul>
+                                                <li data-i18n=""faq.rep1.1"">
+                                                    <b>First and foremost, </b> we are timelocked, so new tokens
+                                                    cannot be minted. All tokens originating from wallet
+                                                    0x00000000.. are obtained as a prize when you defeat a monster.
+                                                </li>
+                                                <li data-i18n=""faq.rep1.2"">
+                                                    The second point is that, as previously said, the total quantity
+                                                    of Tokens in Fight Monster is 140 million. Tokens are
+                                                    distributed at initial: <b>570 million tokens.</b>
+                                                </li>
+                                                <li data-i18n=""faq.rep1.3"">
+                                                    <b>570 million tokens + 140 million tokens = 710 million
+                                                        tokens.</b> So what happens if this quantity of tokens is
+                                                    exceeded? We have a very clear plan for this; so far, more than
+                                                    20,000 NFTs have been sold, resulting in a total of 260 million
+                                                    tokens gathered from the community. This tokens will continue to
+                                                    be used for project development (Fight Monsters, Bosses,
+                                                    Training, Farming, ...)
+                                                </li>
+                                                <li data-i18n=""faq.rep1.4"">
+                                                    Our Max Total Supply Is 1 Billion.
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class=""card"">
+                                    <div class=""card-header"" id=""headingTwo"">
+                                        <h5 class=""mb-0"">
+                                            <button class=""btn btn-link collapsed"" data-toggle=""collapse""
+                                                    data-target=""#collapseTwo"" aria-expanded=""false""
+                                                    aria-controls=""collapseTwo""
+                                                    data-i18n=""faq.question.2""
+                                            >
+                                                Why the asset of CryptoZoon game is similar to some others?
+                                            </button>
+                                        </h5>
+                                    </div>
+                                    <div id=""collapseTwo"" class=""collapse"" aria-labelledby=""headingTwo""
+                                         data-parent=""#accordion"">
+                                        <div class=""card-body"">
+                                            <ul>
+                                                <li data-i18n=""faq.rep2.1"">
+                                                    We purchased the copy rights from the <b>Unity game company,</b>
+                                                    which
+                                                    are open to all game companies, and we developed these
+                                                    components based on our concept.
+                                                </li>
+                                                <li>
+                                                    <a href="" https://assetstore.unity.com/packages/2d/characters/fantazia-animated-2d-monsters-174782""
+                                                       target=""_blank"" rel=""noopener noreferrer""><b>
+                                                        https://assetstore.unity.com/packages/2d/characters/fantazia-animated-2d-monsters-174782</b></a>
+                                                </li>
+                                                <li data-i18n=""faq.rep2.2"">
+                                                    We have the <b>Assets Liciense:</b> From Unity, and we already
+                                                    bought
+                                                    Image copyright for game development.
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class=""card"">
+                                    <div class=""card-header"" id=""headingThree"">
+                                        <h5 class=""mb-0"">
+                                            <button class=""btn btn-link collapsed"" data-toggle=""collapse""
+                                                    data-target=""#collapseThree"" aria-expanded=""false""
+                                                    aria-controls=""collapseThree""
+                                                    data-i18n=""faq.question.3""
+                                            >
+                                                Dev are Doxxing or Not?
+                                            </button>
+                                        </h5>
+                                    </div>
+                                    <div id=""collapseThree"" class=""collapse"" aria-labelledby=""headingThree""
+                                         data-parent=""#accordion"">
+                                        <div class=""card-body"">
+                                            <ul>
+                                                <li data-i18n=""faq.rep3.1"">
+                                                    Because crypto currency has not been approved by the government
+                                                    in our country due to a legal issue, anonymity is required for
+                                                    the time being. <b>Sushiswap and YFI</b> are examples of
+                                                    successful
+                                                    projects with anonymous developers. <b>""In Code We Trust""</b> is
+                                                    a
+                                                    phrase used in the crypto currency area. Many projects, such as
+                                                    NanoDoge, continue to ""rug-pull"" when the developer is doxxed.
+                                                    As a result, ""Doxxing"" is a bit of a misnomer.
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class=""card"">
+                                    <div class=""card-header"" id=""headingThree"">
+                                        <h5 class=""mb-0"">
+                                            <button class=""btn btn-link collapsed"" data-toggle=""collapse""
+                                                    data-target=""#collapseFour"" aria-expanded=""false""
+                                                    aria-controls=""collapseFour""
+                                                    data-i18n=""faq.question.4""
+                                            >
+                                                Contract Owner can set ""sell fee"" to 100%?
+                                            </button>
+                                        </h5>
+                                    </div>
+                                    <div id=""collapseFour"" class=""collapse"" aria-labelledby=""headingFour""
+                                         data-parent=""#accordion"">
+                                        <div class=""card-body"">
+                                            <ul>
+                                                <li>
+                                                   <span data-i18n=""faq.rep4.1"">
+                                                      <b>CryptoZoon Contract is been timelocked</b>. You can check
+                                                    here:
+                                                   </span>
+                                                    <a href=""https://t.me/CryptoZoonANN/57"" target=""_blank""
+                                                       rel=""noopener noreferrer"">
+                                                        <b>https://t.me/CryptoZoonANN/57</b>
+                                                    </a>
+                                                </li>
+                                                <li data-i18n=""faq.rep4.2"">
+                                                    The timelock will be activated with a 48h delay, this should
+                                                    give you enough time to validate any of our transactions.
+                                                </li>
+                                                <li data-i18n=""faq.rep4.3"">
+                                                    Timelocks prevent any unseen and immediate changes to the smart
+                                                    contracts. Changes are locked for a period of time and can be
+                                                    monitored publicly, alerting users to any changes.
+                                                </li>
+                                                <li data-i18n=""faq.rep4.4"">
+                                                    It means: for every command executed from the developer, <b>48h
+                                                    delay period is required</b>. During this time, User can
+                                                    fully understand what is that transaction and and make an
+                                                    appropriate plan for this token.
+                                                </li>
+                                                <li data-i18n=""faq.rep4.5"">
+                                                    <b>CryptoZoon is Un-ruggable!</b>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class=""contact-section pt-120"" id=""partners"">
+        <div class=""container"">
+            <div class=""row mb-30"">
+                <div class=""col-12 text-center"">
+                    <h2 class=""section-title text-primary"" data-i18n=""partner"">Partner & Backers</h2>
+                </div>
+            </div>
+            <div class=""row mb-30-none justify-content-center"">
+                <div class=""col-lg-3 col-md-6 col-sm-6 mb-30 text-center d-flex"">
+                    <a href=""#partners"" class=""d-flex align-items-center"">
+                        <div class=""contact-item text-center"">
+                            <div class=""contact-item-icon"">
+                                <img src=""http://docs.google.com/images/BSC.png""/>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class=""col-lg-3 col-md-6 col-sm-6 mb-30 text-center d-flex"">
+                    <a href=""https://www.gate.io/tradepro/ZOON_USDT"" target=""_blank"" class=""d-flex align-items-center"">
+                        <div class=""contact-item text-center"">
+                            <div class=""contact-item-icon"">
+                                <img src=""http://docs.google.com/images/gate.png""/>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class=""col-lg-3 col-md-6 col-sm-6 mb-30 text-center d-flex"">
+                    <a href=""https://twitter.com/BitpieWallet/status/1432707324498649091?s=20"" class=""d-flex align-items-center"">
+                        <div class=""contact-item text-center"">
+                            <div class=""contact-item-icon"">
+                                <img src=""http://docs.google.com/images/bitpie.png""/>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class=""col-lg-3 col-md-6 col-sm-6 mb-30 text-center d-flex"">
+                    <a href=""https://www.mexc.com/exchange/ZOON_USDT"" target=""_blank"" class=""d-flex align-items-center"">
+                        <div class=""contact-item text-center"">
+                            <div class=""contact-item-icon"">
+                                <img src=""http://docs.google.com/images/Mexc.png""/>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class=""col-lg-3 col-md-6 col-sm-6 mb-30 text-center d-flex"">
+                    <a href=""https://coinmarketcap.com/alexandria/article/what-is-cryptozoon"" target=""_blank"" class=""d-flex align-items-center"">
+                        <div class=""contact-item text-center"">
+                            <div class=""contact-item-icon"">
+                                <img src=""http://docs.google.com/images/cmc.png""/>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class=""col-lg-3 col-md-6 col-sm-6 mb-30 text-center d-flex"">
+                    <a href=""#partners"" class=""d-flex align-items-center"">
+                        <div class=""contact-item text-center"">
+                            <div class=""contact-item-icon"">
+                                <img src=""http://docs.google.com/images/Pancake.png""/>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class=""col-lg-3 col-md-6 col-sm-6 mb-30 text-center d-flex"">
+                    <a href=""#partners"" class=""d-flex align-items-center"">
+                        <div class=""contact-item text-center"">
+                            <div class=""contact-item-icon"">
+                                <img src=""http://docs.google.com/images/babyswap.png""/>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class=""col-lg-3 col-md-6 col-sm-6 mb-30 text-center d-flex"">
+                    <a href=""https://www.certik.org/projects/cryptozoon"" target=""_blank"" class=""d-flex align-items-center"">
+                        <div class=""contact-item text-center"">
+                            <div class=""contact-item-icon"">
+                                <img src=""http://docs.google.com/images/certik.png""/>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class=""col-lg-3 col-md-6 col-sm-6 mb-30 text-center d-flex"">
+                    <a href=""./PeckShield-Audit-Report-CryptoZoan-v1.0.pdf"" target=""_blank"" class=""d-flex align-items-center"">
+                        <div class=""contact-item text-center"">
+                            <div class=""contact-item-icon"">
+                                <img src=""http://docs.google.com/images/peckshield.png""/>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class=""col-lg-3 col-md-6 col-sm-6 mb-30 text-center d-flex"">
+                    <a href=""#partners"" target=""_blank"" class=""d-flex align-items-center"">
+                        <div class=""contact-item text-center"">
+                            <div class=""contact-item-icon"">
+                                <img src=""http://docs.google.com/images/honneymoon.png""/>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--Community-->
+    <section class=""footer-section"" id=""community"">
+        <div class=""footer-element-three"">
+            <img src=""http://docs.google.com/images/line1.png"" alt=""element"">
+        </div>
+        <div class=""footer-element-four"">
+            <img src=""http://docs.google.com/images/line1.png"" alt=""element"">
+        </div>
+        <div class=""footer-element-five"">
+            <img src=""http://docs.google.com/images/line9.png"" alt=""element"">
+        </div>
+        <div class=""footer-element-six"">
+            <img src=""http://docs.google.com/images/line9.png"" alt=""element"">
+        </div>
+        <div class=""footer-element-seven"">
+            <img src=""http://docs.google.com/images/line3.png"" alt=""element"">
+        </div>
+        <div class=""footer-element-eight"">
+            <img src=""http://docs.google.com/images/line5.png"" alt=""element"">
+        </div>
+        <div class=""footer-element-nine"">
+            <img src=""http://docs.google.com/images/line5.png"" alt=""element"">
+        </div>
+        <div class=""footer-element-ten"">
+            <img src=""http://docs.google.com/images/line5.png"" alt=""element"">
+        </div>
+        <div class=""footer-element-eleven"">
+            <img src=""http://docs.google.com/images/line5.png"" alt=""element"">
+        </div>
+        <div class=""footer-element-twelve"">
+            <img src=""http://docs.google.com/images/line5.png"" alt=""element"">
+        </div>
+        <div class=""footer-element-thirteen"">
+            <img src=""http://docs.google.com/images/manyline.png"" alt=""element"">
+        </div>
+        <div class=""footer-element-fourteen"">
+            <img src=""http://docs.google.com/images/line5.png"" alt=""element"">
+        </div>
+        <div class=""footer-element-fifteen"">
+            <img src=""http://docs.google.com/images/line5.png"" alt=""element"">
+        </div>
+        <div class=""footer-element-sixteen"">
+            <img src=""http://docs.google.com/images/line5.png"" alt=""element"">
+        </div>
+        <div class=""footer-shape"">
+            <img src=""http://docs.google.com/images/dotline.png"" alt=""element"">
+        </div>
+        <div class=""container"">
+            <div class=""row"">
+                <div class=""col-lg-12"">
+                    <div class=""footer-content"">
+                        <h3 class=""sub-title"" data-i18n=""footer.keep"">GET IN TOUCH</h3>
+                        <h2 class=""title"" data-i18n=""footer.title"">Join our community</h2>
+                        <ul class=""footer-social-icon"">
+                            <li>
+                                <a href=""https://t#"" target=""_blank"">
+                                    <i class=""fab fa-telegram-plane""></i>
+                                </a>
+<!--                                <a href=""https://t.me/CryptoZoonBSC"" target=""_blank"">-->
+<!--                                    <i class=""fab fa-telegram-plane""></i>-->
+<!--                                </a>-->
+                            </li>
+                            <li>
+                                <a href=""#"" target=""_blank"">
+                                    <i class=""fab fa-telegram""></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href=""#"" target=""_blank"">
+                                    <i class=""fab fa-twitter""></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href=""#"" target=""_blank"">
+                                    <i class=""fab fa-facebook""></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href=""#"" target=""_blank"">
+                                    <i class=""fab fa-instagram""></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href=""#"" target=""_blank"">
+                                    <i class=""fab fa-reddit-alien""></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href=""#"" target=""_blank"">
+                                    <i class=""fab fa-discord""></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href=""#"" target=""_blank"">
+                                    <i class=""fab fa-youtube""></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href=""#"" target=""_blank"">
+                                    <i class=""fab fa-medium""></i>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class=""dropdown show community"">
+                            <a class=""cmn-btn-border dropdown-toggle"" href=""#"" role=""button"" id=""dropdownMenuLink""
+                               data-toggle=""dropdown"" aria-haspopup=""true"" aria-expanded=""false""
+                               data-i18n=""footer.local""
+                            >
+                                Local Community
+                            </a>
+                            <div class=""dropdown-menu "" aria-labelledby=""dropdownMenuLink"">
+                                <a class=""dropdown-item"" href=""https://t.me/ZoonChina"" target=""_blank"">
+                                    ���� China ����
+                                </a>
+                                <a class=""dropdown-item"" href=""https://t.me/ZoonCIS"" target=""_blank"">
+                                    ���� CIS (СНГ) ����
+                                </a>
+                                <a class=""dropdown-item"" href=""https://t.me/Zoonfrench"" target=""_blank"">
+                                    ���� France ����
+                                </a>
+                                <a class=""dropdown-item"" href=""https://t.me/cryptozoon_germany"" target=""_blank"">
+                                    ���� Germany ����
+                                </a>
+                                <a class=""dropdown-item"" href=""https://t.me/CryptoZoonIndia"" target=""_blank"">
+                                    ���� India ����
+                                </a>
+                                <a class=""dropdown-item"" href=""https://t.me/ZoonIndonesian"" target=""_blank"">
+                                    ���� Indonesia ����
+                                </a>
+                                <a class=""dropdown-item"" href=""https://t.me/cryptozoonir"" target=""_blank"">
+                                    ���� Iran ����
+                                </a>
+                                <a class=""dropdown-item"" href=""https://t.me/ZoonItalia"" target=""_blank"">
+                                    ���� Italia ����
+                                </a>
+                                <a class=""dropdown-item"" href=""https://t.me/CryptoZoonJapan"" target=""_blank"">
+                                    ���� Japan ����
+                                </a>
+                                <a class=""dropdown-item"" href=""https://t.me/ZoonKorean"" target=""_blank"">
+                                    ���� Korea ����
+                                </a>
+                                <a class=""dropdown-item"" href=""https://t.me/CryptoZoonPakistan"" target=""_blank"">
+                                    ���� Pakistan ����
+                                </a>
+                                <a class=""dropdown-item"" href=""https://t.me/ZOONPHL"" target=""_blank"">
+                                    ���� Philippines ����
+                                </a>
+                                <a class=""dropdown-item"" href=""https://t.me/ZOONPTBR"" target=""_blank"">
+                                    ���� Portugal/Brazil ����
+                                </a>
+                                <a class=""dropdown-item"" href=""https://t.me/ZOONRomanian"" target=""_blank"">
+                                    ���� Romanian ����
+                                </a>
+                                <a class=""dropdown-item"" href=""https://t.me/CryptoZoonSpanish"" target=""_blank"">
+                                    ���� Spain ����
+                                </a>
+                                <a class=""dropdown-item"" href=""https://t.me/ZOONThailand"" target=""_blank"">
+                                    ���� Thailand ����
+                                </a>
+                                <a class=""dropdown-item"" href=""https://t.me/CryptoZoonTurkey"" target=""_blank"">
+                                    ���� Turkey ����
+  ","['docs.google.com' 'citizenlab.ca' 'www.ftchinese.com' 'www.asstr.org'
+ 'washingtonpost.com' 'en.wikipedia.org' 'psiphon.ca'
+ 'freespeechdebate.com' 'pinterest.com' 'www.joinclubhouse.com'
+ 'blogspot.com' 'kakao.com' 'livestream.com' 'www.lemonde.fr'
+ 'thunder.free-signal.com' 'nypost.com' 'encrypted.google.com'
+ 'www.trendsmap.com' 'freenetproject.org' 'www.megaproxy.com'
+ 'www.clubhouse.com' 'soundcloud.com' 'www.overdrive.com' 'binance.com'
+ 'google.com.vn' 'dropbox.com' 'substack.com' 'pixnet.net' 'huffpost.com'
+ 'bravotube.net' 'www.google.com' 'www.wikipedia.org' 'torrentz.eu'
+ 'theintercept.com' 'mastodon.cloud' 'kumparan.com' 'www.tango.me'
+ 'whatsapp.com' 'google.de' 'ask.com' 'mega.nz' 'google.com.ar'
+ 'twitch.tv' 'www.uproxy.org' 'timesofindia.indiatimes.com'
+ 'www.tumblr.com' 'www.hrw.org' 'onedrive.live.com' 'www.search.com'
+ 'www.clubhouseapi.com' 'multimedia.scmp.com' 'google.cl'
+ 'www.voanews.com' 'line.me' 'medium.com' 'www.dropbox.com' 'google.ru'
+ 'bybit.com' 'www.brookings.edu' 'pchome.com.tw' 'google.com.au'
+ 'signal.org' 'www.ndi.org' 'archive.is' 'breitbart.com'
+ 'joinmastodon.org' 'www.anonymizer.com' 'telegram.org' 'google.co.ve'
+ 'www.ifj.org' 'www.bbc.com' 'avaaz.org' 'brave.com' 'steamcommunity.com'
+ 'www.cbc.ca' 'etsy.com' 'badoo.com' 'nicovideo.jp' '9gag.com'
+ 'telegra.ph' 'www.ask.com' 'dcard.tw' 'redtube.com' 'openvpn.net'
+ 'youtube.com' 'google.com.tw' 'web.telegram.org' 'thepiratebay.org'
+ 'google.ro' 'www.crazyshit.com' 'www.nbcnews.com' 'nordvpn.com'
+ 'www.blogger.com' 'goo.ne.jp' 'de.wikipedia.org' 'fr.wikipedia.org'
+ 'jw.org' 'hootsuite.com' 'storm.mg' 'external-content.duckduckgo.com'
+ 'pinterest.jp' 'mixi.jp' 'google.com.sa' 'deviantart.com' 'app.wire.com'
+ 'secure.flickr.com' 'btguard.com' 'nytimes.com' 'archive.org'
+ 'facebook.com' 'www.rferl.org' 'google.com.sg' 'groups.yahoo.com'
+ 'vimeo.com' 'discord.com' 'riseup.net' 'geti2p.net' 'it.wikipedia.org'
+ 'google.es' 'www.whatsapp.com' 'www.pokerstars.com' 'blogger.com'
+ 'ar.wikipedia.org' 'miro.medium.com' 'nownews.com' 'imgur.com'
+ 'sites.google.com' 'daum.net' 'www.slideshare.net' 'mastodon.social'
+ 'google.com.br' 'flickr.com' 'bloomberg.com' 'google.com.tr'
+ 'www.economist.com' 'www.flickr.com' 'tumblr.com' 'speedify.com'
+ 'www.opentech.fund' 'www.pornhub.com' 'google.it'
+ 'www.frontlinedefenders.org' 'imo.im' 'www.dw.com' '1337x.to'
+ 'www.instagram.com' 'www.lightsailvpn.com' 'www.ned.org' 'shopee.tw'
+ 'ameba.jp' 'beeg.com' 'y2mate.com' 'pt.m.wikipedia.org'
+ 'www.hotspotshield.com' 'theguardian.com' 'www.occrp.org' 'google.co.in'
+ 'www.rfa.org' 'globalvoices.org' 'www.washingtontimes.com' 'reddit.com'
+ 'www.peacefire.org' 'udn.com' 'google.ch' 'i.instagram.com'
+ 'www.theguardian.com' 'google.az' 'ftx.com' 'freedomhouse.org'
+ 'google.co.th' 'www.scribd.com' 'slate.com' 'turbobit.net'
+ 'es.wikipedia.org' 'mastodon.xyz' 'google.co.uk' 'google.com.my'
+ 'ru.wikipedia.org' 'www.binance.com' 'bet365.com' 'dailymotion.com'
+ 'www.reuters.com' 'gate.io' 'searx.me' 'www.heritage.org'
+ 'www.altavista.com' 'instagram.com' 'www.tiktok.com' 'bbc.com'
+ 'www.betternet.co' 'depositphotos.com' 'ok.ru' 'www.ebaumsworld.com'
+ 'google.fr' 'google.com.pe' 'rakuten.co.jp' 'www.xvideos.com']"
+202.137.1.74,115,1578.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 1333', 'Content-Type: text/html', 'Date: Wed, 03 Nov 2021 22:45:05 GMT', 'Etag: ""66f821d1ffa5d71:0""', 'Last-Modified: Fri, 10 Sep 2021 04:53:37 GMT', 'Server: Microsoft-IIS/8.5', 'X-Powered-By: ASP.NET']<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K39PVQG');</script>
+<!-- End Google Tag Manager -->
+
+<div style=""width:700px; margin: 0 auto; display:block;"">
+<div class=""adv"" >&nbsp;</div>
+
+<img src=""a.JPG"">
+</div>
+<script src=""https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js""></script>
+
+<script>
+$('.adv').each(function () {
+          var pname='internet-sehat';
+         var cust= ''; 
+         var agent=encodeURI(window.navigator.userAgent);
+          var uri='https://fm1.firstmedia.com/DPAPWebAds/GenAds.ashx?pname=#p#&acc=#a#&useragent=#ua#';
+          uri = uri.replace(""#p#"", pname);
+          uri = uri.replace(""#a#"", cust);
+          uri = uri.replace(""#ua#"", agent);
+          $(this).load(uri);
+});
+
+</script>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src=""https://www.googletagmanager.com/ns.html?id=GTM-K39PVQG""
+height=""0"" width=""0"" style=""display:none;visibility:hidden""></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->","['www.grindr.com' 'heavy.com' 'www.ultimate-anonymity.com' 'www.out.com'
+ 'www.pokerstars.com' 'www.ifge.org' 'pornhub.com' 'casino.com'
+ 'www.datingdirect.com' 'www.coquette.com' 'www.4chan.org'
+ 'www.aceshigh.com' 'www.mate1.com' 'ilga.org' 'www.888casino.com'
+ 'worldsingles.com' 'transsexual.org' 'sfsi.org' 'www.implantinfo.com'
+ 'earth-liberation-front.org' 'alt.com' 'www.binance.com' 'cuevana3.io'
+ 'www.khilafah.com' 'www.freespeechcoalition.com' 'www.queernet.org'
+ 'www.lushstories.com' 'www.lingeriebowl.com' 'www.poker.com'
+ 'www.sex.com' 'www.chantelle.com' 'www.gay.com' 'godhatesfags.com'
+ 'www.planetromeo.com' 'dmm.co.jp' 'www.gayhealth.com' 'redtube.com'
+ 'panties.com' 'rarbg.to' 'poki.com' 'chaturbate.com' 'bybit.com'
+ 'www.nifty.org' 'www.crazyshit.com' 'www.womenwarpeace.org' 'vimeo.com'
+ 'www.eurogrand.com' 'xhamster.com' 'bet9ja.com' 'xvideos.com'
+ 'www.anonymizer.com' 'hotgaylist.com' 'aparat.com' 'www.ilga-europe.org'
+ 'anonymouse.org' 'www.babylon-x.com' 'www.gambling.com' 'www.xvideos.com'
+ 'www.positive.org' 'www.youporn.com' 'www.budweiser.com'
+ '8thstreetlatinas.com' 'www.fuckingfreemovies.com'
+ 'www.breastenlargementmagazine.com' 'teenadvice.about.com'
+ 'www.pornhub.com' 'www.reddit.com' 'www.premaritalsex.info'
+ 'www.agentprovocateur.com' 'reddit.com' 'wplay.co' 'yts.mx'
+ 'www.startmail.com' 'www.asstr.org' 'iqbroker.com' 'thepiratebay.org'
+ 'www.slotland.com' 'flirtylingerie.com' 'www.beer.com' 'binance.com'
+ 'www.delicates.co.uk' 'xnxx.com' 'www.tsroadmap.com'
+ 'www.europacasino.com' 'www.siecus.org' 'mileroticos.com' 'bravotube.net'
+ 'rutracker.org' 'pridesource.com' 'onlyfans.com' 'www.onlinegambling.com'
+ 'www.89.com' 'www.playboy.com' 'www.betfair.com' 'trashy.com'
+ 'www.gotgayporn.com' 'www.hustler.com' '1337x.to' 'bisexual.org'
+ 'www.itsyoursexlife.com' 'www.casinotropez.com' 'subscene.com'
+ 'adultfriendfinder.com' 'www.guerrillagirls.com' 'www.spinpalace.com'
+ 'bongacams.com' 'bet365.com' 'livejasmin.com' 'www.lesbiansubmission.com'
+ 'www.glil.org' 'beeg.com' 'www.3wishes.com' 'txxx.com' 'www.shoe.org'
+ 'www.date.com']"
+103.148.28.29,114,863.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 615', 'Content-Type: text/html', 'Date: Wed, 03 Nov 2021 22:38:50 GMT', 'Etag: ""267-5ca666217534d""', 'Last-Modified: Wed, 25 Aug 2021 18:26:04 GMT', 'Server: Apache/2.4.7 (Ubuntu)', 'Vary: Accept-Encoding']<!DOCTYPE html>
+<html>
+<head>
+	<title>Oops!</title>
+	<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"" />
+
+	<style type=""text/css"">
+		body{
+			margin: 0px;
+		}
+		.cointainer{
+			<!--background-color: #e74d3d;-->
+background-color: #00b4ff;
+			height: 100%;
+			padding: 50px 0px 150px 0px;
+		}
+		.bg{
+			height: auto;
+		}
+		.bg, .cointainer{
+    	display:block;
+			max-width: 100%;
+			width: 640px;
+			margin: auto;
+		}
+	</style>
+</head>
+<body>
+	<div class=""cointainer"">
+		<img class=""bg"" src=""12.jpg"">
+	</div>
+</body>
+</html>
+","['onlyfans.com' 'flirtylingerie.com' 'www.slotland.com' 'www.89.com'
+ 'chaturbate.com' 'adultfriendfinder.com' 'xhamster.com'
+ 'worldsingles.com' 'www.date.com' 'www.coquette.com'
+ 'www.delicates.co.uk' 'www.freespeechcoalition.com' 'rarbg.to'
+ 'casino.com' 'bravotube.net' 'bybit.com' 'xnxx.com' 'www.gayhealth.com'
+ 'earth-liberation-front.org' 'www.siecus.org' 'www.startmail.com'
+ 'www.aceshigh.com' 'www.3wishes.com' 'bongacams.com' 'www.ifge.org'
+ 'www.positive.org' 'www.888casino.com' 'yts.mx' 'www.premaritalsex.info'
+ 'www.xvideos.com' 'www.queernet.org' 'transsexual.org' 'godhatesfags.com'
+ 'www.poker.com' 'www.lingeriebowl.com' 'www.pornhub.com' 'panties.com'
+ 'livejasmin.com' 'www.sex.com' 'bet365.com' 'www.babylon-x.com'
+ 'aparat.com' 'www.ilga-europe.org' 'www.youporn.com' 'pridesource.com'
+ 'www.planetromeo.com' 'teenadvice.about.com' 'www.eurogrand.com'
+ 'www.onlinegambling.com' 'alt.com' 'subscene.com'
+ 'www.ultimate-anonymity.com' 'www.itsyoursexlife.com'
+ 'www.womenwarpeace.org' 'www.mate1.com' 'www.tsroadmap.com' 'vimeo.com'
+ 'www.out.com' 'pornhub.com' 'www.grindr.com' 'www.beer.com' 'poki.com'
+ 'www.reddit.com' 'www.breastenlargementmagazine.com'
+ '8thstreetlatinas.com' '1337x.to' 'www.binance.com' 'www.khilafah.com'
+ 'www.europacasino.com' 'redtube.com' 'heavy.com' 'reddit.com' 'dmm.co.jp'
+ 'www.nifty.org' 'www.gay.com' 'xvideos.com' 'www.casinotropez.com'
+ 'www.agentprovocateur.com' 'www.asstr.org' 'ilga.org' 'www.chantelle.com'
+ 'www.fuckingfreemovies.com' 'sfsi.org' 'www.lesbiansubmission.com'
+ 'trashy.com' 'bet9ja.com' 'www.guerrillagirls.com' 'anonymouse.org'
+ 'wplay.co' 'www.pokerstars.com' 'www.hustler.com' 'www.implantinfo.com'
+ 'www.budweiser.com' 'hotgaylist.com' 'mileroticos.com'
+ 'www.crazyshit.com' 'thepiratebay.org' 'www.lushstories.com'
+ 'iqbroker.com' 'www.glil.org' 'www.spinpalace.com' 'bisexual.org'
+ 'www.playboy.com' 'www.gotgayporn.com' 'cuevana3.io' 'www.gambling.com'
+ 'binance.com' 'www.shoe.org' 'www.datingdirect.com' 'rutracker.org'
+ 'www.betfair.com' 'txxx.com' 'www.4chan.org' 'beeg.com']"
+103.154.12.247,54,2516.0,0.0,1.0,"['Cache-Control: private, max-age=300', 'Content-Length: 2352', 'Content-Type: text/html', 'Date: Wed, 03 Nov 2021 22:45:04 GMT', 'X-Robots-Tag: noindex, nofollow']<!DOCTYPE html>
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+    <meta charset=""utf-8"" />
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"" />
+
+    <title>Technitium DNS Server</title>
+
+    <link href=""/css/main.css"" rel=""stylesheet"" />
+    <link href=""/css/bootstrap.min.css"" rel=""stylesheet"" />
+
+    <script src=""/js/jquery.min.js""></script>
+    <script src=""/js/main.js""></script>
+</head>
+<body>
+    <div id=""content"">
+        <div class=""container"">
+            <div class=""features"" style=""text-align: center; margin-top: 60px;"">
+                <a href=""/"">
+                    <img src=""/img/logo.png"" alt=""Technitium Logo"" />
+                </a>
+                <h1>Technitium DNS Server</h1>
+                <p style=""max-width: 800px; margin-right: auto; margin-left: auto;"">This server supports encrypted DNS protocol (DNS-over-HTTPS) that you can use with your web browser like Mozilla Firefox.</p>
+
+                <h3 style=""margin-top: 40px;"">The Encrypted DNS Service URL</h3>
+                <p>
+                    Use the following URL to configure your clients for consuming the DNS-over-HTTPS service.
+                </p>
+                <p style=""font-size: 16px; font-weight: bold;"">
+                    <a id=""lnkDoH"" href=""""></a>
+                </p>
+
+                <h3 style=""margin-top: 40px;"">Mozilla Firefox Configuration</h3>
+                <p style=""max-width: 800px; margin-right: auto; margin-left: auto;"">
+                    To configure Firefox, go to <b>Options &gt; General</b> and scroll down to find <b>Network Settings</b>. Click on the <b>Settings</b> button, find the DNS-over-HTTPS option at the bottom (as shown below), and use the encrypted DNS service URL given above.
+                </p>
+                <img class=""auto-resize-img shadow-screenshot"" style=""margin-top: 20px; margin-bottom: 20px;"" src=""img/firefox-doh.png"" alt=""Mozilla Firefox Custom DNS-over-HTTPS Option"" />
+                <p style=""max-width: 800px; margin-right: auto; margin-left: auto;"">
+                    Note! This will work only for Firefox and all other applications on your computer will keep using the default DNS server configured in your network settings.
+                </p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+","['www.wnd.com' 'apps.crowdtangle.com' 'chaturbate.com' 'taboola.com'
+ 'linkshare.com' 'pornhub.com' 'outbrain.com' 'doubleclick.net'
+ 'xhamster.com' 'www.betfair.com' 'livejasmin.com' 'xnxx.com'
+ 'www.gotgayporn.com' 'www.asstr.org' 'xvideos.com' '8thstreetlatinas.com'
+ 'www.gambling.com' 'www.blackhat.be' 'dmm.co.jp' 'bravotube.net'
+ 'txxx.com' 'anonym.to' 'www.xvideos.com' 'alt.com' 'bet365.com'
+ 'www.hustler.com' 'www.casinotropez.com' 'www.nifty.org' 'beeg.com'
+ 'shareasale.com' 'www.whitepower.com' 'www.sex.com' 'redtube.com'
+ 'christwire.org' 'www.lushstories.com' 'www.pravda.ru' 'hotgaylist.com'
+ 'addthis.com' 'www.888casino.com' 'www.4chan.org' 'www.youporn.com'
+ 'onlyfans.com' 'www.ebaumsworld.com' 'bongacams.com'
+ 'adultfriendfinder.com' 'mgid.com' 'www.playboy.com' 'cj.com'
+ 'hotjar.com' 'www.pornhub.com' 'www.rt.com' 'sputniknews.com'
+ 'www.crazyshit.com' 'statcounter.com']"
+185.212.148.93,51,391.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 186', 'Content-Type: text/html', 'Date: Wed, 03 Nov 2021 22:45:45 GMT', 'Etag: ""ba-5cfb99ad6e049""', 'Last-Modified: Mon, 01 Nov 2021 12:49:17 GMT', 'Server: Apache']﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv=""refresh"" content=""0;URL=http://185.212.148.93/"" />
+</head>
+<script>window.location = ""http://185.212.148.93/"";</script>
+</html>
+","['txxx.com' 'vidio.com' 'xxx.lanl.gov' 'www.lushstories.com'
+ 'livejasmin.com' 'substack.com' 'statcounter.com' 'teachable.com'
+ 'badoo.com' 'www.premaritalsex.info' 'www.lovoo.com' 'www.weebly.com'
+ 'www.gotgayporn.com' 'bit.ly' 'lenta.ru' 'slack.com' 't.me' 'xvideos.com'
+ 'xnxx.com' 'disqus.com' 'pornhub.com' 'www.eharmony.com' 'www.meetup.com'
+ 'jeuxvideo.com' 'fc2.com' 'semrush.com' 'ria.ru' 'shopify.com'
+ 'www.sex.com' 'tinyurl.com' 'www.itsyoursexlife.com' 'www.4chan.org'
+ 'blogspot.com' 'deviantart.com' 'hitwe.com' 'chaturbate.com'
+ 'livejournal.com' 't.co' 'community.livejournal.com' 'www.okcupid.com'
+ 'www.betfair.com' 'www.livejournal.com' 'www.youporn.com'
+ 'www.no-porn.com' 'www.pornhub.com' 'www.xvideos.com' 'redtube.com'
+ 'www.sexandu.ca' 'fandom.com' 'bitly.com' 'weebly.com']"
+46.97.193.127,22,174.0,0.0,1.0,"['Content-Length: 0', 'Content-Type: text/html', 'Date: Wed, 03 Nov 2021 22:48:39 GMT', 'Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1h PHP/5.4.31', 'X-Powered-By: PHP/5.4.31']","['statcounter.com' 'www.serials.ws' 'taboola.com' 'www.casinotropez.com'
+ 'www.typepad.com' 'mgid.com' 'www.hotspotshield.com' 'linkshare.com'
+ 'addthis.com' 'hotjar.com' 'aweber.com' 'cnzz.com' 'outbrain.com'
+ 'adultfriendfinder.com' 'bongacams.com' 'doubleclick.net' 'semrush.com'
+ 'astalavista.box.sk' 'livejasmin.com' 'lever.co' 'shareasale.com'
+ 'cj.com']"
+94.177.179.144,18,294.1666666666667,0.06085840381858861,0.9997931159076988,"['Content-Length: 138', 'Content-Type: text/html; charset=UTF-8', 'Date: Wed, 03 Nov 2021 22:44:49 GMT', 'Server: Apache/2.4.51 (Debian)', 'Vary: Accept-Encoding']<h1 
+	style=""
+		font-size: 120%;
+		position:absolute;
+		bottom:0px;
+	"">
+	Webklex 
+	>> www.hotspotshield.com/ 
+	@ 03.11.2021 23:44:49</h1>
+","['www.hotspotshield.com' 'apps.crowdtangle.com' 'cj.com' 'addthis.com'
+ 'www.888casino.com' 'taboola.com' 'www.casinotropez.com' 'mgid.com'
+ 'adultfriendfinder.com' 'www.serials.ws' 'bongacams.com' 'livejasmin.com'
+ 'outbrain.com' 'doubleclick.net' 'hotjar.com' 'linkshare.com'
+ 'shareasale.com' 'statcounter.com']"
+46.182.18.32,12,295.0,0.0,1.0,"['Cache-Control: max-age=0', 'Content-Length: 95', 'Content-Type: text/html; charset=UTF-8', 'Date: Wed, 03 Nov 2021 22:40:27 GMT', 'Expires: Wed, 03 Nov 2021 22:40:27 GMT', 'Server: lighttpd/1.4.59'][ERROR]: Unable to parse results from <i>queryads.php</i>: <code>Connection timeout (3s)</code>","['www.geocities.com' 'anonymouse.org' 'statcounter.com' 'soft98.ir'
+ 'www.mamma.com' 'docusign.com' 'astalavista.box.sk' 'www.slotland.com'
+ 'www.pravda.ru' 'shareasale.com' 'www.poker.com' 'shein.com']"
+194.87.237.236,5,2593.0,0.0,1.0,"['Content-Length: 2396', 'Content-Type: text/html; charset=UTF-8', 'Date: Wed, 03 Nov 2021 22:41:01 GMT', 'Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16', 'X-Powered-By: PHP/5.4.16']<!DOCTYPE HTML>
+<html>
+<head>
+    <title>prosejide.com</title>
+    <meta charset=""utf-8""/>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1""/>
+    <link rel=""stylesheet"" href=""design/assets/css/main.css""/>
+</head>
+<body class=""subpage"">
+
+<!-- Header -->
+<header id=""header"">
+    <a href=""#menu"" class=""toggle""><span>Menu</span></a>
+</header>
+
+<!-- Nav -->
+<nav id=""menu"">
+    
+    <ul class=""links"">
+        <li><a href=""index.php"">Home</a></li>
+        <li><a href=""disclaimer.php"">Disclaimer</a></li>
+        <li><a href=""privacy.php"">Privacy Policy</a></li>
+        <li><a href=""contact.php"">Contact us</a></li>
+    </ul>
+</nav>
+
+
+<!-- One -->
+<section id=""one"" class=""wrapper style2"">
+    <div class=""inner"">
+        <div class=""box"">
+            <div class=""content"">
+                <header class=""align-center"">
+                    <p>Home page</p>
+                    <h2>SUBMIT YOUR APPLICATION NOW !</h2>
+                </header>
+                <hr/>
+                <form method=""post"" action=""javascript:;"">
+                    <div class=""row uniform"">
+                        <div class=""12u$"">
+                            <input type=""email"" name=""email"" id=""email"" value="""" placeholder=""Email""/>
+                        </div>
+                        <!-- Break -->
+                        <div class=""12u$"">
+                            <ul class=""actions"">
+                                <li><input type=""submit"" value=""Unsubscribe""/></li>
+                            </ul>
+                            <p>
+                                                            </p>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<footer id=""footer"" class=""wrapper"">
+    <section id=""four"" class=""wrapper style3"">
+        <div class=""inner"">
+            <div class=""copyright"">
+                &copy; COPYRIGHT. prosejide.com ALL RIGHTS RESERVED.
+            </div>
+        </div>
+    </section>
+</footer>
+
+<!-- Scripts -->
+<script src=""design/assets/js/jquery.min.js""></script>
+<script src=""design/assets/js/jquery.scrolly.min.js""></script>
+<script src=""design/assets/js/jquery.scrollex.min.js""></script>
+<script src=""design/assets/js/skel.min.js""></script>
+<script src=""design/assets/js/util.js""></script>
+<script src=""design/assets/js/main.js""></script>
+
+</body>
+</html>",['yandex.ru' 'www.google.com' 'google.ru' 'microsoft.com' 'google.com']
+91.224.60.25,4,735.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 390', 'Content-Type: text/html', 'Date: Wed, 03 Nov 2021 22:59:34 GMT', 'Etag: ""186-4c4b580b32f28""', 'Last-Modified: Fri, 13 Jul 2012 12:48:54 GMT', 'Server: Apache/2.4.10 (Debian) PHP/5.6.30-0+deb8u1 mod_python/3.3.1 Python/2.7.9 OpenSSL/1.0.1t mod_perl/2.0.9dev Perl/v5.20.2', 'Vary: Accept-Encoding']<html>
+    <head>
+	<title>Under construction :-)</title>
+    </head>
+<body>
+    <center><font face=tahoma size=-2>Strona w trakcie tworzenia</font></center>
+<P align=center><STRONG><FONT face=tahoma><FONT size=1>Link do strony ECENTER.PL</FONT><FONT color=#0033ff size=1><BR>
+<A target=_blank href=""http://www.ecenter.pl"">www.ecenter.pl</A>
+</B></FONT></FONT></STRONG></P>
+
+</body>
+</html>
+",['wp.pl' 'google.pl' 'onet.pl' 'olx.pl']
+174.142.199.238,4,6503.0,0.001210826983547872,0.9999998138048618,"['Content-Length: 6303', 'Content-Type: text/html;charset=utf-8', 'Date: Wed, 03 Nov 2021 22:44:05 GMT', 'Server: Apache-Coyote/1.1', 'Set-Cookie: JSESSIONID=F5C10F75B6CEAB870CE643AE4EFD910B; Path=/; HttpOnly']<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8""/>
+    <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,chrome=1""/>
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0, user-scalable = no""/>
+    <meta name=""apple-mobile-web-app-capable"" content=""yes"">
+    <meta name=""HandheldFriendly"" content=""true""/>
+    <meta http-equiv=""expires"" content=""0"">
+    <meta http-equiv=""pragma"" content=""no-cache"">
+    <meta http-equiv=""cache-control"" content=""no-cache"">
+    <link rel=""shortcut icon"" href=""https://eye-in.com/storage/app/media/icons/proxy.png"" type=""image/x-icon"">
+    <title>Eye-In Network Proxy</title>
+    <link rel=""stylesheet"" type=""text/css"" href=""https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"">
+    <style type=""text/css"">
+        /*
+ * Globals
+ */
+        /* Links */
+        a,
+        a:focus,
+        a:hover {
+            color: #fff;
+        }
+        /* Custom default button */
+        .btn-secondary,
+        .btn-secondary:hover,
+        .btn-secondary:focus {
+            color: #333;
+            text-shadow: none;
+            /* Prevent inheritance from `body` */
+            background-color: #fff;
+            border: .05rem solid #fff;
+        }
+        /*
+		 * Base structure
+		 */
+        html,
+        body {
+            height: 100%;
+            background-color: #333;
+        }
+        body {
+            color: #fff;
+            text-align: center;
+            text-shadow: 0 0.05rem 0.1rem rgba(0, 0, 0, 0.5);
+        }
+        h2 {
+            font-size: 24px;
+        }
+        /* Extra markup and styles for table-esque vertical and horizontal centering */
+        .site-wrapper {
+            display: table;
+            width: 100%;
+            height: 100%;
+            /* For at least Firefox */
+            min-height: 100%;
+            -webkit-box-shadow: inset 0 0 5rem rgba(0, 0, 0, 0.5);
+            box-shadow: inset 0 0 5rem rgba(0, 0, 0, 0.5);
+        }
+        .site-wrapper-inner {
+            display: table-cell;
+            vertical-align: top;
+        }
+        .cover-container {
+            margin-right: auto;
+            margin-left: auto;
+        }
+        small {
+            color: inherit !important;
+            display: block;
+            margin-top: 8px;
+            font-style: italic;
+        }
+        .btn small {
+            border-top: 1px solid rgba(0, 0, 0, 0.4);
+            padding: 9px 16px 2px;
+            font-style: normal;
+            opacity: 0.8;
+        }
+        /* Padding for spacing */
+        .inner {
+            padding: 2rem;
+        }
+        /*
+		 * Header
+		 */
+        .masthead {
+            margin-bottom: 2rem;
+        }
+        .masthead-brand {
+            margin-bottom: 0;
+        }
+        .nav-masthead .nav-link {
+            padding: .25rem 0;
+            font-weight: bold;
+            color: rgba(255, 255, 255, 0.5);
+            background-color: transparent;
+            border-bottom: .25rem solid transparent;
+        }
+        .nav-masthead .nav-link:hover,
+        .nav-masthead .nav-link:focus {
+            border-bottom-color: rgba(255, 255, 255, 0.25);
+        }
+        .nav-masthead .nav-link + .nav-link {
+            margin-left: 1rem;
+        }
+        .nav-masthead .active {
+            color: #fff;
+            border-bottom-color: #fff;
+        }
+        @media (min-width: 48em) {
+            .masthead-brand {
+                float: left;
+            }
+            .nav-masthead {
+                float: right;
+            }
+        }
+        /*
+		 * Cover
+		 */
+        .cover {
+            padding: 0 1.5rem;
+        }
+        .cover .btn-lg {
+            padding: .75rem 1.25rem;
+            font-weight: bold;
+        }
+        .nav.nav-masthead .nav-link {
+            margin: 0 auto;
+        }
+        /*
+		 * Footer
+		 */
+        .mastfoot {
+            color: rgba(255, 255, 255, 0.5);
+        }
+        /*
+		 * Affix and center
+		 */
+        @media (min-width: 40em) {
+            /* Pull out the header and footer */
+            .masthead {
+                position: fixed;
+                top: 0;
+            }
+            .mastfoot {
+                position: fixed;
+                bottom: 0;
+            }
+            /* Start the vertical centering */
+            .site-wrapper-inner {
+                vertical-align: middle;
+            }
+            /* Handle the widths */
+            .masthead,
+            .mastfoot,
+            .cover-container {
+                width: 100%;
+                /* Must be percentage or pixels for horizontal alignment */
+            }
+        }
+        @media (min-width: 62em) {
+            .masthead,
+            .mastfoot,
+            .cover-container {
+                width: 80rem;
+            }
+        }
+        @media (max-width: 768px) {
+            .nav.nav-masthead .nav-link {
+                margin: 10px auto;
+            }
+        }
+
+    </style>
+</head>
+<body>
+<div class=""site-wrapper"">
+    <div class=""site-wrapper-inner"">
+        <div class=""cover-container"">
+            <div class=""masthead clearfix"">
+                <div class=""inner"">
+                    <h3 class=""text-center"">Eye-In Network</h3>
+                </div>
+            </div>
+
+            <div class=""inner cover"">
+                <img src=""https://eye-in.com/storage/app/media/icons/browser-error.png"" style=""max-width: 128px; margin: 0 auto;""/>
+                <h2 class=""cover-heading"">This domain is blocked<br>Ce domaine est bloqué
+                    <small>www.premaritalsex.info</small>
+                </h2>
+                <p class="""" style=""max-width: 600px;margin: 3em auto;"">
+                    
+                </p>
+                <p class=""lead"">
+                    <a href=""javascript:history.back()"" class=""btn btn-lg btn-secondary"">Go back / Précédent</a>
+                </p>
+            </div>
+
+            <div class=""mastfoot"">
+                <div class=""inner"">
+                    <p>Copyright Eye-In Média 2018</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>    ","['www.premaritalsex.info' 'www.queerty.com' 'www.kcna.kp'
+ 'www.queernet.org']"
+34.98.99.30,3,3271.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 2548', 'Content-Type: text/html', 'Date: Wed, 03 Nov 2021 22:43:51 GMT', 'Etag: ""6182b6b1-9f4""', 'Last-Modified: Wed, 03 Nov 2021 16:20:01 GMT', 'Server: openresty', 'Set-Cookie: system=PW;Path=/;Max-Age=86400;', 'Set-Cookie: caf_ipaddr=141.212.123.185;Path=/;Max-Age=86400;', 'Set-Cookie: country=US;Path=/;Max-Age=86400;', 'Set-Cookie: city="""";Path=/;Max-Age=86400;', 'Set-Cookie: traffic_target=reseller;Path=/;Max-Age=86400;', 'Via: 1.1 google', 'X-Adblock-Key: MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJRmzcpTevQqkWn6dJuX/N/Hxl7YxbOwy8+73ijqYSQEN+WGxrruAKtZtliWC86+ewQ0msW1W8psOFL/b00zWqsCAwEAAQ_GTXdtyjs3HvAqm0RwjTuAaF+qq5PibwZwOd6Z6h7gK2TiX5YuVHBkw/ROIx5N3YkK4fb3UDMZzwB8G4TXMJVVg']<!doctype html><html lang=""en""><head><meta http-equiv=""content-type"" content=""text/html;charset=utf-8""><meta name=""viewport"" content=""width=device-width,initial-scale=1""><link rel=""shortcut icon"" href=""data:image/x-icon;,"" type=""image/x-icon""><title></title><script src=""https://www.google.com/adsense/domains/caf.js"" type=""text/javascript""></script><noscript><style>#content-main{display:none}</style><div>For full functionality of this site it is necessary to enable JavaScript. Here are the <a target=""_blank"" rel=""noopener noreferrer"" href=""https://www.enable-javascript.com/"">instructions how to enable JavaScript in your web browser</a>.</div></noscript><script type=""application/javascript"">window.LANDER_SYSTEM=""PW""</script></head><body><div id=""contentMain""></div><script>!function(e){function r(r){for(var n,a,i=r[0],l=r[1],p=r[2],c=0,s=[];c<i.length;c++)a=i[c],Object.prototype.hasOwnProperty.call(o,a)&&o[a]&&s.push(o[a][0]),o[a]=0;for(n in l)Object.prototype.hasOwnProperty.call(l,n)&&(e[n]=l[n]);for(f&&f(r);s.length;)s.shift()();return u.push.apply(u,p||[]),t()}function t(){for(var e,r=0;r<u.length;r++){for(var t=u[r],n=!0,i=1;i<t.length;i++){var l=t[i];0!==o[l]&&(n=!1)}n&&(u.splice(r--,1),e=a(a.s=t[0]))}return e}var n={},o={1:0},u=[];function a(r){if(n[r])return n[r].exports;var t=n[r]={i:r,l:!1,exports:{}};return e[r].call(t.exports,t,t.exports,a),t.l=!0,t.exports}a.m=e,a.c=n,a.d=function(e,r,t){a.o(e,r)||Object.defineProperty(e,r,{enumerable:!0,get:t})},a.r=function(e){""undefined""!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:""Module""}),Object.defineProperty(e,""__esModule"",{value:!0})},a.t=function(e,r){if(1&r&&(e=a(e)),8&r)return e;if(4&r&&""object""==typeof e&&e&&e.__esModule)return e;var t=Object.create(null);if(a.r(t),Object.defineProperty(t,""default"",{enumerable:!0,value:e}),2&r&&""string""!=typeof e)for(var n in e)a.d(t,n,function(r){return e[r]}.bind(null,n));return t},a.n=function(e){var r=e&&e.__esModule?function(){return e.default}:function(){return e};return a.d(r,""a"",r),r},a.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},a.p=""https://img1.wsimg.com/parking-lander/"";var i=this[""webpackJsonpparking-lander""]=this[""webpackJsonpparking-lander""]||[],l=i.push.bind(i);i.push=r,i=i.slice();for(var p=0;p<i.length;p++)r(i[p]);var f=l;t()}([])</script><script src=""https://img1.wsimg.com/parking-lander/static/js/2.3e098d23.chunk.js""></script><script src=""https://img1.wsimg.com/parking-lander/static/js/main.98945fe1.chunk.js""></script></body></html>",['focus.cn' 'fool.com' 'qq.com']

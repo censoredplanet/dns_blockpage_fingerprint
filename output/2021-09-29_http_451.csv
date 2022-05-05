@@ -1,0 +1,87 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+93.174.131.38,77,1408.0,0.0,1.0,"['Content-Length: 1230', 'Content-Type: text/html', 'Date: Wed, 29 Sep 2021 22:59:37 GMT', 'Server: nginx/0.7.65', 'Vary: Accept-Encoding', 'X-Powered-By: PHP/5.3.2-1ubuntu4.20']<html><head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=""cp1251"">
+<title>������ 451: ����������� URL �� ����� ���� �������</title>
+<style type=""text/css""><!--
+ %l
+
+body
+:lang(fa) { direction: rtl; font-size: 100%; font-family: Tahoma, Roya, sans-serif; float: right; }
+:lang(he) { direction: rtl; }
+ --></style>
+</head><body id=""%c"">
+<div id=""titles"">
+<h1>������ 451</h1>
+<h2>������ � ������� ������������ �� ���������� ������� ��������������� ������</h2>
+</div>
+<hr>
+
+<div id=""content"">
+
+<blockquote id=""error"">
+<p><b>������������� ������ ������� � ������ ������ �������� ����, ���������� ������� ������ � ���� ""��������"" � ������� �������, ����������� ���������������� ����� � ���� ""��������"", ���������� ����������, ��������������� ������� � ���������� ��������� ���������.</b></p>
+</blockquote>
+
+<p>��� �������� ����������� ������� � ������ � (���) ��������� ������ ���� ""��������"" � ������ ���������� ���� ��������� ������������ ������ �� 27.07.2006 ���� � 149-�� ""�� ����������, �������������� ����������� � ������ ����������"", ����������� ��������������� <a href=""http://blocklist.rkn.gov.ru/"" target=""_blank"">������������� �������� �������� ����������� �������</a>.</p>
+
+<br>
+</div>
+
+<hr>
+</body></html>
+
+","['www.gotgayporn.com' 'www.dailymotion.com' 'issuu.com' 'boingboing.net'
+ 'www.eurogrand.com' 'bet365.com' '1337x.to' 'xhamster.com'
+ 'chaturbate.com' 'www.anonymizer.com' 'thepiratebay.org' 'coursehero.com'
+ 'www.startmail.com' 'www.cannaweed.com' 'bitcoin.org' 'blackberry.com'
+ 'www.hidemyass.com' 'beeg.com' 'turbobit.net' 'thehiddenwiki.org'
+ 'www.megaproxy.com' 'casino.com' 'hotgaylist.com' 'ultrasurf.us'
+ 'bet9ja.com' 'www.hizb-ut-tahrir.org' 'sxyprn.com'
+ 'global.blackberry.com' 'stormgain.com' 'www.rollitup.org'
+ 'www.shroomery.org' 'dmm.co.jp' 'www.asstr.org' 'www.linkedin.com'
+ 'www.youporn.com' 'www.bitfinex.com' 'www.tunnelbear.com' 'youporn.com'
+ 'www.khilafah.com' 'www.slotland.com' 'www.goldenrivieracasino.com'
+ 'www.spinpalace.com' 'www.womenonwaves.org' 'line.me' 'guardster.com'
+ 'weedfarmer.com' 'www.betfair.com' 'psiphon.ca'
+ 'www.opensocietyfoundations.org' 'dailymotion.com' 'www.gambling.com'
+ 'www.hotspotshield.com' 'protonmail.com' 'www.erowid.org'
+ 'ikhwanonline.com' 'anonymouse.org' 'nicovideo.jp' 'www.proxyweb.net'
+ 'www.888casino.com' 'www.partypoker.net' 'www.carnivalcasino.com'
+ 'manyvids.com' 'drugs-forum.com' 'linkedin.com' 'proxify.com'
+ 'www.anonymizer.ru' 'khilafah.net' 'howtogrowmarijuana.com' 'www.bbm.com'
+ 'www.ndi.org' 'www.onlinegambling.com' 'sci-hub.se'
+ 'www.europacasino.com' 'rutracker.org' 'www.ned.org' 'rapidgator.net'
+ 'www.casinotropez.com']"
+195.46.39.1,11,4420.0,0.0,1.0,"['Content-Length: 4071', 'Content-Type: text/html; encoding=utf-8', 'Date: Wed, 29 Sep 2021 23:03:40 GMT', 'Server: SafeDNS', 'Set-Cookie: _csrf=249fd1534310dcf1fa52e5177a1bc6f0; expires=Wed, 29 Sep 2021 23:18:40 GMT', 'Set-Cookie: sessionid=SGlaaLWZfdMqSVktFmHzSspAqUijBznO; expires=Thu, 30 Sep 2021 01:03:40 GMT; path=/; HttpOnly', 'Vary: Cookie']
+  <!DOCTYPE html>
+  <html class=""[ page ][ 
+  theme_black
+ ]"">
+    <head>
+      <meta charset=""utf-8"">
+       <meta name=""viewport"" content=""width=device-width, initial-scale=1.0""> <title>Access denied</title> <base href=""https://blockpage-cdn.safedns.com/static/"" target=""_blank""> <link rel=""preload stylesheet"" href=""css/styles.css"" type=""text/css"" as=""style""> <link rel=""preload stylesheet"" href=""css/anonymous.css"" type=""text/css"" as=""style""> 
+    </head>
+     <body class=""[ page__body ][ body ]"" lang=""en""> <img class=""body__image"" src=""images/lock.png"" width=""845"" height=""718"" alt=""""> <div class=""[ body__content ][ stack ]"" style=""--stack-space: var(--s4)""> <svg class=""logo"" xmlns=""http://www.w3.org/2000/svg"" fill=""none"" viewBox=""0 0 341 47""><clipPath id=""a""><path d=""M0 0h341v47H0z"" /></clipPath><g fill=""#f8fbff"" clip-path=""url(#a)""><path d=""M90.6 32a17.7 17.7 0 0 0 12.4 5.7c4.5 0 8.2-2.3 8.2-5.9 0-4.3-5.7-5.1-11.6-6.3-6.5-1.4-12.4-3.7-12.4-10.3 0-6.2 5-11.1 13.6-11.1 5.3 0 10.4 2 14.3 5.4l-3.9 4.8c-2.9-2.6-6.6-4-10.5-4-3.9 0-7 1.7-7 4.4 0 3.2 3.6 4 9.6 5.1 6.3 1 14.5 3.2 14.5 12.1 0 6.9-6.2 12-14.7 12a24 24 0 0 1-16.6-7.1zM148.5 36.5h-18.9l-2.8 7.4h-7l16-39.8h6.6l16 39.8h-7zm-16.5-6h14.3L139 12zM189.7 4.1v6.2h-20.5V19h16v6.2h-16v18.7h-6.6V4zM222.6 4.1v6.2h-20.5V19H218v6.1h-16v12.6h20.6V44h-27.2V4zM248.8 5A19.6 19.6 0 0 1 263 24a19.6 19.6 0 0 1-14.2 19c-2.4.7-5 1-7.4.9H229V4h12.3c2.5 0 5 .2 7.5 1zm-1 31.8a13.3 13.3 0 0 0 8.5-12.8 13.3 13.3 0 0 0-8.5-12.7c-2-.8-4.3-1.1-6.5-1h-5.7v27.5h5.7c2.2 0 4.4-.3 6.5-1zM268.8 43.9V4h3.6l25 27.7V4.1h6.6V44h-3.6l-25-27.8V44zM313.8 32c3.2 3.5 7.7 5.5 12.4 5.7 4.5 0 8.2-2.3 8.2-5.9 0-4-4.9-5-10.3-6l-1.3-.3c-6.5-1.5-12.4-3.7-12.4-10.3 0-6.2 5-11.1 13.6-11.1 5.3 0 10.3 2 14.3 5.4l-3.9 4.8c-2.9-2.6-6.6-4-10.5-4-3.9 0-7 1.7-7 4.4 0 3.2 3.6 4 9.6 5.1 6.3 1 14.5 3.2 14.5 12.1 0 6.9-6.3 12-14.7 12a24 24 0 0 1-16.6-7.1z"" /><path fill-rule=""evenodd"" d=""M40.7 5a19.6 19.6 0 0 0-11.3 0L34 1.8V0H36v1.8z"" clip-rule=""evenodd"" /><path d=""M70.1 24.4c0 8.3-2.9 16.3-8.1 22.6H55a30.4 30.4 0 0 0 0-45.1H62A35.2 35.2 0 0 1 70 24.4zM0 24.4C0 32.7 2.9 40.7 8.1 47H15a30.4 30.4 0 0 1 0-45.1H8A35.2 35.2 0 0 0 0 24.4zM46 44a22.3 22.3 0 0 1-22 0l1.8-18.4.4-4.5.2-2.2a27.3 27.3 0 0 1 17.2 0l.2 2.2.5 5.4zM43.7 13.4v-5a18.1 18.1 0 0 0-17.3 0v5l-1 .3 1.7 2a30 30 0 0 1 15.7 0l1.8-2-1-.3zM27.9 13V9.6a1.2 1.2 0 0 1 2.4 0v3c-.8 0-1.6.2-2.4.4zm7.2-.8h-1.3V8.9a.9.9 0 0 1 .4-.7 1.4 1.4 0 0 1 1.7 0 .9.9 0 0 1 .3.7v3.3h-1.1zm7.1.8-2.4-.4v-3a1.2 1.2 0 0 1 2.4 0V13z"" /><path d=""m20 41.3-3.1 3.5c-1-.9-1.9-1.8-2.7-2.9l-.7-.9-1.4-1.9-1-2-.6-1A27.5 27.5 0 0 1 8 25.7v-2.5c.1-3.6 1-7.1 2.5-10.4l.5-1A25 25 0 0 1 15 6.2l.3-.3.7-.8 1-1 3 3.5-1.5 1.7-.7.7-.1.2a20.2 20.2 0 0 0-3 4.9l-.4 1v.1l-.4 1-.4 1.2-.5 2.3-.1 1.2-.1 1.3v3.7c.2.4.2.8.2 1.2a25.2 25.2 0 0 0 1.2 4.5v.1l.4 1 .2.4.4.8.3.6.4.7.4.6.8 1.2.4.5.6.7.3.4.5.5 1 1M62.3 24.4A27 27 0 0 1 53 44.8L50 41.3l2.3-2.4.2-.3.6-.8.7-1 .5-.8.3-.5.2-.3.1-.3.2-.3.4-.7.2-.7c.1-.2 0 0 0 0l.1-.3.1-.2.4-1 .2-.5V30.6l.2-.6.2-.5c0-.2 0 0 0 0v-.7a.2.2 0 0 0 .2-.3V23c.1 0 .1-.1 0-.2v-3.2L57 19l-.2-.6a18.3 18.3 0 0 0-.8-2.6v-.2l-.2-.3A20.8 20.8 0 0 0 50 7.6L53 4.1l.7.7.7.7L56 6.9a27.1 27.1 0 0 1 6.4 17.5z"" /></g></svg> <h1 class=""[ body__header ][ color_white ]"">Access denied</h1> <p class=""color_white""> Our public resolver might get <br> <span class=""font-size_s3 color_orange"">unavailable soon!</span> </p> <p class=""font-size_s4 color_white""> Get your free <wbr /> license now </p> <a class=""[ body__button ][ button ]"" href=""https://www.safedns.com/auth/0e4d4a84b9c1fee3d2a7b37e47178a7b/"" onclick=""gtag('event', 'click', {'event_category': 'register_block_page', 'event_action': 'start'});""> Register </a> </div> 
+  
+    <script src=""https://www.googletagmanager.com/gtag/js?id=UA-34104546-1"" async></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-34104546-1');
+    </script>
+  
+ 
+  
+    <!-- profile: 0 -->
+  
+ 
+  
+    <!-- xray: bed058 -->
+  
+ </body> 
+  </html>
+","['astalavista.box.sk' 'www3.iaisite.org' 'sci-hub.tw' '52pk.com'
+ 'www.carnivalcasino.com' 'cnzz.com' 'www.lingerieatlarge.com'
+ 'www.serials.ws' 'www.mamma.com' 'www.appzplanet.com' 'www.luwaran.net']"

@@ -1,0 +1,93 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+104.244.43.182,8,453.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 173', 'Content-Type: text/html', 'Date: Tue, 16 Mar 2021 04:51:34 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-mdw17340-MDW', 'X-Timer: S1615870294.485793,VS0,VE1']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['www.pokerstars.com' 'www.youtube.com' 'istockphoto.com'
+ 'www.wikipedia.org' 'www.facebook.com' 'pornhub.com' 'breitbart.com'
+ 'medium.com']"
+104.244.43.248,8,453.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 173', 'Content-Type: text/html', 'Date: Tue, 16 Mar 2021 04:53:52 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-mdw17331-MDW', 'X-Timer: S1615870433.539817,VS0,VE0']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['istockphoto.com' 'www.youtube.com' 'www.facebook.com'
+ 'www.pokerstars.com' 'www.wikipedia.org' 'breitbart.com' 'pornhub.com'
+ 'medium.com']"
+104.244.43.57,8,453.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 173', 'Content-Type: text/html', 'Date: Tue, 16 Mar 2021 04:53:10 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-mdw17326-MDW', 'X-Timer: S1615870391.826641,VS0,VE1']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['istockphoto.com' 'pornhub.com' 'www.pokerstars.com' 'www.facebook.com'
+ 'breitbart.com' 'medium.com' 'www.wikipedia.org' 'www.youtube.com']"
+104.244.43.128,8,453.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 173', 'Content-Type: text/html', 'Date: Tue, 16 Mar 2021 04:58:51 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-mdw17363-MDW', 'X-Timer: S1615870732.791546,VS0,VE0']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['www.wikipedia.org' 'medium.com' 'www.youtube.com' 'www.pokerstars.com'
+ 'breitbart.com' 'www.facebook.com' 'pornhub.com' 'istockphoto.com']"
+104.244.43.229,8,453.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 173', 'Content-Type: text/html', 'Date: Tue, 16 Mar 2021 04:58:49 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-mdw17321-MDW', 'X-Timer: S1615870730.704922,VS0,VE0']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['breitbart.com' 'www.pokerstars.com' 'www.facebook.com' 'istockphoto.com'
+ 'www.youtube.com' 'medium.com' 'www.wikipedia.org' 'pornhub.com']"
+104.244.43.99,8,453.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 173', 'Content-Type: text/html', 'Date: Tue, 16 Mar 2021 04:54:10 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-mdw17334-MDW', 'X-Timer: S1615870451.789501,VS0,VE0']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['pornhub.com' 'www.facebook.com' 'www.pokerstars.com' 'istockphoto.com'
+ 'www.youtube.com' 'www.wikipedia.org' 'medium.com' 'breitbart.com']"
+104.244.43.208,8,453.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 173', 'Content-Type: text/html', 'Date: Tue, 16 Mar 2021 04:55:35 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-mdw17348-MDW', 'X-Timer: S1615870536.680300,VS0,VE0']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['www.wikipedia.org' 'www.youtube.com' 'breitbart.com' 'pornhub.com'
+ 'istockphoto.com' 'medium.com' 'www.pokerstars.com' 'www.facebook.com']"
+104.244.43.104,8,453.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 173', 'Content-Type: text/html', 'Date: Tue, 16 Mar 2021 04:54:05 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-mdw17347-MDW', 'X-Timer: S1615870446.690187,VS0,VE0']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['pornhub.com' 'www.wikipedia.org' 'medium.com' 'istockphoto.com'
+ 'www.youtube.com' 'www.facebook.com' 'www.pokerstars.com' 'breitbart.com']"
+151.101.77.164,8,453.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 173', 'Content-Type: text/html', 'Date: Tue, 16 Mar 2021 04:53:14 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-hkg17928-HKG', 'X-Timer: S1615870394.362210,VS0,VE0']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['medium.com' 'pornhub.com' 'breitbart.com' 'www.facebook.com'
+ 'www.youtube.com' 'www.wikipedia.org' 'istockphoto.com'
+ 'www.pokerstars.com']"
+104.244.43.228,8,453.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 173', 'Content-Type: text/html', 'Date: Tue, 16 Mar 2021 04:53:10 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-mdw17383-MDW', 'X-Timer: S1615870391.734356,VS0,VE0']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['istockphoto.com' 'medium.com' 'www.youtube.com' 'www.wikipedia.org'
+ 'www.pokerstars.com' 'www.facebook.com' 'breitbart.com' 'pornhub.com']"
+104.244.43.234,8,453.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 173', 'Content-Type: text/html', 'Date: Tue, 16 Mar 2021 04:53:02 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Cache: MISS', 'X-Cache-Hits: 0', 'X-Served-By: cache-mdw17322-MDW', 'X-Timer: S1615870383.818140,VS0,VE2']<html>
+<head></head>
+<body>
+nothing here
+<script defer src=""https://www.fastly-insights.com/static/scout.js?k=a7973d95-b5d9-4085-ad39-308482e318f1""></script>
+</body>
+</html>","['www.youtube.com' 'www.wikipedia.org' 'www.facebook.com'
+ 'www.pokerstars.com' 'istockphoto.com' 'pornhub.com' 'medium.com'
+ 'breitbart.com']"

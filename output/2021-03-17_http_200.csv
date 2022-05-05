@@ -1,0 +1,302 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+64.13.232.149,295,280.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 47', 'Content-Type: text/html', 'Date: Sun, 21 Mar 2021 23:24:27 GMT', 'Etag: ""2f-469204026d7c0""', 'Last-Modified: Tue, 05 May 2009 01:32:23 GMT', 'Server: Apache/2.4.39', 'Vary: User-Agent']<html>
+<body>
+<!-- default -->
+</body>
+</html>
+","['soundcloud.com' 'hootsuite.com' 'wikipedia.org' 'google.com.pe'
+ 'issuu.com' 'btguard.com' 'slideshare.net' 'appledaily.com' 'google.ca'
+ 'pixnet.net' 'www.ask.com' 'google.com.br' 'thepiratebay.org'
+ 'en.m.wikipedia.org' 'www.brookings.edu' 'www.ftchinese.com'
+ 'www.bbc.com' 'mixi.jp' 'www.whatsapp.com' 'multimedia.scmp.com'
+ 'xnxx.com' 'dailymotion.com' 'www.search.com' 'google.com.au'
+ 'substack.com' 'www.dw.com' 'google.com.sa' 'nicovideo.jp'
+ 'discordapp.com' 'www.theatlantic.com' 'www.purevpn.com' 'speedify.com'
+ 'pt.m.wikipedia.org' 'nownews.com' 'rakuten.co.jp'
+ 'www.joinclubhouse.com' 'www.uproxy.org' 'www.amnesty.org' 'bbc.com'
+ 'www.crazyshit.com' 'www.slideshare.net' 'web.telegram.org'
+ 'www.peacefire.org' 'ar.m.wikipedia.org' 'www.giganews.com'
+ 'www.bitfinex.com' 'www.pinterest.com' 'nordvpn.com' 'badoo.com'
+ 'www.nbcnews.com' 'www.quora.com' 'www.blogger.com' 'mstdn.io' 'ok.ru'
+ 'youtube.com' '1337x.to' 'ultrasurf.us' 'getlantern.org' 'artstation.com'
+ 'steamcommunity.com' 'nikkei.com' 'pinterest.com' 'www.youtube.com'
+ 'businessinsider.com' 'google.com.tw' 'google.com.vn'
+ 'www.ebaumsworld.com' 'bloomberg.com' 'www.democracynow.org' 'etsy.com'
+ '9gag.com' 'www.cpj.org' 'www.flickr.com' 'google.co.th'
+ 'plus.google.com' 'alt.com' 'www.ifj.org' 'openvpn.net'
+ 'www.theguardian.com' 'www.aljazeera.com' 'google.co.kr'
+ 'www.sendspace.com' 'reuters.com' 'www.messenger.com' 'bravotube.net'
+ 'line.me' 'www.scribd.com' 'www.rfa.org' 'google.co.id' 'google.de'
+ 'twitch.tv' 'www.wikipedia.org' 'reddit.com'
+ 'timesofindia.indiatimes.com' 'dcard.tw' 'www.reddit.com'
+ 'www.change.org' 'dailymail.co.uk' 'www.hotspotshield.com' 'google.es'
+ 'vimeo.com' 'peacefire.org' 'www.cbc.ca' 'thunder.free-signal.com'
+ 'www.proxyweb.net' 'theintercept.com' 'facebook.com' 'www.google.com'
+ 'www.torproject.org' 'geti2p.net' 'www.adventist.org' 'tor.eff.org'
+ 'www.amnestyusa.org' 'xvideos.com' 'digg.com' 'pchome.com.tw'
+ 'www.gotgayporn.com' 'www.hrw.org' 'mastodon.cloud' 'google.pt' 'rsf.org'
+ 'www.altavista.com' 'spankbang.com' 'onedrive.live.com' 'breitbart.com'
+ 'ar.wikipedia.org' 'google.cl' 'www.tango.me' 'www.ned.org'
+ 'google.com.pk' 'mxc.com' 'binance.com' 'mastodon.xyz' 'google.co.ve'
+ 'wire.com' 'google.it' 'kakao.com' 'www.csmonitor.com'
+ 'washingtonpost.com' 'proxify.com' 'www.hizb-ut-tahrir.org'
+ 'joinmastodon.org' 'www.pokerstars.com' 'www.xroxy.com' 'ameba.jp'
+ 'web.archive.org' 'zh.wikipedia.org' 'theguardian.com'
+ 'www.privateinternetaccess.com' 'blogger.com' 'www.youporn.com'
+ 'www.anonymizer.com' 'disqus.com' 'storm.mg' 'uptodown.com'
+ 'www.heritage.org' 'ooni.torproject.org' 'www.facebook.com'
+ 'gofundme.com' 'bridges.torproject.org' 'es.wikipedia.org' 'dropbox.com'
+ 'duckduckgo.com' 'dw.com' 'www.nytimes.com' 'www.lightsailvpn.com'
+ 'globalvoices.org' 'psiphon.ca' 'google.com.eg' 'google.co.uk'
+ 'www.dailysabah.com' 'google.com.ar' 'blogspot.com' 'setn.com'
+ 'www.dropbox.com' 'telegra.ph' 'www.theepochtimes.com' 'google.com.my'
+ 'www.betternet.co' 'depositphotos.com' 'y2mate.com' 'signal.org'
+ 'www.lemonde.fr' 'turbobit.net' 'www.opentech.fund' 'www.ndi.org'
+ 'groups.yahoo.com' 'www.economist.com' 'securevpn.com' 'genius.com'
+ 'google.co.za' 'de.wikipedia.org' 'google.co.in' 'xhamster.com'
+ 'youporn.com' 'redd.it' 'www.ultimate-anonymity.com' 'ltn.com.tw'
+ 'www.rferl.org' 'google.com.hk' 'chaturbate.com' 'ja.wikipedia.org'
+ 'deviantart.com' 'archive.org' 'goo.ne.jp' 'ask.com' 'livejasmin.com'
+ 'ndtv.com' 'www.xxlmag.com' 'feedly.com' 'google.fr' 'whatsapp.com'
+ 'nbcnews.com' 'imgur.com' 'www.bbc.co.uk' 'beeg.com' 'getoutline.org'
+ 'slate.com' 'www.meetme.com' 'www.megaproxy.com' 'freenetproject.org'
+ 'freedomhouse.org' 'google.com.sg' 'imo.im' 'docs.google.com'
+ 'elpais.com' 'sites.google.com' 'www.twitch.tv' 'app.wire.com'
+ 'telegram.org' 'mastodon.social' 'google.pl'
+ 'ocsp.int-x3.letsencrypt.org' 'www.4shared.com' 'freespeechdebate.com'
+ 'shopee.tw' 'archiveofourown.org' 'ru.wikipedia.org' 'goodreads.com'
+ 'citizenlab.ca' 'www.xvideos.com' 'riseup.net' 'encrypted.google.com'
+ 'www.pornhub.com' 'es.m.wikipedia.org' 'redbubble.com'
+ 'www.dailymotion.com' 'coursehero.com' 'daum.net' 'google.co.jp'
+ 'en.wikipedia.org' 'www.getoutline.org' 'jw.org' 'www.reuters.com'
+ 'wikileaks.org' 'fr.wikipedia.org' 'bbc.co.uk' 'nytimes.com'
+ 'google.com.ua' 'www.goodreads.com' 'www.securityinabox.org'
+ 'livestream.com' 'ytmp3.cc' 'quora.com' 'google.ru' 'google.gr'
+ 'bet365.com' 'it.wikipedia.org' 'googlevideo.com' 'www.persecution.org'
+ 'google.ro' 'groups.google.com' 'ca.wikipedia.org' 'pornhub.com'
+ 'guardster.com' 'www.dailymail.co.uk' 'medium.com' 'istockphoto.com'
+ 'nypost.com' 'google.com.mx' 'protonvpn.com' 'tvants.uptodown.com'
+ 'www.transparency.org' 'google.az' 'kumparan.com' 'unpo.org'
+ 'www.binance.com' 'google.com.tr' 'twitter.com' 'ptt.cc' 'surfshark.com'
+ 'behance.net' 'www.voanews.com' 'theepochtimes.com'
+ 'www.frontlinedefenders.org']"
+13.55.216.130,10,1363.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 1139', 'Content-Type: text/html; charset=UTF-8', 'Date: Sun, 21 Mar 2021 23:24:52 GMT', 'Etag: ""473-550a00ff11300""', 'Last-Modified: Mon, 29 May 2017 02:01:16 GMT', 'Server: Apache']<!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Oops!</title>
+<style type=""text/css"">
+
+::selection { background-color: #E13300; color: white; }
+::-moz-selection { background-color: #E13300; color: white; }
+
+body {
+	background: #fff url('https://4e14afa0f2e33fe0acb7-65ce87aea9ade6f30f5e307f425e6c8a.ssl.cf5.rackcdn.com/404_error.jpg') no-repeat;
+	background-size:cover;background-position:top;
+	margin: 0px;
+	padding:0;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#container {
+	
+}
+
+p {
+	margin: 12px 15px 12px 15px;
+}
+</style>
+</head>
+<body>
+	<div id=""container"">
+		
+	</div>
+</body>
+</html>","['extratorrent.cc' 'seasonvar.ru' 'rezka.ag' 'subscene.com' '1377x.to'
+ 'y2mate.com' 'rutracker.org' 'thepiratebay.org' 'rarbg.to' '1337x.to']"
+52.64.227.94,10,333.0,0.0,1.0,"['Access-Control-Allow-Headers: *', 'Access-Control-Allow-Methods: OPTIONS,HEAD,GET,POST,PUT', 'Access-Control-Allow-Origin: *', 'Content-Length: 76', 'Content-Type: text/html; charset=utf-8', 'Date: Sun, 21 Mar 2021 23:24:08 GMT', 'Server: Cascade v0.3.7']Cascade v0.3.7<hr/>This instance of Cascade serves <a href=""/docs/"">docs</a>","['1337x.to' '1377x.to' 'y2mate.com' 'seasonvar.ru' 'rutracker.org'
+ 'rarbg.to' 'extratorrent.cc' 'rezka.ag' 'subscene.com' 'thepiratebay.org']"
+217.27.32.106,5,354.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 113', 'Content-Type: text/html; charset=UTF-8', 'Date: Sun, 21 Mar 2021 23:35:52 GMT', 'Etag: ""f7-71-549081cd52085""', 'Last-Modified: Tue, 21 Feb 2017 10:47:55 GMT', 'Server: Apache/2.2.15 (CentOS)']<!doctype html>
+<html>
+<head>
+<meta http-equiv=""refresh"" content=""2; url=http://nba.gov.cy/"" />
+</head>
+</html>
+
+","['www.grandonline.com' 'www.luckynugget.com' 'www.royalvegas.com'
+ 'www.poker.com' 'www.clubdicecasino.com']"
+34.102.136.180,4,3239.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 2522', 'Content-Type: text/html', 'Date: Sun, 21 Mar 2021 23:24:27 GMT', 'Etag: ""60550482-9da""', 'Last-Modified: Fri, 19 Mar 2021 20:07:30 GMT', 'Server: openresty', 'Set-Cookie: system=PW;Path=/;Max-Age=86400;', 'Set-Cookie: caf_ipaddr=141.212.123.185;Path=/;Max-Age=86400;', 'Set-Cookie: country=US;Path=/;Max-Age=86400;', 'Set-Cookie: city="""";Path=/;Max-Age=86400;', 'Set-Cookie: traffic_target=gd;Path=/;Max-Age=86400;', 'Via: 1.1 google', 'X-Adblock-Key: MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJRmzcpTevQqkWn6dJuX/N/Hxl7YxbOwy8+73ijqYSQEN+WGxrruAKtZtliWC86+ewQ0msW1W8psOFL/b00zWqsCAwEAAQ_iG9Obg5Iq+gh1DSBuNC4j/axI+bfajgK4/mPZ9uRL6+Lit9Z32M25vHTg873q17rDLKJnq62gi5CFx6uX+Jgqw']<!doctype html><html lang=""en""><head><meta http-equiv=""content-type"" content=""text/html;charset=utf-8""><meta name=""viewport"" content=""width=device-width,initial-scale=1""><link rel=""shortcut icon"" href=""data:image/x-icon;,"" type=""image/x-icon""><title></title><script src=""https://www.google.com/adsense/domains/caf.js"" type=""text/javascript""></script><noscript><style>#content-main{display:none}</style><div>For full functionality of this site it is necessary to enable JavaScript. Here are the <a target=""_blank"" href=""https://www.enable-javascript.com/"">instructions how to enable JavaScript in your web browser</a>.</div></noscript><script type=""application/javascript"">window.LANDER_SYSTEM=""PW""</script></head><body><div id=""contentMain""></div><script>!function(e){function r(r){for(var n,a,i=r[0],l=r[1],p=r[2],c=0,s=[];c<i.length;c++)a=i[c],Object.prototype.hasOwnProperty.call(o,a)&&o[a]&&s.push(o[a][0]),o[a]=0;for(n in l)Object.prototype.hasOwnProperty.call(l,n)&&(e[n]=l[n]);for(f&&f(r);s.length;)s.shift()();return u.push.apply(u,p||[]),t()}function t(){for(var e,r=0;r<u.length;r++){for(var t=u[r],n=!0,i=1;i<t.length;i++){var l=t[i];0!==o[l]&&(n=!1)}n&&(u.splice(r--,1),e=a(a.s=t[0]))}return e}var n={},o={1:0},u=[];function a(r){if(n[r])return n[r].exports;var t=n[r]={i:r,l:!1,exports:{}};return e[r].call(t.exports,t,t.exports,a),t.l=!0,t.exports}a.m=e,a.c=n,a.d=function(e,r,t){a.o(e,r)||Object.defineProperty(e,r,{enumerable:!0,get:t})},a.r=function(e){""undefined""!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:""Module""}),Object.defineProperty(e,""__esModule"",{value:!0})},a.t=function(e,r){if(1&r&&(e=a(e)),8&r)return e;if(4&r&&""object""==typeof e&&e&&e.__esModule)return e;var t=Object.create(null);if(a.r(t),Object.defineProperty(t,""default"",{enumerable:!0,value:e}),2&r&&""string""!=typeof e)for(var n in e)a.d(t,n,function(r){return e[r]}.bind(null,n));return t},a.n=function(e){var r=e&&e.__esModule?function(){return e.default}:function(){return e};return a.d(r,""a"",r),r},a.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},a.p=""https://img1.wsimg.com/parking-lander/"";var i=this[""webpackJsonpparking-lander""]=this[""webpackJsonpparking-lander""]||[],l=i.push.bind(i);i.push=r,i=i.slice();for(var p=0;p<i.length;p++)r(i[p]);var f=l;t()}([])</script><script src=""https://img1.wsimg.com/parking-lander/static/js/2.2851f9fa.chunk.js""></script><script src=""https://img1.wsimg.com/parking-lander/static/js/main.274a70bc.chunk.js""></script></body></html>","['www.postcards-for-iran.org' 'www.ustranscom.mil' 'www.theglobalfund.org'
+ 'www.pcusa.org']"
+18.182.232.51,3,119.0,0.0,1.0,"['Content-Length: 0', 'Content-Type: application/octet-stream', 'Date: Sun, 21 Mar 2021 23:21:46 GMT', 'Server: nginx']",['www.unhcr.org' 'tails.boum.org' 'www.blubster.com']
+113.28.162.189,3,558.0,0.0,1.0,"['Cache-Control: private,no-cache', 'Content-Length: 139', 'Content-Type: text/html', 'Date: Sun, 21 Mar 2021 23:27:13 GMT', 'Expires: Sat, 20 Mar 2021 23:27:12 GMT', 'P3p: CP=""UNI INT""', 'Pragma: no-cache', 'Server: Microsoft-IIS/8.5', 'Set-Cookie: ASPSESSIONIDAQSCBBBD=BAIKCNHDIIJJMMLDJALLIBID; path=/', 'Set-Cookie: aa_cookie=141.212.123.185_50532_1616369350; Domain= .aastocks.com; Path=/', 'X-Powered-By: ASP.NET']
+<html>
+<head>
+<meta http-equiv=""Refresh"" content=""0;url=http://www.aastocks.com/tc/index.aspx?"">
+<title>Redirect Page</title>
+</head>",['google.az' 'freedomhouse.org' 'southcn.com']
+216.252.162.123,3,10324.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 10010', 'Content-Type: text/html; charset=UTF-8', 'Date: Sun, 21 Mar 2021 23:27:14 GMT', 'Etag: ""271a-4eec4fee0f900""', 'Last-Modified: Mon, 30 Dec 2013 18:56:04 GMT', 'Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.5 PHP/7.3.17']<!-- Start the head section -->
+<HEAD>
+<!-- Define the title of the document -->
+<TITLE>QueerNet: Home Page</TITLE>
+<META NAME=""description"" CONTENT=""QueerNet.ORG is the leading not-for-profit community center for gay, lesbian, bisexual, transgendered, HIV/AIDS, and SM/leather folk on the Internet.  It offers mailing list and web site resources  and information."">
+<META NAME=""keywords"" CONTENT=""gay activist transgender transsexual ftm mtf lesbian lesbos lesbians dyke sappho homosexual women woman queer dykes bisexual butch femme"">
+
+<!-- End the head section -->
+<meta http-equiv=""Content-Type"" content=""text/html; charset=iso-8859-1""></HEAD>
+
+<!-- Start the body section -->
+<BODY bgcolor=""#FFFFFF"">
+<div align=""left""> 
+  <p align=""center""><IMG SRC=""/images/queernet-logo.gif"" ALT=""(QueerNet Logo)"" width=""489"" height=""131"" align=""middle""> 
+    <font face=""Impact, ELEGANCE, GENUINE, MS Outlook""> <br>
+    <strong><font face=""Arial, Helvetica, sans-serif"">A PROJECT OF</font></strong> 
+    </font><a href=""http://www.onlinepolicy.org/""><img src=""images/opglogostrip.gif"" alt=""Online Policy Group, Inc."" width=""369"" height=""46"" border=""0"" align=""middle""></a><BR>
+  </p>
+</div>
+  
+<b><font face=""Verdana, Arial, Helvetica, sans-serif""> </font></b>
+<table width=""100%"" height=""199"" border=""0"" cellspacing=""5"">
+  <tr valign=""top""> 
+    <td width=""27%"" height=""189"" bordercolor=""#333333""><font face=""Verdana, Arial, Helvetica, sans-serif"">&nbsp; 
+      </font> <table width=""100%"" border=""1"" cellspacing=""5"">
+        <tr>
+          <td height=""196"" valign=""top"" bordercolor=""#333333""><div align=""center""><font face=""Verdana, Arial, Helvetica, sans-serif""><strong><font color=""#0000FF"" size=""+2""><a href=""http://groups.queernet.org/"">QueerNet 
+              Groups</a></font><br>
+              </strong></font><font face=""Verdana, Arial, Helvetica, sans-serif""><strong>Online 
+              email-based communities hosted free of charge with no advertising!<br>
+              Set up and manage a group for your interests, or find your online 
+              home among the hundreds we already host.</strong></font></div></td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width=""50%""><b><font face=""Verdana, Arial, Helvetica, sans-serif""> 
+      <p><font size=""-1""><br>
+        We provide free online services for the gay, lesbian, bisexual, transgendered, 
+        queer, questioning and allies, HIV/AIDS, sexual and gender rights, and 
+        leather/S&M communities, including mailing lists, web sites, and email 
+        hosting.</font></p>
+      <p><font size=""-1""><a href=""http://www.onlinepolicy.org"">The Online Policy 
+        Group</a> is a non-profit organization dedicated to online policy research, 
+        outreach, and action on issues such as access, privacy, defamation, and 
+        the digital divide. We supply online services to individuals, projects, 
+        and non-profit organizations. QueerNet, which was founded in 1991 and 
+        is OPG's longest-running project, provides our focus on these specific 
+        communities. </font></p>
+      </font></b></td>
+    <td width=""23%"" bordercolor=""#CCCCCC"" bgcolor=""#FFFF99""> 
+      <div align=""center""> 
+        <p><font face=""Verdana, Arial, Helvetica, sans-serif""><strong><br>
+          PLEASE SUPPORT US!</strong></font><font face=""Verdana, Arial, Helvetica, sans-serif""><em><br>
+          <font size=""-1"">Online Policy Group and all of its projects, including 
+          QueerNet, offer all of their services free of charge. We are a non-profit 
+          organization entirely supported by donations, most of these from individuals. 
+          <a href=""http://www.onlinepolicy.org/joindonate.shtml"" target=""_top"">Please 
+          support us</a> with a contribution of funds or equipment.</font></em></font></p>
+      </div></td>
+  </tr>
+</table>
+<b><font face=""Verdana, Arial, Helvetica, sans-serif"">
+<p>You can request other services for yourself, your project or your non-profit.
+</p>
+</font></b><b><font face=""Verdana, Arial, Helvetica, sans-serif"">
+<p><i><font face=""Franklin Gothic Book"">OPG/QueerNet services include:</font></i></p>
+</font></b> 
+<ul>
+  <li> <font face=""Verdana, Arial, Helvetica, sans-serif""><em>Hosting your web 
+    site</em></font></li>
+  <li><em><font face=""Verdana, Arial, Helvetica, sans-serif"">Providing email 
+    accounts you can access by web or using popular mail programs</font></em></li>
+  <li><em><font face=""Verdana, Arial, Helvetica, sans-serif"">Hosting 
+     mailing lists using your organization's domain name</font></em></li>
+</ul>
+<p>To request these, <a href=""mailto:support@onlinepolicy.org"">send mail with your request</a>.
+<p><font face=""Verdana, Arial, Helvetica, sans-serif""><strong>Join these OPG/QueerNet 
+  clients:</strong></font></p>
+<table width=""100%"" border=""1"" cellspacing=""5"">
+  <tr>
+    <td><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">EGALE Canada 
+      (<a href=""http://lists.egale.ca/"">mailing lists</a>) </font></td>
+    <td><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">The Exiles (<a href=""http://www.theexiles.org"">web site</a>) </font><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">(<a href=""http://groups.queernet.org/cgi-bin/mj_wwwusr?func=lists-long-full&extra=exiles"">mailing list</a>)</font></td>
+  </tr>
+  <tr>
+    <td><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">Gay Asian 
+      and Pacific Islander Men of New York (<a href=""http://www.gapimny.org"">web 
+      site</a>) </font><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">(<a href=""http://groups.queernet.org/cgi-bin/mj_wwwusr?func=lists-long-full&extra=gapimny"">mailing 
+      list</a>)</font></td>
+    <td><font face=""Verdana, Arial, Helvetica, sans-serif""><font size=""-1"">HipFaerie </font><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">(<a href=""http://www.hipfaerie.net"">web site</a>)</font></font></td>
+  </tr>
+  <tr>
+    <td><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">HIV+Me by Chris Companik (<a href=""http://www.hivnme.com"">web site</a>)</font></td>
+    <td><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">Intl Assn of Gay/Lesbian Country Western Dance Clubs (<a href=""http://lists.iaglcwdc.org/"">mailing lists</a>) </font></td>
+  </tr>
+  <tr>
+    <td><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">National Lesbian and Gay Journalists Association (<a href=""http://lists.nlgja.org/"">mailing lists</a>)</font><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">&nbsp;</font></td>
+    <td><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">OrthoDykes </font><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif""> (<a href=""http://www.orthodykes.org"">web site</a>)</font><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">&nbsp;</font><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">(<a href=""http://groups.queernet.org/cgi-bin/mj_wwwusr?func=lists-long-full&extra=orthodykes"">mailing list</a>)</font></td>
+</tr>
+<tr>
+    <td><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">Othersiders Country Western Dance Club (<a href=""http://lists.othersiders.com/"">mailing lists</a>)</font></td>
+    <td><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">Pansy Division (<a href=""http://www.pansydivision.com"">web site</a>)</font></td>
+</tr>
+  <tr>
+    <td><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">Prospective Queer Parents (<a href=""http://www.queerparents.org"">web site</a>) </font><font face=""Verdana, Arial, Helvetica, sans-serif""><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">(<a href=""http://groups.queernet.org/cgi-bin/mj_wwwusr?func=lists-long-full&extra=pqp"">mailing list</a>)</font></font><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">&nbsp;</font></td>
+    <td><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">Seattle Men in Leather</font><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif""> </font><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">&nbsp; </font><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">(<a href=""http://groups.queernet.org/cgi-bin/mj_wwwusr?func=lists-long-full&extra=sml-info"">mailing list</a>)</font><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">&nbsp; </font></td>
+</tr>
+  <tr>
+    <td><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">SF Queer Longhairs</font><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif""> (<a href=""http://www.sfqueerlonghair.org"">web site</a>) </font><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">&nbsp; </font><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">(<a href=""http://groups.queernet.org/cgi-bin/mj_wwwusr?func=lists-long-full&extra=sfqueerlonghair"">mailing list</a>)</font><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">&nbsp; </font></td>
+    <td><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">Texas Twisters Gay/Lesbian Country Western Dance Club (<a href=""http://lists.texastwisters.org/"">mailing lists</a>)</font></td>
+</tr>
+<tr>
+    <td><font size=""-1"" face=""Verdana, Arial, Helvetica, sans-serif"">Woodhull Freedom Foundation (<a href=""http://lists.woodhullfoundation.org/"">mailing lists</a>)</font></td>
+  </tr>
+</table>
+<p><font face=""Verdana, Arial, Helvetica, sans-serif""><strong>...as well as many 
+  other people, projects, and non-profits hosted by Online Policy Group!</strong></font></p>
+<center>
+</center>
+<hr>
+<font face=""Verdana, Arial, Helvetica, sans-serif""></font> 
+<ADDRESS>Online Policy Group, Inc.</ADDRESS>
+<ADDRESS>304 Winfield St.</ADDRESS>
+<ADDRESS>San Francisco, CA 94112</ADDRESS>
+<ADDRESS>Email: <A HREF=""mailto:info@queernet.org"">info@QueerNet.ORG</A></ADDRESS>
+<br>
+<ADDRESS>3903 S Ferdinand St Unit D<ADDRESS>
+<ADDRESS>Seattle, WA 98118</ADDRESS>
+
+<P>The QueerNet Project was founded in 1991 by <a href=""http://www.rogerklorese.com"">Roger 
+  B.A. Klorese</a>. 
+<HR>
+Logo: Steven Miller<BR>
+</BODY>
+",['www.peacefire.org' 'airbnb.com' 'tiktok.com']
+54.95.82.108,3,119.0,0.0,1.0,"['Content-Length: 0', 'Content-Type: application/octet-stream', 'Date: Sun, 21 Mar 2021 23:21:50 GMT', 'Server: nginx']",['www.blubster.com' 'tails.boum.org' 'www.unhcr.org']
+195.70.1.223,3,259.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 0', 'Content-Type: text/html; charset=UTF-8', 'Date: Sun, 21 Mar 2021 23:24:21 GMT', 'Etag: ""0-5913afbcfa4fd""', 'Last-Modified: Thu, 29 Aug 2019 05:43:22 GMT', 'Server: Secured Gateway', 'Set-Cookie: RID=.w1; path=/']",['58.com' 'dcard.tw' 'www.sbs.com.au']

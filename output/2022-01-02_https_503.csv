@@ -50,6 +50,54 @@ ip,domain_count,avg_length,standard_deviation,similarity,content,domains
  'strongvpn.com' 'surfshark.com' 'www.ea.com' 'discord.gg' 'speedify.com'
  'prq.se' 'securevpn.com' 'www.bitfinex.com' 'www.fastmail.com'
  'www.skype.com']"
+104.244.43.99,10,796.7,0.07361913603764242,0.9999075949089524,"['Accept-Ranges: bytes' 'Content-Length: 454'
+ 'Content-Type: text/html; charset=utf-8'
+ 'Date: Sun, 02 Jan 2022 23:35:41 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Cache: MISS' 'X-Cache-Hits: 0'
+ 'X-Served-By: cache-dtw8028-DTW' 'X-Timer: S1641166541.121447,VS0,VE0']
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""
+ ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html>
+  <head>
+    <title>503 Backend is unhealthy</title>
+  </head>
+  <body>
+    <h1>Error 503 Backend is unhealthy</h1>
+    <p>Backend is unhealthy</p>
+    <h3>Guru Mediation:</h3>
+    <p>Details: cache-dtw8025-DTW 1641166541 1695348648</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
+","['duckduckgo.com' 'badoo.com' 'hootsuite.com' 'chaturbate.com'
+ 'sites.google.com' 'telegra.ph' 'flickr.com' 'xnxx.com' 'discord.com'
+ 'www.dropbox.com']"
+104.244.43.35,10,796.5,0.07327712413688783,0.9999080010996398,"['Accept-Ranges: bytes' 'Content-Length: 511'
+ 'Content-Type: text/html; charset=utf-8'
+ 'Date: Sun, 02 Jan 2022 23:37:06 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Cache: MISS' 'X-Cache-Hits: 0'
+ 'X-Served-By: cache-dtw8020-DTW' 'X-Timer: S1641166625.367957,VS0,VE1303']
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""
+ ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html>
+  <head>
+    <title>503 Backend unavailable, connection timeout</title>
+  </head>
+  <body>
+    <h1>Error 503 Backend unavailable, connection timeout</h1>
+    <p>Backend unavailable, connection timeout</p>
+    <h3>Guru Mediation:</h3>
+    <p>Details: cache-dtw8023-DTW 1641166627 2614335677</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
+","['telegra.ph' 'flickr.com' 'sites.google.com' 'hootsuite.com' 'badoo.com'
+ 'www.dropbox.com' 'xnxx.com' 'chaturbate.com' 'duckduckgo.com'
+ 'discord.com']"
 151.101.77.164,10,799.0,0.07393769956316361,0.9999074622033002,"['Accept-Ranges: bytes' 'Content-Length: 512'
  'Content-Type: text/html; charset=utf-8'
  'Date: Sun, 02 Jan 2022 23:39:33 GMT' 'Retry-After: 0' 'Server: Varnish'
@@ -75,51 +123,3 @@ ip,domain_count,avg_length,standard_deviation,similarity,content,domains
 ","['telegra.ph' 'duckduckgo.com' 'xnxx.com' 'flickr.com' 'hootsuite.com'
  'chaturbate.com' 'discord.com' 'sites.google.com' 'www.dropbox.com'
  'badoo.com']"
-104.244.43.35,10,796.5,0.07327712413688783,0.9999080010996398,"['Accept-Ranges: bytes' 'Content-Length: 511'
- 'Content-Type: text/html; charset=utf-8'
- 'Date: Sun, 02 Jan 2022 23:37:06 GMT' 'Retry-After: 0' 'Server: Varnish'
- 'Via: 1.1 varnish' 'X-Cache: MISS' 'X-Cache-Hits: 0'
- 'X-Served-By: cache-dtw8020-DTW' 'X-Timer: S1641166625.367957,VS0,VE1303']
-<?xml version=""1.0"" encoding=""utf-8""?>
-<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""
- ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
-<html>
-  <head>
-    <title>503 Backend unavailable, connection timeout</title>
-  </head>
-  <body>
-    <h1>Error 503 Backend unavailable, connection timeout</h1>
-    <p>Backend unavailable, connection timeout</p>
-    <h3>Guru Mediation:</h3>
-    <p>Details: cache-dtw8023-DTW 1641166627 2614335677</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
-</html>
-","['telegra.ph' 'flickr.com' 'sites.google.com' 'hootsuite.com' 'badoo.com'
- 'www.dropbox.com' 'xnxx.com' 'chaturbate.com' 'duckduckgo.com'
- 'discord.com']"
-104.244.43.99,10,796.7,0.07361913603764242,0.9999075949089524,"['Accept-Ranges: bytes' 'Content-Length: 454'
- 'Content-Type: text/html; charset=utf-8'
- 'Date: Sun, 02 Jan 2022 23:35:41 GMT' 'Retry-After: 0' 'Server: Varnish'
- 'Via: 1.1 varnish' 'X-Cache: MISS' 'X-Cache-Hits: 0'
- 'X-Served-By: cache-dtw8028-DTW' 'X-Timer: S1641166541.121447,VS0,VE0']
-<?xml version=""1.0"" encoding=""utf-8""?>
-<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""
- ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
-<html>
-  <head>
-    <title>503 Backend is unhealthy</title>
-  </head>
-  <body>
-    <h1>Error 503 Backend is unhealthy</h1>
-    <p>Backend is unhealthy</p>
-    <h3>Guru Mediation:</h3>
-    <p>Details: cache-dtw8025-DTW 1641166541 1695348648</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
-</html>
-","['duckduckgo.com' 'badoo.com' 'hootsuite.com' 'chaturbate.com'
- 'sites.google.com' 'telegra.ph' 'flickr.com' 'xnxx.com' 'discord.com'
- 'www.dropbox.com']"

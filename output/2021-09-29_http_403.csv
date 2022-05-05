@@ -1,0 +1,13 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+193.151.107.214,10,389.1,0.037499596950852775,0.9999036247829585,"['Content-Length: 257', 'Content-Type: text/html; charset=iso-8859-1', 'Date: Wed, 29 Sep 2021 23:04:22 GMT', 'Server: Apache']<!DOCTYPE HTML PUBLIC ""-//IETF//DTD HTML 2.0//EN"">
+<html><head>
+<title>403 Forbidden</title>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access /
+on this server.</p>
+<hr>
+<address>Apache Server at ok.ru Port 80</address>
+</body></html>
+","['ok.ru' 'vk.com' 'mail.ru' 'yandex.ru' 'ria.ru' 'rbc.ru'
+ 'www.patreon.com' 'sputniknews.com' 'www.wmtransfer.com' 'mail.yandex.ru']"

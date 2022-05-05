@@ -1,0 +1,43 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+130.211.15.150,109,465.0,0.0,1.0,"['Content-Length: 283', 'Content-Type: text/html; charset=utf-8', 'Date: Wed, 29 Sep 2021 23:01:21 GMT', 'Retry-After: 5', 'Server: nginx', 'Via: 1.1 google', 'X-Varnish: 249146700']<!DOCTYPE html>
+<html>
+  <head>
+    <title>421 Misdirected Request</title>
+  </head>
+  <body>
+    <h1>Error 421 Misdirected Request</h1>
+    <p>Misdirected Request</p>
+    <h3>Guru Meditation:</h3>
+    <p>XID: 249146700</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
+","['line.me' 'bloomberg.com' 'www.4shared.com' 'discord.com' 'xhamster.com'
+ 'www.cpj.org' 'www.omct.org' 'bild.de' 'thunder.free-signal.com'
+ 'pinterest.jp' 'www.opentech.fund' 'www.heritage.org' 'www.giganews.com'
+ 'peacefire.org' 'www.quora.com' 'torrentz.eu' '1337x.to'
+ 'www.nbcnews.com' 'kakao.com' 'groups.yahoo.com' 'thepiratebay.org'
+ 'www.hotspotshield.com' 'unpo.org' 'psiphon.ca' 'jawapos.com'
+ 'www.frontlinedefenders.org' 'www.dailymail.co.uk' 'xvideos.com'
+ 'www.bitfinex.com' 'www.ndi.org' 'wire.com' 'www.rferl.org'
+ 'freedomhouse.org' 'citizenlab.ca' 'pornhub.com'
+ 'www.ultimate-anonymity.com' 'snappea.com' 'tumblr.com' 'coursehero.com'
+ 'setn.com' 'tor.eff.org' 'hootsuite.com' 'www.reddit.com'
+ 'getlantern.org' 'pchome.com.tw' 'ocsp.int-x3.letsencrypt.org'
+ 'www.cbc.ca' 'www.gotgayporn.com' 'geti2p.net' 'facebook.com'
+ 'www.crazyshit.com' 'mixi.jp' 'nikkei.com' 'nbcnews.com' 'pinterest.com'
+ 'www.binance.com' 'theintercept.com' 'slideshare.net' 'daum.net'
+ 'livemint.com' 'app.wire.com' 'nordvpn.com' 'it.wikipedia.org'
+ 'goo.ne.jp' 'fr.wikipedia.org' 'livestream.com' 'es.wikipedia.org'
+ 'feedly.com' 'www.transparency.org' 'indiatoday.in' 'archiveofourown.org'
+ 'freespeechdebate.com' 'washingtonpost.com' 'shopee.tw' 'btguard.com'
+ 'www.search.com' 'mastodon.cloud' 'depositphotos.com' 'www.scribd.com'
+ 'zh.wikipedia.org' 'www.whatsapp.com' 'soundcloud.com' 'bbc.co.uk'
+ 'steamcommunity.com' 'www.csmonitor.com' 'www.ifj.org'
+ 'www.economist.com' 'www.proxyweb.net' 'web.telegram.org' 'mastodon.xyz'
+ 'www.asstr.org' 'tradingview.com' 'www.persecution.org' 'digg.com'
+ 'disqus.com' 'archive.org' 'coingecko.com' 'bbc.com' 'www.flickr.com'
+ 'beeg.com' 'www.bbc.co.uk' 'dailymotion.com' 'dropbox.com'
+ 'www.lightsailvpn.com' 'imgur.com' 'artstation.com' 'www.betternet.co'
+ 'en.m.wikipedia.org' 'livejasmin.com']"

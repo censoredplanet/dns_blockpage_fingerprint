@@ -1,0 +1,5 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+194.150.168.170,13,90.0,0.0,1.0,"['Accept-Ranges: bytes', 'Date: Tue, 16 Mar 2021 04:54:29 GMT', 'Server: Boa/0.94.14rc21']","['pingomatic.com' 'outbrain.com' 'doubleclick.net' 'mgid.com'
+ 'taboola.com' 'www.casinotropez.com' 'www.hotspotshield.com'
+ 'adultfriendfinder.com' 'exoclick.com' 'cj.com' 'statcounter.com'
+ 'astalavista.box.sk' 'www.serials.ws']"

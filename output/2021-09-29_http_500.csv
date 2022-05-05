@@ -1,0 +1,41 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+151.101.194.217,3,490.0,0.0057723002545840615,0.9999882197953988,"['Accept-Ranges: bytes', 'Cache-Control: private, no-cache', 'Content-Length: 252', 'Content-Type: text/html', 'Date: Wed, 29 Sep 2021 23:01:45 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Served-By: cache-dtw8025-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain www.hackhull.com</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: www.hackhull.com. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8025-DTW</p></body></html>",['www.hackhull.com' 'kids.yahoo.com' 'mercadolibre.cl']
+151.101.2.217,3,490.0,0.0057723002545840615,0.9999882197953988,"['Accept-Ranges: bytes', 'Cache-Control: private, no-cache', 'Content-Length: 248', 'Content-Type: text/html', 'Date: Wed, 29 Sep 2021 23:03:22 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Served-By: cache-dtw8029-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain kids.yahoo.com</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: kids.yahoo.com. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8029-DTW</p></body></html>",['kids.yahoo.com' 'mercadolibre.cl' 'www.hackhull.com']
+34.92.33.115,3,276.0,0.0,1.0,"['Content-Length: 170', 'Content-Type: text/html', 'Date: Wed, 29 Sep 2021 23:00:06 GMT', 'Server: nginx']<html>
+<head><title>500 Internal Server Error</title></head>
+<body>
+<center><h1>500 Internal Server Error</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+",['www.ariannelingerie.com' 'www.abcunderwear.com' 'www.freshpair.com']
+151.101.130.217,3,490.0,0.0057723002545840615,0.9999882197953988,"['Accept-Ranges: bytes', 'Cache-Control: private, no-cache', 'Content-Length: 252', 'Content-Type: text/html', 'Date: Wed, 29 Sep 2021 23:01:00 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Served-By: cache-dtw8021-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain www.hackhull.com</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: www.hackhull.com. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8021-DTW</p></body></html>",['www.hackhull.com' 'mercadolibre.cl' 'kids.yahoo.com']
+151.101.66.217,3,490.0,0.0057723002545840615,0.9999882197953988,"['Accept-Ranges: bytes', 'Cache-Control: private, no-cache', 'Content-Length: 252', 'Content-Type: text/html', 'Date: Wed, 29 Sep 2021 23:00:41 GMT', 'Retry-After: 0', 'Server: Varnish', 'Via: 1.1 varnish', 'X-Served-By: cache-dtw8026-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain www.hackhull.com</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: www.hackhull.com. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8026-DTW</p></body></html>",['www.hackhull.com' 'mercadolibre.cl' 'kids.yahoo.com']

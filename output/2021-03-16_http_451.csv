@@ -1,0 +1,174 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+195.46.39.1,16,3354.3125,0.004476200786628198,0.9999986655385309,"['Content-Length: 3037', 'Content-Type: text/html; encoding=utf-8', 'Date: Tue, 16 Mar 2021 04:50:52 GMT', 'Server: SafeDNS', 'Set-Cookie: _csrf=3498fcd585eaa520de9b4ab379765d12; expires=Tue, 16 Mar 2021 05:05:53 GMT', 'Set-Cookie: fasthttpsessionid=7f53664e-0f59-42a3-9b10-877e354b16e3; path=/; HttpOnly', 'Vary: Cookie']
+  <!DOCTYPE html>
+  <html class=""[ page ] [ theme_black ]"">
+    <head>
+      <meta charset=""utf-8"">
+      
+  
+    <title>Access closed</title>
+  
+  <link href=""https://blockpage-cdn.safedns.com/static/css/styles.css"" rel=""preload stylesheet"" media=""print"" type=""text/css"" as=""style"" onload=""this.onload=null;this.media='all'"">
+  <noscript><link href=""https://blockpage-cdn.safedns.com/static/css/styles.css"" rel=""stylesheet"" media=""all"" type=""text/css"" as=""style""></noscript>
+  <link href=""https://blockpage-cdn.safedns.com/static/fonts/pt/regular.ttf"" crossorigin=""preload anonymous"" rel=""preload"" type=""font/ttf"" as=""font"">
+  <link href=""https://blockpage-cdn.safedns.com/static/fonts/pt/bold.ttf"" crossorigin=""preload anonymous"" rel=""preload"" type=""font/ttf"" as=""font"">
+
+    </head>
+    
+  <body class=""cover"">
+    <div class=""[ cover__centered ] [ stack center center_width_x1.5 ]"">
+      <header class=""stack"">
+        
+          
+            <svg class=""icon icon_color_blue icon_size_x10"" xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 32 32"">
+              <path d=""M23 0H9L0 9v14l9 9h14l9-9V9zm1 22l-2 2-6-6-6 6-2-2 6-6-6-6 2-2 6 6 6-6 2 2-6 6zm0 0""/>
+            </svg>
+          
+        
+        <hgroup class=""font-weight_bold"">
+          <h1 class=""font-size_s5 color_blue"">
+            
+              Access closed
+            
+          </h1>
+          <h2>
+            
+              
+            
+          </h2>
+        </hgroup>
+      </header>
+      <main class=""stack"">
+        
+          
+            
+            
+              
+            
+            
+            <p>
+              <span class=""js-spoiler"">
+                <button class=""link color_blue font-weight_bold text-decoration_underline icon-container"" onclick=""var s = document.querySelectorAll('.js-spoiler'); s[1].classList.remove('js-spoiler_hidden'); s[0].parentNode.removeChild(s[0]);"">
+                  Show details
+                  <svg class=""icon icon_color_blue"" xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 32 32""><path d=""M16 25L32 9l-2-2-14 14L2 7 0 9zm0 0""/></svg>
+                </button>
+              </span>
+              <span class=""js-spoiler js-spoiler_hidden"">
+                
+                  Site <b>womensmediapool.org</b> is blocked, because it belongs to blocked categories: <b>Parked Domains</b><br>
+                  If you think that site should not be blocked please send a message to network administrator
+                
+              </span>
+            </p>
+          
+        
+      </main>
+      <footer>
+        
+          <button class=""[ link color_blue ] [ icon-container ]"" onclick=""javascript:history.back(); return false;"">
+            <svg class=""[ icon-container__icon ] [ icon icon_color_blue ]"" xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 32 32"">
+              <path d=""M3.7 17l6 6-1.4 1.3L0 16l8.3-8.3L9.7 9l-6 6H32v2zm0 0""/>
+            </svg>
+            Go back
+          </button>
+        
+      </footer>
+    </div>
+    
+    
+  
+    <!-- profile: 0 -->
+  
+
+  </body>
+
+  </html>
+","['www.womensmediapool.org' 'www.lingerieatlarge.com'
+ 'www.carnivalcasino.com' 'cnzz.com' '52pk.com' 'www.serials.ws'
+ 'sci-hub.tw' 'www.systranbox.com' 'astalavista.box.sk' 'www.crackz.ws'
+ 'www.meaphone.com' 'www.efindlove.com' 'www.mamma.com'
+ 'www.appzplanet.com' 'sayhichat.com' 'translation.langenberg.com']"
+193.58.251.1,15,2750.0,0.0,1.0,"['Content-Length: 2681', 'Content-Type: text/html; encoding=utf-8', 'Date: Tue, 16 Mar 2021 04:51:57 GMT', 'Server: SkyDNS', 'Set-Cookie: _csrf=2b2411c894b73f08c92eb02ab4f25e65; expires=Tue, 16 Mar 2021 05:06:58 GMT', 'Set-Cookie: sessionid=nThmWukbwxYTNKfUOIgCciOuyQDDXhVK; expires=Tue, 16 Mar 2021 06:51:58 GMT; path=/; HttpOnly', 'Vary: Cookie']
+  <!DOCTYPE html>
+  <html class=""[ page ] [ 
+  theme_white
+ ]"">
+    <head>
+      <meta charset=""utf-8"">
+      
+  
+    <title>
+  Настройки фильтра обновляются
+</title>
+  
+  <base href=""https://cdn-b.skydns.ru/static/"">
+  <link rel=""preload stylesheet"" href=""css/styles.css"" type=""text/css"" as=""style"">
+  <link rel=""preload"" href=""fonts/pt/regular.ttf"" type=""font/ttf"" as=""font"" crossorigin=""preload anonymous"">
+  <link rel=""preload"" href=""fonts/pt/bold.ttf"" type=""font/ttf"" as=""font"" crossorigin=""preload anonymous"">
+
+    </head>
+    
+  <body class=""cover"">
+    <div class=""[ cover__centered ] [ stack center center_width_x1.5 ]"">
+      <header class=""stack"">
+        
+          <svg class=""icon icon_color_blue icon_size_x10"" xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 32 32"">
+            <path d=""M7.7 16A8.3 8.3 0 0117 7.7l-3.9 4 1.7 1.7 6.7-6.7L14.7 0 13 1.7l3.8 3.6H16a10.7 10.7 0 00-7.2 18.6l1.7-1.7A8.3 8.3 0 017.7 16zm19 0c0-3.2-1.4-6-3.5-8l-1.7 1.8A8.3 8.3 0 0116 24.3l-.9-.1 4-3.9-1.7-1.7-6.7 6.7 6.7 6.7 1.6-1.7-3.7-3.7h.7c5.8 0 10.6-4.8 10.6-10.6z""/>
+          </svg>
+        
+        <hgroup class=""font-weight_bold"">
+          <h1 class=""font-size_s5 color_blue"">
+            
+              
+  Настройки фильтра обновляются
+
+            
+          </h1>
+          <h2>
+            
+              
+              
+  Ваши новые настройки пока еще не вступили в силу. Рекомендуем перезагрузить страницу или очистить кеш браузера.
+
+            
+          </h2>
+        </hgroup>
+      </header>
+      <main class=""stack"">
+        
+          <p>
+  Как очистить кеш браузера вы можете посмотреть в <a class=""link"" href=""https://www.skydns.ru/guide/"">инструкции</a>. Если проблема будет сохраняться - свяжитесь со <a class=""link"" href=""https://www.skydns.ru/feedback/"">службой технической поддержки</a>.
+</p>
+        
+      </main>
+      <footer>
+        
+          <button class=""[ link color_blue ] [ icon-container ]"" onclick=""javascript:history.back(); return false;"">
+            <svg class=""[ icon-container__icon ] [ icon icon_color_blue ]"" xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 32 32"">
+              <path d=""M3.7 17l6 6-1.4 1.3L0 16l8.3-8.3L9.7 9l-6 6H32v2zm0 0""/>
+            </svg>
+            
+  Вернуться назад
+
+          </button>
+        
+      </footer>
+    </div>
+    
+    
+  
+    <!-- profile: 0 -->
+  
+
+    
+  
+    <!-- xray: 2e34dd -->
+  
+
+  </body>
+
+  </html>
+","['cj.com' 'www.peacefire.org' 'www.americannaziparty.com' 'tudou.com'
+ '4chan.org' 'bridges.torproject.org' 'www.prolife.com'
+ 'www.gaystarnews.com' 'www.whitepower.com' 'psiphon.ca' 'linkedin.com'
+ 'www.fark.com' 'kakao.com' 'www.grandonline.com' 'www.delicates.co.uk']"

@@ -1,0 +1,2 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+104.192.110.226,3,136.0,0.0,1.0,"['Date: Sun, 21 Mar 2021 23:21:23 GMT', 'Server: openresty/1.15.8.3', 'Set-Cookie: QiHooGUID=; Max-Age=63072000; Domain=so.com; Path=/']",['dawn.com' 'www.giganews.com' 'iyfnet.org']
