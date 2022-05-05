@@ -1,0 +1,105 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+5.189.169.177,144,89.0,0.0,1.0,"['Connection: keep-alive', 'Content-Length: 0', 'Content-Type: text/html; charset=UTF-8']","['bnaibrith.org' 'hbomax.com' 'asmag.com.cn'
+ 'advocacy.globalvoicesonline.org' 'divar.ir' 'thegatewaypundit.com'
+ 'coursera.org' 'www.casinotropez.com' 'adium.im' 'online-convert.com'
+ 'poshukach.com' 'hitwe.com' 'www.translate.ru' 'convertio.co'
+ 'cc.bingj.com' 'quip.com' 'target.com' 'insecure.org' 'zhibo8.cc'
+ 'thepaper.cn' 'itmedia.co.jp' 'www.mamma.com' 'www.tawk.to' 'avaaz.org'
+ 'atlassian.net' 'milliyet.com.tr' 'www.xxlmag.com' 'google.co.kr'
+ 'outbrain.com' 'proiezionidiborsa.it' 'rakuten-sec.co.jp'
+ 'eghtesadnews.com' 'tap.az' 'stormgain.com' 'guardster.com'
+ 'mercadolivre.com.br' 'gmarket.co.kr' 'www.sina.com.cn' 'amazonaws.com'
+ 'mydramalist.com' 'kontan.co.id' 'cnbcindonesia.com' 'runoob.com'
+ 'pearson.com' 'statista.com' 'firefoxchina.cn' 'www.monacogoldcasino.com'
+ 'globalvoices.org' 'friends.walla.co.il' 'cengage.com' 'miro.com'
+ 'oxu.az' 'zol.com.cn' 'chinadaily.com.cn' 'www.lanacion.com.ar' 'so.com'
+ 'impress.co.jp' 'clickpost.jp' 'wikidata.org' 'dcard.tw' 'pchome.com.tw'
+ 'javatpoint.com' 'digiato.com' 'w3school.com.cn' 'danawa.com'
+ 'mercadolibre.com.ar' 'www.unfpa.org' 'lazada.co.th' 'google.com.vn'
+ 'sxyprn.com' 'hurirk.net' 'hsbc.com.hk' 'safervpn.com' 'sonhoo.com'
+ '51sole.com' 'aliexpress.ru' 'translator.babylon-software.com'
+ 'www.appzplanet.com' 'genpi.co' 'iweihai.cn' 'lukomol.com'
+ 'movabletype.com' 'flashscore.com' 'jpnn.com' 'endclothing.com'
+ 'qualtrics.com' 'www.telegraph.co.uk' '11st.co.kr' 'videocampaign.co'
+ 'tutorialspoint.com' 'docs.github.com' 'pixlr.com' 'write.as'
+ 'google.co.za' 'sina.com.cn' 'haosou.com' 'wordcounter.net' 'chsi.com.cn'
+ 'www.ananzi.co.za' 'laodong.vn' 'google.com.pk' 'gridoto.com'
+ 'nownews.com' 'hornet.com' 'mileroticos.com' 'exoclick.com'
+ 'www.sputniknews.cn' 'bola.com' 'secure.proxpn.com' 'dmm.co.jp'
+ 'pcbaby.com.cn' 'crictracker.com' 'dafont.com' 'mercadolibre.com.ve'
+ 'hurriyet.com.tr' 'indiatoday.in' 'huim.com' 'www.dogpile.com'
+ 'tabelog.com' 'www.moderndrunkardmagazine.com' 'cnnic.cn' 'zcool.com.cn'
+ 'mercadolibre.com.mx' 'rakuten.co.jp' 'lifo.gr' 'livestream.com'
+ 'www.transparency.org' 'www.mainichi.co.jp' 'google.co.ve' 'zhanqi.tv'
+ 'rtl-theme.com' 'moneyforward.com' 'www.carnivalcasino.com'
+ 'kickassclassical.com' 'eatthis.com' 'ltn.com.tw' 'www.metacrawler.com'
+ 'www.blackhat.be' '104.com.tw' 'aajtak.in' 'bestlifeonline.com'
+ 'creditkarma.com' 'mynavi.jp' 'www.hightail.com']"
+121.36.225.114,89,1131.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 1079', 'Content-Type: text/html', 'Date: Wed, 29 Sep 2021 22:56:55 GMT', 'Etag: ""5fdc6af0-437""', 'Last-Modified: Fri, 18 Dec 2020 08:40:16 GMT', 'Server: nginx', 'Vary: Accept-Encoding']<!doctype html>
+<html>
+<head>
+    <meta charset=""utf-8"">
+    <title>恭喜，站点创建成功！</title>
+    <style>
+        .container {
+            width: 60%;
+            margin: 10% auto 0;
+            background-color: #f0f0f0;
+            padding: 2% 5%;
+            border-radius: 10px
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+            ul li {
+                line-height: 2.3
+            }
+
+        a {
+            color: #20a53a
+        }
+    </style>
+</head>
+<body>
+    <div class=""container"">
+        <h1>恭喜, 站点创建成功！</h1>
+        <h3>这是默认index.html，本页面由系统自动生成</h3>
+        <ul>
+            <li>本页面在FTP根目录下的index.html</li>
+            <li>您可以修改、删除或覆盖本页面</li>
+            <li>FTP相关信息，请到“面板系统后台 > FTP” 查看</li>
+            <li>更多功能了解，请查看<a href=""https://www.bt.cn"" target=""_blank"">宝塔官网(www.bt.cn)</a></li>
+        </ul>
+    </div>
+</body>
+</html>","['dawn.com' 'cfsbcn.com' 'alimama.com' 'vvvdj.com' 'wordreference.com'
+ 'gridoto.com' 'cc.bingj.com' '360.cn' 'lun.com' 'meituan.com'
+ 'linkedin.com' 'iqiyi.com' 'khtahmar.com' '258.com' 'elementor.com'
+ '360.com' 'apnews.com' 'ih5.cn' 'firefoxchina.cn' 'zol.com.cn'
+ 'microsoft.com' 'focus.cn' 'www.mizzima.com' 'w3school.com.cn' 'nate.com'
+ 'www.linkedin.com' 'www.gov.cn' 'tianya.cn' 'dianxiaomi.com'
+ 'marriott.com' 'bestlifeonline.com' 'taobao.com' 'youku.com' 'hao123.com'
+ '51sole.com' 'prothomalo.com' 'worksmobile.com' 'www.sputniknews.cn'
+ 'dingtalk.com' 'cnbeta.com' '52pk.com' 'pcbaby.com.cn' 'cricbuzz.com'
+ 'shopstyle.com' 'runoob.com' 'ibm.com' 'ibicn.com' 'ups.com' 'nike.com'
+ '3dmgame.com' 'msi.com' 'aliyun.com' 'web.wechat.com' 'renren.com'
+ 'cnnic.cn' 'wire.com' 'internshala.com' 'infobae.com' 'amadeus.com'
+ 'sina.cn' 'tmall.com' 'www.hotmail.com' 'hp.com' 'tudou.com' 'sonhoo.com'
+ 'agoda.com' 'naukri.com' 'tencent.com' 'www.bing.com' 'poshmark.com'
+ 'bing.com' 'qq.com' 'teacherspayteachers.com' 'ecer.com'
+ 'teenadvice.about.com' 'robinhood.com' 'www.arabnews.com' 'iweihai.cn'
+ 'live.com' 'wpengine.com' 'xinhuanet.com' 'quip.com' 'mi.com'
+ 'outlook.live.com' 'adultfriendfinder.com' 'google.cn' 'gome.com.cn'
+ 'www.apple.com' 'baidu.com']"
+125.26.170.3,13,312.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 104', 'Content-Type: text/html', 'Date: Wed, 29 Sep 2021 20:06:20 GMT', 'Etag: ""5f572551-68""', 'Last-Modified: Tue, 08 Sep 2020 06:31:45 GMT', 'Server: nginx/1.16.1']<html>
+<body>
+<div align=""center"">
+<img src=""mdes.jpg"" width=""800"" height=""700"">
+</div>
+</body>
+</html>
+","['www.xvideos.com' 'www.economist.com' 'beeg.com' 'mediafire.com'
+ 'pornhub.com' 'www.mediafire.com' 'xvideos.com' 'www.change.org'
+ 'bet365.com' 'bild.de' 'www.888casino.com' 'xnxx.com' 'www.pornhub.com']"

@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# virtual env
+venv
+assets/annotated_blockpages_2022-01-02_https.csv

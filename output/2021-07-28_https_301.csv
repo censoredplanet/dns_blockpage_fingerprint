@@ -1,0 +1,26 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+118.163.12.89,3,905.0,0.0,1.0,"['Cache-Control: private', 'Content-Length: 624', 'Content-Type: text/html; charset=utf-8', 'Date: Wed, 28 Jul 2021 22:39:56 GMT', 'Location: app/', 'Server: Microsoft-IIS/8.5', 'Set-Cookie: ASP.NET_SessionId=uzmn54mxcfega4bh4vshz2tc; path=/; HttpOnly', 'X-Ua-Compatible: IE=edge']
+
+<!DOCTYPE html>
+
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head><meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" /><title>
+
+</title></head>
+<body>
+    <form method=""post"" action=""./"" id=""form1"">
+<div class=""aspNetHidden"">
+<input type=""hidden"" name=""__VIEWSTATE"" id=""__VIEWSTATE"" value=""/wEPDwULLTE5MDE0NjgxMThkZJLdiWRL8i5efjbMGKJUlm10nIiL"" />
+</div>
+
+<div class=""aspNetHidden"">
+
+	<input type=""hidden"" name=""__VIEWSTATEGENERATOR"" id=""__VIEWSTATEGENERATOR"" value=""CA0B0334"" />
+</div>
+    <div>
+    <p>The page has been moved <a href=""app/"">here</a>.</p>
+    </div>
+    </form>
+</body>
+</html>
+",['cnbc.com' 'cnbeta.com' 'cnnic.cn']

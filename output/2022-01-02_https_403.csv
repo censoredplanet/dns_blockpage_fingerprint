@@ -1,0 +1,688 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+205.139.110.211,243,4873.0,0.0,1.0,"['Content-Length: 4660' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:34:55 GMT'
+ 'X-Mc-Debug: /7akr/lfo9QmmO3vGqzFMQ8k/k4++sdJxNuHwKp+ie3juOExTXvu65n9VUXY1u2JfEDHVU9fYFGkwl5Qb91C/p1JhyI1nTf2zzD2+8Rqmac=']<!DOCTYPE html><html><head><meta charset=""UTF-8""><title>403 Forbidden</title><style>h1 { text-align: center; font-size: 48px; }
+p { text-align: center; font-size: 18px; }
+img { width: 200px; height: 30px; }
+</style></head><body><img class=""data-uri"" title=""mimecastLogo"" src=""data:image/gif;base64,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"" alt=""mimecastLogo""><h1>403 Forbidden</h1><p>Unauthorized access from IP: 141.212.123.185, Unauthorized access, not a valid customer IP</p></body></html>","['exitinternational.net' 'howtogrowmarijuana.com' 'antivigilancia.org'
+ 'cloudflare-dns.com' 'hbomax.com' 'axieinfinity.com' 'www.hotmail.com'
+ 'xnxx.com' 'www.messenger.com' 'family.cloudflare-dns.com'
+ 'www.goldenrivieracasino.com' 'www.freshpair.com' 'youporn.com'
+ 'www.luckynugget.com' 'www.nmrc.org' 'www.ea.com' 'www.whitepower.com'
+ 'telegram.me' 'whatsapp.com' 'www.ghostrecon.com' 'www.gambling.com'
+ 'www.fotolog.com' 'telegram.org' 'www.inbox.com' 'worldsingles.com'
+ 'www.gayegypt.com' 'www.sex.com' 'www.gotgayporn.com' 'www.aleph.to'
+ 'www.xroxy.com' 'www.instagram.com' 'www.zensur.freerk.com'
+ 'www.viber.com' 'www.grindr.com' 'telegra.ph' 'ebuddy.com'
+ 'pinterest.com' 'www.gay.com' 'download-readynow.com'
+ 'earth-liberation-front.org' 'arnolds.com.br' 'www.warhammeronline.com'
+ 'www.runescape.com' 'gamersky.com' 'www.bfed.info' 'drugs-forum.com'
+ 'store.steampowered.com' 'flirtylingerie.com' 'www.hizb-ut-tahrir.org'
+ 'www.counter-strike.net' 'www.grandonline.com'
+ 'www.harkatulmujahideen.org' 'www.ariannelingerie.com'
+ 'www.datingdirect.com' 'www.f-list.net' 'www.keptprivate.com'
+ 'www.marijuana.com' 'www.http-tunnel.com' 'chaturbate.com' 'www.bat.com'
+ 'www.lingerieatlarge.com' 'www.meetme.com' 'www.okcupid.com'
+ 'static.xx.fbcdn.net' 'fteproxy.org' 'www.tumblr.com' 'facebook.com'
+ 'ddo.com' 'vk.com' 'telewebion.com' 'www.sexandu.ca' 'www.mail2web.com'
+ 'depositphotos.com' 'www.scarleteen.com' 'www.veoh.com'
+ 'www.carnivalcasino.com' 'fansly.com' 'www.livejournal.com'
+ 'www.angryharry.com' 'www.ted.com' 'doh.dns.sb' 'www.globalfire.tv'
+ 'www.ginvodka.org' 'www.bitfinex.com' 'www.snapchat.com'
+ 'www.agentprovocateur.com' 'yts.mx' 'www.nazi-lauck-nsdapao.com'
+ 'filimo.com' 'www.xbox.com' 'alt.com' 'bestdealplr.com'
+ 'www.anonymizer.com' 'thehiddenwiki.org' 'www.hospitalityclub.org'
+ 'hitwe.com' 'dmerharyana.org' 'www.drugsense.org' 'adultfriendfinder.com'
+ 'filmix.ac' 'ftx.com' 'www.bitcomet.com' 'dmm.co.jp' 'thepiratebay.org'
+ 'www.mail.lycos.com' 'www.accessnow.org' 'www.abcunderwear.com'
+ 'eruthoxup.com' 'sxyprn.com' 'wholecoolposts.com' 'arc-international.net'
+ 'www.geocities.com' 'twitch.tv' 'phrack.org' 'www.asstr.org'
+ 'www.2ddepot.com' 'www.hushmail.com' 'identi.ca' 'www.3wishes.com'
+ 'blogger.com' 'discord.com' 'www.megaproxy.com' 'www.habbo.com'
+ 'www.hustler.com' 'www.playboy.com' 'teenadvice.about.com'
+ 'www.guildwars.com' 'bestanimegame.com' 'www.guerrillagirls.com'
+ 'friends.walla.co.il' 'www.globalpride2020.org' 'www.familyequality.org'
+ 'www.winespectator.com' 'www.meetup.com' 't.me' 'www.netflix.com'
+ 'www.mail.com' 'iyfnet.org' 'fadverdirect.com' 'groups.yahoo.com'
+ 'www.speeddater.co.uk' 'www.rollitup.org' 'bet9ja.com'
+ 'www.bittorrent.com' 'worldofwarcraft.com' 'tiktok.com' 'www.beer.com'
+ 'www.mate1.com' 'www.ultimate-anonymity.com' 'bitfinex.com'
+ 'www.datpiff.com' 'www.budweiser.com' 'www.lesbiansubmission.com'
+ 'surf2bux.ru' 'forum.grasscity.com' 'www.nifty.org' 'www.blockchain.com'
+ 'www.netaddress.com' 'unext.jp' 'guardster.com' 'tamtam.chat'
+ 'www.ifge.org' 'www.monacogoldcasino.com' 'www.opioids.com' 'aparat.com'
+ 'www.pcgamer.com' 'weibo.com' 'www.metacafe.com' 'www.nbc.com' 'xbox.com'
+ 'web.telegram.org' 'ameblo.jp' 'pflag.org' 'bitcoin.org' 'www.tawk.to'
+ 'btguard.com' 'dailymotion.com' 'tumblr.com' 'www.jackdaniels.com'
+ 'anonymizer.secuser.com' 'www.lushstories.com' 'www.ipredator.se'
+ 'hotstar.com' 'www.pornhub.com' 'web.de' 'anon.inf.tu-dresden.de'
+ 'sweet.tv' 'www.realbeer.com' 'disneyplus.com' 'www.89.com'
+ 'www.advocatesforyouth.org' 'www.monife.com' 'badoo.com'
+ 'www.chantelle.com' 'vseigru.net' 'www.whatsapp.com'
+ 'www.photobucket.com' 'freenetproject.org' 'www.lightsailvpn.com'
+ 'www.netzoola.com' 'discordapp.com' 'soundcloud.com' 'www.chess.com'
+ 'www.tango.me' 'www.partypoker.net' 'tawk.to' 'ea.com'
+ 'company.wizards.com' 'getintra.org' 'www.sendspace.com'
+ 'dns.adguard.com' 'yobit.net' 'www.churchofeuthanasia.org'
+ 'www.volcanomail.com' 'www.proxyweb.net' 'www.worldrtd.net' 'xvideos.com'
+ 'www.date.com' 'www.bacardi.com' 'www.riverbelle.com' 'weedfarmer.com'
+ 'www.survive.org.uk' 'pinimg.com' 'www.casinotropez.com' 'chatwork.com'
+ 'www.mininova.org' '1001jogos.pt' 'www.pokerstars.com' 'www.liveleak.com'
+ 'spankbang.com' 'www.lovoo.com' 'www.khilafah.com' 'www.glil.org'
+ 'www.abortionno.org' 'emailaddresses.com' '666games.net'
+ 'www.royalvegas.com' 'fmovies.to' 'www.planetromeo.com' 'epicgames.com'
+ 'www.paltalk.com' 'genius.com' 'www.rxmarijuana.com']"
+104.23.125.189,231,292.0,0.0,1.0,"['Cf-Ray: 6c77d356bfad2c80-ORD' 'Content-Length: 151'
+ 'Content-Type: text/html' 'Date: Sun, 02 Jan 2022 23:39:14 GMT'
+ 'Server: cloudflare']<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+","['www.binance.com' 'www.tumblr.com' 'www.peacefire.org' 'www.facebook.com'
+ 'www.asstr.org' 'google.de' 'www.ned.org' 'en.wikipedia.org'
+ 'myabortionstory.tumblr.com' 'google.com.br' 'securevpn.com'
+ 'www.pornhub.com' 'www.dailymail.co.uk' 'groups.google.com' 'mixi.jp'
+ 'plus.google.com' 'google.co.jp' 'goodreads.com' 'www.tiktok.com'
+ 'deviantart.com' 'setn.com' 'livejasmin.com' 'udn.com'
+ 'www.pokerstars.com' 'www.dailymotion.com'
+ 'webcache.googleusercontent.com' 'zh.wikipedia.org' 'duckduckgo.com'
+ 'www.proxyweb.net' 'livemint.com' 'youporn.com' 'secure.flickr.com'
+ 'google.com.vn' 'www.frontlinedefenders.org' 'pt.m.wikipedia.org'
+ 'bbc.co.uk' 'businessinsider.com' 'www.theepochtimes.com' 'google.com.tw'
+ 'elpais.com' 'www.omct.org' 'google.co.ve' 'www.flickr.com'
+ 'www.whatsapp.com' 'www.twitch.tv' 'blogspot.com' 'ndtv.com'
+ 'google.co.th' 'dailymotion.com' 'external-content.duckduckgo.com'
+ 'dropbox.com' 'google.com.mx' 'web.telegram.org' 'www.ask.com'
+ 'www.overdrive.com' 'www.megaproxy.com' 'mastodon.social'
+ 'www.dailysabah.com' 'depositphotos.com' 'www.nytimes.com'
+ 'timesofindia.indiatimes.com' 'reddit.com' 'google.pl' 'ask.com'
+ 'www.transparency.org' 'youtube.com' 'www.cbc.ca' 'www.occrp.org'
+ 'google.com.my' 'ok.ru' 'google.com.hk' 'google.it' 'telegra.ph'
+ 'pixnet.net' 'indiatoday.in' 'docs.google.com' 'nypost.com'
+ 'en.m.wikipedia.org' 'imgur.com' 'bbc.com' 'www.goodreads.com'
+ 'ca.wikipedia.org' 'globalvoices.org' 'hootsuite.com' 'www.aljazeera.com'
+ 'google.com.ar' 'www.fidh.org' 'ar.wikipedia.org' 'google.co.id'
+ 'theguardian.com' 'www.securityinabox.org' 'shopee.tw' 'google.com.au'
+ 'fr.wikipedia.org' 'google.ca' 'telegram.org' 'www.getoutline.org'
+ 'ar.m.wikipedia.org' 'line.me' 'google.ru' 'guardster.com' 'blogger.com'
+ 'tumblr.com' 'www.trendsmap.com' 'google.sk' 'whatsapp.com' 'www.bbc.com'
+ 'pchome.com.tw' 'www.reddit.com' 'google.com.tr' 'etsy.com'
+ 'groups.yahoo.com' 'kakao.com' 'it.wikipedia.org' 'slideshare.net'
+ 'google.at' 'www.theatlantic.com' 'google.com.ua' 'tiktok.com' 'wire.com'
+ 'www.youtube.com' 'google.fr' 'redd.it' 'google.pt' 'issuu.com'
+ 'www.rfa.org' 'bloomberg.com' 'tvants.uptodown.com' 'signal.org'
+ 'rumble.com' 'de.wikipedia.org' 'www.tango.me' 'proxify.com' 'google.az'
+ 'es.wikipedia.org' 'google.co.in' 'www.theguardian.com'
+ 'www.wikipedia.org' 'riseup.net' 'www.torproject.org' 'www.lemonde.fr'
+ 'archiveofourown.org' 'www.dw.com' 'mastodon.xyz' 'freespeechdebate.com'
+ 'ooni.torproject.org' 'sites.google.com' 'binance.com' 'jawapos.com'
+ 'quora.com' 'twitch.tv' 'peacefire.org' 'www.brookings.edu'
+ 'express.co.uk' 'btguard.com' 'mega.nz' 'flickr.com'
+ 'www.ultimate-anonymity.com' 'alt.com' 'pornhub.com' 'livestream.com'
+ 'google.gr' 'xvideos2.com' 'rakuten.co.jp' 'nytimes.com' 'bravotube.net'
+ 'dailymail.co.uk' 'www.slideshare.net' 'www.xroxy.com' 'google.be'
+ 'onedrive.live.com' 'imo.im' 'archive.org' 'www.persecution.org'
+ 'google.es' 'encrypted.google.com' 'www.instagram.com' 'vimeo.com'
+ 'xnxx.com' 'theepochtimes.com' 'google.com.sg' 'www.anonymizer.com'
+ 'www.scribd.com' 'i.instagram.com' 'www.reuters.com' 'www.meetme.com'
+ 'abc.net.au' 'disqus.com' 'nicovideo.jp' 'ja.wikipedia.org'
+ 'www.4shared.com' 'www.dropbox.com' 'google.com.eg' 'app.wire.com'
+ 'www.ebaumsworld.com' 'googlevideo.com' 'slate.com' 'www.quora.com'
+ 'uptodown.com' 'www.nbcnews.com' 'www.rferl.org' 'www.search.com'
+ 'soundcloud.com' 'citizenlab.ca' 'www.voanews.com' 'daum.net'
+ 'ltn.com.tw' 'twitter.com' 'www.csmonitor.com' 'pinterest.com'
+ 'es.m.wikipedia.org' 'freenetproject.org' 'geti2p.net' 'tor.eff.org'
+ 'facebook.com' 'instagram.com' 'www.google.com' 'google.co.kr'
+ 'getoutline.org' 'google.co.uk' 'wikileaks.org' 'ru.wikipedia.org'
+ 'nbcnews.com' 'badoo.com' 'washingtonpost.com' 'www.giganews.com'
+ 'searx.me' 'web.archive.org' 'thunder.free-signal.com'
+ 'www.democracynow.org' 'www.ifj.org']"
+104.16.251.55,231,292.0,0.0,1.0,"['Cf-Ray: 6c77d33f5eba6351-ORD' 'Content-Length: 151'
+ 'Content-Type: text/html' 'Date: Sun, 02 Jan 2022 23:39:10 GMT'
+ 'Server: cloudflare']<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+","['www.dailysabah.com' 'telegram.org' 'instagram.com' 'plus.google.com'
+ 'www.hizb-ut-tahrir.org' 'riseup.net' 'flickr.com'
+ 'webcache.googleusercontent.com' 'google.sk' 'theguardian.com'
+ 'ca.wikipedia.org' 'hootsuite.com' 'web.archive.org' 'it.wikipedia.org'
+ 'www.proxyweb.net' 'google.co.id' 'www.theguardian.com' 'daum.net'
+ 'nicovideo.jp' 'www.brookings.edu' 'google.ru' 'nbcnews.com'
+ 'twitter.com' 'google.com.vn' 'ja.wikipedia.org'
+ 'myabortionstory.tumblr.com' 'www.frontlinedefenders.org'
+ 'ar.wikipedia.org' 'google.com.sa' 'google.fr' 'groups.google.com'
+ 'youporn.com' 'blogspot.com' 'www.asstr.org' 'google.de'
+ 'www.ultimate-anonymity.com' 'pt.m.wikipedia.org' 'redd.it'
+ 'www.quora.com' 'theepochtimes.com' 'setn.com' 'google.com.ar'
+ 'www.altavista.com' 'www.4shared.com' 'guardster.com' 'reddit.com'
+ 'www.theatlantic.com' 'www.flickr.com' 'www.instagram.com'
+ 'de.wikipedia.org' 'binance.com' 'www.tumblr.com' 'google.com.tr'
+ 'rumble.com' 'www.xxlmag.com' 'google.es' 'es.m.wikipedia.org'
+ 'www.lightsailvpn.com' 'mega.nz' 'bridges.torproject.org'
+ 'washingtonpost.com' 'www.scribd.com' 'google.be' 'en.m.wikipedia.org'
+ 'www.facebook.com' 'google.co.in' 'elpais.com' 'bbc.com'
+ 'www.pokerstars.com' 'www.rfa.org' 'www.slideshare.net' 'imo.im'
+ 'www.xroxy.com' 'google.com.hk' 'uptodown.com' 'wikipedia.org'
+ 'ooni.torproject.org' 'google.gr' 'ru.wikipedia.org'
+ 'archiveofourown.org' 'www.youtube.com' 'www.whatsapp.com'
+ 'www.blogger.com' 'dailymail.co.uk' 'peacefire.org' 'tvants.uptodown.com'
+ 'external-content.duckduckgo.com' 'timesofindia.indiatimes.com'
+ 'livestream.com' 'google.com.mx' 'www.wikipedia.org' 'securevpn.com'
+ 'archive.org' 'disqus.com' 'dropbox.com' 'www.meetme.com'
+ 'slideshare.net' 'freenetproject.org' 'google.pt' 'facebook.com'
+ 'www.fidh.org' 'encrypted.google.com' 'google.co.jp' 'www.nbcnews.com'
+ 'searx.me' 'youtube.com' 'www.megaproxy.com' 'www.omct.org' 'quora.com'
+ 'docs.google.com' 'www.trendsmap.com' 'app.wire.com' 'google.co.kr'
+ 'bravotube.net' 'ndtv.com' 'ocsp.int-x3.letsencrypt.org'
+ 'dailymotion.com' 'www.dropbox.com' 'google.com.sg' 'blogger.com'
+ 'livejasmin.com' 'www.theepochtimes.com' 'jawapos.com' 'proxify.com'
+ 'nypost.com' 'line.me' 'signal.org' 'www.bbc.co.uk' 'wikileaks.org'
+ 'google.com.au' 'businessinsider.com' 'xnxx.com' 'es.wikipedia.org'
+ 'www.democracynow.org' 'badoo.com' 'www.nytimes.com' 'www.ned.org'
+ 'ask.com' 'globalvoices.org' 'imgur.com' 'google.az' 'tiktok.com'
+ 'tor.eff.org' 'www.rferl.org' 'alt.com' 'www.voanews.com' 'bbc.co.uk'
+ 'google.com.br' 'groups.yahoo.com' 'telegra.ph' 'depositphotos.com'
+ 'www.ifj.org' 'www.torproject.org' 'i.instagram.com' 'google.at'
+ 'deviantart.com' 'express.co.uk' 'citizenlab.ca' 'www.csmonitor.com'
+ 'pixnet.net' 'www.anonymizer.com' 'www.aljazeera.com'
+ 'ar.m.wikipedia.org' 'www.lemonde.fr' 'kakao.com' 'google.com.tw'
+ 'google.com.ua' 'google.co.ve' 'zh.wikipedia.org' 'secure.flickr.com'
+ 'www.bbc.com' 'en.wikipedia.org' 'google.pl' 'issuu.com' 'ltn.com.tw'
+ 'geti2p.net' 'shopee.tw' 'web.telegram.org' 'www.securityinabox.org'
+ 'www.dailymotion.com' 'rakuten.co.jp' 'vimeo.com' 'nytimes.com'
+ 'www.reddit.com' 'udn.com' 'btguard.com' 'ok.ru' 'tumblr.com'
+ 'onedrive.live.com' 'www.persecution.org' 'pchome.com.tw' 'google.com.eg'
+ 'mastodon.xyz' 'google.co.th' 'duckduckgo.com' 'mixi.jp' 'pornhub.com'
+ 'pinterest.com' 'www.tango.me' 'www.peacefire.org' 'indiatoday.in'
+ 'thunder.free-signal.com' 'google.com.my' 'www.binance.com'
+ 'www.getoutline.org' 'www.overdrive.com' 'www.cbc.ca' 'www.occrp.org'
+ 'www.google.com' 'bloomberg.com' 'bet365.com' 'getoutline.org'
+ 'www.giganews.com' 'sites.google.com' 'google.ca' 'mastodon.social'
+ 'www.pornhub.com' 'abc.net.au' 'www.ask.com' 'slate.com' 'google.co.uk'
+ 'fr.wikipedia.org' 'www.twitch.tv' 'wire.com' 'www.ebaumsworld.com'
+ 'www.transparency.org' 'goodreads.com' 'soundcloud.com' 'www.tiktok.com'
+ 'www.dailymail.co.uk' 'www.search.com']"
+104.16.252.55,230,292.0,0.0,1.0,"['Cf-Ray: 6c77d4135b876326-ORD' 'Content-Length: 151'
+ 'Content-Type: text/html' 'Date: Sun, 02 Jan 2022 23:39:44 GMT'
+ 'Server: cloudflare']<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+","['www.hizb-ut-tahrir.org' 'citizenlab.ca' 'google.ru' 'rumble.com'
+ 'abc.net.au' 'pinterest.com' 'google.co.kr' 'google.com.tr'
+ 'google.com.au' 'www.cbc.ca' 'telegram.org' 'www.blogger.com' 'wire.com'
+ 'blogger.com' 'www.securityinabox.org' 'globalvoices.org' 'tor.eff.org'
+ 'timesofindia.indiatimes.com' 'ja.wikipedia.org' 'goodreads.com'
+ 'mastodon.xyz' 'flickr.com' 'express.co.uk' 'google.pt' 'ltn.com.tw'
+ 'archiveofourown.org' 'www.lemonde.fr' 'www.getoutline.org'
+ 'www.dailysabah.com' 'nbcnews.com' 'www.bbc.co.uk' 'daum.net'
+ 'www.dailymail.co.uk' 'uptodown.com' 'app.wire.com' 'www.instagram.com'
+ 'google.es' 'tumblr.com' 'washingtonpost.com' 'ar.m.wikipedia.org'
+ 'google.com.ua' 'archive.org' 'badoo.com' 'www.wikipedia.org'
+ 'www.binance.com' 'www.dailymotion.com' 'searx.me' 'quora.com'
+ 'google.com.mx' 'onedrive.live.com' 'google.co.ve' 'encrypted.google.com'
+ 'twitter.com' 'duckduckgo.com' 'google.com.my' 'www.ebaumsworld.com'
+ 'google.at' 'www.proxyweb.net' 'alt.com' 'wikileaks.org'
+ 'www.nbcnews.com' 'www.frontlinedefenders.org' 'google.de' 'livemint.com'
+ 'deviantart.com' 'www.4shared.com' 'signal.org' 'freenetproject.org'
+ 'line.me' 'www.persecution.org' 'ask.com' 'imo.im' 'shopee.tw'
+ 'dailymotion.com' 'www.slideshare.net' 'www.omct.org' 'slate.com'
+ 'slideshare.net' 'pixnet.net' 'www.xxlmag.com' 'depositphotos.com'
+ 'ndtv.com' 'www.reuters.com' 'google.com.tw' 'www.ned.org'
+ 'pchome.com.tw' 'es.m.wikipedia.org' 'bloomberg.com' 'web.archive.org'
+ 'google.co.th' 'businessinsider.com' 'google.co.in' 'google.pl'
+ 'riseup.net' 'ru.wikipedia.org' 'blogspot.com' 'getoutline.org'
+ 'telegra.ph' 'www.asstr.org' 'bravotube.net' 'www.peacefire.org'
+ 'facebook.com' 'google.co.uk' 'pornhub.com' 'google.com.sa' 'reddit.com'
+ 'google.com.hk' 'googlevideo.com' 'www.dropbox.com' 'google.com.br'
+ 'www.csmonitor.com' 'thunder.free-signal.com' 'google.it'
+ 'www.facebook.com' 'google.com.vn' 'binance.com' 'www.theepochtimes.com'
+ 'google.sk' 'dropbox.com' 'vimeo.com' 'securevpn.com' 'google.com.eg'
+ 'ocsp.int-x3.letsencrypt.org' 'etsy.com' 'i.instagram.com'
+ 'en.wikipedia.org' 'www.bbc.com' 'instagram.com' 'secure.flickr.com'
+ 'nypost.com' 'www.tiktok.com' 'www.meetme.com' 'setn.com' 'google.co.id'
+ 'kakao.com' 'ooni.torproject.org' 'www.occrp.org' 'google.be'
+ 'www.pokerstars.com' 'www.megaproxy.com' 'www.fidh.org'
+ 'www.giganews.com' 'google.fr' 'zh.wikipedia.org' 'xvideos2.com'
+ 'pt.m.wikipedia.org' 'www.overdrive.com' 'www.nytimes.com' 'nicovideo.jp'
+ 'disqus.com' 'imgur.com' 'redd.it' 'www.democracynow.org'
+ 'www.whatsapp.com' 'www.search.com' 'en.m.wikipedia.org' 'www.ifj.org'
+ 'google.com.sg' 'hootsuite.com' 'mega.nz' 'geti2p.net' 'youtube.com'
+ 'www.theguardian.com' 'ar.wikipedia.org' 'google.ca' 'issuu.com'
+ 'www.flickr.com' 'ok.ru' 'www.ask.com' 'www.ultimate-anonymity.com'
+ 'mixi.jp' 'www.altavista.com' 'livejasmin.com' 'www.aljazeera.com'
+ 'es.wikipedia.org' 'tiktok.com' 'www.rferl.org' 'youporn.com'
+ 'www.transparency.org' 'myabortionstory.tumblr.com' 'www.xroxy.com'
+ 'www.voanews.com' 'ca.wikipedia.org' 'dailymail.co.uk'
+ 'www.theatlantic.com' 'mastodon.social' 'elpais.com' 'fr.wikipedia.org'
+ 'whatsapp.com' 'www.rfa.org' 'www.pornhub.com' 'plus.google.com'
+ 'livestream.com' 'www.youtube.com' 'it.wikipedia.org' 'www.goodreads.com'
+ 'peacefire.org' 'docs.google.com' 'groups.yahoo.com' 'sites.google.com'
+ 'bridges.torproject.org' 'groups.google.com' 'rakuten.co.jp' 'google.gr'
+ 'jawapos.com' 'nytimes.com' 'www.lightsailvpn.com' 'www.tango.me'
+ 'btguard.com' 'www.google.com' 'theepochtimes.com' 'www.tumblr.com'
+ 'soundcloud.com' 'www.twitch.tv' 'webcache.googleusercontent.com'
+ 'indiatoday.in' 'theguardian.com' 'www.quora.com' 'de.wikipedia.org'
+ 'freespeechdebate.com' 'external-content.duckduckgo.com'
+ 'www.trendsmap.com' 'www.reddit.com' 'twitch.tv' 'www.dw.com' 'bbc.co.uk'
+ 'google.co.jp' 'google.az' 'xnxx.com' 'tvants.uptodown.com']"
+104.23.124.189,230,292.0,0.0,1.0,"['Cf-Ray: 6c77d072aed26398-ORD' 'Content-Length: 151'
+ 'Content-Type: text/html' 'Date: Sun, 02 Jan 2022 23:37:15 GMT'
+ 'Server: cloudflare']<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+","['signal.org' 'google.com.mx' 'www.omct.org' 'www.bbc.com' 'google.com.br'
+ 'citizenlab.ca' 'google.com.ua' 'google.gr' 'google.es' 'goodreads.com'
+ 'www.anonymizer.com' 'www.nytimes.com' 'searx.me'
+ 'www.ultimate-anonymity.com' 'www.binance.com' 'docs.google.com'
+ 'www.quora.com' 'setn.com' 'instagram.com' 'tvants.uptodown.com'
+ 'www.instagram.com' 'www.occrp.org' 'daum.net' 'reddit.com' 'line.me'
+ 'www.lightsailvpn.com' 'ask.com' 'www.trendsmap.com' 'google.it'
+ 'www.youtube.com' 'google.pl' 'www.brookings.edu' 'www.theguardian.com'
+ 'slate.com' 'issuu.com' 'www.theepochtimes.com' 'www.theatlantic.com'
+ 'ok.ru' 'www.reuters.com' 'www.xxlmag.com' 'pornhub.com' 'google.co.th'
+ 'www.pokerstars.com' 'nypost.com' 'google.pt' 'www.wikipedia.org'
+ 'google.co.id' 'livestream.com' 'ooni.torproject.org' 'www.facebook.com'
+ 'www.dropbox.com' 'depositphotos.com' 'soundcloud.com'
+ 'secure.flickr.com' 'pt.m.wikipedia.org' 'telegram.org' 'indiatoday.in'
+ 'twitch.tv' 'google.com.sa' 'timesofindia.indiatimes.com'
+ 'www.tumblr.com' 'binance.com' 'www.xroxy.com' 'archive.org'
+ 'www.rfa.org' 'google.ca' 'www.csmonitor.com' 'www.goodreads.com'
+ 'www.ask.com' 'onedrive.live.com' 'www.reddit.com' 'blogger.com'
+ 'googlevideo.com' 'mixi.jp' 'mastodon.xyz' 'www.twitch.tv'
+ 'www.peacefire.org' 'www.megaproxy.com' 'dropbox.com' 'pixnet.net'
+ 'btguard.com' 'jawapos.com' 'twitter.com' 'wire.com' 'xvideos2.com'
+ 'google.co.uk' 'nbcnews.com' 'www.giganews.com' 'pchome.com.tw' 'redd.it'
+ 'www.flickr.com' 'abc.net.au' 'google.ru' 'www.overdrive.com'
+ 'express.co.uk' 'shopee.tw' 'es.m.wikipedia.org' 'tor.eff.org' 'xnxx.com'
+ 'ltn.com.tw' 'etsy.com' 'blogspot.com' 'globalvoices.org'
+ 'www.4shared.com' 'google.az' 'www.hizb-ut-tahrir.org' 'wikileaks.org'
+ 'external-content.duckduckgo.com' 'youtube.com' 'ar.m.wikipedia.org'
+ 'google.co.in' 'freespeechdebate.com' 'proxify.com' 'bbc.com'
+ 'businessinsider.com' 'slideshare.net' 'www.aljazeera.com'
+ 'www.transparency.org' 'riseup.net' 'wikipedia.org' 'bet365.com'
+ 'sites.google.com' 'www.nbcnews.com' 'www.tango.me' 'uptodown.com'
+ 'tumblr.com' 'www.search.com' 'web.archive.org' 'google.com.sg'
+ 'kakao.com' 'es.wikipedia.org' 'livemint.com' 'www.pornhub.com' 'mega.nz'
+ 'google.com.au' 'en.wikipedia.org' 'getoutline.org' 'quora.com'
+ 'facebook.com' 'www.lemonde.fr' 'securevpn.com' 'bloomberg.com'
+ 'google.com.eg' 'google.at' 'imgur.com' 'www.persecution.org'
+ 'www.dw.com' 'deviantart.com' 'www.blogger.com' 'fr.wikipedia.org'
+ 'www.meetme.com' 'google.co.jp' 'www.dailymotion.com'
+ 'www.frontlinedefenders.org' 'thunder.free-signal.com' 'imo.im'
+ 'google.co.ve' 'www.rferl.org' 'www.democracynow.org' 'google.co.kr'
+ 'pinterest.com' 'www.dailysabah.com' 'bravotube.net' 'groups.google.com'
+ 'rakuten.co.jp' 'guardster.com' 'elpais.com' 'ndtv.com'
+ 'www.getoutline.org' 'telegra.ph' 'encrypted.google.com'
+ 'de.wikipedia.org' 'ocsp.int-x3.letsencrypt.org' 'ja.wikipedia.org'
+ 'peacefire.org' 'theepochtimes.com' 'ru.wikipedia.org' 'www.cbc.ca'
+ 'flickr.com' 'i.instagram.com' 'dailymail.co.uk' 'google.com.hk'
+ 'alt.com' 'google.com.tw' 'www.fidh.org' 'google.com.tr'
+ 'freenetproject.org' 'udn.com' 'www.ned.org' 'www.whatsapp.com'
+ 'www.ifj.org' 'theguardian.com' 'archiveofourown.org'
+ 'myabortionstory.tumblr.com' 'google.de' 'youporn.com'
+ 'www.dailymail.co.uk' 'hootsuite.com' 'groups.yahoo.com'
+ 'www.ebaumsworld.com' 'webcache.googleusercontent.com' 'www.bbc.co.uk'
+ 'whatsapp.com' 'washingtonpost.com' 'vimeo.com' 'plus.google.com'
+ 'www.asstr.org' 'rumble.com' 'ar.wikipedia.org' 'it.wikipedia.org'
+ 'bbc.co.uk' 'google.be' 'web.telegram.org' 'www.securityinabox.org'
+ 'www.proxyweb.net' 'tiktok.com' 'google.sk' 'ca.wikipedia.org'
+ 'google.com.my' 'zh.wikipedia.org' 'app.wire.com' 'duckduckgo.com'
+ 'en.m.wikipedia.org' 'geti2p.net' 'www.google.com'
+ 'bridges.torproject.org' 'livejasmin.com' 'nytimes.com' 'dailymotion.com'
+ 'www.slideshare.net']"
+195.130.217.29,215,4873.0,0.0,1.0,"['Content-Length: 4660' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:43:17 GMT'
+ 'X-Mc-Debug: +QgGO8ymRLHocGCCrgo60BMGL5zadmG6UyPc/XiY3p8kIPT/QsPSKSLo5nuHxplPjdeuzyiVwsWKbF3rC45yCJ1JhyI1nTf2zzD2+8Rqmac=']<!DOCTYPE html><html><head><meta charset=""UTF-8""><title>403 Forbidden</title><style>h1 { text-align: center; font-size: 48px; }
+p { text-align: center; font-size: 18px; }
+img { width: 200px; height: 30px; }
+</style></head><body><img class=""data-uri"" title=""mimecastLogo"" src=""data:image/gif;base64,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"" alt=""mimecastLogo""><h1>403 Forbidden</h1><p>Unauthorized access from IP: 141.212.123.185, Unauthorized access, not a valid customer IP</p></body></html>","['secure.hi5.com' '1337x.to' 'rarity.tools' 'shadowsocks.org'
+ 'www3.iaisite.org' 'myabortionstory.tumblr.com' 'www.betfair.com'
+ 'cuevana3.io' 'mydramalist.com' 'www.onlinedating.com'
+ 'www.shroomery.org' 'icq.com' 'cannabis.com' 'bravotube.net'
+ 'www.pof.com' 'www.spinpalace.com' 'www.plannedparenthood.org'
+ 'premierbet.co.ao' 'rarbg.to' 'roblox.com' 'www.darknet.org.uk'
+ 'sci-hub.tw' 'mihoyo.com' 'ilga.org' '8thstreetlatinas.com' 'ok.ru'
+ 'www.twitch.tv' 'secure.flickr.com' 'onlybingo.com' 'safervpn.com'
+ 'www.trendsmap.com' 'www.blizzard.com' 'otr.cypherpunks.ca' 'abc.go.com'
+ 'www.slotland.com' 'www.coquette.com' 'hotgaylist.com'
+ 'radiofreetexas.org' 'www.pmi.com' 'psiphon.ca' 'adium.im' 'magiceden.io'
+ 'www.peacefire.org' 'pixnet.net' 'www.poker.com' 'ontivi.net'
+ 'xhamster.com' 'mozilla.cloudflare-dns.com' '1tv.ru'
+ 'www.rockstargames.com' 'bittornado.com' 'www.eharmony.com'
+ 'movabletype.com' 'signal.org' 'peacefire.org' 'pngtree.com'
+ 'binance.com' 'www.rbf.org' 'www.aceshigh.com' 'mail.yandex.ru'
+ 'www.worldpulse.com' 'mintable.app' 'www.sexedlibrary.org' 'postimage.io'
+ 'livejasmin.com' 'www.pogo.com' 'ruanyifeng.com' 'www.aseansec.org'
+ 'mastodon.cloud' 'www.absolut.com' 'line.me' 'www.scruff.com'
+ 'weblogs.us' 'www.cis.minsk.by' 'beeg.com' 'primevideo.com' 'note.com'
+ 'chess.com' 'www.topdrawers.com' 'pixelfed.social' 'secondlife.com'
+ 'mastodon.social' 'www.dailymotion.com' 'www.fotki.com' 'transsexual.org'
+ 'www.thegooddrugsguide.com' 'slideshare.net' 'www.eveonline.com'
+ 'www.vanguardnewsnetwork.com' 'vesselthefilm.com' 'bongacams.com'
+ 'pornmedium.com' 'bitcoin.sipa.be' 'www.4online-gambling.com'
+ 'www.fastmail.com' 'securevpn.im' 'gmx.net' 'myspace.com' 'instagram.com'
+ 'www.blackjackinfo.com' 'proxify.com' 'www.4chan.org' 'crypto.com'
+ 'reddit.com' 'www.xvideos.com' 'netflix.com' 'www.unfe.org'
+ 'livejournal.com' 'lambdalegal.org' 'www.onlinegambling.com'
+ 'www.postmaster.co.uk' 'googlevideo.com' 'www.clubdicecasino.com'
+ 'mail.tm' 'poki.com' 'www.babylon-x.com' 'onlyfans.com' 'www.globet.com'
+ 'trashy.com' 'live.com' 'lgbtmap.org' 'www.tobacco.org' 'www.gmail.com'
+ 'twitpic.com' 'godhatesfags.com' 'www.gmx.com' 'pornhub.com'
+ 'multiproxy.org' 'sfsi.org' 'nsw2u.com' 'moqavemat.ir' 'mastodon.xyz'
+ 'mstdn.io' 'hatenablog.com' 'www.pinterest.com'
+ 'proxytools.sourceforge.net' 'www.delicates.co.uk' 'bebo.com'
+ 'www.usacasino.com' 'smotrim.ru' 'odysee.com' 'namasha.com' 'sexetc.org'
+ '1plus1.ua' 'rutor.info' 'www.webbox.com' 'mileroticos.com'
+ 'www.eurobicon.org' 'tinder.com' 'www.facebook.com' 'www.888casino.com'
+ 'crjpingate.com' 'www.binance.com' 'kanalukraina.tv' 'imp.free.fr'
+ 'bet365.com' 'mixi.jp' 'rctiplus.com' 'www.roulette.sh'
+ 'community.livejournal.com' 'www.animalliberationfront.com'
+ 'coinmarketcap.com' 'online-television.net' 'www.anonymsurfen.com'
+ 'www.utorrent.com' 'impressivepointcircular.com'
+ 'www.freespeechcoalition.com' '4chan.org' 'www.tiktok.com'
+ 'securevpn.com' 'mail.yahoo.com' 'www.europacasino.com' 'ontvtime.ru'
+ 'www.gearthblog.com' 'i.instagram.com' 'polygonscan.com'
+ 'www.blogger.com' 'blogspot.com' 'xvideos2.com' 'www.pokerpages.com'
+ 'internationalfamilyequalityday.org' 'www.eurogrand.com'
+ 'www.queernet.org' 'www.cannaweed.com' 'playstation.com' 'ninisite.com'
+ 'tytnetwork.com' 'podbean.com' 'hulu.com' 'casino.com' 'ali213.net'
+ 'ivi.ru' 'tor.eff.org' '126.com' 'www.wechat.com' 'panties.com'
+ 'www.figleaves.com' 'www.startmail.com' 'www.shoe.org' 'gmail.com'
+ 'www.talafone.com' 'www.pandora.com' 'www.crazyshit.com' 'ecstasy.org'
+ 'www.depositfiles.com' 'www.dating.com' 'rarbggo.org' 'www.gamespot.com'
+ 'kinokrad.co' 'snapchat.com' 'redd.it' 'www.fuckingfreemovies.com'
+ 'vecteezy.com' 'www.topcities.com' 'www.schwarzreport.org']"
+62.33.207.202,84,1849.0,0.0,1.0,"['Content-Length: 1849' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:43:11 GMT' 'Server: nginx/1.2.1']<html><head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+<title>Ссылка заблокирована</title>
+
+<style type=""text/css"">
+
+<!-- H5 {font-size:15px; font-weight:normal; letter-spacing:1px; text-transform:uppercase; white-space:nowrap; margin-bottom:14px; font-weight:bold;} 
+BODY {color:#4d4d9f; font-size:13px; background: #FFFFFF; width: 99%;} DIV.container {width:50%;margin-top:20px; margin:100px auto; 
+background:#FFFFFF; border:3px solid #E42319; padding:10px; -moz-border-radius:20px; -khtml-border-radius: 20px; -webkit-border-radius: 20px; 
+border-radius:20px;}
+-->
+
+</style> </head> <body> <div class=""container"">
+<center><img onerror=""this.style.display='none';"" src=""http://img.ytapi.com/ttk.png"">
+
+<h5>Ссылка заблокирована!!!<br> в соответствии с законодательством РФ<br>Причина блокировки: <a 
+href=""http://blocklist.rkn.gov.ru/"">blocklist.rkn.gov.ru</a> </h5> <br><br> <a href=""http://ttk.ru/"">ЗАО ""Компания ТрансТелеКом""</a> </center></div> 
+  <script type=""text/javascript""> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter33269963 = new Ya.Metrika({
+id:33269963, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName(""script"")[0], s =
+d.createElement(""script""), f = function () { n.parentNode.insertBefore(s, n); }; s.type = ""text/javascript""; s.async = true; s.src =
+""https://mc.yandex.ru/metrika/watch.js""; if (w.opera == ""[object Opera]"") { d.addEventListener(""DOMContentLoaded"", f, false); } else { f(); }
+})(document, window, ""yandex_metrika_callbacks"");</script><noscript><div><img src=""https://mc.yandex.ru/watch/33269963"" style=""position:absolute;
+left:-9999px;"" alt="""" /></div></noscript>
+</body></html>
+","['drugs-forum.com' 'ooni.torproject.org' 'www.anonymizer.com'
+ 'www.mediafire.com' 'www.betfair.com' 'hotgaylist.com' 'www.gambling.com'
+ 'www.goldenrivieracasino.com' 'www.xvideos.com' 'tsn.ua'
+ 'www.proxyweb.net' 'www.ned.org' 'scribd.com' 'www.carnivalcasino.com'
+ 'www.scribd.com' 'www.europacasino.com' 'www.torproject.org'
+ 'proxify.com' 'www.khilafah.com' 'linkedin.com' 'www.hidemyass.com'
+ 'www.hizb-ut-tahrir.org' 'bitcoin.org' 'www.bitfinex.com' 'bet365.com'
+ 'sxyprn.com' 'www.opensocietyfoundations.org' 'www.erowid.org'
+ 'www.megaproxy.com' 'anonymouse.org' 'www.eurogrand.com' 'tinyurl.com'
+ 'ikhwanonline.com' 'www.shroomery.org' 'twitpic.com' 'www.cannaweed.com'
+ 'bit.ly' 'weedfarmer.com' 'xhamster.com' 'www.alarabiya.net'
+ 'www.womenonwaves.org' 'www.pokerstars.com' 'howtogrowmarijuana.com'
+ 'khilafah.net' 'bridges.torproject.org' 'www.dailymotion.com'
+ 'kinokrad.co' 'ontivi.net' 'www.gotgayporn.com' 'issuu.com' '1337x.to'
+ 'thepiratebay.org' 'www.spinpalace.com' 'www.hotspotshield.com'
+ 'psiphon.ca' 'www.linkedin.com' 'bet9ja.com' 'www.rollitup.org'
+ 'boingboing.net' 'www.startmail.com' 'beeg.com' 'global.blackberry.com'
+ 'www.slotland.com' 'www.onlinegambling.com' 'www.tunnelbear.com'
+ 'www.ndi.org' 'www.anonymizer.ru' 'www.sex.com' 'www.casinotropez.com'
+ 'dailymotion.com' 'www.bbm.com' 'line.me' 'ultrasurf.us' 'turbobit.net'
+ 'www.partypoker.net' 'sci-hub.se' 'xvideos2.com' 'blackberry.com'
+ 'www.888casino.com' 'rutor.info' 'chaturbate.com' 'filmix.ac'
+ 'rapidgator.net' 'www.asstr.org']"
+62.33.207.201,84,1849.0,0.0,1.0,"['Content-Length: 1849' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:42:04 GMT' 'Server: nginx/1.2.1']<html><head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+<title>Ссылка заблокирована</title>
+
+<style type=""text/css"">
+
+<!-- H5 {font-size:15px; font-weight:normal; letter-spacing:1px; text-transform:uppercase; white-space:nowrap; margin-bottom:14px; font-weight:bold;} 
+BODY {color:#4d4d9f; font-size:13px; background: #FFFFFF; width: 99%;} DIV.container {width:50%;margin-top:20px; margin:100px auto; 
+background:#FFFFFF; border:3px solid #E42319; padding:10px; -moz-border-radius:20px; -khtml-border-radius: 20px; -webkit-border-radius: 20px; 
+border-radius:20px;}
+-->
+
+</style> </head> <body> <div class=""container"">
+<center><img onerror=""this.style.display='none';"" src=""http://img.ytapi.com/ttk.png"">
+
+<h5>Ссылка заблокирована!!!<br> в соответствии с законодательством РФ<br>Причина блокировки: <a 
+href=""http://blocklist.rkn.gov.ru/"">blocklist.rkn.gov.ru</a> </h5> <br><br> <a href=""http://ttk.ru/"">ЗАО ""Компания ТрансТелеКом""</a> </center></div> 
+  <script type=""text/javascript""> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter33269963 = new Ya.Metrika({
+id:33269963, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName(""script"")[0], s =
+d.createElement(""script""), f = function () { n.parentNode.insertBefore(s, n); }; s.type = ""text/javascript""; s.async = true; s.src =
+""https://mc.yandex.ru/metrika/watch.js""; if (w.opera == ""[object Opera]"") { d.addEventListener(""DOMContentLoaded"", f, false); } else { f(); }
+})(document, window, ""yandex_metrika_callbacks"");</script><noscript><div><img src=""https://mc.yandex.ru/watch/33269963"" style=""position:absolute;
+left:-9999px;"" alt="""" /></div></noscript>
+</body></html>
+","['ikhwanonline.com' 'www.dailymotion.com' 'www.xvideos.com' 'filmix.ac'
+ 'bet365.com' 'kinokrad.co' 'howtogrowmarijuana.com' 'linkedin.com'
+ 'tinyurl.com' 'boingboing.net' 'www.europacasino.com' 'sci-hub.se'
+ 'www.gambling.com' 'www.ndi.org' 'hotgaylist.com' 'dailymotion.com'
+ 'proxify.com' 'ultrasurf.us' 'www.pokerstars.com' 'www.sex.com'
+ 'www.hotspotshield.com' 'www.slotland.com' 'tsn.ua' 'psiphon.ca'
+ 'www.torproject.org' 'www.carnivalcasino.com' 'chaturbate.com'
+ 'khilafah.net' 'www.anonymizer.com' 'www.goldenrivieracasino.com'
+ 'www.888casino.com' 'www.hizb-ut-tahrir.org' 'www.eurogrand.com'
+ 'www.opensocietyfoundations.org' 'www.shroomery.org' 'thepiratebay.org'
+ 'blackberry.com' 'bitcoin.org' 'www.onlinegambling.com'
+ 'www.khilafah.com' 'rapidgator.net' 'anonymouse.org' 'www.megaproxy.com'
+ 'xvideos2.com' 'ontivi.net' 'issuu.com' 'drugs-forum.com'
+ 'www.hidemyass.com' 'sxyprn.com' 'www.bitfinex.com' '1337x.to'
+ 'www.gotgayporn.com' 'bet9ja.com' 'www.linkedin.com' 'www.asstr.org'
+ 'www.erowid.org' 'bit.ly' 'www.alarabiya.net' 'www.tunnelbear.com'
+ 'www.anonymizer.ru' 'www.rollitup.org' 'www.betfair.com' 'scribd.com'
+ 'www.ned.org' 'www.bbm.com' 'www.proxyweb.net' 'twitpic.com'
+ 'www.casinotropez.com' 'www.womenonwaves.org' 'www.spinpalace.com'
+ 'turbobit.net' 'www.scribd.com' 'www.mediafire.com' 'xhamster.com'
+ 'ooni.torproject.org' 'global.blackberry.com' 'www.partypoker.net'
+ 'weedfarmer.com' 'rutor.info' 'line.me' 'beeg.com'
+ 'bridges.torproject.org' 'www.startmail.com' 'www.cannaweed.com']"
+218.214.213.150,52,464.0,0.0,1.0,"['Content-Length: 146' 'Content-Type: text/html; charset=utf-8'
+ 'Date: Sun, 02 Jan 2022 23:35:47 GMT' 'Server: nginx'
+ 'Strict-Transport-Security: max-age=31536000; includeSubDomains; preload'
+ 'Vary: Accept-Encoding' 'X-Content-Type-Options: nosniff'
+ 'X-Frame-Options: SAMEORIGIN' 'X-Xss-Protection: 1; mode=block']<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+","['balayazh.com' 'taboola.com' 'livejasmin.com' '2345.com'
+ 'doubleclick.net' 'ebuddy.com' 'technorati.com' 'bestanimegame.com'
+ 'cj.com' 'exoclick.com' 'www.tawk.to' 'fadverdirect.com' 'dfcfw.com'
+ 'astalavista.box.sk' 'www.casinotropez.com' 'www.pokerpages.com'
+ 'lentainform.com' 'coronavirus-map.com' 'cint.com' 'www.blackhat.be'
+ 'a8.net' 'apps.crowdtangle.com' 'casino.com' 'www.888casino.com'
+ 'www.almanar.com.lb' 'admob.com' 'pornmedium.com' 'uol.com.br'
+ 'www.serials.ws' 'activehosted.com' 'bongacams.com'
+ 'www.europacasino.com' 'rumble.com' 'addthis.com' 'www.fark.com'
+ 'scoop.it' 'thepiratebay.org' 'umeng.com' 'hotjar.com' 'tawk.to'
+ 'www.babylon-x.com' 'crjpingate.com' 'adultfriendfinder.com'
+ 'creativecommons.org' 'www.anonymizer.com' 'download-readynow.com'
+ 'www.mamma.com' 'sweet.tv' 'guardster.com' 'shareasale.com'
+ 'outbrain.com' 'ojooo.com']"
+194.87.237.236,5,5166.0,0.0,1.0,"['Accept-Ranges: bytes' 'Content-Length: 4897'
+ 'Content-Type: text/html; charset=UTF-8'
+ 'Date: Sun, 02 Jan 2022 23:41:08 GMT' 'Etag: ""1321-5058a1e728280""'
+ 'Last-Modified: Thu, 16 Oct 2014 13:20:58 GMT'
+ 'Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16']<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd""><html><head>
+<meta http-equiv=""content-type"" content=""text/html; charset=UTF-8"">
+		<title>Apache HTTP Server Test Page powered by CentOS</title>
+		<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+
+    <!-- Bootstrap -->
+    <link href=""/noindex/css/bootstrap.min.css"" rel=""stylesheet"">
+    <link rel=""stylesheet"" href=""noindex/css/open-sans.css"" type=""text/css"" />
+
+<style type=""text/css""><!--		 
+
+body {
+  font-family: ""Open Sans"", Helvetica, sans-serif;
+  font-weight: 100;
+  color: #ccc;
+  background: rgba(10, 24, 55, 1);
+  font-size: 16px;
+}
+
+h2, h3, h4 {
+  font-weight: 200;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+.jumbotron {
+  margin-bottom: 0;
+  color: #333;
+  background: rgb(212,212,221); /* Old browsers */
+  background: radial-gradient(ellipse at center top, rgba(255,255,255,1) 0%,rgba(174,174,183,1) 100%); /* W3C */
+}
+
+.jumbotron h1 {
+  font-size: 128px;
+  font-weight: 700;
+  color: white;
+  text-shadow: 0px 2px 0px #abc,
+               0px 4px 10px rgba(0,0,0,0.15),
+               0px 5px 2px rgba(0,0,0,0.1),
+               0px 6px 30px rgba(0,0,0,0.1);
+}
+
+.jumbotron p {
+  font-size: 28px;
+  font-weight: 100;
+}
+
+.main {
+   background: white;
+   color: #234;
+   border-top: 1px solid rgba(0,0,0,0.12);
+   padding-top: 30px;
+   padding-bottom: 40px;
+}
+
+.footer {
+   border-top: 1px solid rgba(255,255,255,0.2);
+   padding-top: 30px;
+}
+
+    --></style>
+</head>
+<body>
+  <div class=""jumbotron text-center"">
+    <div class=""container"">
+   	  <h1>Testing 123..</h1>
+  		<p class=""lead"">This page is used to test the proper operation of the <a href=""http://apache.org"">Apache HTTP server</a> after it has been installed. If you can read this page it means that this site is working properly. This server is powered by <a href=""http://centos.org"">CentOS</a>.</p>
+		</div>
+  </div>
+  <div class=""main"">
+    <div class=""container"">
+       <div class=""row"">
+  			<div class=""col-sm-6"">
+    			<h2>Just visiting?</h2>
+			  		<p class=""lead"">The website you just visited is either experiencing problems or is undergoing routine maintenance.</p>
+  					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name ""webmaster"" and directed to the website's domain should reach the appropriate person.</p>
+  					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to ""webmaster@example.com"".</p>
+	  			</div>
+  				<div class=""col-sm-6"">
+	  				<h2>Are you the Administrator?</h2>
+		  			<p>You should add your website content to the directory <tt>/var/www/html/</tt>.</p>
+		  			<p>To prevent this page from ever being used, follow the instructions in the file <tt>/etc/httpd/conf.d/welcome.conf</tt>.</p>
+
+	  				<h2>Promoting Apache and CentOS</h2>
+			  		<p>You are free to use the images below on Apache and CentOS Linux powered HTTP servers.  Thanks for using Apache and CentOS!</p>
+				  	<p><a href=""http://httpd.apache.org/""><img src=""images/apache_pb.gif"" alt=""[ Powered by Apache ]""></a> <a href=""http://www.centos.org/""><img src=""images/poweredby.png"" alt=""[ Powered by CentOS Linux ]"" height=""31"" width=""88""></a></p>
+  				</div>
+	  		</div>
+	    </div>
+		</div>
+	</div>
+	  <div class=""footer"">
+      <div class=""container"">
+        <div class=""row"">
+          <div class=""col-sm-6"">          
+            <h2>Important note:</h2>
+            <p class=""lead"">The CentOS Project has nothing to do with this website or its content,
+            it just provides the software that makes the website run.</p>
+            
+            <p>If you have issues with the content of this site, contact the owner of the domain, not the CentOS project. 
+            Unless you intended to visit CentOS.org, the CentOS Project does not have anything to do with this website,
+            the content or the lack of it.</p>
+            <p>For example, if this website is www.example.com, you would find the owner of the example.com domain at the following WHOIS server:</p>
+            <p><a href=""http://www.internic.net/whois.html"">http://www.internic.net/whois.html</a></p>
+          </div>
+          <div class=""col-sm-6"">
+            <h2>The CentOS Project</h2>
+            <p>The CentOS Linux distribution is a stable, predictable, manageable and reproduceable platform derived from 
+               the sources of Red Hat Enterprise Linux (RHEL).<p>
+            
+            <p>Additionally to being a popular choice for web hosting, CentOS also provides a rich platform for open source communities to build upon. For more information
+               please visit the <a href=""http://www.centos.org/"">CentOS website</a>.</p>
+          </div>
+        </div>
+		  </div>
+    </div>
+  </div>
+</body></html>
+",['yandex.ru' 'google.com' 'www.google.com' 'google.ru' 'microsoft.com']
+64.13.232.149,3,404.6666666666667,0.029099706314095048,0.9999280896878564,"['Content-Length: 271' 'Content-Type: text/html; charset=iso-8859-1'
+ 'Date: Sun, 02 Jan 2022 23:40:40 GMT' 'Server: nginx/1.16.1']<!DOCTYPE HTML PUBLIC ""-//IETF//DTD HTML 2.0//EN"">
+<html><head>
+<title>403 Forbidden</title>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access this resource.</p>
+<hr>
+<address>Apache/2.4.51 Server at www.tumblr.com Port 443</address>
+</body></html>
+",['www.tumblr.com' 'tumblr.com' 'myabortionstory.tumblr.com']
+151.101.77.164,2,468.0,0.6134302417985861,0.9986892516200885,"['Accept-Ranges: bytes' 'Content-Length: 146' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:39:29 GMT' 'Server: nginx'
+ 'Strict-Transport-Security: max-age=31557600' 'Vary: Accept-Encoding'
+ 'Via: 1.1 varnish, 1.1 varnish' 'X-Cache: MISS, MISS'
+ 'X-Cache-Hits: 0, 0' 'X-City: Ann Arbor' 'X-Continent-Code: NA'
+ 'X-Country: US' 'X-Forwarder-Ip: 141.212.123.185' 'X-Latitude: 42.307'
+ 'X-Longitude: -83.706' 'X-Region: MI'
+ 'X-Served-By: cache-fra19137-FRA, cache-hkg17932-HKG'
+ 'X-Timer: S1641166769.834194,VS0,VE480']<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+",['www.purevpn.com' 'www.reuters.com']
+104.244.43.99,2,467.0,0.6147437969202104,0.9986836321265092,"['Accept-Ranges: bytes' 'Content-Length: 0' 'Content-Type: '
+ 'Date: Sun, 02 Jan 2022 23:35:41 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Cache: MISS' 'X-Cache-Hits: 0'
+ 'X-Served-By: cache-dtw8022-DTW' 'X-Timer: S1641166541.101844,VS0,VE0']nan",['www.reuters.com' 'www.purevpn.com']

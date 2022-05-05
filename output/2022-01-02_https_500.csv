@@ -1,0 +1,396 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+151.101.77.164,253,484.54150197628456,0.27893333850001856,0.999424335506118,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 235' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:39:30 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-hkg17927-HKG']
+<html>
+<head>
+<title>Fastly error: unknown domain line.me</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: line.me. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hkg17927-HKG</p></body></html>","['line.me' '1337x.to' 'genius.com' 'psiphon.ca' 'gumroad.com'
+ 'www.cfr.org' 'uptodown.com' 'google.co.kr' 'kumparan.com' 'speedify.com'
+ 'google.co.th' 'instagram.com' 'livejasmin.com' 'www.change.org'
+ 'www.tumblr.com' 'www.4shared.com' 'www.nbcnews.com' 'i.instagram.com'
+ 'ru.wikipedia.org' 'ja.wikipedia.org' 'coinmarketcap.com'
+ 'theepochtimes.com' 'washingtonpost.com' 'freespeechdebate.com'
+ 'bridges.torproject.org' 'ocsp.int-x3.letsencrypt.org'
+ 'webcache.googleusercontent.com' 'dcard.tw' 'beeg.com' 'shopee.tw'
+ 'google.ru' 'riseup.net' 'abc.net.au' 'bet365.com' 'twitter.com'
+ 'archive.org' 'ultrasurf.us' 'bitfinex.com' 'nicovideo.jp'
+ 'www.asstr.org' 'google.com.sa' 'express.co.uk' 'google.com.ua'
+ 'guardster.com' 'www.meetme.com' 'www.grindr.com' 'www.google.com'
+ 'www.peacefire.org' 'www.opentech.fund' 'www.altavista.com'
+ 'secure.flickr.com' 'www.getoutline.org' 'pt.m.wikipedia.org'
+ 'multimedia.scmp.com' 'www.hotspotshield.com' 'www.securityinabox.org'
+ 'ftx.com' 'rsf.org' 'google.de' 'google.it' 'feedly.com' 'youtube.com'
+ 'wikileaks.org' 'google.com.br' 'google.com.au' 'fr.wikipedia.org'
+ 'www.proxyweb.net' 'www.bitfinex.com' 'www.heritage.org'
+ 'www.crazyshit.com' 'tvants.uptodown.com' 'encrypted.google.com'
+ 'www.transparency.org' 'thunder.free-signal.com'
+ 'external-content.duckduckgo.com' 'unpo.org' 'setn.com' 'google.sk'
+ 'tiktok.com' 'blogger.com' 'storenvy.com' 'www.omct.org' 'telegram.org'
+ 'facebook.com' 'xvideos2.com' 'google.com.ar' 'protonvpn.com'
+ 'google.com.hk' 'wikipedia.org' 'spankbang.com' 'www.rferl.org'
+ 'google.com.tr' 'soundcloud.com' 'www.flickr.com' 'mastodon.social'
+ 'de.wikipedia.org' 'globalvoices.org' 'theintercept.com'
+ 'thepiratebay.org' 'it.wikipedia.org' 'www.adventist.org'
+ 'www.amnestyusa.org' 'www.clubhouseapi.com' 'udn.com' 'searx.me'
+ 'digg.com' 'google.az' 'podbean.com' 'proxify.com' 'nbcnews.com'
+ 'bloomberg.com' 'miro.medium.com' 'freedomhouse.org' 'depositphotos.com'
+ 'onedrive.live.com' 'en.m.wikipedia.org' 'imo.im' 'alt.com' 'yt1s.com'
+ 'google.ca' 'google.be' 'ltn.com.tw' 'www.cbc.ca' 'tor.eff.org'
+ 'jawapos.com' 'btguard.com' 'google.co.in' 'redbubble.com'
+ 'google.com.my' 'google.com.vn' 'getoutline.org' 'www.betternet.co'
+ 'ca.wikipedia.org' 'www.economist.com' 'www.megaproxy.com'
+ 'www.ftchinese.com' 'www.trendsmap.com' 'www.instagram.com'
+ 'freenetproject.org' 'www.lightsailvpn.com' 'www.theepochtimes.com'
+ 'myabortionstory.tumblr.com' 'google.fr' 'nypost.com' 'tumblr.com'
+ 'www.dw.com' 'openvpn.net' 'youporn.com' 'turbobit.net' 'whatsapp.com'
+ 'google.co.jp' 'citizenlab.ca' 'pchome.com.tw' 'bravotube.net'
+ 'slideshare.net' 'mastodon.cloud' 'dailymotion.com' 'googlevideo.com'
+ 'es.wikipedia.org' 'es.m.wikipedia.org' 'www.anonymizer.com'
+ 'www.democracynow.org' 'timesofindia.indiatimes.com' 'ok.ru' 'mega.nz'
+ 'mstdn.io' 'ndtv.com' 'wire.com' 'yobit.net' 'google.gr' 'kakao.com'
+ 'dropbox.com' 'rarible.com' 'xhamster.com' 'google.co.uk' 'blogspot.com'
+ 'google.com.tw' 'securevpn.com' 'peacefire.org' 'goodreads.com'
+ 'rakuten.co.jp' 'www.tiktok.com' 'www.pornhub.com' 'web.telegram.org'
+ 'en.wikipedia.org' 'zh.wikipedia.org' 'www.goodreads.com'
+ 'www.sendspace.com' 'www.overdrive.com' 'groups.google.com'
+ 'www.gotgayporn.com' 'www.dailysabah.com' 'www.dailymail.co.uk'
+ 'www.joinclubhouse.com' 'mixi.jp' '9gag.com' 'issuu.com' 'avaaz.org'
+ 'google.at' 'rumble.com' 'odysee.com' 'www.cpj.org' 'google.co.ve'
+ 'app.wire.com' 'www.fidh.org' 'google.com.mx' 'indiatoday.in'
+ 'www.occrp.org' 'surfshark.com' 'getlantern.org' 'www.search.com'
+ 'discordapp.com' 'docs.google.com' 'ar.wikipedia.org' 'www.giganews.com'
+ 'joinmastodon.org' 'groups.yahoo.com' 'www.brookings.edu'
+ 'www.clubhouse.com' 'www.csmonitor.com' 'ar.m.wikipedia.org'
+ 'www.slideshare.net' 'www.torproject.org' 'archiveofourown.org'
+ 'www.ebaumsworld.com' 'google.pt' 'google.pl' 'sxyprn.com' 'signal.org'
+ 'geti2p.net' 'y2mate.com' 'pixnet.net' 'www.ifj.org' 'www.ndi.org'
+ 'nordvpn.com' 'google.co.id' 'livemint.com' 'www.tango.me' 'mastodon.xyz'
+ 'google.com.sg' 'google.com.eg' 'www.xroxy.com' 'www.uproxy.org'
+ 'www.xxlmag.com' 'deviantart.com' 'www.binance.com' 'www.xvideos.com'
+ 'plus.google.com' 'dailymail.co.uk' 'ooni.torproject.org'
+ 'www.hizb-ut-tahrir.org' 'www.ultimate-anonymity.com'
+ 'www.frontlinedefenders.org']"
+104.244.43.99,251,482.52191235059763,0.2836042720542617,0.9994122458176611,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 238' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:35:41 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8022-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain google.sk</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: google.sk. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8022-DTW</p></body></html>","['google.sk' 'google.fr' 'www.dw.com' 'genius.com' 'nbcnews.com'
+ 'rarible.com' 'twitter.com' 'turbobit.net' 'google.co.uk' 'www.occrp.org'
+ 'bravotube.net' 'google.com.tr' 'google.com.eg' 'peacefire.org'
+ 'wikipedia.org' 'spankbang.com' 'surfshark.com' 'slideshare.net'
+ 'www.4shared.com' 'www.xvideos.com' 'www.bitfinex.com'
+ 'www.economist.com' 'theepochtimes.com' 'www.gotgayporn.com'
+ 'ar.m.wikipedia.org' 'en.m.wikipedia.org'
+ 'webcache.googleusercontent.com' 'line.me' 'udn.com' 'rsf.org'
+ 'issuu.com' 'rumble.com' 'signal.org' 'dropbox.com' 'gumroad.com'
+ 'facebook.com' 'kumparan.com' 'nicovideo.jp' 'www.xroxy.com'
+ 'www.asstr.org' 'goodreads.com' 'google.com.vn' 'redbubble.com'
+ 'docs.google.com' 'miro.medium.com' 'ar.wikipedia.org'
+ 'www.sendspace.com' 'www.theepochtimes.com' 'timesofindia.indiatimes.com'
+ 'www.privateinternetaccess.com' 'external-content.duckduckgo.com'
+ 'ftx.com' 'dcard.tw' 'google.ca' 'www.cfr.org' 'jawapos.com'
+ 'tor.eff.org' 'telegram.org' 'google.co.th' 'mastodon.xyz'
+ 'google.com.br' 'express.co.uk' 'getoutline.org' 'www.grindr.com'
+ 'discordapp.com' 'www.binance.com' 'theintercept.com' 'www.giganews.com'
+ 'www.clubhouse.com' 'www.brookings.edu' 'www.crazyshit.com'
+ 'www.securityinabox.org' 'www.frontlinedefenders.org'
+ 'ocsp.int-x3.letsencrypt.org' 'alt.com' '9gag.com' 'google.be'
+ 'google.gr' 'google.it' 'feedly.com' 'tiktok.com' 'blogger.com'
+ 'xvideos2.com' 'citizenlab.ca' 'instagram.com' 'www.rferl.org'
+ 'www.nbcnews.com' 'plus.google.com' 'www.pornhub.com' 'zh.wikipedia.org'
+ 'freedomhouse.org' 'depositphotos.com' 'groups.google.com'
+ 'www.anonymizer.com' 'pt.m.wikipedia.org' 'tvants.uptodown.com'
+ 'www.hotspotshield.com' 'www.joinclubhouse.com' 'ok.ru' 'mega.nz'
+ 'wire.com' 'yobit.net' 'shopee.tw' 'google.pt' 'google.at' 'riseup.net'
+ 'ltn.com.tw' 'www.ifj.org' 'google.co.jp' 'www.tango.me' 'speedify.com'
+ 'google.com.au' 'www.uproxy.org' 'dailymail.co.uk' 'www.proxyweb.net'
+ 'joinmastodon.org' 'it.wikipedia.org' 'www.betternet.co'
+ 'web.telegram.org' 'www.adventist.org' 'www.csmonitor.com'
+ 'www.goodreads.com' 'secure.flickr.com' 'www.torproject.org'
+ 'www.dailymail.co.uk' 'ooni.torproject.org' 'mstdn.io' 'unpo.org'
+ 'ndtv.com' 'google.ru' 'bet365.com' 'nypost.com' 'geti2p.net'
+ 'btguard.com' 'www.omct.org' 'google.co.ve' 'www.google.com'
+ 'www.change.org' 'deviantart.com' 'mastodon.cloud' 'dailymotion.com'
+ 'googlevideo.com' 'de.wikipedia.org' 'es.wikipedia.org'
+ 'www.instagram.com' 'www.overdrive.com' 'multimedia.scmp.com'
+ 'www.clubhouseapi.com' 'encrypted.google.com' 'www.hizb-ut-tahrir.org'
+ 'imo.im' 'mixi.jp' '1337x.to' 'digg.com' 'kakao.com' 'google.de'
+ 'sxyprn.com' 'nordvpn.com' 'xhamster.com' 'ultrasurf.us' 'whatsapp.com'
+ 'google.co.in' 'livemint.com' 'www.fidh.org' 'google.com.hk'
+ 'google.com.sa' 'indiatoday.in' 'www.tiktok.com' 'ca.wikipedia.org'
+ 'www.heritage.org' 'ja.wikipedia.org' 'globalvoices.org'
+ 'www.megaproxy.com' 'freespeechdebate.com' 'www.democracynow.org'
+ 'thunder.free-signal.com' 'yt1s.com' 'searx.me' 'setn.com' 'google.az'
+ 'avaaz.org' 'pixnet.net' 'www.cbc.ca' 'psiphon.ca' 'odysee.com'
+ 'www.cpj.org' 'www.ndi.org' 'google.co.id' 'google.co.kr' 'google.com.my'
+ 'google.com.ar' 'livejasmin.com' 'www.search.com' 'soundcloud.com'
+ 'www.xxlmag.com' 'thepiratebay.org' 'www.opentech.fund'
+ 'onedrive.live.com' 'washingtonpost.com' 'myabortionstory.tumblr.com'
+ 'beeg.com' 'google.pl' 'tumblr.com' 'archive.org' 'podbean.com'
+ 'proxify.com' 'youtube.com' 'youporn.com' 'blogspot.com' 'app.wire.com'
+ 'uptodown.com' 'storenvy.com' 'bitfinex.com' 'pchome.com.tw'
+ 'google.com.mx' 'www.meetme.com' 'mastodon.social' 'fr.wikipedia.org'
+ 'www.peacefire.org' 'www.trendsmap.com' 'www.slideshare.net'
+ 'www.getoutline.org' 'freenetproject.org' 'www.amnestyusa.org'
+ 'www.ebaumsworld.com' 'www.transparency.org' 'www.ultimate-anonymity.com'
+ 'abc.net.au' 'y2mate.com' 'openvpn.net' 'wikileaks.org' 'securevpn.com'
+ 'google.com.sg' 'google.com.ua' 'guardster.com' 'google.com.tw'
+ 'rakuten.co.jp' 'protonvpn.com' 'bloomberg.com' 'getlantern.org'
+ 'www.flickr.com' 'www.tumblr.com' 'i.instagram.com' 'ru.wikipedia.org'
+ 'en.wikipedia.org' 'groups.yahoo.com' 'www.ftchinese.com'
+ 'coinmarketcap.com' 'www.dailysabah.com' 'es.m.wikipedia.org'
+ 'archiveofourown.org']"
+104.244.43.35,241,482.48547717842325,0.2821799148189265,0.9994151535576384,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 234' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:37:04 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8027-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain line.me</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: line.me. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8027-DTW</p></body></html>","['line.me' 'alt.com' 'dcard.tw' 'yt1s.com' 'avaaz.org' 'sxyprn.com'
+ 'bet365.com' 'y2mate.com' 'signal.org' 'tor.eff.org' 'www.cfr.org'
+ 'kumparan.com' 'google.co.in' 'google.co.uk' 'storenvy.com'
+ 'google.com.au' 'express.co.uk' 'www.xxlmag.com' 'www.nbcnews.com'
+ 'www.betternet.co' 'de.wikipedia.org' 'www.proxyweb.net'
+ 'www.goodreads.com' 'www.clubhouse.com' 'www.ftchinese.com'
+ 'webcache.googleusercontent.com' 'ndtv.com' 'google.de' 'google.co.id'
+ 'xvideos2.com' 'google.com.my' 'surfshark.com' 'peacefire.org'
+ 'google.com.mx' 'citizenlab.ca' 'www.tumblr.com' 'www.grindr.com'
+ 'ca.wikipedia.org' 'groups.yahoo.com' 'www.trendsmap.com'
+ 'secure.flickr.com' 'www.overdrive.com' 'freenetproject.org'
+ 'multimedia.scmp.com' 'thunder.free-signal.com' 'rsf.org' 'setn.com'
+ 'google.pl' 'google.be' 'issuu.com' 'geti2p.net' 'riseup.net'
+ 'abc.net.au' 'youporn.com' 'podbean.com' 'www.ndi.org' 'youtube.com'
+ 'instagram.com' 'wikipedia.org' 'indiatoday.in' 'www.meetme.com'
+ 'slideshare.net' 'dailymail.co.uk' 'miro.medium.com' 'ru.wikipedia.org'
+ 'thepiratebay.org' 'onedrive.live.com' 'coinmarketcap.com'
+ 'washingtonpost.com' 'www.theepochtimes.com' 'mega.nz' 'wire.com'
+ 'yobit.net' 'google.sk' 'genius.com' 'psiphon.ca' 'btguard.com'
+ 'openvpn.net' 'twitter.com' 'nordvpn.com' 'jawapos.com' 'google.co.ve'
+ 'speedify.com' 'bitfinex.com' 'bloomberg.com' 'google.com.vn'
+ 'google.com.eg' 'www.search.com' 'mastodon.cloud' 'livejasmin.com'
+ 'www.4shared.com' 'plus.google.com' 'www.peacefire.org'
+ 'www.adventist.org' 'www.economist.com' 'www.torproject.org'
+ 'www.ebaumsworld.com' 'external-content.duckduckgo.com' 'digg.com'
+ 'google.fr' 'google.it' 'google.az' 'rumble.com' 'archive.org'
+ 'ultrasurf.us' 'protonvpn.com' 'google.com.ar' 'pchome.com.tw'
+ 'www.binance.com' 'fr.wikipedia.org' 'theintercept.com'
+ 'www.sendspace.com' 'depositphotos.com' 'www.brookings.edu'
+ 'pt.m.wikipedia.org' 'archiveofourown.org' 'www.clubhouseapi.com'
+ 'www.hotspotshield.com' 'ocsp.int-x3.letsencrypt.org' 'ok.ru' 'mixi.jp'
+ 'udn.com' 'odysee.com' 'rarible.com' 'www.omct.org' 'www.fidh.org'
+ 'mastodon.xyz' 'nicovideo.jp' 'blogspot.com' 'www.tango.me'
+ 'securevpn.com' 'bravotube.net' 'www.google.com' 'www.pornhub.com'
+ 'docs.google.com' 'ar.wikipedia.org' 'www.csmonitor.com'
+ 'groups.google.com' 'www.getoutline.org' 'en.m.wikipedia.org'
+ 'www.democracynow.org' 'www.ultimate-anonymity.com'
+ 'myabortionstory.tumblr.com' 'ftx.com' 'searx.me' 'google.at' 'kakao.com'
+ 'feedly.com' 'tumblr.com' 'blogger.com' 'app.wire.com' 'turbobit.net'
+ 'whatsapp.com' 'google.co.th' 'www.xroxy.com' 'google.com.sg'
+ 'www.rferl.org' 'google.com.sa' 'rakuten.co.jp' 'soundcloud.com'
+ 'i.instagram.com' 'joinmastodon.org' 'www.bitfinex.com'
+ 'web.telegram.org' 'it.wikipedia.org' 'www.crazyshit.com'
+ 'es.m.wikipedia.org' 'www.amnestyusa.org' 'tvants.uptodown.com'
+ 'ooni.torproject.org' 'www.dailymail.co.uk'
+ 'www.privateinternetaccess.com' 'imo.im' 'beeg.com' 'www.dw.com'
+ 'tiktok.com' 'dropbox.com' 'uptodown.com' 'facebook.com' 'xhamster.com'
+ 'www.asstr.org' 'www.occrp.org' 'guardster.com' 'google.com.hk'
+ 'getoutline.org' 'discordapp.com' 'deviantart.com' 'mastodon.social'
+ 'dailymotion.com' 'ja.wikipedia.org' 'www.heritage.org'
+ 'es.wikipedia.org' 'www.megaproxy.com' 'theepochtimes.com'
+ 'www.anonymizer.com' 'www.slideshare.net' 'www.gotgayporn.com'
+ 'www.joinclubhouse.com' 'unpo.org' '1337x.to' 'google.ca' 'www.cbc.ca'
+ 'ltn.com.tw' 'www.ifj.org' 'gumroad.com' 'www.cpj.org' 'google.co.kr'
+ 'livemint.com' 'google.co.jp' 'goodreads.com' 'getlantern.org'
+ 'www.flickr.com' 'en.wikipedia.org' 'ar.m.wikipedia.org'
+ 'encrypted.google.com' 'www.lightsailvpn.com' 'freespeechdebate.com'
+ 'www.hizb-ut-tahrir.org' 'www.frontlinedefenders.org' '9gag.com'
+ 'mstdn.io' 'google.pt' 'google.ru' 'google.gr' 'nypost.com' 'pixnet.net'
+ 'nbcnews.com' 'proxify.com' 'telegram.org' 'google.com.tr'
+ 'google.com.ua' 'wikileaks.org' 'google.com.br' 'spankbang.com'
+ 'www.tiktok.com' 'www.giganews.com' 'zh.wikipedia.org'
+ 'www.instagram.com' 'www.dailysabah.com' 'www.securityinabox.org'
+ 'timesofindia.indiatimes.com']"
+151.101.66.133,4,488.5,0.04925776628665697,0.9998991652686046,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 260' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:40:06 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8025-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain www.teenhealthfx.com</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: www.teenhealthfx.com. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8025-DTW</p></body></html>","['www.teenhealthfx.com' 'www.irna.ir' 'www.womensmediacenter.com'
+ 'patreon.com']"
+151.101.2.133,4,488.5,0.04925776628665697,0.9998991652686046,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 242' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:42:21 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8029-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain patreon.com</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: patreon.com. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8029-DTW</p></body></html>","['patreon.com' 'www.womensmediacenter.com' 'www.irna.ir'
+ 'www.teenhealthfx.com']"
+151.101.194.133,4,488.5,0.04925776628665697,0.9998991652686046,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 260' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:42:52 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8024-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain www.teenhealthfx.com</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: www.teenhealthfx.com. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8024-DTW</p></body></html>","['www.teenhealthfx.com' 'www.womensmediacenter.com' 'patreon.com'
+ 'www.irna.ir']"
+151.101.130.133,4,488.5,0.04925776628665697,0.9998991652686046,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 242' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:39:21 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8024-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain www.irna.ir</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: www.irna.ir. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8024-DTW</p></body></html>","['www.irna.ir' 'www.teenhealthfx.com' 'www.womensmediacenter.com'
+ 'patreon.com']"
+151.101.192.81,3,481.0,0.0385597442640154,0.9999198342115093,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 260' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:39:42 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8023-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain bedbathandbeyond.com</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: bedbathandbeyond.com. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8023-DTW</p></body></html>",['bedbathandbeyond.com' 'bbva.es' 'www.beer.com']
+151.101.0.81,3,481.0,0.0385597442640154,0.9999198342115093,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 234' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:39:36 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8026-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain bbva.es</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: bbva.es. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8026-DTW</p></body></html>",['bbva.es' 'bedbathandbeyond.com' 'www.beer.com']
+151.101.64.81,3,481.0,0.0385597442640154,0.9999198342115093,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 244' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:36:03 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8025-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain www.beer.com</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: www.beer.com. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8025-DTW</p></body></html>",['www.beer.com' 'bedbathandbeyond.com' 'bbva.es']
+151.101.128.81,3,481.0,0.0385597442640154,0.9999198342115093,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 234' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:35:59 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8022-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain bbva.es</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: bbva.es. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8022-DTW</p></body></html>",['bbva.es' 'www.beer.com' 'bedbathandbeyond.com']
+210.150.110.173,3,310.0,0.0,1.0,"['Content-Length: 190' 'Content-Type: text/html; charset=utf-8'
+ 'Date: Sun, 02 Jan 2022 23:43:35 GMT' 'Server: U-NEXT']<html>
+<head><title>500 Internal Server Error</title></head>
+<body bgcolor=""white"">
+<center><h1>500 Internal Server Error</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+",['w3schools.com' 'uploaded.to' 'uol.com.br']
+185.199.108.154,2,484.0,0.014609644239391479,0.9999698147846293,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 244' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:35:19 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8026-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain doordash.com</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: doordash.com. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8026-DTW</p></body></html>",['doordash.com' 'documentforce.com']
+151.101.246.114,2,487.0,0.005807858572374107,0.999988074212377,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 251' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:39:42 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-hel1410022-HEL']
+<html>
+<head>
+<title>Fastly error: unknown domain freelancer.com</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: freelancer.com. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hel1410022-HEL</p></body></html>",['freelancer.com' 'buzzfeed.com']
+151.101.114.217,2,493.0,0.03442304817135322,0.9999301763728776,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 246' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:35:42 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-hhn4041-HHN']
+<html>
+<head>
+<title>Fastly error: unknown domain www.habbo.com</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: www.habbo.com. Please check that this domain has been added to a service.</p>
+<p>Details: cache-hhn4041-HHN</p></body></html>",['www.habbo.com' 'www.lesbiansubmission.com']
+185.199.111.154,2,484.0,0.014609644239391479,0.9999698147846293,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 254' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:42:17 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8029-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain documentforce.com</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: documentforce.com. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8029-DTW</p></body></html>",['documentforce.com' 'doordash.com']
+185.199.110.154,2,484.0,0.014609644239391479,0.9999698147846293,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 244' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:43:40 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8024-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain doordash.com</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: doordash.com. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8024-DTW</p></body></html>",['doordash.com' 'documentforce.com']
+185.199.109.154,2,484.0,0.014609644239391479,0.9999698147846293,"['Accept-Ranges: bytes' 'Cache-Control: private, no-cache'
+ 'Content-Length: 244' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:36:52 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Served-By: cache-dtw8026-DTW']
+<html>
+<head>
+<title>Fastly error: unknown domain doordash.com</title>
+</head>
+<body>
+<p>Fastly error: unknown domain: doordash.com. Please check that this domain has been added to a service.</p>
+<p>Details: cache-dtw8026-DTW</p></body></html>",['doordash.com' 'documentforce.com']
+50.18.219.153,2,734.5,1.0,0.998638529611981,"['Content-Length: 0' 'Content-Type: text/plain; charset=utf-8'
+ 'Date: Sun, 02 Jan 2022 23:43:22 GMT' 'Server: bfe']nan",['cctv.com' 'www.inbox.com']

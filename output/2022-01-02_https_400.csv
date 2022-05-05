@@ -1,0 +1,97 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+91.198.174.192,4,2345.0,0.0,1.0,"['Content-Length: 1806' 'Content-Type: text/html; charset=utf-8'
+ 'Date: Sun, 02 Jan 2022 23:40:37 GMT'
+ 'Permissions-Policy: interest-cohort=()' 'Server: Varnish'
+ 'Server-Timing: cache;desc=""int-front"", host;desc=""cp3060""'
+ 'Set-Cookie: WMF-Last-Access=02-Jan-2022;Path=/;HttpOnly;secure;Expires=Thu, 03 Feb 2022 12:00:00 GMT'
+ 'Set-Cookie: WMF-Last-Access-Global=02-Jan-2022;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Thu, 03 Feb 2022 12:00:00 GMT'
+ 'X-Cache: cp3060 int' 'X-Cache-Status: int-front'
+ 'X-Client-Ip: 141.212.123.185']<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 141.212.123.185 via cp3060 cp3060, Varnish XID 637374425<br>Upstream caches: cp3060 int<br>Error: 400,  at Sun, 02 Jan 2022 23:40:37 GMT</code></p>
+</div>
+</html>
+","['en-ville.orange.fr' 'community.livejournal.com' 'itgetsbetter.org'
+ 'fteproxy.org']"
+198.35.26.96,2,2345.0,0.0,1.0,"['Content-Length: 1806' 'Content-Type: text/html; charset=utf-8'
+ 'Date: Sun, 02 Jan 2022 23:35:41 GMT'
+ 'Permissions-Policy: interest-cohort=()' 'Server: Varnish'
+ 'Server-Timing: cache;desc=""int-front"", host;desc=""cp4032""'
+ 'Set-Cookie: WMF-Last-Access=02-Jan-2022;Path=/;HttpOnly;secure;Expires=Thu, 03 Feb 2022 12:00:00 GMT'
+ 'Set-Cookie: WMF-Last-Access-Global=02-Jan-2022;Path=/;Domain=.invalid;HttpOnly;secure;Expires=Thu, 03 Feb 2022 12:00:00 GMT'
+ 'X-Cache: cp4032 int' 'X-Cache-Status: int-front'
+ 'X-Client-Ip: 141.212.123.185']<!DOCTYPE html>
+<html lang=""en"">
+<meta charset=""utf-8"">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class=""content"" role=""main"">
+<a href=""https://www.wikimedia.org""><img src=""https://www.wikimedia.org/static/images/wmf-logo.png"" srcset=""https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x"" alt=""Wikimedia"" width=""135"" height=""101"">
+</a>
+<h1>Error</h1>
+<div class=""content-text"">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="""" title=""Reload this page"" onclick=""window.location.reload(false); return false"">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class=""footer""><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class=""text-muted""><code>Request from 141.212.123.185 via cp4032 cp4032, Varnish XID 157000955<br>Upstream caches: cp4032 int<br>Error: 400,  at Sun, 02 Jan 2022 23:35:41 GMT</code></p>
+</div>
+</html>
+",['winshang.com' 'wikihow.com']
+23.14.5.211,2,402.0,0.0,1.0,"['Connection: close' 'Content-Length: 209' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:35:17 GMT'
+ 'Expires: Sun, 02 Jan 2022 23:35:17 GMT' 'Mime-Version: 1.0'
+ 'Server: AkamaiGHost']<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL ""&#91;no&#32;URL&#93;"", is invalid.<p>
+Reference&#32;&#35;9&#46;1c985468&#46;1641166517&#46;2f5d2719
+</BODY></HTML>
+",['www.eucom.mil' 'www.episcopalchurch.org']

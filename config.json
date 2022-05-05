@@ -1,0 +1,17 @@
+{
+    "start_time": "2022-01-01",
+    "end_time":"2022-01-04",
+    "bq_org":"firehook-censoredplanet",
+    "bq_table":"firehook-censoredplanet.laplante.satellite_blockpage_scan",
+    "cluster_type":"length",
+    "https_type": "True",
+    "save_intermittent": "True",
+    "read_file_logic": "2",
+    "raw_table_loc":"blockpages_https_2022-01-01-2022-01-04.csv",
+    "annotated_loc":"annotated_blockpages_2022-01-02_https.csv",
+    "read_parsed_blockpages_from_local": "False",
+    "false_positive_loc":"https://raw.githubusercontent.com/censoredplanet/assets-censoredplanet/master/false_positive_signatures.json",
+    "blockpage_loc":"https://raw.githubusercontent.com/censoredplanet/assets-censoredplanet/master/blockpage_signatures.json",
+    "similarity_threshold": "0.2",
+    "tld_threshold": "5"
+}

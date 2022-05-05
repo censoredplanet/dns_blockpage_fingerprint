@@ -1,0 +1,9 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+178.248.233.32,3,315.0,0.0,1.0,"['Content-Length: 169', 'Content-Type: text/html', 'Date: Wed, 29 Sep 2021 23:04:23 GMT', 'Location: https://ria.ru/index.html', 'Server: QRATOR']<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.18.0</center>
+</body>
+</html>
+",['riseup.net' 'rokna.net' 'robinhood.com']

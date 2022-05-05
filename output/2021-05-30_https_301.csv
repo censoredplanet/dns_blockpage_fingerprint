@@ -1,0 +1,14 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+67.225.245.208,4,389.0,0.0,1.0,"['Cache-Control: max-age=3600', 'Content-Length: 0', 'Content-Type: text/html; charset=UTF-8', 'Date: Sun, 30 May 2021 21:17:20 GMT', 'Expires: Sun, 30 May 2021 22:17:21 GMT', 'Location: https://www.icrw.org/', 'Pragma: no-cache', 'Server: Apache', 'Set-Cookie: PHPSESSID=c56f36e0c7a3f1822ab87bd34921c0a5; path=/', 'X-Pingback: https://www.icrw.org/xmlrpc.php', 'X-Redirect-By: WordPress']",['www.eucom.mil' 'www.icrc.org' 'xanga.com' 'www.whatsapp.com']
+157.230.166.75,3,262.0,0.0,1.0,"['Content-Length: 0', 'Content-Type: text/html; charset=UTF-8', 'Date: Sun, 30 May 2021 21:15:24 GMT', 'Location: https://www.sfsi.org/', 'Server: Apache/2.4.46 (FreeBSD) OpenSSL/1.1.1k-freebsd PHP/7.3.28', 'X-Powered-By: PHP/7.3.28', 'X-Redirect-By: WordPress']",['packetstormsecurity.com' 'www.defense.gov' 'www.marxists.org']
+72.51.60.140,3,321.0,0.0,1.0,"['Content-Length: 169', 'Content-Type: text/html', 'Date: Sun, 30 May 2021 21:16:25 GMT', 'Location: https://www.hushmail.com/', 'Server: nginx/1.18.0']<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.18.0</center>
+</body>
+</html>
+",['blueskyswimwear.com' 'focus.cn' 'www.ushmm.org']
+148.163.69.168,3,281.0,0.0,1.0,"['Content-Length: 0', 'Content-Type: text/html; charset=UTF-8', 'Date: Sun, 30 May 2021 21:17:23 GMT', 'Location: https://arpanmission.com/', 'Server: Apache', 'Vary: Accept-Encoding,Cookie,User-Agent', 'X-Pingback: https://arpanmission.com/xmlrpc.php', 'X-Redirect-By: WordPress']",['shangxueba.com' 'so.com' 'sat.gob.mx']
+162.93.215.103,3,96.0,0.0,1.0,"['Connection: close', 'Content-Length: 0', 'Location: https://www.schwab.com/', 'Server: BigIP']",['ilga.org' 'www.securityinabox.org' 'www.jdate.com']
+162.93.229.103,3,96.0,0.0,1.0,"['Connection: close', 'Content-Length: 0', 'Location: https://www.schwab.com/', 'Server: BigIP']",['www.jdate.com' 'www.securityinabox.org' 'ilga.org']

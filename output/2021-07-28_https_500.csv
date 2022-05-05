@@ -1,0 +1,3 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+13.238.212.27,7,60.0,0.0,1.0,"['Content-Length: 0', 'Date: Wed, 28 Jul 2021 22:46:13 GMT']","['rarbg.to' 'subscene.com' 'y2mate.com' 'rezka.ag' 'thepiratebay.org'
+ 'extratorrent.cc' '1337x.to']"

@@ -1,0 +1,63 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+52.58.78.16,5,2015.0,0.0,1.0,"['Content-Length: 1882', 'Content-Type: text/html', 'Date: Thu, 01 Jul 2021 00:14:18 GMT', 'Etag: ""5e820e10-75a""', 'Server: openresty']<!DOCTYPE html>
+<html itemscope="""" itemtype=""http://schema.org/WebSite"">
+  <head>
+    <link
+      rel=""stylesheet""
+      href=""https://dan-maintenance.s3.eu-central-1.amazonaws.com/styles/application.css""
+    />
+    <link
+      href=""images/favicon.ico""
+      rel=""icon""
+      type=""image/x-icon""
+    />
+
+    <script src=""https://dan-maintenance.s3.eu-central-1.amazonaws.com/js/webfont.js""></script>
+    <meta charset=""utf-8"" />
+    <meta content=""IE=edge"" http-equiv=""X-UA-Compatible"" />
+    <meta
+      content=""width=device-width, minimum-scale=1, initial-scale=1""
+      name=""viewport""
+    />
+    <title>DAN.COM is under maintenance</title>
+  </head>
+  <body>
+    <header class=""headroom"">
+      <nav class=""navbar navbar-default"">
+        <div class=""navbar-header pull-left"">
+          <a class=""navbar-brand"" href=""https://dan.com/""
+            ><img
+              class=""img-responsive""
+              alt=""DAN.COM""
+              src=""https://dan-maintenance.s3.eu-central-1.amazonaws.com/images/dan-full-logo2.svg""
+          /></a>
+        </div>
+      </nav>
+    </header>
+    <nav class=""navbar navbar-default fake""></nav>
+    <div class=""full-page"">
+      <section class=""p-b-8 p-x-3"">
+        <div class=""container"">
+          <div class=""row row-inline"">
+            <div class=""col-sm-12 v-middle"">
+              <h1 class=""m-t-5-xs m-t-3-dsk"">
+                DAN.COM is under maintenance
+              </h1>
+              <p>
+                Please come back later once we’re done and thank you for understanding!
+              </p>
+            </div>
+            <div class=""col-sm-12"">
+              <img
+                class=""img-responsive p-t-8 p-b-3""
+                src=""https://dan-maintenance.s3.eu-central-1.amazonaws.com/images/503.png""
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </body>
+</html>
+","['www.stonewall.org.uk' 'www.gov.uk' 'www.greennet.org.uk'
+ 'www.darknet.org.uk' 'debate.org.uk']"

@@ -1,0 +1,125 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+208.91.112.55,1176,407.0,0.0,1.0,"['Cache-Control: no-cache' 'Connection: close' 'Content-Length: 311'
+ 'Content-Type: text/html']<!DOCTYPE html>
+<html>	
+	<head>
+	</head>
+	<body>
+		<iframe src=""/fortiadc_error_page/index.html"" frameborder=""0"" width=""100%"" scrolling=""no"" onload=""function resizeIframe(obj) {
+	    obj.style.height = obj.contentWindow.document.body.scrollHeight + 10 + 'px';
+	  };resizeIframe(this)""></iframe>
+	</body>
+</html>","['india.com' 'freedns.afraid.org' 'mercadolibre.com.ar' ... 'www.sida.se'
+ 'www.greenpeace.org' 'www.bbm.com']"
+121.166.148.201,128,464.0,0.0,1.0,"['Content-Length: 326' 'Content-Type: text/html; charset=us-ascii'
+ 'Date: Sun, 02 Jan 2022 23:42:04 GMT' 'Server: Microsoft-HTTPAPI/2.0']<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01//EN""""http://www.w3.org/TR/html4/strict.dtd"">
+<HTML><HEAD><TITLE>Service Unavailable</TITLE>
+<META HTTP-EQUIV=""Content-Type"" Content=""text/html; charset=us-ascii""></HEAD>
+<BODY><h2>Service Unavailable</h2>
+<hr><p>HTTP Error 503. The service is unavailable.</p>
+</BODY></HTML>
+","['whatsapp.com' 'www.dit-inc.us' 'www.sendthisfile.com' 'rarbg.to'
+ 'coinmarketcap.com' 'secure.logmein.com' 'web.wechat.com' 'psiphon.ca'
+ 'www.dropbox.com' 'mega.nz' 'www.blizzard.com' 'wetransfer.com' 'icq.com'
+ 'www.wechat.com' 'poki.com' 'cloudinary.com' 'allo.google.com'
+ 'www.slideshare.net' 'tinder.com' 'xvideos.com' 'safervpn.com'
+ 'rapidgator.net' 'www.depositfiles.com' 'www.megaproxy.com'
+ 'guardianproject.info' 'store.steampowered.com' 'www.scribd.com'
+ 'soundcloud.com' 'www.bitcomet.com' 'www.purevpn.com' 'www.hotmail.com'
+ 'hangouts.google.com' 'gmail.com' 'www.ipredator.se' 'turbobit.net'
+ 'www.gmail.com' 'www.hightail.com' 'www.viber.com' 'imo.im'
+ 'www.utorrent.com' 'www.grindr.com' 'worldofwarcraft.com'
+ 'www.whatsapp.com' 'hola.org' 'www.ipvanish.com' 'www.anonymizer.ru'
+ 'hao123.com' 'www.binance.com' 'skype.com' 'spankbang.com'
+ 'www.hotspotshield.com' 'www.gmx.com' 'www.sendspace.com' 'xhamster.com'
+ 'yobit.net' 'www.mailinator.com' 'imageshack.com' 'pornhub.com'
+ 'signal.org' 'roblox.com' 'www.blockchain.com' 'outlook.live.com'
+ 'bitcoin.org' 'postimage.io' 'www.xvideos.com' 'www.bittorrent.com'
+ 'badoo.com' 'www.sex.com' 'evernote.com' '1337x.to' 'rutor.info'
+ 'app.wire.com' 'www.2shared.com' 'www.photobucket.com' 'slack.com'
+ 'www.messenger.com' 'giphy.com' 'shadowsocks.org' 'www.4shared.com'
+ 'anonymouse.org' 'www.slsknet.org' 'www.http-tunnel.com' 'telegram.org'
+ 'thepiratebay.org' 'www.namecoin.org' 't.me' 'crypto.com' 'telegram.me'
+ 'tamtam.chat' 'discordapp.com' 'binance.com' 'onedrive.live.com'
+ 'btguard.com' 'www.pornhub.com' 'mail.yahoo.com' 'tawk.to' 'rarbggo.org'
+ 'threema.ch' 'www.gamespot.com' 'dropbox.com' 'protonvpn.com' 'line.me'
+ 'wire.com' 'bitfinex.com' 'www.torproject.org' 'download.i2p2.de'
+ 'www.mininova.org' 'www.xroxy.com' 'getpocket.com' 'mail.yandex.ru'
+ 'www.tango.me' 'www.meetme.com' 'www.mediafire.com' 'azure.com'
+ 'www.hushmail.com' 'www.tawk.to' 'web.telegram.org' 'xvideos2.com'
+ 'strongvpn.com' 'surfshark.com' 'www.ea.com' 'discord.gg' 'speedify.com'
+ 'prq.se' 'securevpn.com' 'www.bitfinex.com' 'www.fastmail.com'
+ 'www.skype.com']"
+151.101.77.164,10,799.0,0.07393769956316361,0.9999074622033002,"['Accept-Ranges: bytes' 'Content-Length: 512'
+ 'Content-Type: text/html; charset=utf-8'
+ 'Date: Sun, 02 Jan 2022 23:39:33 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Cache: MISS' 'X-Cache-Hits: 0'
+ 'X-Served-By: cache-hkg17934-HKG'
+ 'X-Timer: S1641166772.101234,VS0,VE1302']
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""
+ ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html>
+  <head>
+    <title>503 Backend unavailable, connection timeout</title>
+  </head>
+  <body>
+    <h1>Error 503 Backend unavailable, connection timeout</h1>
+    <p>Backend unavailable, connection timeout</p>
+    <h3>Guru Mediation:</h3>
+    <p>Details: cache-hkg17932-HKG 1641166773 3890711118</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
+","['telegra.ph' 'duckduckgo.com' 'xnxx.com' 'flickr.com' 'hootsuite.com'
+ 'chaturbate.com' 'discord.com' 'sites.google.com' 'www.dropbox.com'
+ 'badoo.com']"
+104.244.43.35,10,796.5,0.07327712413688783,0.9999080010996398,"['Accept-Ranges: bytes' 'Content-Length: 511'
+ 'Content-Type: text/html; charset=utf-8'
+ 'Date: Sun, 02 Jan 2022 23:37:06 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Cache: MISS' 'X-Cache-Hits: 0'
+ 'X-Served-By: cache-dtw8020-DTW' 'X-Timer: S1641166625.367957,VS0,VE1303']
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""
+ ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html>
+  <head>
+    <title>503 Backend unavailable, connection timeout</title>
+  </head>
+  <body>
+    <h1>Error 503 Backend unavailable, connection timeout</h1>
+    <p>Backend unavailable, connection timeout</p>
+    <h3>Guru Mediation:</h3>
+    <p>Details: cache-dtw8023-DTW 1641166627 2614335677</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
+","['telegra.ph' 'flickr.com' 'sites.google.com' 'hootsuite.com' 'badoo.com'
+ 'www.dropbox.com' 'xnxx.com' 'chaturbate.com' 'duckduckgo.com'
+ 'discord.com']"
+104.244.43.99,10,796.7,0.07361913603764242,0.9999075949089524,"['Accept-Ranges: bytes' 'Content-Length: 454'
+ 'Content-Type: text/html; charset=utf-8'
+ 'Date: Sun, 02 Jan 2022 23:35:41 GMT' 'Retry-After: 0' 'Server: Varnish'
+ 'Via: 1.1 varnish' 'X-Cache: MISS' 'X-Cache-Hits: 0'
+ 'X-Served-By: cache-dtw8028-DTW' 'X-Timer: S1641166541.121447,VS0,VE0']
+<?xml version=""1.0"" encoding=""utf-8""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""
+ ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html>
+  <head>
+    <title>503 Backend is unhealthy</title>
+  </head>
+  <body>
+    <h1>Error 503 Backend is unhealthy</h1>
+    <p>Backend is unhealthy</p>
+    <h3>Guru Mediation:</h3>
+    <p>Details: cache-dtw8025-DTW 1641166541 1695348648</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
+","['duckduckgo.com' 'badoo.com' 'hootsuite.com' 'chaturbate.com'
+ 'sites.google.com' 'telegra.ph' 'flickr.com' 'xnxx.com' 'discord.com'
+ 'www.dropbox.com']"

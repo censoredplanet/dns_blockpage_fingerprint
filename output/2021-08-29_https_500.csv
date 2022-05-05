@@ -1,0 +1,2 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+13.238.212.27,5,60.0,0.0,1.0,"['Content-Length: 0', 'Date: Sun, 29 Aug 2021 22:43:22 GMT']",['y2mate.com' 'thepiratebay.org' 'rarbg.to' 'subscene.com' '1337x.to']

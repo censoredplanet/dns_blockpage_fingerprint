@@ -1,0 +1,3 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+54.206.62.186,8,174.0,0.0,1.0,"['Content-Length: 23', 'Content-Type: application/json', 'Date: Sun, 31 Oct 2021 22:47:39 GMT', 'X-Trace-Id: Root=1-617f1d0b-01067a3b6ea08e4f5f629e4a']{""message"":""Not Found""}","['subscene.com' '1337x.to' 'yts.mx' 'torrentz.eu' 'thepiratebay.org'
+ 'rarbg.to' 'rutracker.org' 'y2mate.com']"

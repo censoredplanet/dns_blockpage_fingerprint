@@ -1,0 +1,15 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+3.105.240.211,10,168.0,0.0,1.0,"['Content-Length: 56', 'Content-Type: application/json', 'Date: Wed, 28 Apr 2021 21:25:53 GMT', 'Server: nginx']{""code"":""ResourceNotFound"",""message"":""/ does not exist""}","['1337x.to' 'subscene.com' 'rezka.ag' 'extratorrent.cc' 'seasonvar.ru'
+ 'nyaa.si' 'y2mate.com' 'rarbg.to' 'thepiratebay.org' 'rutracker.org']"
+52.64.155.227,8,399.0,0.0,1.0,"['Content-Length: 139', ""Content-Security-Policy: default-src 'self'"", 'Content-Type: text/html; charset=utf-8', 'Date: Wed, 28 Apr 2021 21:29:40 GMT', 'Server: nginx/1.14.1', 'Vary: Accept-Encoding', 'X-Content-Type-Options: nosniff', 'X-Powered-By: Express']<!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /</pre>
+</body>
+</html>
+","['thepiratebay.org' 'rarbg.to' '1337x.to' 'subscene.com' 'extratorrent.cc'
+ 'rutracker.org' 'seasonvar.ru' 'nyaa.si']"

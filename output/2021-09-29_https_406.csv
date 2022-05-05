@@ -1,0 +1,4 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+23.89.5.60,8,21.0,0.0,1.0,['Content-Length: 0'],"['safervpn.com' 'www.tunnelbear.com' 'secure.proxpn.com' 'strongvpn.com'
+ 'www.ipvanish.com' 'secure.logmein.com' 'www.hidemyass.com'
+ 'www.ipredator.se']"

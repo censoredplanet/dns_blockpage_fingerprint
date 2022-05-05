@@ -1,0 +1,1293 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+130.211.15.150,250,142.0,0.0,1.0,"['Alt-Svc: clear', 'Content-Length: 0', 'Content-Type: text/plain', 'Date: Wed, 28 Apr 2021 21:29:11 GMT', 'Server: nginx', 'Via: 1.1 google']","['www.twitch.tv' 'www.dailymotion.com' 'pornhub.com' 'goo.ne.jp'
+ 'www.altavista.com' 'www.sendspace.com' 'wikipedia.org'
+ 'ocsp.int-x3.letsencrypt.org' 'es.m.wikipedia.org' '1337x.to'
+ 'openvpn.net' 'www.lightsailvpn.com' 'www.xxlmag.com' 'www.nytimes.com'
+ 'myabortionstory.tumblr.com' 'slate.com' 'mxc.com' 'alt.com'
+ 'www.megaproxy.com' 'ar.wikipedia.org' 'nypost.com' 'www.purevpn.com'
+ 'www.proxyweb.net' 'thepiratebay.org' 'timesofindia.indiatimes.com'
+ 'livejasmin.com' 'uptodown.com' 'joinmastodon.org' 'www.xvideos.com'
+ 'getlantern.org' 'avg.com' 'imo.im' 'coursehero.com'
+ 'www.hotspotshield.com' 'telegram.org' 'setn.com' 'surfshark.com'
+ 'psiphon.ca' 'mastodon.xyz' 'udn.com' 'spankbang.com' 'facebook.com'
+ 'www.trendsmap.com' 'hootsuite.com' 'duckduckgo.com' 'ptt.cc'
+ 'tiktok.com' 'multimedia.scmp.com' 'reddit.com'
+ 'www.ultimate-anonymity.com' 'twitter.com' 'bridges.torproject.org'
+ 'bbc.com' 'www.giganews.com' 'www.brookings.edu' 'kumparan.com'
+ 'es.wikipedia.org' 'youporn.com' 'theguardian.com' 'nikkei.com'
+ 'www.csmonitor.com' 'www.bitfinex.com' 'ar.m.wikipedia.org'
+ 'www.adventist.org' 'deviantart.com' 'www.theguardian.com'
+ 'steamcommunity.com' 'www.rferl.org' 'www.opentech.fund'
+ 'businessinsider.com' 'genius.com' 'slideshare.net' 'ok.ru'
+ 'www.joinclubhouse.com' 'www.ftchinese.com' 'haberturk.com' 'nbcnews.com'
+ 'www.tiktok.com' 'telegra.ph' 'web.telegram.org' 'spiegel.de'
+ 'redbubble.com' 'nytimes.com' 'medium.com' 'nordvpn.com'
+ 'www.peacefire.org' 'thehindu.com' 'www.xroxy.com' 'wikileaks.org'
+ 'www.betternet.co' 'bet365.com' 'btguard.com' 'archive.org'
+ 'onedrive.live.com' 'daum.net' 'www.economist.com' 'imgur.com'
+ 'en.m.wikipedia.org' 'flickr.com' 'riseup.net' 'secure.flickr.com'
+ 'whatsapp.com' 'dw.com' 'www.rfa.org' 'pixnet.net' 'www.reuters.com'
+ 'dropbox.com' 'www.tumblr.com' 'www.torproject.org' 'www.anonymizer.com'
+ 'thunder.free-signal.com' 'www.gotgayporn.com' 'cmoney.tw'
+ 'www.crazyshit.com' 'www.frontlinedefenders.org' 'www.heritage.org'
+ 'ask.com' 'www.slideshare.net' 'pinterest.com' 'jawapos.com'
+ 'ca.wikipedia.org' 'www.cbc.ca' 'geti2p.net' 'rakuten.co.jp'
+ 'www.persecution.org' 'tor.eff.org' 'www.bbc.co.uk' 'de.wikipedia.org'
+ 'www.meetme.com' 'badoo.com' 'disqus.com' 'beeg.com' 'www.pinterest.com'
+ 'freespeechdebate.com' 'depositphotos.com' 'it.wikipedia.org'
+ 'www.pokerstars.com' 'elpais.com' 'mastodon.social' 'line.me'
+ 'www.quora.com' 'groups.yahoo.com' 'www.dropbox.com'
+ 'www.theatlantic.com' 'www.change.org' 'unpo.org' 'ja.wikipedia.org'
+ 'dcard.tw' 'nyaa.si' 'www.privateinternetaccess.com' 'theintercept.com'
+ 'nicovideo.jp' 'speedify.com' 'www.dailysabah.com' 'searx.me'
+ 'www.pornhub.com' 'www.nbcnews.com' 'mixi.jp' 'reuters.com'
+ 'zh.wikipedia.org' 'fr.wikipedia.org' 'freenetproject.org' 'tumblr.com'
+ 'twitch.tv' 'www.youporn.com' 'bravotube.net' 'signal.org'
+ 'www.voanews.com' 'ltn.com.tw' 'goodreads.com' 'www.amnesty.org'
+ 'archiveofourown.org' 'pt.m.wikipedia.org' 'www.bbc.com' 'chaturbate.com'
+ 'www.uproxy.org' 'www.4shared.com' 'appledaily.com' 'istockphoto.com'
+ 'www.democracynow.org' 'www.lemonde.fr' 'www.facebook.com' 'www.ifj.org'
+ 'www.binance.com' 'bbc.co.uk' 'www.dailymail.co.uk' 'proxify.com'
+ 'en.wikipedia.org' 'www.hizb-ut-tahrir.org' 'dailymotion.com'
+ 'www.aljazeera.com' 'www.dw.com' 'discordapp.com' 'web.archive.org'
+ 'kakao.com' 'behance.net' 'ultrasurf.us' '9gag.com' 'www.wikipedia.org'
+ 'www.search.com' 'www.cfr.org' 'www.amnestyusa.org' 'www.hrw.org'
+ 'www.reddit.com' 'mastodon.cloud' 'www.flickr.com' 'www.ndi.org'
+ 'dailymail.co.uk' 'y2mate.com' 'washingtonpost.com' 'xnxx.com'
+ 'discord.com' 'mstdn.io' 'turbobit.net' 'rsf.org' 'www.transparency.org'
+ 'globalvoices.org' 'www.securityinabox.org' 'wire.com' 'ru.wikipedia.org'
+ 'livestream.com' 'freedomhouse.org' 'vimeo.com' 'ytmp3.cc' 'etsy.com'
+ 'soundcloud.com' 'protonvpn.com' 'www.ebaumsworld.com' 'app.wire.com'
+ 'xvideos.com' 'www.whatsapp.com' 'citizenlab.ca' 'digg.com'
+ 'xhamster.com' 'www.ask.com' 'peacefire.org' 'www.cpj.org'
+ 'guardster.com' 'www.messenger.com' 'pinterest.jp' 'bloomberg.com'
+ 'redd.it' 'binance.com' 'quora.com' 'ameba.jp' 'issuu.com'
+ 'securevpn.com' 'tvants.uptodown.com' 'www.goodreads.com' 'www.ned.org']"
+5.189.169.177,118,89.0,0.0,1.0,"['Connection: keep-alive', 'Content-Length: 0', 'Content-Type: text/html; charset=UTF-8']","['atlassian.net' 'haosou.com' 'tutorialspoint.com' 'bestlifeonline.com'
+ '51sole.com' 'movabletype.com' 'www.sina.com.cn' 'aizhan.com'
+ 'cryptome.org' 'jooble.org' 'avaaz.org' 'unilad.co.uk' 'zcool.com.cn'
+ 'bnaibrith.org' 'schoology.com' 'cengage.com' 'www.monacogoldcasino.com'
+ 'ahrefs.com' 'advocacy.globalvoicesonline.org' 'aporasal.net' 'tempo.co'
+ 'hornet.com' 'www.terredeshommes.nl' 'hi.ru' 'w3school.com.cn'
+ 'christwire.org' 'clickpost.jp' 'cmoney.tw' 'theintercept.com'
+ 'westernjournal.com' 'eghtesadnews.com' 'symbolab.com' 'tozoruaon.com'
+ 'tabelog.com' 'dashjr.org' 'endclothing.com' 'www.carnivalcasino.com'
+ 'kontan.co.id' 'pearson.com' 'mileroticos.com' 'lazada.co.th'
+ 'apnews.com' 'proiezionidiborsa.it' 'www.sputniknews.cn' 'www.mamma.com'
+ 'iweihai.cn' 'www.tawk.to' 'www.blackhat.be' 'runoob.com'
+ 'agacelebir.com' 'emalls.ir' 'adium.im' 'secure.proxpn.com'
+ 'globalvoices.org' 'hitwe.com' 'collegeboard.org' 'cnnindonesia.com'
+ 'pingomatic.com' 'translator.babylon-software.com' 'goodreads.com'
+ 'linguee.com' 'chsi.com.cn' 'wikidata.org' 'so.com' 'flashscore.com'
+ '11st.co.kr' 'www.metacrawler.com' 'bolasport.com' 'namu.wiki'
+ 'outbrain.com' 'impots.gouv.fr' 'brainly.com.br' 'yektanet.com'
+ 'pixlr.com' 'www.unfpa.org' 'cnbcindonesia.com' 'mawdoo3.com'
+ 'www.people.com.cn' 'mydramalist.com' 'crictracker.com' 'aliexpress.ru'
+ 'coursera.org' 'zhibo8.cc' 'consultant.ru' 'kizlarsoruyor.com'
+ 'baiducontent.com' 'firefoxchina.cn' 'huim.com' 'dafont.com'
+ 'kickassclassical.com' 'www.moderndrunkardmagazine.com' 'canada.ca'
+ 'cnnic.cn' 'www.appzplanet.com' 'coingecko.com' 'eatthis.com'
+ 'bet365.com' 'family.cloudflare-dns.com' 'www.casinotropez.com'
+ 'dcard.tw' 'convertio.co' 'astalavista.box.sk' '17ok.com'
+ 'onmarshtompor.com' 'safervpn.com' 'thingiverse.com' 'hotjar.com'
+ 'kompas.tv' 'mozilla.cloudflare-dns.com' 'qiita.com'
+ 'www.angelfire.lycos.com' 'thegatewaypundit.com' 'house365.com'
+ 'protectionline.org' 'guardster.com' 'star-clicks.com' 'insecure.org'
+ 'microsoft.com']"
+103.8.238.25,104,267.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 89', 'Content-Type: text/html', 'Date: Wed, 28 Apr 2021 21:30:00 GMT', 'Last-Modified: Thu, 04 Mar 2021 13:28:27 GMT', 'Server: Apache']<html>
+    <head>
+        <title>dusun</title>
+    </head>
+    <body>dusun</body>
+</html>","['www.gotgayporn.com' 'www.samesexmarriage.ca' 'www.lushstories.com'
+ 'www.grindr.com' 'www.xvideos.com' 'www.europacasino.com' 'ilga.org'
+ 'xhamster.com' 'chaturbate.com' 'bongacams.com' 'www.hustler.com'
+ 'www.888casino.com' 'www.guerrillagirls.com' 'www.roxypalace.com'
+ 'www.planetromeo.com' 'southcn.com' '8thstreetlatinas.com'
+ 'bravotube.net' 'www.freespeechcoalition.com' 'xvideos.com' 'trashy.com'
+ 'bisexual.org' 'mileroticos.com' 'www.slotland.com' 'www.chantelle.com'
+ 'www.startmail.com' 'www.nclrights.org' 'www.delicates.co.uk'
+ 'www.89.com' 'casino.com' 'www.agentprovocateur.com'
+ 'www.casinotropez.com' 'www.date.com' 'www.scruff.com' 'dmm.co.jp'
+ 'youporn.com' 'www.ifge.org' '1337x.to' 'www.mate1.com' 'www.nifty.org'
+ 'teenadvice.about.com' 'www.pornhub.com' 'www.gayhealth.com'
+ 'flirtylingerie.com' 'sfsi.org' 'www.3wishes.com' 'godhatesfags.com'
+ 'sxyprn.com' 'www.aceshigh.com' 'www.glil.org' 'www.spinpalace.com'
+ 'vimeo.com' 'www.anonymizer.com' 'adultfriendfinder.com'
+ 'www.itsyoursexlife.com' 'www.positive.org' 'www.gay.com' 'www.4chan.org'
+ 'www.sex.com' 'panties.com' 'www.budweiser.com' 'pridesource.com'
+ 'beeg.com' 'www.ilga-europe.org' 'worldsingles.com'
+ 'www.fuckingfreemovies.com' 'www.datingdirect.com' 'www.siecus.org'
+ 'www.playboy.com' 'www.premaritalsex.info' 'onlyfans.com' 'spankbang.com'
+ 'livejasmin.com' 'rarbg.to' 'www.out.com' 'www.betfair.com'
+ 'www.shoe.org' 'www.khilafah.com' 'www.tsroadmap.com' 'bet365.com'
+ 'reddit.com' 'www.pokerstars.com' 'thepiratebay.org' 'www.crazyshit.com'
+ 'www.onlinegambling.com' 'hotgaylist.com' 'www.ultimate-anonymity.com'
+ 'www.babylon-x.com' 'bet9ja.com' 'anonymouse.org' 'www.queernet.org'
+ 'xnxx.com' 'www.youporn.com' 'www.hizb-ut-tahrir.org' 'alt.com'
+ 'www.lesbiansubmission.com' 'www.eurogrand.com' 'pornhub.com'
+ 'www.gambling.com' 'www.implantinfo.com' 'www.freespeech.org'
+ 'www.reddit.com' 'heavy.com' 'www.beer.com']"
+103.149.238.140,57,40090.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 39818', 'Content-Type: text/html; charset=UTF-8', 'Date: Wed, 28 Apr 2021 21:32:40 GMT', 'Etag: ""9b8a-5b175c9df5586""', 'Last-Modified: Mon, 12 Oct 2020 09:18:59 GMT', 'Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.2.34']<!doctype html>
+<html lang=""en"">
+<head>
+  <meta charset=""utf-8"">
+  <title>bitniaga.net.id</title>
+  <meta content=""width=device-width, initial-scale=1.0"" name=""viewport"">
+  <meta content="""" name=""keywords"">
+  <meta content="""" name=""description"">
+
+  <!-- Favicons -->
+  <link href=""img/logo/bcg.jpeg"" rel=""icon"">
+  <link href=""img/apple-touch-icon.png"" rel=""apple-touch-icon"">
+
+  <!-- Google Fonts -->
+  <link href=""https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700|Raleway:300,400,400i,500,500i,700,800,900"" rel=""stylesheet"">
+
+  <!-- Bootstrap CSS File -->
+  <link href=""lib/bootstrap/css/bootstrap.min.css"" rel=""stylesheet"">
+
+  <!-- Libraries CSS Files -->
+  <link href=""lib/nivo-slider/css/nivo-slider.css"" rel=""stylesheet"">
+  <link href=""lib/owlcarousel/owl.carousel.css"" rel=""stylesheet"">
+  <link href=""lib/owlcarousel/owl.transitions.css"" rel=""stylesheet"">
+  <link href=""lib/font-awesome/css/font-awesome.min.css"" rel=""stylesheet"">
+  <link href=""lib/animate/animate.min.css"" rel=""stylesheet"">
+  <link href=""lib/venobox/venobox.css"" rel=""stylesheet"">
+
+  <!-- Nivo Slider Theme -->
+  <link href=""css/nivo-slider-theme.css"" rel=""stylesheet"">
+
+  <!-- Main Stylesheet File -->
+  <link href=""css/style.css"" rel=""stylesheet"">
+
+  <!-- Responsive Stylesheet File -->
+  <link href=""css/responsive.css"" rel=""stylesheet"">
+
+  <!-- =======================================================
+    Theme Name: eBusiness
+    Theme URL: https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/
+    Author: BootstrapMade.com
+    License: https://bootstrapmade.com/license/
+  ======================================================= -->
+</head>
+
+<body data-spy=""scroll"" data-target=""#navbar-example"">
+
+  <div id=""preloader""></div>
+
+  <header>
+    <!-- header-area start -->
+    <div id=""sticker"" class=""header-area"">
+      <div class=""container"">
+        <div class=""row"">
+          <div class=""col-md-12 col-sm-12"">
+
+            <!-- Navigation -->
+            <nav class=""navbar navbar-default"">
+              <!-- Brand and toggle get grouped for better mobile display -->
+              <div class=""navbar-header"">
+                <button type=""button"" class=""navbar-toggle collapsed"" data-toggle=""collapse"" data-target="".bs-example-navbar-collapse-1"" aria-expanded=""false"">
+										<span class=""sr-only"">Toggle navigation</span>
+										<span class=""icon-bar""></span>
+										<span class=""icon-bar""></span>
+										<span class=""icon-bar""></span>
+									</button>
+                <!-- Brand -->
+                <a class=""navbar-brand page-scroll sticky-logo"" href=""index.html"">
+                  <h1><span>B</span>itniaga</h1>
+                  <!-- Uncomment below if you prefer to use an image logo -->
+                  <!-- <img src=""img/logo.png"" alt="""" title=""""> -->
+								</a>
+              </div>
+              <!-- Collect the nav links, forms, and other content for toggling -->
+              <div class=""collapse navbar-collapse main-menu bs-example-navbar-collapse-1"" id=""navbar-example"">
+                <ul class=""nav navbar-nav navbar-right"">
+                  <li class=""active"">
+                    <a class=""page-scroll"" href=""#home"">Home</a>
+                  </li>
+                  <li>
+                    <a class=""page-scroll"" href=""#about"">About</a>
+                  </li>
+                  <li>
+                    <a class=""page-scroll"" href=""#services"">Services</a>
+                  </li>
+                 <!--  <li>
+                    <a class=""page-scroll"" href=""#team"">Team</a>
+                  </li> -->
+                  <!-- <li>
+                    <a class=""page-scroll"" href=""#portfolio"">Portfolio</a>
+                  </li> -->
+
+                  <!-- <li class=""dropdown""><a href=""#"" class=""dropdown-toggle"" data-toggle=""dropdown"">Drop Down<span class=""caret""></span></a>
+                    <ul class=""dropdown-menu"" role=""menu"">
+                      <li><a href=# >Drop Down 1</a></li>
+                      <li><a href=# >Drop Down 2</a></li>
+                    </ul> 
+                  </li> -->
+
+                  <!-- <li>
+                    <a class=""page-scroll"" href=""#blog"">Blog</a>
+                  </li> -->
+                  <li>
+                    <a class=""page-scroll"" href=""#contact"">Contact</a>
+                  </li>
+                </ul>
+              </div>
+              <!-- navbar-collapse -->
+            </nav>
+            <!-- END: Navigation -->
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- header-area end -->
+  </header>
+  <!-- header end -->
+
+  <!-- Start Slider Area -->
+  <div id=""home"" class=""slider-area"">
+    <div class=""bend niceties preview-2"">
+      <div id=""ensign-nivoslider"" class=""slides"">
+        <img src=""img/slider/slider1.jpg"" alt="""" title=""#slider-direction-1"" />
+        <img src=""img/slider/slider2.jpg"" alt="""" title=""#slider-direction-2"" />
+        <img src=""img/slider/slider3.jpg"" alt="""" title=""#slider-direction-3"" />
+      </div>
+
+      <!-- direction 1 -->
+      <div id=""slider-direction-1"" class=""slider-direction slider-one"">
+        <div class=""container"">
+          <div class=""row"">
+            <div class=""col-md-12 col-sm-12 col-xs-12"">
+              <div class=""slider-content"">
+                <!-- layer 1 -->
+                <div class=""layer-1-1 hidden-xs wow slideInDown"" data-wow-duration=""2s"" data-wow-delay="".2s"">
+                  <h2 class=""title1"">Partner in Technology and Solutions</h2>
+                </div>
+                <!-- layer 2 -->
+                <div class=""layer-1-2 wow slideInUp"" data-wow-duration=""2s"" data-wow-delay="".1s"">
+                  <h1 class=""title2"">We are all now connected by the Internet, like neurons in a giant brain.</h1>
+                </div>
+                <!-- layer 3 -->
+                <div class=""layer-1-3 hidden-xs wow slideInUp"" data-wow-duration=""2s"" data-wow-delay="".2s"">
+                  <a class=""ready-btn right-btn page-scroll"" href=""#services"">See Product</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- direction 2 -->
+      <div id=""slider-direction-2"" class=""slider-direction slider-two"">
+        <div class=""container"">
+          <div class=""row"">
+            <div class=""col-md-12 col-sm-12 col-xs-12"">
+              <div class=""slider-content text-center"">
+                <!-- layer 1 -->
+                <div class=""layer-1-1 hidden-xs wow slideInUp"" data-wow-duration=""2s"" data-wow-delay="".2s"">
+                  <h2 class=""title1""> Partner in Technology and Solutions </h2>
+                </div>
+                <!-- layer 2 -->
+                <div class=""layer-1-2 wow slideInUp"" data-wow-duration=""2s"" data-wow-delay="".1s"">
+                  <h1 class=""title2"">The Best Information Communication Technology</h1>
+                </div>
+                <!-- layer 3 -->
+                <div class=""layer-1-3 hidden-xs wow slideInUp"" data-wow-duration=""2s"" data-wow-delay="".2s"">
+                  <a class=""ready-btn right-btn page-scroll"" href=""#services"">See Product</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- direction 3 -->
+      <div id=""slider-direction-3"" class=""slider-direction slider-two"">
+        <div class=""container"">
+          <div class=""row"">
+            <div class=""col-md-12 col-sm-12 col-xs-12"">
+              <div class=""slider-content"">
+                <!-- layer 1 -->
+                <div class=""layer-1-1 hidden-xs wow slideInUp"" data-wow-duration=""2s"" data-wow-delay="".2s"">
+                  <h2 class=""title1"">Partner in Technology and Solutions</h2>
+                </div>
+                <!-- layer 2 -->
+                <div class=""layer-1-2 wow slideInUp"" data-wow-duration=""2s"" data-wow-delay="".1s"">
+                  <h1 class=""title2"">We're In The Business Of Get Quality Internet Service</h1>
+                </div>
+                <!-- layer 3 -->
+                <div class=""layer-1-3 hidden-xs wow slideInUp"" data-wow-duration=""2s"" data-wow-delay="".2s"">
+                  <a class=""ready-btn right-btn page-scroll"" href=""#services"">See Product</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End Slider Area -->
+
+  <!-- Start About area -->
+  <div id=""about"" class=""about-area area-padding"">
+    <div class=""container"">
+      <div class=""row"">
+        <div class=""col-md-12 col-sm-12 col-xs-12"">
+          <div class=""section-headline text-center"">
+            <h2>About bitniaga.net.id</h2>
+          </div>
+        </div>
+      </div>
+      <div class=""row"">
+        <!-- single-well start-->
+        <div class=""col-md-6 col-sm-6 col-xs-12"">
+          <div class=""well-left"">
+            <div class=""single-well"">
+              <a href=""#"">
+								  <img src=""img/about/1.jpg"" alt="""">
+								</a>
+            </div>
+          </div>
+        </div>
+        <!-- single-well end-->
+        <div class=""col-md-6 col-sm-6 col-xs-12"">
+          <div class=""well-middle"">
+            <div class=""single-well"">
+              <a href=""#"">
+                <h4 class=""sec-head"">Bitniaga</h4>
+              </a>
+              <p>
+                PT. Bitniaga Cipta Gemilang adalah ISP yang berdomisili di Mojokerto .Tujuan kami adalah memberikan pelayanan internet yang terbaik dalam hal kualitas dengan harga yang terjangkau.
+              </p>
+              <p>Sebagai Internet Service Provider, kami melayani</p>
+              <ul>
+                <li>
+                  <i class=""fa fa-check""></i> Internet broadband
+                </li>
+                <li>
+                  <i class=""fa fa-check""></i> Internet Dedicated
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <!-- End col-->
+      </div>
+    </div>
+  </div>
+  <!-- End About area -->
+
+  <!-- Start Service area -->
+  <div id=""services"" class=""services-area area-padding"">
+    <div class=""container"">
+      <div class=""row"">
+        <div class=""col-md-12 col-sm-12 col-xs-12"">
+          <div class=""section-headline services-head text-center"">
+            <h2>Our Services</h2>
+          </div>
+        </div>
+      </div>
+      <div class=""row text-center"">
+        <div class=""services-contents"">
+          <!-- Start Left services -->
+          <div class=""col-md-6 col-sm-6 col-xs-12"">
+            <div class=""about-move"">
+              <div class=""services-details"">
+                <div class=""single-services"">
+                  <a class=""services-icon"" href=""#"">
+											<img src=""img/logo/home.png"" style=""width:50px"" alt="""">
+										</a>
+                  <h4>Internet Broadband</h4>
+                  <p>
+                    Kami melayani pemasangan internet broadband yang cocok untuk keluarga dirumah.
+                  </p>
+                </div>
+              </div>
+              <!-- end about-details -->
+            </div>
+          </div>
+          <div class=""col-md-6 col-sm-6 col-xs-12"">
+            <div class=""about-move"">
+              <div class=""services-details"">
+                <div class=""single-services"">
+                  <a class=""services-icon"" href=""#"">
+											<img src=""img/logo/company.png"" style=""width:50px"" alt="""">
+										</a>
+                  <h4>Internet Dedicated</h4>
+                  <p>
+                    Kami melayani internet dedicated yang cocok untuk perusahaan - perusahaan.
+                  </p>
+                </div>
+              </div>
+              <!-- end about-details -->
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+  <!-- End Service area -->
+
+  <!-- our-skill-area start -->
+  <div class=""our-skill-area fix hidden-sm"">
+    <div class=""test-overly""></div>
+    <div class=""skill-bg area-padding-2"">
+      <div class=""container"">
+        <!-- section-heading end -->
+        <div class=""row"">
+          <div class=""skill-text"">
+            <!-- single-skill start -->
+            <div class=""col-xs-12 col-sm-3 col-md-3 text-center"">
+              <div class=""single-skill"">
+                <div class=""progress-circular"">
+                  <input type=""text"" class=""knob"" value=""0"" data-rel=""95"" data-linecap=""round"" data-width=""175"" data-bgcolor=""#fff"" data-fgcolor=""#3EC1D5"" data-thickness="".20"" data-readonly=""true"" disabled>
+                  <h3 class=""progress-h4"">Web Server</h3>
+                </div>
+              </div>
+            </div>
+            <!-- single-skill end -->
+            <!-- single-skill start -->
+            <div class=""col-xs-12 col-sm-3 col-md-3 text-center"">
+              <div class=""single-skill"">
+                <div class=""progress-circular"">
+                  <input type=""text"" class=""knob"" value=""0"" data-rel=""85"" data-linecap=""round"" data-width=""175"" data-bgcolor=""#fff"" data-fgcolor=""#3EC1D5"" data-thickness="".20"" data-readonly=""true"" disabled>
+                  <h3 class=""progress-h4"">Server</h3>
+                </div>
+              </div>
+            </div>
+            <!-- single-skill end -->
+            <!-- single-skill start -->
+            <div class=""col-xs-12 col-sm-3 col-md-3 text-center"">
+              <div class=""single-skill"">
+                <div class=""progress-circular"">
+                  <input type=""text"" class=""knob"" value=""0"" data-rel=""90"" data-linecap=""round"" data-width=""175"" data-bgcolor=""#fff"" data-fgcolor=""#3EC1D5"" data-thickness="".20"" data-readonly=""true"" disabled>
+                  <h3 class=""progress-h4"">Security Internet</h3>
+                </div>
+              </div>
+            </div>
+            <!-- single-skill end -->
+            <!-- single-skill start -->
+            <div class=""col-xs-12 col-sm-3 col-md-3 text-center"">
+              <div class=""single-skill"">
+                <div class=""progress-circular"">
+                  <input type=""text"" class=""knob"" value=""0"" data-rel=""85"" data-linecap=""round"" data-width=""175"" data-bgcolor=""#fff"" data-fgcolor=""#3EC1D5"" data-thickness="".20"" data-readonly=""true"" disabled>
+                  <h3 class=""progress-h4"">Data Center</h3>
+                </div>
+              </div>
+            </div>
+            <!-- single-skill end -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- our-skill-area end -->
+
+  
+
+  <!-- Start Wellcome Area -->
+ <!--  <div class=""wellcome-area"">
+    <div class=""well-bg"">
+      <div class=""test-overly""></div>
+      <div class=""container"">
+        <div class=""row"">
+          <div class=""col-md-12 col-sm-12 col-xs-12"">
+            <div class=""wellcome-text"">
+              <div class=""well-text text-center"">
+                <h2>Welcome To Our eBusiness</h2>
+                <p>
+                </p>
+                <div class=""subs-feilds"">
+                  <div class=""suscribe-input"">
+                    <input type=""email"" class=""email form-control width-80"" id=""sus_email"" placeholder=""Email"">
+                    <button type=""submit"" id=""sus_submit"" class=""add-btn width-20"">Subscribe</button>
+                    <div id=""msg_Submit"" class=""h3 text-center hidden""></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> -->
+  <!-- End Wellcome Area -->
+
+  <!-- Start team Area -->
+  <!-- <div id=""team"" class=""our-team-area area-padding"">
+    <div class=""container"">
+      <div class=""row"">
+        <div class=""col-md-12 col-sm-12 col-xs-12"">
+          <div class=""section-headline text-center"">
+            <h2>Our special Team</h2>
+          </div>
+        </div>
+      </div>
+      <div class=""row"">
+        <div class=""team-top"">
+          <div class=""col-md-3 col-sm-3 col-xs-12"">
+            <div class=""single-team-member"">
+              <div class=""team-img"">
+                <a href=""#"">
+										<img src=""img/team/1.jpg"" alt="""">
+									</a>
+                <div class=""team-social-icon text-center"">
+                  <ul>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-facebook""></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-twitter""></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-instagram""></i>
+												</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class=""team-content text-center"">
+                <h4>Jhon Mickel</h4>
+                <p>Seo</p>
+              </div>
+            </div>
+          </div>
+
+          <div class=""col-md-3 col-sm-3 col-xs-12"">
+            <div class=""single-team-member"">
+              <div class=""team-img"">
+                <a href=""#"">
+										<img src=""img/team/2.jpg"" alt="""">
+									</a>
+                <div class=""team-social-icon text-center"">
+                  <ul>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-facebook""></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-twitter""></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-instagram""></i>
+												</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class=""team-content text-center"">
+                <h4>Andrew Arnold</h4>
+                <p>Web Developer</p>
+              </div>
+            </div>
+          </div>
+          <div class=""col-md-3 col-sm-3 col-xs-12"">
+            <div class=""single-team-member"">
+              <div class=""team-img"">
+                <a href=""#"">
+										<img src=""img/team/3.jpg"" alt="""">
+									</a>
+                <div class=""team-social-icon text-center"">
+                  <ul>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-facebook""></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-twitter""></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-instagram""></i>
+												</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class=""team-content text-center"">
+                <h4>Lellien Linda</h4>
+                <p>Web Design</p>
+              </div>
+            </div>
+          </div>
+          <div class=""col-md-3 col-sm-3 col-xs-12"">
+            <div class=""single-team-member"">
+              <div class=""team-img"">
+                <a href=""#"">
+										<img src=""img/team/4.jpg"" alt="""">
+									</a>
+                <div class=""team-social-icon text-center"">
+                  <ul>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-facebook""></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-twitter""></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-instagram""></i>
+												</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class=""team-content text-center"">
+                <h4>Jhon Powel</h4>
+                <p>Seo Expert</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> -->
+  <!-- End Team Area -->
+
+  <!-- Start reviews Area -->
+  <!-- <div class=""reviews-area hidden-xs"">
+    <div class=""work-us"">
+      <div class=""work-left-text"">
+        <a href=""#"">
+						<img src=""img/about/2.jpg"" alt="""">
+					</a>
+      </div>
+      <div class=""work-right-text text-center"">
+        <h2>working with us</h2>
+        <h5>Web Design, Ready Home, Construction and Co-operate Outstanding Buildings.</h5>
+        <a href=""#contact"" class=""ready-btn"">Contact us</a>
+      </div>
+    </div>
+  </div> -->
+  <!-- End reviews Area -->
+
+  <!-- Start portfolio Area -->
+  <!-- <div id=""portfolio"" class=""portfolio-area area-padding fix"">
+    <div class=""container"">
+      <div class=""row"">
+        <div class=""col-lg-12 col-md-12 col-sm-12 col-xs-12"">
+          <div class=""section-headline text-center"">
+            <h2>Our Portfolio</h2>
+          </div>
+        </div>
+      </div>
+      <div class=""row"">
+        <div class=""awesome-project-1 fix"">
+          <div class=""col-lg-12 col-md-12 col-sm-12 col-xs-12"">
+            <div class=""awesome-menu "">
+              <ul class=""project-menu"">
+                <li>
+                  <a href=""#"" class=""active"" data-filter=""*"">All</a>
+                </li>
+                <li>
+                  <a href=""#"" data-filter="".development"">Development</a>
+                </li>
+                <li>
+                  <a href=""#"" data-filter="".design"">Design</a>
+                </li>
+                <li>
+                  <a href=""#"" data-filter="".photo"">Photoshop</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class=""awesome-project-content"">
+          <div class=""col-md-4 col-sm-4 col-xs-12 design development"">
+            <div class=""single-awesome-project"">
+              <div class=""awesome-img"">
+                <a href=""#""><img src=""img/portfolio/1.jpg"" alt="""" /></a>
+                <div class=""add-actions text-center"">
+                  <div class=""project-dec"">
+                    <a class=""venobox"" data-gall=""myGallery"" href=""img/portfolio/1.jpg"">
+                      <h4>Business City</h4>
+                      <span>Web Development</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class=""col-md-4 col-sm-4 col-xs-12 photo"">
+            <div class=""single-awesome-project"">
+              <div class=""awesome-img"">
+                <a href=""#""><img src=""img/portfolio/2.jpg"" alt="""" /></a>
+                <div class=""add-actions text-center"">
+                  <div class=""project-dec"">
+                    <a class=""venobox"" data-gall=""myGallery"" href=""img/portfolio/2.jpg"">
+                      <h4>Blue Sea</h4>
+                      <span>Photosho</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class=""col-md-4 col-sm-4 col-xs-12 design"">
+            <div class=""single-awesome-project"">
+              <div class=""awesome-img"">
+                <a href=""#""><img src=""img/portfolio/3.jpg"" alt="""" /></a>
+                <div class=""add-actions text-center"">
+                  <div class=""project-dec"">
+                    <a class=""venobox"" data-gall=""myGallery"" href=""img/portfolio/3.jpg"">
+                      <h4>Beautiful Nature</h4>
+                      <span>Web Design</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class=""col-md-4 col-sm-4 col-xs-12 photo development"">
+            <div class=""single-awesome-project"">
+              <div class=""awesome-img"">
+                <a href=""#""><img src=""img/portfolio/4.jpg"" alt="""" /></a>
+                <div class=""add-actions text-center"">
+                  <div class=""project-dec"">
+                    <a class=""venobox"" data-gall=""myGallery"" href=""img/portfolio/4.jpg"">
+                      <h4>Creative Team</h4>
+                      <span>Web design</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class=""col-md-4 col-sm-4 col-xs-12 development"">
+            <div class=""single-awesome-project"">
+              <div class=""awesome-img"">
+                <a href=""#""><img src=""img/portfolio/5.jpg"" alt="""" /></a>
+                <div class=""add-actions text-center text-center"">
+                  <div class=""project-dec"">
+                    <a class=""venobox"" data-gall=""myGallery"" href=""img/portfolio/5.jpg"">
+                      <h4>Beautiful Flower</h4>
+                      <span>Web Development</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class=""col-md-4 col-sm-4 col-xs-12 design photo"">
+            <div class=""single-awesome-project"">
+              <div class=""awesome-img"">
+                <a href=""#""><img src=""img/portfolio/6.jpg"" alt="""" /></a>
+                <div class=""add-actions text-center"">
+                  <div class=""project-dec"">
+                    <a class=""venobox"" data-gall=""myGallery"" href=""img/portfolio/6.jpg"">
+                      <h4>Night Hill</h4>
+                      <span>Photoshop</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> -->
+  <!-- awesome-portfolio end -->
+  <!-- start pricing area -->
+  <div id=""pricing"" class=""pricing-area area-padding"">
+    <div class=""container"">
+      <div class=""row"">
+        <div class=""col-md-12 col-sm-12 col-xs-12"">
+          <div class=""section-headline text-center"">
+            <h2>Pricing Table</h2>
+          </div>
+        </div>
+      </div>
+      <div class=""row"">
+        <div class=""col-md-4 col-sm-4 col-xs-12"">
+          <div class=""pri_table_list"">
+            <h3>Internet Broadband ( Upto 5 Mbps ) <br/> <span>Rp 300.000 / month</span></h3>
+            <ol>
+              <li class=""check"">Unlimited</li>
+              <li class=""check"">Download</li>
+              <li class=""check"">Upload</li>
+              <li class=""check cross"">24 jam</li>
+              <li class=""check cross"">Cash back</li>
+            </ol>
+            <button>Beli</button>
+          </div>
+        </div>
+         <div class=""col-md-4 col-sm-4 col-xs-12"">
+          <div class=""pri_table_list"">
+            <h3>Internet Broadband ( Upto 10 Mbps ) <br/> <span>Rp 500.000 / month</span></h3>
+            <ol>
+              <li class=""check"">Unlimited</li>
+              <li class=""check"">Download</li>
+              <li class=""check"">Upload</li>
+              <li class=""check cross"">24 jam</li>
+              <li class=""check cross"">Cash back</li>
+            </ol>
+            <button>Beli</button>
+          </div>
+        </div>
+        <div class=""col-md-4 col-sm-4 col-xs-12"">
+          <div class=""pri_table_list active"">
+            <span class=""saleon"">top sale</span>
+            <h3>Dedicated <br/> <span>Rp. 5.0000.000 / month</span></h3>
+            <ol>
+              <li class=""check"">Unlimited</li>
+              <li class=""check"">Download</li>
+              <li class=""check"">Upload</li>
+              <li class=""check"">24 jam</li>
+              <li class=""check"">Cash back</li>
+            </ol>
+            <button>Beli</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End pricing table area -->
+  <!-- Start Testimonials -->
+  <div class=""testimonials-area"">
+    <div class=""testi-inner area-padding"">
+      <div class=""testi-overly""></div>
+      <div class=""container "">
+        <div class=""row"">
+          <div class=""col-md-12 col-sm-12 col-xs-12"">
+            <!-- Start testimonials Start -->
+            <div class=""testimonial-content text-center"">
+              <a class=""quate"" href=""#""><i class=""fa fa-quote-right""></i></a>
+              <!-- start testimonial carousel -->
+              <div class=""testimonial-carousel"">
+                <div class=""single-testi"">
+                  <div class=""testi-text"">
+                    <p>
+                    </p>
+                    <h6>Boby</h6>
+                  </div>
+                </div>
+                <!-- End single item -->
+                <div class=""single-testi"">
+                  <div class=""testi-text"">
+                    <p>
+                    </p>
+                    <h6>Jhon</h6>
+                  </div>
+                </div>
+                <!-- End single item -->
+                <div class=""single-testi"">
+                  <div class=""testi-text"">
+                    <p>
+                    </p>
+                    <h6>Fleming</h6>
+                  </div>
+                </div>
+                <!-- End single item -->
+              </div>
+            </div>
+            <!-- End testimonials end -->
+          </div>
+          <!-- End Right Feature -->
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End Testimonials -->
+  <!-- Start Blog Area -->
+  <!-- <div id=""blog"" class=""blog-area"">
+    <div class=""blog-inner area-padding"">
+      <div class=""blog-overly""></div>
+      <div class=""container "">
+        <div class=""row"">
+          <div class=""col-md-12 col-sm-12 col-xs-12"">
+            <div class=""section-headline text-center"">
+              <h2>Latest News</h2>
+            </div>
+          </div>
+        </div>
+        <div class=""row"">
+          <div class=""col-md-4 col-sm-4 col-xs-12"">
+            <div class=""single-blog"">
+              <div class=""single-blog-img"">
+                <a href=""blog.html"">
+										<img src=""img/blog/1.jpg"" alt="""">
+									</a>
+              </div>
+              <div class=""blog-meta"">
+                <span class=""comments-type"">
+										<i class=""fa fa-comment-o""></i>
+										<a href=""#"">13 comments</a>
+									</span>
+                <span class=""date-type"">
+										<i class=""fa fa-calendar""></i>2016-03-05 / 09:10:16
+									</span>
+              </div>
+              <div class=""blog-text"">
+                <h4>
+                                        <a href=""blog.html"">Assumenda repud eum veniam</a>
+									</h4>
+                <p>
+                </p>
+              </div>
+              <span>
+									<a href=""blog.html"" class=""ready-btn"">Read more</a>
+								</span>
+            </div>
+          <div class=""col-md-4 col-sm-4 col-xs-12"">
+            <div class=""single-blog"">
+              <div class=""single-blog-img"">
+                <a href=""blog.html"">
+										<img src=""img/blog/2.jpg"" alt="""">
+									</a>
+              </div>
+              <div class=""blog-meta"">
+                <span class=""comments-type"">
+										<i class=""fa fa-comment-o""></i>
+										<a href=""#"">130 comments</a>
+									</span>
+                <span class=""date-type"">
+										<i class=""fa fa-calendar""></i>2016-03-05 / 09:10:16
+									</span>
+              </div>
+              <div class=""blog-text"">
+                <h4>
+                                        <a href=""blog.html"">Explicabo magnam quibusdam.</a>
+									</h4>
+                <p>
+                </p>
+              </div>
+              <span>
+									<a href=""blog.html"" class=""ready-btn"">Read more</a>
+								</span>
+            </div>
+          </div>
+          <div class=""col-md-4 col-sm-4 col-xs-12"">
+            <div class=""single-blog"">
+              <div class=""single-blog-img"">
+                <a href=""blog.html"">
+										<img src=""img/blog/3.jpg"" alt="""">
+									</a>
+              </div>
+              <div class=""blog-meta"">
+                <span class=""comments-type"">
+										<i class=""fa fa-comment-o""></i>
+										<a href=""#"">10 comments</a>
+									</span>
+                <span class=""date-type"">
+										<i class=""fa fa-calendar""></i>2016-03-05 / 09:10:16
+									</span>
+              </div>
+              <div class=""blog-text"">
+                <h4>
+                                        <a href=""blog.html"">Lorem ipsum dolor sit amet</a>
+									</h4>
+                <p>
+                  Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.
+                </p>
+              </div>
+              <span>
+									<a href=""blog.html"" class=""ready-btn"">Read more</a>
+								</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> -->
+  <!-- End Blog -->
+  <!-- Start Suscrive Area -->
+  <div class=""suscribe-area"">
+    <div class=""container"">
+      <div class=""row"">
+        <div class=""col-lg-12 col-md-12 col-sm-12 col-xs=12"">
+          <div class=""suscribe-text text-center"">
+            <h3>Welcome to Bitniaga.net</h3>
+            <!-- <a class=""sus-btn"" href=""#"">Get A quate</a> -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End Suscrive Area -->
+  <!-- Start contact Area -->
+  <div id=""contact"" class=""contact-area"">
+    <div class=""contact-inner area-padding"">
+      <div class=""contact-overly""></div>
+      <div class=""container "">
+        <div class=""row"">
+          <div class=""col-md-12 col-sm-12 col-xs-12"">
+            <div class=""section-headline text-center"">
+              <h2>Contact us</h2>
+            </div>
+          </div>
+        </div>
+        <div class=""row"">
+          <!-- Start contact icon column -->
+          <div class=""col-md-4 col-sm-4 col-xs-12"">
+            <div class=""contact-icon text-center"">
+              <div class=""single-icon"">
+                <i class=""fa fa-mobile""></i>
+                <p>
+                  Call: 0813-3500-0083<br>
+                  <span>Whatapps : 0813-3500-0083</span>
+                  <span>monday-saturday (8am-4pm)</span>
+                </p>
+              </div>
+            </div>
+          </div>
+          <!-- Start contact icon column -->
+          <div class=""col-md-4 col-sm-4 col-xs-12"">
+            <div class=""contact-icon text-center"">
+              <div class=""single-icon"">
+                <i class=""fa fa-envelope-o""></i>
+                <p>
+                  Email: support@bitniaga.net.id
+                  <br><span>Email Teknis : noc@bitniaga.net.id</span></br>
+                  <span>Web: www.bitniaga.net.id</span>
+                </p>
+              </div>
+            </div>
+          </div>
+          <!-- Start contact icon column -->
+          <div class=""col-md-4 col-sm-4 col-xs-12"">
+            <div class=""contact-icon text-center"">
+              <div class=""single-icon"">
+                <i class=""fa fa-map-marker""></i>
+                <p>
+                  Location: Dsn. Ringgit Ds. Kembang Ringgit, RT 03 RW 06, Kec.Pungging<br>
+                  <span>- Mojokerto</span>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class=""row"">
+
+          <!-- Start Google Map -->
+          <div class=""col-md-12 col-sm-12 col-xs-12"">
+            <!-- Start Map -->
+            <iframe src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1631.3445649755315!2d112.5957110489257!3d-7.526631798224305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7875480dce0a6d%3A0xef771135efdeb755!2sKembangringgit%2C%20Kec.%20Pungging%2C%20Mojokerto%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1584380783279!5m2!1sid!2sid"" width=""100%"" height=""450"" frameborder=""0"" style=""border:0;"" allowfullscreen="""" aria-hidden=""false"" tabindex=""0""></iframe>
+            <!-- End Map -->
+          </div>
+          <!-- End Google Map -->
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End Contact Area -->
+
+  <!-- Start Footer bottom Area -->
+  <footer>
+    <div class=""footer-area"">
+      <div class=""container"">
+        <div class=""row"">
+          <div class=""col-md-4 col-sm-4 col-xs-12"">
+            <div class=""footer-content"">
+              <div class=""footer-head"">
+                <div class=""footer-logo"">
+                  <h2><span>B</span>itniaga</h2>
+                </div>
+
+                <p></p>
+                <div class=""footer-icons"">
+                  <!--<ul>-->
+                  <!--  <li>-->
+                  <!--    <a href=""#""><i class=""fa fa-facebook""></i></a>-->
+                  <!--  </li>-->
+                  <!--  <li>-->
+                  <!--    <a href=""#""><i class=""fa fa-twitter""></i></a>-->
+                  <!--  </li>-->
+                  <!--  <li>-->
+                  <!--    <a href=""#""><i class=""fa fa-google""></i></a>-->
+                  <!--  </li>-->
+                  <!--  <li>-->
+                  <!--    <a href=""#""><i class=""fa fa-pinterest""></i></a>-->
+                  <!--  </li>-->
+                  <!--</ul>-->
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end single footer -->
+          <div class=""col-md-4 col-sm-4 col-xs-12"">
+            <div class=""footer-content"">
+              <div class=""footer-head"">
+                <h4>information</h4>
+                <p>
+                  
+                </p>
+                <div class=""footer-contacts"">
+                  <p><span>Tel:</span> 0813 - 3500 - 0083</p>
+                  <p><span>Email:</span> support@bitniaga.net.id</p>
+                  <p><span>Working Hours:</span> 8am-4pm</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end single footer -->
+          <div class=""col-md-4 col-sm-4 col-xs-12"">
+            <div class=""footer-content"">
+              <div class=""footer-head"">
+                <h4>Instagram</h4>
+                <div class=""flicker-img"">
+                  <a href=""#""><img src=""img/portfolio/1.jpg"" alt=""""></a>
+                  <a href=""#""><img src=""img/portfolio/2.jpg"" alt=""""></a>
+                  <a href=""#""><img src=""img/portfolio/3.jpg"" alt=""""></a>
+                  <a href=""#""><img src=""img/portfolio/4.jpg"" alt=""""></a>
+                  <a href=""#""><img src=""img/portfolio/5.jpg"" alt=""""></a>
+                  <a href=""#""><img src=""img/portfolio/6.jpg"" alt=""""></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class=""footer-area-bottom"">
+      <div class=""container"">
+        <div class=""row"">
+          <div class=""col-md-12 col-sm-12 col-xs-12"">
+            <div class=""copyright text-center"">
+              <!-- <p>
+                &copy; Copyright <strong>Bitnia</strong>. All Rights Reserved
+              </p> -->
+            </div>
+            <div class=""credits"">
+              <!--
+                All the links in the footer should remain intact.
+                You can delete the links only if you purchased the pro version.
+                Licensing information: https://bootstrapmade.com/license/
+                Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=eBusiness
+              -->
+            <!--   Designed by <a href=""https://bootstrapmade.com/"">BootstrapMade</a> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <a href=""#"" class=""back-to-top""><i class=""fa fa-chevron-up""></i></a>
+
+  <!-- JavaScript Libraries -->
+  <script src=""lib/jquery/jquery.min.js""></script>
+  <script src=""lib/bootstrap/js/bootstrap.min.js""></script>
+  <script src=""lib/owlcarousel/owl.carousel.min.js""></script>
+  <script src=""lib/venobox/venobox.min.js""></script>
+  <script src=""lib/knob/jquery.knob.js""></script>
+  <script src=""lib/wow/wow.min.js""></script>
+  <script src=""lib/parallax/parallax.js""></script>
+  <script src=""lib/easing/easing.min.js""></script>
+  <script src=""lib/nivo-slider/js/jquery.nivo.slider.js"" type=""text/javascript""></script>
+  <script src=""lib/appear/jquery.appear.js""></script>
+  <script src=""lib/isotope/isotope.pkgd.min.js""></script>
+
+  <!-- Contact Form JavaScript File -->
+  <script src=""contactform/contactform.js""></script>
+
+  <script src=""js/main.js""></script>
+</body>
+
+</html>
+","['subscene.com' 'www.lushstories.com' 'www.nclrights.org' 'reddit.com'
+ 'www.lesbiansubmission.com' '8thstreetlatinas.com' 'bongacams.com'
+ 'www.youporn.com' 'adultfriendfinder.com' 'www.hizb-ut-tahrir.org'
+ '1337x.to' 'trashy.com' 'xnxx.com' 'teenadvice.about.com' 'sxyprn.com'
+ 'rarbg.to' 'godhatesfags.com' 'www.xvideos.com' 'www.3wishes.com'
+ 'vimeo.com' 'youporn.com' 'beeg.com' 'sfsi.org' 'pridesource.com'
+ 'spankbang.com' 'heavy.com' 'dmm.co.jp' 'www.queernet.org' 'xhamster.com'
+ 'casino.com' 'bet9ja.com' 'www.pornhub.com' 'xvideos.com' 'panties.com'
+ 'rezka.ag' 'hotgaylist.com' 'ilga.org' 'flirtylingerie.com'
+ 'www.ilga-europe.org' 'mileroticos.com' 'chaturbate.com' 'livejasmin.com'
+ 'anonymouse.org' 'alt.com' 'thepiratebay.org' 'bravotube.net'
+ 'transsexual.org' 'worldsingles.com' 'rutracker.org' 'bisexual.org'
+ 'pornhub.com' 'onlyfans.com' 'www.coquette.com' 'bet365.com' 'www.89.com'
+ 'southcn.com' 'www.ultimate-anonymity.com']"
+18.136.67.162,18,9569.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 9349', 'Content-Type: text/html', 'Date: Wed, 28 Apr 2021 21:26:23 GMT', 'Etag: ""5d357790-2485""', 'Last-Modified: Mon, 22 Jul 2019 08:45:04 GMT', 'Server: nginx/1.14.0 (Ubuntu)']
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Whoops.</title>
+    <style>
+        html {
+            font: 12px Arial;
+            text-align: center;
+        }
+
+        body {
+            margin: 4em;
+        }
+
+        h1 {
+            font-size: 3em;
+            color: #999;
+        }
+
+        img {
+            width: 15em;
+        }
+    </style>
+</head>
+<body>
+<img src=""data:image/jpeg;base64,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"" alt=""Rocket Icon"">
+<h1>Whoops.</h1>
+<p>
+    The website that you are trying to access is unavailable as it contravenes the
+    <br>
+    Broadcasting (Class Licence) Notification issued by the Info-communications Media
+    <br>
+    Development Authority.
+    <br>
+    <br>For more information, please visit the following page:
+    <br><a href=""https://www.imda.gov.sg/regulations-licensing-and-consultations/content-standards-and-classification/standards-and-classification/internet"">https://www.imda.gov.sg/regulations-licensing-and-consultations/content-standards-and-classification/standards-and-classification/internet</a>.</p>
+</body>
+</html>
+","['pornhub.com' 'www.888casino.com' 'chaturbate.com' 'www.pornhub.com'
+ 'www.eurogrand.com' 'xnxx.com' 'www.pokerstars.com' 'beeg.com'
+ 'xvideos.com' 'www.betfair.com' 'bet9ja.com' 'www.xvideos.com'
+ 'casino.com' 'www.europacasino.com' 'www.youporn.com' 'xhamster.com'
+ 'bet365.com' 'youporn.com']"
+125.26.170.3,12,312.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 104', 'Content-Type: text/html', 'Date: Wed, 28 Apr 2021 18:43:31 GMT', 'Etag: ""5f572551-68""', 'Last-Modified: Tue, 08 Sep 2020 06:31:45 GMT', 'Server: nginx/1.16.1']<html>
+<body>
+<div align=""center"">
+<img src=""mdes.jpg"" width=""800"" height=""700"">
+</div>
+</body>
+</html>
+","['xnxx.com' 'bet365.com' 'xvideos.com' 'blogspot.com' 'www.888casino.com'
+ 'beeg.com' 'mediafire.com' 'www.mediafire.com' 'pornhub.com'
+ 'www.economist.com' 'www.pornhub.com' 'www.xvideos.com']"
+52.63.120.34,10,65746.0,0.0,1.0,"['Content-Length: 5538710', 'Content-Type: text/html; charset=utf-8', 'Date: Wed, 28 Apr 2021 21:32:19 GMT', 'Etag: W/""548396-GL9rZfSJIn569tU7RzX1kbT/ydg""', 'Server: openresty/1.9.7.3', 'X-Powered-By: Express']<!doctype html>
+<html lang=""en""><head><title data-react-helmet=""true"">9Now | Stream Channel 9 live and on demand for free </title><meta data-react-helmet=""true"" property=""og:image"" content=""https://www.9now.com.au/static/og-image-aabf87.png""/><meta data-react-helmet=""true"" name=""description"" content=""9Now is the best of Channel 9 and so much more. Stream 9Now Exclusives, catch up and live stream TV now for free. ""/><meta data-react-helmet=""true"" name=""fb:pages"" content=""177199405707067""/><meta data-react-helmet=""true"" name=""apple-itunes-app"" content=""app-id=542088539""/><meta data-react-helmet=""true"" name=""google-play-app"" content=""app-id=au.com.mi9.jumpin.app""/><link rel=""icon"" type=""image/png"" href=""data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABo0lEQVR4AaXRA6xdQRSF4V3btt0GdYPaDWo3qG3btm0brwpq24iqq2cbf+dMMjcTPyT5klln7RUdkQ3fuikehQzy6K2s/eRRyCSPZFv1hqyQbMueYVz/GcbfyETKb3pD3pUv+OiL1fKtekGlLW9wRSVy9Uco9kayL7qP4Y5KIC0Nmu5+Q6k1T4hPTtVKrn5Csz1vAPgXmYC9kRxz72BUWfOAJtuf+XODTY+pr5jcbMczfWNvJMeMqxj5Zl+nxMKb/lxkfoBmcknVOTf2RnJOPoPx0RVOXFIK9VYGUHTWBXxR8QQqxdS7vvrmdO//hWFvJNe4wxhfPeEkJKfQYOklSkw7QXB0vOa8Gy27rLtPrjDsjeQesQujyLh9lJ9yyJ9LTTxAScVk1ekbeyN5hm3AqDZ5D80XHPPnBrMO0lAxWXX6xt5I3gHLMNyhUfo3tpizj3Ij1hOflKyVH7meVvP2684VGom9kXy95mLcffsDV0gENUeuoVj/hXz+7dWcd61Ra/Co8Y2XX7E3kq/HZLJC8ncc6VHIJK8UaDO4u+JVyCCXs/0PrgdO3L8Mx8AAAAAASUVORK5CYII="" sizes=""16x16""/><link rel=""icon"" type=""image/png"" href=""data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADUUlEQVR4AcWSA3AsSxhG/2vz2bbLfLZt2+a1bfvGtm3btr2Ok+91B10z2ZktJvNVnehM99lsQmPbW3Ibw5thYGCaMUy0bpuM38HQMTDD6MbatKfImwGN8CbaVWBgQCNMNGtnLrSEZm3PgpbQrK3pUOOmo3n4PaIezziXWblFOzPxVVANPvGv5l9b+Rddy/lZ3HAkF7YaNGtzCpS49UgOdH1DmNwf4bXCzWbE1xmES24wYs4WcRYbYxuE43dcfzALah2avTERSvwaWg3pitotwt12OBNTxn8mfFV3n8z9FFwFtQ7NXh8LJV5wLIB0QWVdwq3anghD/5Bwxv5h/jPhIyq7Id1LTgVQ69DstVFQY3N0DSq6LAgp78J1uxNl7qkLOchoMiCnxYjn7HJl7qa9SYiq6kZJhxlrI6pgq0Fz/g2DltCcv4OgJTTnDz/Y4votYVj2b6Ciu3RdMK7aGKroVqwJ4meVnAya+5sXlFj6ly9iKjrAp+sdxKNH42R+Z2QpRkZHOdgaXiJzT59IgGninzSusgPL/vaFWofm/uwKJb50SYd0KTWdwl2/3g+sK8a/vmG9n/D5TTpIx+9S69C8HxyhxDfOqZAup6FbuGv/9bR6Adev8RKePysdv0utQ/O+uwAlVv7igIzaDvAZ+wbx/JFwmd8Zms/DHOwOy5e5l45FwDwwBL6suk4s/9keah2a9/VpqLHw2zN4aLMnrvjNTtHftsaFo+iu+t0e925w53fAVoPmf3EcWkLzPz0ELaEFH+2FGlu8k1DR2oPg3Crc+PNJmXtulwdyatuQUdXCv5a5m9iz/Ex5SzfWuMXDVoMWvL8DSryxzxPS+WeWC7fq073QW/qFM/UNYPVne4UPz6uGdC/tdoNahxa+sxlK/GkXBunKmjuFu+/XY5i6+387JnxFS5fM/WkfBrUOLXxzPZS447v97Lfsw+TWOIYLt/itDUgqqRMuubSO/0z4re4xwvE7bv1mH9Q6tOi1f6HGnd/sxj8Xg/DipvNWbvU76/HjSV8O/9rKv7HDHr+fDcDd3+6BrQYtevkPaAkteuFnaAktfuY7AwMaYaLFT37pzYBGeNOSxz65k6FjYIbR8TbxLXnk/TsY3gwjA9OMcaJ1B2//D6QqJ+qEs0Y+AAAAAElFTkSuQmCC"" sizes=""32x32""/><link rel=""icon"" type=""image/png"" href=""/static/favicon-96-aa7b1a.png"" sizes=""96x96""/><link rel=""icon"" type=""image/png"" href=""/static/favicon-192-4c1700.png"" sizes=""192x192""/><link rel=""shortcut icon"" href=""/static/favicon-4dfabd.ico""/><link rel=""apple-touch-icon"" href=""/static/app_icon@2x-bddfac.png""/><link rel=""android-touch-icon"" href=""/static/app_icon@2x-bddfac.png""/><meta name=""theme-color"" content=""#0084cc""/><meta name=""viewport"" content=""width=device-width, initial-scale=1, user-scalable=no""/><meta name=""google-site-verification"" content=""9bXhspRnDqQTuWtEVjHTq5ud7u5SEp6v2-Dgfe7588""/><meta name=""google-site-verification"" content=""iDY4912l3F9zkcndEu--7x17nmCumU4jRmvA6ybFxWE""/><link href=""/static/client-e7a6924.css"" media=""screen, projection"" rel=""stylesheet"" type=""text/css""/><script src=""/static/head-6a53095.js""></script><script>window.NREUM||(NREUM={});NREUM.info = {""agent"":"""",""beacon"":""bam-cell.nr-data.net"",""errorBeacon"":""bam-cell.nr-data.net"",""licenseKey"":""92dc82999e"",""applicationID"":""376197089"",""applicationTime"":147.441801,""transactionName"":""MVZXMkQCV0oFARJdVggcdhNFF1ZUS1gUUVgFRxgUWRZNXA=="",""queueTime"":0,""ttGuid"":""218a3d26fd288354"",""agentToken"":null}; (window.NREUM||(NREUM={})).loader_config={licenseKey:""92dc82999e"",applicationID:""376197089""};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if(""function""==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e(""handle""),a=e(7),c=e(8),f=e(""ee"").get(""tracer""),u=e(""loader""),s=NREUM;""undefined""==typeof window.newrelic&&(newrelic=s);var d=[""setPageViewName"",""setCustomAttribute"",""setErrorHandler"",""finished"",""addToTrace"",""inlineHit"",""addRelease""],p=""api-"",l=p+""ixn-"";a(d,function(e,t){s[t]=i(p+t,!0,""api"")}),s.addPageAction=i(p+""addPageAction"",!0),s.setCurrentRouteName=i(p+""routeName"",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i=""function""==typeof t;return o(l+""tracer"",[u.now(),e,n],r),function(){if(f.emit((i?"""":""no-"")+""fn-start"",[u.now(),r,i],n),i)try{return t.apply(this,arguments)}catch(e){throw f.emit(""fn-err"",[arguments,this,e],n),e}finally{f.emit(""fn-end"",[u.now()],n)}}}};a(""actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get"".split("",""),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){""string""==typeof e&&(e=new Error(e)),o(""err"",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(9);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function r(e){return!(!e||!e.protocol||""file:""===e.protocol)}t.exports=r},{}],4:[function(e,t,n){function r(e,t){var n=e.getEntries();n.forEach(function(e){""first-paint""===e.name?d(""timing"",[""fp"",Math.floor(e.startTime)]):""first-contentful-paint""===e.name&&d(""timing"",[""fcp"",Math.floor(e.startTime)])})}function i(e,t){var n=e.getEntries();n.length>0&&d(""lcp"",[n[n.length-1]])}function o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d(""cls"",[e])})}function a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d(""timing"",[""fi"",t,n])}}function c(e){d(""pageHide"",[p.now(),e])}if(!(""init""in NREUM&&""page_view_timing""in NREUM.init&&""enabled""in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d=e(""handle""),p=e(""loader""),l=e(6),m=NREUM.o.EV;if(""PerformanceObserver""in window&&""function""==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:[""paint""]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:[""largest-contentful-paint""]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:""layout-shift"",buffered:!0})}catch(v){}}if(""addEventListener""in document){var g=!1,w=[""click"",""keydown"",""mousedown"",""pointerdown"",""touchstart""];w.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],5:[function(e,t,n){function r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var n=o.split("".""),r=t.split("".""),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf(""Chrome"")===-1&&c.indexOf(""Chromium"")===-1&&(i=""Safari"",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],6:[function(e,t,n){function r(e){function t(){e(a&&document[a]?document[a]:document[i]?""hidden"":""visible"")}""addEventListener""in document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;""undefined""!=typeof document.hidden?(i=""hidden"",o=""visibilitychange"",a=""visibilityState""):""undefined""!=typeof document.msHidden?(i=""msHidden"",o=""msvisibilitychange""):""undefined""!=typeof document.webkitHidden&&(i=""webkitHidden"",o=""webkitvisibilitychange"",a=""webkitVisibilityState"")},{}],7:[function(e,t,n){function r(e,t){var n=[],r="""",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],8:[function(e,t,n){function r(e,t,n){t||(t=0),""undefined""==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return o}t.exports=r},{}],9:[function(e,t,n){t.exports={exists:""undefined""!=typeof window.performance&&window.performance.timing&&""undefined""!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function i(e){function t(e){return e&&e instanceof r?e:e?u(e,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){e&&a&&e(n,r,i);for(var c=t(i),f=v(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[h[n]];return p&&p.push([b,n,r,c]),c}}function o(e,t){y[e]=v(e).concat(t)}function m(e,t){var n=y[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function v(e){return y[e]||[]}function g(e){return p[e]=p[e]||i(n)}function w(e,t){s(e,function(e,n){t=t||""feature"",h[n]=t,t in d||(d[t]=[])})}var y={},h={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:w,abort:c,aborted:!1};return b}function o(e){return u(e,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f=""nr@context"",u=e(""gos""),s=e(7),d={},p={},l=t.exports=i();t.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(e,t,n){function r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e(""ee"").get(""handle"");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||""object""!==t&&""function""!==t?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o=""nr@id"",a=e(""gos"");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!E++){var e=x.info=NREUM.info,t=l.getElementsByTagName(""script"")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return u.abort();f(h,function(t,n){e[t]||(e[t]=n)});var n=a();c(""mark"",[""onload"",n+x.offset],null,""api""),c(""timing"",[""load"",n]);var r=l.createElement(""script"");r.src=""https://""+e.agent,t.parentNode.insertBefore(r,t)}}function i(){""complete""===l.readyState&&o()}function o(){c(""mark"",[""domContent"",a()+x.offset],null,""api"")}var a=e(2),c=e(""handle""),f=e(7),u=e(""ee""),s=e(5),d=e(3),p=window,l=p.document,m=""addEventListener"",v=""attachEvent"",g=p.XMLHttpRequest,w=g&&g.prototype;if(d(p.location)){NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:g,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""""+location,h={beacon:""bam.nr-data.net"",errorBeacon:""bam.nr-data.net"",agent:""js-agent.newrelic.com/nr-1208.min.js""},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=t.exports={offset:a.getLastTimestamp(),now:a,origin:y,features:{},xhrWrappable:b,userAgent:s};e(1),e(4),l[m]?(l[m](""DOMContentLoaded"",o,!1),p[m](""load"",r,!1)):(l[v](""onreadystatechange"",i),p[v](""onload"",r)),c(""mark"",[""firstbyte"",a.getLastTimestamp()],null,""api"");var E=0}},{}],""wrap-function"":[function(e,t,n){function r(e,t){function n(t,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s=""function""==typeof r?r(o,a):r||{}}catch(l){i([l,"""",[o,a,f],s],e)}c(n+""start"",[o,a,f],s,u);try{return p=t.apply(a,o)}catch(m){throw c(n+""err"",[o,a,m],s,u),m}finally{c(n+""end"",[o,a,p],s,u)}}return a(t)?t:(n||(n=""""),nrWrapper[p]=t,o(t,nrWrapper,e),nrWrapper)}function r(e,t,r,i,o){r||(r="""");var c,f,u,s=""-""===r.charAt(0);for(u=0;u<t.length;u++)f=t[u],c=e[f],a(c)||(e[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!m||t){var c=m;m=!0;try{e.emit(n,r,o,t,a)}catch(f){i([f,n,r,o],e)}m=c}}return e||(e=s),n.inPlace=r,n.flag=p,n}function i(e,t){t||(t=s);try{t.emit(""internal-error"",e)}catch(n){}}function o(e,t,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(e);return r.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return e[n]=t,t}})}),t}catch(o){i([o],n)}for(var a in e)l.call(e,a)&&(t[a]=e[a]);return t}function a(e){return!(e&&e instanceof Function&&e.apply&&!e[p])}function c(e,t){var n=t(e);return n[p]=e,o(e,n,s),n}function f(e,t,n){var r=e[t];e[t]=c(r,n)}function u(){for(var e=arguments.length,t=new Array(e),n=0;n<e;++n)t[n]=arguments[n];return t}var s=e(""ee""),d=e(8),p=""nr@original"",l=Object.prototype.hasOwnProperty,m=!1;t.exports=r,t.exports.wrapFunction=c,t.exports.wrapInPlace=f,t.exports.argsToArray=u},{}]},{},[""loader""]);</script></head><body><script src=""//players.brightcove.net/4460760524001/SsikoRPVm_default/index.min.js""></script><div id=""content""><div class=""V0hJoV"" data-reactroot=""""><div></div><div class=""_3YfZmD _11K31U""><div class=""_210_2O _11K31U""><div class=""_3ur_Ih global-header-targetable _2kKeSS""><header class=""c9rnV0 _2G1QMe"" role=""banner""><label class=""_26LF3g _2EQLJM _2_tot_"" for=""sidebarToggle""><svg class=""ac48n0"" version=""1"" id=""Layer_1"" viewBox=""0 0 22 15.5""><style>.st0{clip-path:url(#SVGID_2_);enable-background:new}.st1{clip-path:url(#SVGID_4_)}.st2{clip-path:url(#SVGID_6_);fill:#ecf0f1}</style><path id=""SVGID_1_"" d=""M.8 14h20.5c.4 0 .8.3.8.8 0 .4-.3.8-.8.8H.8c-.4 0-.8-.3-.8-.8s.3-.8.8-.8zm0-7h20.5c.4 0 .7.3.7.8s-.3.8-.8.8H.8c-.5-.1-.8-.4-.8-.8S.3 7 .8 7zm0-7h20.5c.4 0 .7.3.7.8s-.3.8-.8.8H.8C.3 1.5 0 1.2 0 .8S.3 0 .8 0z""></path></svg></label><a class=""_2gJRbp _1q0V4W"" href=""/""><svg class=""ac48n0"" width=""113"" height=""24"" viewBox=""0 0 113 24"" fill=""none""><mask id=""a"" maskUnits=""userSpaceOnUse"" x=""0"" y=""0"" width=""113"" height=""24""><path d=""M21.614 24a3.248 3.248 0 0 1-2.986-3.244 3.24 3.24 0 0 1 3.307-3.245 3.227 3.227 0 0 1 3.194 3.247A3.233 3.233 0 0 1 22.142 24h-.528zm8.617 0c-.51-.026-.967-.2-1.363-.535a2.871 2.871 0 0 1-.92-1.457 2.745 2.745 0 0 1-.102-.757 2.702 2.702 0 0 1 .626-1.754c.378-.458.857-.76 1.429-.913.27-.071.526-.095.824-.095h15.486c.067 0 .108-.023.108-.112l.001-3.42c0-.207-.005-.227-.206-.227H30.81c-.263 0-.702-.011-1.043-.111-.887-.26-1.47-.83-1.74-1.715a3.146 3.146 0 0 1-.131-.834l-.001-9.238c0-.633.142-1.227.538-1.74a2.555 2.555 0 0 1 1.486-.958c.198-.045.436-.067.61-.067H49.06c.756 0 1.423.255 1.972.783.335.323.555.72.68 1.168.088.32.12.706.12.978v18.199a3.13 3.13 0 0 1-.454 1.654c-.307.5-.75.824-1.306 1a3.48 3.48 0 0 1-.906.151H30.232zm-17.934 0a3.24 3.24 0 0 1-2.98-3.288 3.232 3.232 0 0 1 3.294-3.201 3.237 3.237 0 0 1 3.205 3.25A3.248 3.248 0 0 1 12.83 24h-.533zM2.99 24A3.253 3.253 0 0 1 0 20.733a3.245 3.245 0 0 1 3.29-3.223c1.867.02 3.236 1.559 3.21 3.243.03 1.66-1.276 3.112-2.988 3.247H2.99zM46.32 9.368V5.65c0-.055-.029-.083-.084-.083H33.494c-.072 0-.092.031-.092.087v3.706c0 .059.042.089.091.089h12.74c.056 0 .087-.027.087-.082zM107.352.034h5.269l-4.015 13.14c-1.303 4.263-3.067 4.263-3.92 4.263-.849 0-2.617 0-3.997-4.316l-2.272-7.115-2.272 7.115c-1.38 4.316-3.151 4.316-4.008 4.316-.846 0-2.605 0-3.908-4.264l-.704-2.3a9.837 9.837 0 0 0-2.792-9.134l-.52-1.705h5.27l3.02 11.41L96.025.035h4.783l3.523 11.41 3.02-11.41zm-29.48 13.212a4.43 4.43 0 0 0 4.425-4.424 4.43 4.43 0 0 0-4.424-4.424 4.43 4.43 0 0 0-4.425 4.424 4.43 4.43 0 0 0 4.425 4.425zm0-13.246c4.865 0 8.823 3.958 8.823 8.822 0 4.865-3.958 8.822-8.822 8.822-4.865 0-8.822-3.957-8.822-8.822C69.05 3.958 73.008 0 77.873 0zm-8.41 3.668a9.807 9.807 0 0 0-1.458 5.154c0 1.888.534 3.653 1.457 5.154v3.441h-2.175a2.864 2.864 0 0 1-2.303-1.162l-6.31-8.54v9.702h-4.25V.034h2.516c.913 0 1.772.436 2.312 1.174l5.96 8.154V.034h4.25v3.634zM21.89 8.795c1.689-.025 3.243 1.355 3.238 3.254a3.234 3.234 0 0 1-3.254 3.246 3.241 3.241 0 0 1-3.246-3.254c0-1.852 1.524-3.282 3.262-3.246zm-9.368 6.5a3.238 3.238 0 0 1-3.207-3.28c.014-1.873 1.56-3.255 3.259-3.22 1.735-.025 3.245 1.414 3.242 3.252a3.243 3.243 0 0 1-3.294 3.247zm9.362-8.723a3.242 3.242 0 0 1-3.256-3.24A3.232 3.232 0 0 1 21.88.071a3.223 3.223 0 0 1 3.25 3.248 3.232 3.232 0 0 1-3.245 3.252zm-9.337 0a3.239 3.239 0 0 1-3.232-3.319 3.227 3.227 0 0 1 3.26-3.181 3.233 3.233 0 0 1 3.24 3.257 3.241 3.241 0 0 1-3.268 3.243zM3.253.071C5.14.07 6.558 1.635 6.502 3.428 6.449 5.113 5.059 6.58 3.246 6.572A3.245 3.245 0 0 1 .003 3.374 3.241 3.241 0 0 1 3.253.07zm.045 15.22A3.244 3.244 0 0 1 0 11.995C.025 10.174 1.548 8.76 3.31 8.79c1.732.03 3.215 1.467 3.19 3.25.028 1.7-1.352 3.226-3.202 3.25z"" fill=""#fff""></path></mask><g mask=""url(#a)""><path fill-rule=""evenodd"" clip-rule=""evenodd"" d=""M0 24H112.62V0H0v24z"" fill=""url(#b)""></path></g><defs><linearGradient id=""b"" x1=""56.311"" y1=""24.011"" x2=""56.311"" gradientUnits=""userSpaceOnUse""><stop stop-color=""#0084CC""></stop><stop offset=""1"" stop-color=""#02DAE6""></stop></linearGradient></defs></svg></a><nav class=""_1Erwp_ _1L9ZH4 _3PklNQ"" role=""navigation""><ul class=""_175KhP _3V_9D7""><li class=""_31dS3a xw0fvt""><a class=""_3RR84U _2T8U-a _31K_I9 Wge0Pu"" href=""/"">Home</a></li><li class=""_31dS3a xw0fvt""><a class=""_3RR84U _2T8U-a"" href=""/live"">Live TV</a></li><li class=""_31dS3a xw0fvt""><a class=""_3RR84U _2T8U-a"" href=""/shows"">TV Shows</a></li><li class=""_31dS3a xw0fvt""><a class=""_3RR84U _2T8U-a"" href=""/genres"">Categories</a></li></ul></nav><div class=""_1yzSDM vbvTii _3PklNQ""><a class=""_32UR8W"" href=""/activate"">Connect Your TV</a><div></div></div><a href=""/search"" class=""_2O7Wrl _2EQLJM""><svg class=""ac48n0 _2IXgr-"" version=""1"" id=""Layer_1"" viewBox=""0 0 21 21""><style>.st0{clip-path:url(#SVGID_2_)}.st1{clip-path:url(#SVGID_4_);fill:#ecf0f1}</style><path id=""SVGID_1_"" d=""M15.1 13.9c1.3-1.5 2.1-3.4 2.1-5.5 0-4.6-3.9-8.4-8.6-8.4C3.9 0 0 3.8 0 8.4s3.9 8.4 8.6 8.4c1.9 0 3.6-.6 5-1.6l5.6 5.5c.2.2.5.3.7.3.3 0 .5-.1.7-.3.4-.4.4-1 0-1.4l-5.5-5.4zM1.4 8.4c0-3.9 3.2-7 7.2-7s7.2 3.2 7.2 7-3.2 7-7.2 7c-3.9 0-7.2-3.1-7.2-7""></path></svg></a></header></div><div class=""xN5cti _11K31U""><h1 class=""_1JzIKP"">Stream TV For Free</h1><noscript><div class=""XdqL-C""><input type=""checkbox"" class=""_21begS"" id=""toggle_notification_js-disabled""/><div class=""_1U1rc-""><div class=""_35peaY _2G1QMe _1wpX_O""><label class=""_1K_OkS"" for=""toggle_notification_js-disabled""></label>Oops, looks like you have JavaScript disabled! For the best 9Now experience, please enable JavaScript. <a href=""http://help.9now.com.au/hc/en-us/articles/217116387"" target=""_blank"" rel=""noopener noreferrer"">Learn more</a></div></div></div></noscript><main class=""pV95-0""><div><div class=""_3V9aSC"" itemID=""featured-rail-container""><div style=""opacity:0;position:absolute;width:100%;height:100%;top:0""><div class=""_1XlQUb""><img type=""background"" webpSizes=""[object Object]"" role=""presentation"" sizes=""undefined"" srcSet=""https://imageresizer.static9.net.au/5LYS8EYljaxpvQ4nyAGL-tD2YzQ=/320x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355187%2F9Now_NextGen_DOCDOCLegacy-Art.jpg 320w, https://imageresizer.static9.net.au/VNEJ6i-uRKIkbtNyxOdm02G6YuE=/480x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355187%2F9Now_NextGen_DOCDOCLegacy-Art.jpg 480w, https://imageresizer.static9.net.au/AaHbqksRhBi7ne3JXS3qWnRd-xk=/768x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355187%2F9Now_NextGen_DOCDOCLegacy-Art.jpg 768w, https://imageresizer.static9.net.au/BkGjIGT3uPINenXvWfnZ7I1kcSk=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355187%2F9Now_NextGen_DOCDOCLegacy-Art.jpg 1280w, https://imageresizer.static9.net.au/Ufvs98b7cFo9YZENrgVFRVRR8Uk=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355187%2F9Now_NextGen_DOCDOCLegacy-Art.jpg 1920w"" alt=""Season 5""/></div></div><div class=""_1AA4mJ""><div itemscope="""" class=""ArqBKB"" itemType=""http://schema.org/TVSeries"" itemID=""featured-rail-current-item""><div class=""L2pUi3""><div style=""opacity:0;position:relative""><div class=""_2qM19g""><img class=""_2BsBWt"" sizes=""100vw"" srcSet=""https://imageresizer.static9.net.au/JeArKSo6GxYa4DIFS06GGhdWGOQ=/320x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355188%2FShow-Logo05x_NEW.png 320w, https://imageresizer.static9.net.au/cdoF3Ky3rrNOvWpZ-mOuqZyLXEE=/480x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355188%2FShow-Logo05x_NEW.png 480w, https://imageresizer.static9.net.au/ONuq33Kctz6YueejOlOpt0N6HhM=/768x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355188%2FShow-Logo05x_NEW.png 768w, https://imageresizer.static9.net.au/SwxVOv7_NetkrDny8OM0k38EO7c=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355188%2FShow-Logo05x_NEW.png 1280w, https://imageresizer.static9.net.au/vBtx12CCsZHsASmWWmolXEOslTw=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355188%2FShow-Logo05x_NEW.png 1920w"" alt=""Season 5""/><h3 class=""TM4so4 _1p6rOy"" itemProp=""name"">Doctor Doctor</h3><span class=""_3jkHOA"" itemProp=""genre"">Drama</span><p class=""uCxQyG"" itemProp=""description"">When the Knight family and the entire township of Whyhope are plunged into crisis, all eyes turn to Hugh to save them. Stream complete seasons 1-4 ahead of the new season.</p><div class=""_2xYt-e _38umB2""><span class=""_1haNG6 _1qAsoq"">WEDNESDAY 8:30</span><img class=""_3Whwc0 aOt2LX"" sizes=""320px"" srcSet=""https://imageresizer.static9.net.au/wWunTn9rWCzjIERp6cOg3O7WgaI=/320x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F11%2F9_Colour_RGB.png 320w, https://imageresizer.static9.net.au/WsmAndUbdR0_7_pJEmKGI_Gqu_c=/480x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F11%2F9_Colour_RGB.png 480w, https://imageresizer.static9.net.au/MFJ65H8J3Itwr7-HcHQxr-jBssc=/768x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F11%2F9_Colour_RGB.png 768w, https://imageresizer.static9.net.au/HtBnd8GsZ-0m6XU8owz7-XYATt4=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F11%2F9_Colour_RGB.png 1280w, https://imageresizer.static9.net.au/KwU9BWt0M5UZADkc0xvNcuHYB60=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F11%2F9_Colour_RGB.png 1920w"" alt=""Channel 9""/></div><div class=""_1WaXDH""><a class=""_3NIVa_ _30dEKg"" href=""/doctor-doctor/season-5/episode-1""><svg class=""ac48n0 _1heQ7p _2-Tgzc"" viewBox=""0 0 120 120""><path d=""M92 60c0 2.2-1.2 4.1-2.9 5.2l-44 26c-.9.5-1.9.8-3.1.8-3.3 0-6-2.7-6-6V34c0-3.3 2.7-6 6-6 1.1 0 2.2.3 3.1.8l44 26c1.7 1.1 2.9 3 2.9 5.2z""></path></svg><span>Watch Latest</span></a><a class=""_3rDpq7 _27W-wT"" href=""/doctor-doctor/season-5""><span>More</span></a></div></div></div></div></div><div class=""q3_Wst"" itemID=""featured-selector-rail""><div itemscope="""" class=""nPZO0Q _2G1QMe uW0aru""><div class=""_3-G065 _3fXzXB""><div class=""_1ju7gH _2G1QMe""><div class=""L7mgqh""><ul class=""_1V5tPK""><li class=""_1LWWkJ""><div class=""_3CkWhQ _3CkWhQ _1E0IeZ""><div class=""_3DjGXF _159bJ4 _3zn9Sf""><img type=""card"" webpSizes=""[object Object]"" class=""lazyload _35vviN J3wcC2 wuCCPK"" data-sizes=""undefined"" data-srcset=""https://imageresizer.static9.net.au/TzQcZduIClTTtIDIVmZSkIRcTnI=/320x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355185%2F9Now_NextGen_DOCDOCStandard-Card.jpg 320w, https://imageresizer.static9.net.au/CGc2YfvP81vKSX-xiY5H5VHALlQ=/480x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355185%2F9Now_NextGen_DOCDOCStandard-Card.jpg 480w, https://imageresizer.static9.net.au/X8L4vlbnn5J7kqjOjXxOeOMDbKw=/768x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355185%2F9Now_NextGen_DOCDOCStandard-Card.jpg 768w, https://imageresizer.static9.net.au/K9hdWzViUqV3XlVfR0j8pd3FRJA=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355185%2F9Now_NextGen_DOCDOCStandard-Card.jpg 1280w, https://imageresizer.static9.net.au/rltR7t0Jntrd4uLcomdF7IGeplM=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355185%2F9Now_NextGen_DOCDOCStandard-Card.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="" alt=""Doctor Doctor""/></div></div></li><li class=""_1LWWkJ""><div class=""_3CkWhQ _3CkWhQ""><div class=""_3DjGXF _159bJ4 _3zn9Sf""><img type=""card"" webpSizes=""[object Object]"" class=""lazyload _35vviN J3wcC2 wuCCPK"" data-sizes=""undefined"" data-srcset=""https://imageresizer.static9.net.au/-Gxym25NpLnKy949MrOtj5k73Gc=/320x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F352524%2FTravelGuides_9Now_NextGen_Standard-Card.jpg 320w, https://imageresizer.static9.net.au/V63pbBT4pjNHm-2PTSAYM-g9uEo=/480x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F352524%2FTravelGuides_9Now_NextGen_Standard-Card.jpg 480w, https://imageresizer.static9.net.au/i-3Np0OUO6RGE2qj0oyBQI89YOE=/768x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F352524%2FTravelGuides_9Now_NextGen_Standard-Card.jpg 768w, https://imageresizer.static9.net.au/9_aW5vXeLJbNIUkt9CbzpjWdES8=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F352524%2FTravelGuides_9Now_NextGen_Standard-Card.jpg 1280w, https://imageresizer.static9.net.au/SO-NOH1okG0ayiVxJJzLmXY-UYE=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F352524%2FTravelGuides_9Now_NextGen_Standard-Card.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="" alt=""Travel Guides""/></div></div></li><li class=""_1LWWkJ""><div class=""_3CkWhQ _3CkWhQ""><div class=""_3DjGXF _159bJ4 _3zn9Sf""><img type=""card"" webpSizes=""[object Object]"" class=""lazyload _35vviN J3wcC2 wuCCPK"" data-sizes=""undefined"" data-srcset=""https://imageresizer.static9.net.au/2EX7fb8XO7nX4n2aHsVL7ann4XU=/320x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355392%2F9Now_DC_LegendsOfTom_S1_Template_Legacy-Art.jpg 320w, https://imageresizer.static9.net.au/PTP_H0CuW-xntD0BF7KueipJRKo=/480x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355392%2F9Now_DC_LegendsOfTom_S1_Template_Legacy-Art.jpg 480w, https://imageresizer.static9.net.au/bVNf_K9Y9istKmyfRSuyitxaQ0E=/768x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355392%2F9Now_DC_LegendsOfTom_S1_Template_Legacy-Art.jpg 768w, https://imageresizer.static9.net.au/Wr7jP0Mwww6xuqtAC1k_vuDucys=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355392%2F9Now_DC_LegendsOfTom_S1_Template_Legacy-Art.jpg 1280w, https://imageresizer.static9.net.au/p-OZMzjnHxTe_NS7iFcnVAeKJ3g=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355392%2F9Now_DC_LegendsOfTom_S1_Template_Legacy-Art.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="" alt=""DC&#x27;s Legends Of Tomorrow""/></div></div></li><li class=""_1LWWkJ""><div class=""_3CkWhQ _3CkWhQ""><div class=""_3DjGXF _159bJ4 _3zn9Sf""><img type=""card"" webpSizes=""[object Object]"" class=""lazyload _35vviN J3wcC2 wuCCPK"" data-sizes=""undefined"" data-srcset=""https://imageresizer.static9.net.au/hziF0EZEyKwpVUp-RBgXSwrThHY=/320x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355353%2F9Now_ResidentAlien_CTV_Screens_Template_Standard-Card.jpg 320w, https://imageresizer.static9.net.au/LyjYOiTRlCnUygnC1UXkpvOlVvY=/480x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355353%2F9Now_ResidentAlien_CTV_Screens_Template_Standard-Card.jpg 480w, https://imageresizer.static9.net.au/AWy3FfQl6sswYTuVg_2V_ek5qwg=/768x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355353%2F9Now_ResidentAlien_CTV_Screens_Template_Standard-Card.jpg 768w, https://imageresizer.static9.net.au/rYgPslgZSvZ838MrL2igVImtqWs=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355353%2F9Now_ResidentAlien_CTV_Screens_Template_Standard-Card.jpg 1280w, https://imageresizer.static9.net.au/Hgv8F-L8ALtceDg4EAFI2V16lCs=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F355353%2F9Now_ResidentAlien_CTV_Screens_Template_Standard-Card.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="" alt=""Resident Alien""/></div></div></li><li class=""_1LWWkJ""><div class=""_3CkWhQ _3CkWhQ""><div class=""_3DjGXF _159bJ4 _3zn9Sf""><img type=""card"" webpSizes=""[object Object]"" class=""lazyload _35vviN J3wcC2 wuCCPK"" data-sizes=""undefined"" data-srcset=""https://imageresizer.static9.net.au/Q9JXh4WvHs0J4OCAPZ2timmlwE0=/320x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F353263%2FLegoMasters_9Now_NextGen_Standard-Card.jpg 320w, https://imageresizer.static9.net.au/ZAt-XY69qzHjbgv3j-ABRD4hqsc=/480x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F353263%2FLegoMasters_9Now_NextGen_Standard-Card.jpg 480w, https://imageresizer.static9.net.au/a6EasEtaDXnV6N5eG2eKVqX4E3o=/768x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F353263%2FLegoMasters_9Now_NextGen_Standard-Card.jpg 768w, https://imageresizer.static9.net.au/cMr2qBuyLzEIvi6NlnNEKwZ_wWA=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F353263%2FLegoMasters_9Now_NextGen_Standard-Card.jpg 1280w, https://imageresizer.static9.net.au/H_R95R6pmhpzK9oo3l2rZOHWEag=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F353263%2FLegoMasters_9Now_NextGen_Standard-Card.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="" alt=""Lego Masters""/></div></div></li><li class=""_1LWWkJ""><div class=""_3CkWhQ _3CkWhQ""><div class=""_3DjGXF _159bJ4 _3zn9Sf""><img type=""card"" webpSizes=""[object Object]"" class=""lazyload _35vviN J3wcC2 wuCCPK"" data-sizes=""undefined"" data-srcset=""https://imageresizer.static9.net.au/TKTQJ9s7JUUfCGybGnq8mnwYnlY=/320x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F354421%2FTheBachelor_US_S25_template_9Now_NextGenStandard-Card.jpg 320w, https://imageresizer.static9.net.au/gWUS42_0mmcr4kLbBA8VGo4HLgQ=/480x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F354421%2FTheBachelor_US_S25_template_9Now_NextGenStandard-Card.jpg 480w, https://imageresizer.static9.net.au/5CHl9O-K7eBYqStj8Y8s2p50F-c=/768x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F354421%2FTheBachelor_US_S25_template_9Now_NextGenStandard-Card.jpg 768w, https://imageresizer.static9.net.au/uL1oEKn_xZ7oZzXG-kj1qMCppL8=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F354421%2FTheBachelor_US_S25_template_9Now_NextGenStandard-Card.jpg 1280w, https://imageresizer.static9.net.au/mEEEmHVeDG0GoGWiUQwNEX0_uIM=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F354421%2FTheBachelor_US_S25_template_9Now_NextGenStandard-Card.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="" alt=""The Bachelor""/></div></div></li><li class=""_1LWWkJ""><div class=""_3CkWhQ _3CkWhQ""><div class=""_3DjGXF _159bJ4 _3zn9Sf""><img type=""card"" webpSizes=""[object Object]"" class=""lazyload _35vviN J3wcC2 wuCCPK"" data-sizes=""undefined"" data-srcset=""https://imageresizer.static9.net.au/r7_RuXBbG2gxd70Mr9kvBYq2oz0=/320x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F03%2F347945%2F9Now_AlmostHuman_CTV_Screens_Template_Standard-Card.jpg 320w, https://imageresizer.static9.net.au/AaQH2ViphAtcgjeICjeBWnXuHns=/480x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F03%2F347945%2F9Now_AlmostHuman_CTV_Screens_Template_Standard-Card.jpg 480w, https://imageresizer.static9.net.au/rHe8unmVPvOXn0x3QF5W9dk5Kfk=/768x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F03%2F347945%2F9Now_AlmostHuman_CTV_Screens_Template_Standard-Card.jpg 768w, https://imageresizer.static9.net.au/bhfRlkKovF_rttJ4k9T5Jcuk2yo=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F03%2F347945%2F9Now_AlmostHuman_CTV_Screens_Template_Standard-Card.jpg 1280w, https://imageresizer.static9.net.au/uoSBcfFvBUbburWZTRIXr5gITh0=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F03%2F347945%2F9Now_AlmostHuman_CTV_Screens_Template_Standard-Card.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="" alt=""Almost Human""/></div></div></li><li class=""_1LWWkJ""><div class=""_3CkWhQ _3CkWhQ""><div class=""_3DjGXF _159bJ4 _3zn9Sf""><img type=""card"" webpSizes=""[object Object]"" class=""lazyload _35vviN J3wcC2 wuCCPK"" data-sizes=""undefined"" data-srcset=""https://imageresizer.static9.net.au/qSs9yrn6bSimv5KnpCl-uV8W9Es=/320x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F352968%2FLawAndOrder_9Now_NextGenStandard-Card.jpg 320w, https://imageresizer.static9.net.au/X7NPTadM_tXkmSaNLIzQjCJG__k=/480x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F352968%2FLawAndOrder_9Now_NextGenStandard-Card.jpg 480w, https://imageresizer.static9.net.au/fwjjge0xy2rqSlzsAzRVHf05oag=/768x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F352968%2FLawAndOrder_9Now_NextGenStandard-Card.jpg 768w, https://imageresizer.static9.net.au/cRlLtIqe1KzRr8sO1zvV1mqReNw=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F352968%2FLawAndOrder_9Now_NextGenStandard-Card.jpg 1280w, https://imageresizer.static9.net.au/o6Z6Ih4ceyBKThTC2N2w_dCafkI=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F04%2F352968%2FLawAndOrder_9Now_NextGenStandard-Card.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="" alt=""Law &amp; Order: Organized Crime""/></div></div></li><li class=""_1LWWkJ""><div class=""_3CkWhQ _3CkWhQ""><div class=""_3DjGXF _159bJ4 _3zn9Sf""><img type=""card"" webpSizes=""[object Object]"" class=""lazyload _35vviN J3wcC2 wuCCPK"" data-sizes=""undefined"" data-srcset=""https://imageresizer.static9.net.au/Xos-1s-qFWMXKM2rvDTVn2oSAxs=/320x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F03%2F347686%2FNRL21_CTV_Screens_Template_V2Standard-Card.jpg 320w, https://imageresizer.static9.net.au/77EW5wGa2r5UQrztUt8DvysMJ-Q=/480x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F03%2F347686%2FNRL21_CTV_Screens_Template_V2Standard-Card.jpg 480w, https://imageresizer.static9.net.au/hBWBBdNPQw9rlAqHWe8vOudt9Tk=/768x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F03%2F347686%2FNRL21_CTV_Screens_Template_V2Standard-Card.jpg 768w, https://imageresizer.static9.net.au/K7Z9_f4FxVMYkvXPd0QTUvs6QyA=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F03%2F347686%2FNRL21_CTV_Screens_Template_V2Standard-Card.jpg 1280w, https://imageresizer.static9.net.au/mRHi8V1H-nAx8tNtqqL41ZwVqHM=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2021%2F03%2F347686%2FNRL21_CTV_Screens_Template_V2Standard-Card.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="" alt=""NRL Premiership""/></div></div></li></ul></div><span class=""_3UaTO6 _2KIzsm""><a class=""_3-42oj"" style=""display:none"" itemProp=""scrollingLeftIcon""><svg class=""ac48n0 HYWrUa"" viewBox=""0 0 120 120""><path d=""M81.9 28.5L50.5 60l31.8 31.8c1 1.1 1.7 2.5 1.7 4.2 0 3.3-2.7 6-6 6-1.6 0-3.1-.6-4.2-1.7l-36-36C36.7 63.2 36 61.7 36 60c0-1.7.7-3.2 1.8-4.3l36-36c1.1-1 2.5-1.7 4.2-1.7 3.3 0 6 2.7 6 6 0 1.8-.8 3.4-2.1 4.5z""></path></svg></a></span><span class=""_3UaTO6 o-Tl5A ""><a class=""_3-42oj"" style=""display:block"" itemProp=""scrollingRightIcon""><svg class=""ac48n0 HYWrUa"" viewBox=""0 0 120 120""><path d=""M38.1 28.5l31.4 31.4-31.8 31.8c-1 1.1-1.7 2.5-1.7 4.2 0 3.3 2.7 6 6 6 1.6 0 3.1-.6 4.2-1.7l36-36c1.1-1.1 1.8-2.6 1.8-4.3 0-1.7-.7-3.2-1.8-4.3l-36-36c-1.1-1-2.5-1.7-4.2-1.7-3.3 0-6 2.7-6 6 0 1.9.8 3.5 2.1 4.6z""></path></svg></a></span></div></div></div><div class=""_2KtQ-T"" itemID=""featured-rail-card-indicator""><button class=""EG_Wq8 re5cwx""></button><button class=""EG_Wq8""></button><button class=""EG_Wq8""></button><button class=""EG_Wq8""></button><button class=""EG_Wq8""></button><button class=""EG_Wq8""></button><button class=""EG_Wq8""></button><button class=""EG_Wq8""></button><button class=""EG_Wq8""></button></div></div></div></div><div class=""UXX1RC _2G1QMe"" itemType=""liveGuideRail""><div class=""wEO1wa tvpyx7""><div class=""_2RI91D""><span class=""V9KI27"">Live in <strong class=""Hqnpan""></strong></span><span class=""_1i0qHu""></span></div></div></div><div itemscope="""" itemType=""https://schema.org/ItemList"" itemID=""f7baf9ab-5d31-469a-bca4-83912860954f"" class=""nPZO0Q _2G1QMe""><section class=""_2QNR-i""><header class=""_360Aqd _kD_tM undefined""><div class=""_2g_eGZ""><h3 itemProp=""name"" class=""_2CDXVI _2FfdXJ"">Premium Drama</h3></div><div class=""_25shw5""><a class=""_2nf_Sj"" href=""/shows/drama"">All Drama<svg class=""ac48n0 _1RVBxV"" viewBox=""0 0 120 120""><path d=""M38.1 28.5l31.4 31.4-31.8 31.8c-1 1.1-1.7 2.5-1.7 4.2 0 3.3 2.7 6 6 6 1.6 0 3.1-.6 4.2-1.7l36-36c1.1-1.1 1.8-2.6 1.8-4.3 0-1.7-.7-3.2-1.8-4.3l-36-36c-1.1-1-2.5-1.7-4.2-1.7-3.3 0-6 2.7-6 6 0 1.9.8 3.5 2.1 4.6z""></path></svg></a></div></header><div class=""_3-G065 _3fXzXB""><div class=""_1ju7gH _2G1QMe""><div class=""_2dZxIT""><ul class=""_1V5tPK""><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/dc-legends-of-tomorrow""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/eG6Nui4zGN9ORWUrtFF83LBSUdk=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F28%2F21%2F29%2F9now_dc_legendsoftom_s1_template_poster-(1).jpg 320w, https://imageresizer.static9.net.au/G7cXpq4HgcQ2HlgB1yBF687TOtY=/480x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F28%2F21%2F29%2F9now_dc_legendsoftom_s1_template_poster-(1).jpg 480w, https://imageresizer.static9.net.au/cmEApgox2tAq1e2WnigNP7RSoQI=/768x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F28%2F21%2F29%2F9now_dc_legendsoftom_s1_template_poster-(1).jpg 768w, https://imageresizer.static9.net.au/Ctq-drocdw-uG7NI0ObZFzPid-s=/1280x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F28%2F21%2F29%2F9now_dc_legendsoftom_s1_template_poster-(1).jpg 1280w, https://imageresizer.static9.net.au/2NRwylI5hea_7CiGwVv2WmhZcQc=/1920x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F28%2F21%2F29%2F9now_dc_legendsoftom_s1_template_poster-(1).jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI=""/></div></a></li><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/almost-human""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/H0QQ1AGH1p61bHYUCqA1FFsKuT0=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F19%2F10%2F27%2F9now_almosthuman_ctv_screens_template_poster.jpg 320w, https://imageresizer.static9.net.au/wi7qpMoBglwtPcoG3xa2H30NdrM=/480x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F19%2F10%2F27%2F9now_almosthuman_ctv_screens_template_poster.jpg 480w, https://imageresizer.static9.net.au/lpzDOijTvWGuoaNoGRLXbZC4qMY=/768x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F19%2F10%2F27%2F9now_almosthuman_ctv_screens_template_poster.jpg 768w, https://imageresizer.static9.net.au/5egqUFpI8Bt9YcZSQrpuV4D9Ne0=/1280x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F19%2F10%2F27%2F9now_almosthuman_ctv_screens_template_poster.jpg 1280w, https://imageresizer.static9.net.au/BnzAIClo0Np7G8y9_-eZGjCnDnE=/1920x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F19%2F10%2F27%2F9now_almosthuman_ctv_screens_template_poster.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI=""/></div></a></li><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/everwood""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/Z12ftyK1nsb9oR7ikNBzzZvJtNk=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F14%2F19%2F37%2Feverwood_s1_next_gen_template_ctv_screens_template_poster.jpg 320w, https://imageresizer.static9.net.au/PL1nFw3DEp95xK2Exapj4sJA2jg=/480x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F14%2F19%2F37%2Feverwood_s1_next_gen_template_ctv_screens_template_poster.jpg 480w, https://imageresizer.static9.net.au/6qKgWFkjkSy2SkZCABxHdbmPiOo=/768x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F14%2F19%2F37%2Feverwood_s1_next_gen_template_ctv_screens_template_poster.jpg 768w, https://imageresizer.static9.net.au/jJxg1V_lEbnv9v2LOd5-IMHieXs=/1280x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F14%2F19%2F37%2Feverwood_s1_next_gen_template_ctv_screens_template_poster.jpg 1280w, https://imageresizer.static9.net.au/_JbFEJnmOTyjP9nUqt1m6PVz2rc=/1920x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F14%2F19%2F37%2Feverwood_s1_next_gen_template_ctv_screens_template_poster.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI=""/></div></a></li><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/almost-family""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/pGSQT7-_6Pwp2BvB-uj1_AmcgH0=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F16%2F14%2F18%2Falmostfamily_next_gen_template_ctv_screens_poster_greylook.jpg 320w, https://imageresizer.static9.net.au/pxeoSP3a-Clu9bgFeIMDPF8_zPA=/480x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F16%2F14%2F18%2Falmostfamily_next_gen_template_ctv_screens_poster_greylook.jpg 480w, https://imageresizer.static9.net.au/aO-BEh8auQTgs-TIg3bFEjonjxY=/768x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F16%2F14%2F18%2Falmostfamily_next_gen_template_ctv_screens_poster_greylook.jpg 768w, https://imageresizer.static9.net.au/8XpJidwN4_TmC-abQ2F7I6ulRGQ=/1280x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F16%2F14%2F18%2Falmostfamily_next_gen_template_ctv_screens_poster_greylook.jpg 1280w, https://imageresizer.static9.net.au/aQcWFtm_8oH6_9tCJe8d2UL8OkU=/1920x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F16%2F14%2F18%2Falmostfamily_next_gen_template_ctv_screens_poster_greylook.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI=""/></div></a></li><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/the-carrie-diaries""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/-twSdRz5gvCEsNOjsIkHeX07oW0=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F16%2F10%2F38%2Fthecarriediaries_next_gen_template_ctv_screens_template_poster.jpg 320w, https://imageresizer.static9.net.au/ocyY7NOsof3T2yvx2LLORW2orek=/480x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F16%2F10%2F38%2Fthecarriediaries_next_gen_template_ctv_screens_template_poster.jpg 480w, https://imageresizer.static9.net.au/MfyXX9h_7FPFJAW5Hgy-d7a56FY=/768x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F16%2F10%2F38%2Fthecarriediaries_next_gen_template_ctv_screens_template_poster.jpg 768w, https://imageresizer.static9.net.au/jEoUaPHdCJjaWRCxXPDISg-m3Qo=/1280x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F16%2F10%2F38%2Fthecarriediaries_next_gen_template_ctv_screens_template_poster.jpg 1280w, https://imageresizer.static9.net.au/HxQRmfMmOKSg07Us0UB53B9-Xe4=/1920x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F16%2F10%2F38%2Fthecarriediaries_next_gen_template_ctv_screens_template_poster.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI=""/></div></a></li><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/resident-alien""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/bEpgKMA3m9eTvo3P77bFvSLM1l4=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F27%2F18%2F27%2F9now_residentalien_ctv_screens_template_poster.jpg 320w, https://imageresizer.static9.net.au/Acd-Gdxy5Qgm9CPFmjG54mIAoHQ=/480x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F27%2F18%2F27%2F9now_residentalien_ctv_screens_template_poster.jpg 480w, https://imageresizer.static9.net.au/5iHTQBzHSljwnacafnqLDlgu04o=/768x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F27%2F18%2F27%2F9now_residentalien_ctv_screens_template_poster.jpg 768w, https://imageresizer.static9.net.au/U5Lpt-xU8vOieG5ul3nfFN_zKOE=/1280x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F27%2F18%2F27%2F9now_residentalien_ctv_screens_template_poster.jpg 1280w, https://imageresizer.static9.net.au/8nmIo0lRURygOLlEkUn4ooupxoc=/1920x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F27%2F18%2F27%2F9now_residentalien_ctv_screens_template_poster.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI=""/></div></a></li><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/new-amsterdam""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/SpMS2eRlgb0KH4PmqjnxWZ4fZzs=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F04%2F09%2F05%2F9now_newamsterdam_s3_ctv_screens_template_poster.jpg 320w, https://imageresizer.static9.net.au/Gs7DONzjrUzN6tz5zPxiQfGzn0k=/480x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F04%2F09%2F05%2F9now_newamsterdam_s3_ctv_screens_template_poster.jpg 480w, https://imageresizer.static9.net.au/gvVrEXzQyKJMSX5nV-eLx1vK9q4=/768x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F04%2F09%2F05%2F9now_newamsterdam_s3_ctv_screens_template_poster.jpg 768w, https://imageresizer.static9.net.au/SgtOIj2tRc2dvVuT_uO5qHuk5M8=/1280x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F04%2F09%2F05%2F9now_newamsterdam_s3_ctv_screens_template_poster.jpg 1280w, https://imageresizer.static9.net.au/iImOlAoUmNWHX9SjViTQGmQ22rk=/1920x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F04%2F09%2F05%2F9now_newamsterdam_s3_ctv_screens_template_poster.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI=""/></div></a></li><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/the-equalizer""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/17VrgP6A3prkTqOgwIaZOYRnkXo=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F25%2F13%2F26%2Ftheequalizer_s1_ctv_screens_template_poster.jpg 320w, https://imageresizer.static9.net.au/UIoeYuUCaftM96NIsJMW1pWhk5U=/480x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F25%2F13%2F26%2Ftheequalizer_s1_ctv_screens_template_poster.jpg 480w, https://imageresizer.static9.net.au/RSBanIYUT1c7_rcFK7KI1QS17ag=/768x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F25%2F13%2F26%2Ftheequalizer_s1_ctv_screens_template_poster.jpg 768w, https://imageresizer.static9.net.au/CSAPYLO_l7FzxlO9ZXpVnbD1Pwc=/1280x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F25%2F13%2F26%2Ftheequalizer_s1_ctv_screens_template_poster.jpg 1280w, https://imageresizer.static9.net.au/EyyXhXh6Be5ZPuKszn-rQRMX3Yg=/1920x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F25%2F13%2F26%2Ftheequalizer_s1_ctv_screens_template_poster.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI=""/></div></a></li><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/dallas""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/vKmmNtISCOqRg8sakrjWCCJVB7Y=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F23%2F22%2F29%2Fdallass2_next_gen_template_ctv_screens_template_poster.jpg 320w, https://imageresizer.static9.net.au/5I5gGnQb--3ytDHIob6moaiWEDU=/480x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F23%2F22%2F29%2Fdallass2_next_gen_template_ctv_screens_template_poster.jpg 480w, https://imageresizer.static9.net.au/_WRSLUv9d7hFtdBVUCErbbCETb8=/768x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F23%2F22%2F29%2Fdallass2_next_gen_template_ctv_screens_template_poster.jpg 768w, https://imageresizer.static9.net.au/1tIGYJD0XEv7YoUwKh77lx72ZIk=/1280x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F23%2F22%2F29%2Fdallass2_next_gen_template_ctv_screens_template_poster.jpg 1280w, https://imageresizer.static9.net.au/UQmkP_uLe5-9ipCNwCKSZ0jVRG4=/1920x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F23%2F22%2F29%2Fdallass2_next_gen_template_ctv_screens_template_poster.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI=""/></div></a></li><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/law-and-order-organized-crime""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/lnqPCdXEY2uMMpC6DeZkTYUoMs8=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F13%2F09%2F08%2Flawandorder_9now_nextgenposter.jpg 320w, https://imageresizer.static9.net.au/P7Xgza8P9cf7esD-x5iuWOfgj34=/480x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F13%2F09%2F08%2Flawandorder_9now_nextgenposter.jpg 480w, https://imageresizer.static9.net.au/eIml4OZyEPZ2vuFiGXNlh-_lweE=/768x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F13%2F09%2F08%2Flawandorder_9now_nextgenposter.jpg 768w, https://imageresizer.static9.net.au/rQJcTgoAhMBz77g7nXrNkbRUaC0=/1280x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F13%2F09%2F08%2Flawandorder_9now_nextgenposter.jpg 1280w, https://imageresizer.static9.net.au/_S7yV7pQJvufWs-hQK78hBgfd4s=/1920x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F04%2F13%2F09%2F08%2Flawandorder_9now_nextgenposter.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI=""/></div></a></li><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/the-closer""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/x0qjSS18LbtEHEWSUodrdLY_jAE=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F22%2F09%2F38%2F9now_thecloser_s6_ctv_screens_template_poster.jpg 320w, https://imageresizer.static9.net.au/2xDNoll7tBlpiy0AyDwKL9zZcOQ=/480x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F22%2F09%2F38%2F9now_thecloser_s6_ctv_screens_template_poster.jpg 480w, https://imageresizer.static9.net.au/n3sfIhSdvJz4mV1BJmB-7U9-L8k=/768x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F22%2F09%2F38%2F9now_thecloser_s6_ctv_screens_template_poster.jpg 768w, https://imageresizer.static9.net.au/Ue3AezSHV7dWAVSi_Dzz5a0y8EQ=/1280x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F22%2F09%2F38%2F9now_thecloser_s6_ctv_screens_template_poster.jpg 1280w, https://imageresizer.static9.net.au/mHOKzJaFLB25CHoK7yuJJlbUvsA=/1920x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F22%2F09%2F38%2F9now_thecloser_s6_ctv_screens_template_poster.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI=""/></div></a></li><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/golden-boy""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/mfXHDGaLiEau-je5ucn_LRODhGM=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F02%2F08%2F41%2Fgolden-boy_ctv_screens_template_poster.jpg 320w, https://imageresizer.static9.net.au/HjfO9o1cu02YATBJ-QZYFcmlqPs=/480x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F02%2F08%2F41%2Fgolden-boy_ctv_screens_template_poster.jpg 480w, https://imageresizer.static9.net.au/yW8R3m_uvlN3QWIFryyxRXz3jms=/768x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F02%2F08%2F41%2Fgolden-boy_ctv_screens_template_poster.jpg 768w, https://imageresizer.static9.net.au/lVP_NEjnsJLMxJozbnqMXKeZPPQ=/1280x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F02%2F08%2F41%2Fgolden-boy_ctv_screens_template_poster.jpg 1280w, https://imageresizer.static9.net.au/xdCDtWMqKbNhE0LYUTFzN1WAycE=/1920x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F02%2F08%2F41%2Fgolden-boy_ctv_screens_template_poster.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI=""/></div></a></li><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/desperate-housewives""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/yzNGXfMUoYXWpGQgWwlZV9oX__M=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F12%2F17%2F51%2Fdesperatehousewives_s8_ctv-screensreplace-poster.jpg 320w, https://imageresizer.static9.net.au/SsfoAenWIp9ikgTchEKJoC87SAw=/480x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F12%2F17%2F51%2Fdesperatehousewives_s8_ctv-screensreplace-poster.jpg 480w, https://imageresizer.static9.net.au/wgN5O0gRpTRT5m1AX72rEL4nqvk=/768x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F12%2F17%2F51%2Fdesperatehousewives_s8_ctv-screensreplace-poster.jpg 768w, https://imageresizer.static9.net.au/e7qPIOXB1AZJCjM8pq3juFzuxNA=/1280x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F12%2F17%2F51%2Fdesperatehousewives_s8_ctv-screensreplace-poster.jpg 1280w, https://imageresizer.static9.net.au/ngoO6SztHDfnCVqlY6LFzwfKWs8=/1920x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F12%2F17%2F51%2Fdesperatehousewives_s8_ctv-screensreplace-poster.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI=""/></div></a></li><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/rizzoli-and-isles""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/FWWAtXb6SSBk3jiq8AhDpkO0fpA=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F25%2F22%2F56%2F9now_rizzoli_isles_s7_ctv_screens_template_poster.jpg 320w, https://imageresizer.static9.net.au/gHudl35CpuDnwMf8mF6BvYdKQIo=/480x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F25%2F22%2F56%2F9now_rizzoli_isles_s7_ctv_screens_template_poster.jpg 480w, https://imageresizer.static9.net.au/Pyjmg3yysGKiS3vR3qJ7wjPt2bk=/768x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F25%2F22%2F56%2F9now_rizzoli_isles_s7_ctv_screens_template_poster.jpg 768w, https://imageresizer.static9.net.au/0GT3YI9nqBDedXpw6GdDT7MiFeQ=/1280x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F25%2F22%2F56%2F9now_rizzoli_isles_s7_ctv_screens_template_poster.jpg 1280w, https://imageresizer.static9.net.au/zJTRFWuQ1OdeyxCy3jL8FNi4MSw=/1920x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F25%2F22%2F56%2F9now_rizzoli_isles_s7_ctv_screens_template_poster.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI=""/></div></a></li><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/forever""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/LwdXt-JLLYMhod-UpFA5y3sY8pI=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F02%2F12%2F44%2F9now_forever_look2_ctv_screens_template_poster.jpg 320w, https://imageresizer.static9.net.au/mM8_uB3Qd4bcq9BSz7XSEaVWw2E=/480x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F02%2F12%2F44%2F9now_forever_look2_ctv_screens_template_poster.jpg 480w, https://imageresizer.static9.net.au/7T5NLeIh5KWfheRi_HdIc6BXd9c=/768x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F02%2F12%2F44%2F9now_forever_look2_ctv_screens_template_poster.jpg 768w, https://imageresizer.static9.net.au/vhIgIbNqj7nAs5zoZ4ntdjIEdFg=/1280x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F02%2F12%2F44%2F9now_forever_look2_ctv_screens_template_poster.jpg 1280w, https://imageresizer.static9.net.au/-5LeTmOWVRp8D7jItnGTjypL1K4=/1920x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F02%2F12%2F44%2F9now_forever_look2_ctv_screens_template_poster.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI=""/></div></a></li><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/hostages""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/-FeT1SRNbJoogScn2RLB27eVzeM=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F01%2F04%2F15%2F51%2F9now_hostages_ctv_screens_template_look_2_poster.jpg 320w, https://imageresizer.static9.net.au/_1zIkdun3_h9eR6j6uZxvh65yYw=/480x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F01%2F04%2F15%2F51%2F9now_hostages_ctv_screens_template_look_2_poster.jpg 480w, https://imageresizer.static9.net.au/3ZKUtPerLGGXpjtxZjWVvabF9lM=/768x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F01%2F04%2F15%2F51%2F9now_hostages_ctv_screens_template_look_2_poster.jpg 768w, https://imageresizer.static9.net.au/b5T0DdKA-5jEBMpFqf1zobkWYeM=/1280x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F01%2F04%2F15%2F51%2F9now_hostages_ctv_screens_template_look_2_poster.jpg 1280w, https://imageresizer.static9.net.au/NACJ_YjQIqxJjWGHZjpVA57QEd8=/1920x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F01%2F04%2F15%2F51%2F9now_hostages_ctv_screens_template_look_2_poster.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI=""/></div></a></li><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/amazing-grace""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/I30l3rlc1rlsq05meSVrK96ky30=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F04%2F09%2F07%2F9now_amazinggrace_ctv_screens_template_poster_2.jpg 320w, https://imageresizer.static9.net.au/HS5yYJ9ugAmJmXiYETnkYuxJ6XM=/480x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F04%2F09%2F07%2F9now_amazinggrace_ctv_screens_template_poster_2.jpg 480w, https://imageresizer.static9.net.au/kh4v3GqearzLWH666w5dppvYE84=/768x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F04%2F09%2F07%2F9now_amazinggrace_ctv_screens_template_poster_2.jpg 768w, https://imageresizer.static9.net.au/PyHLMJxKS9DR4_1aqs1lT4uK9Dg=/1280x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F04%2F09%2F07%2F9now_amazinggrace_ctv_screens_template_poster_2.jpg 1280w, https://imageresizer.static9.net.au/0JbrdXyOMZHH1vFpcRH1kg0k7gQ=/1920x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F03%2F04%2F09%2F07%2F9now_amazinggrace_ctv_screens_template_poster_2.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI=""/></div></a></li><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/manifest""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/pGMJcEG0X15Gb7GwgBSrED0qVAQ=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F01%2F04%2F15%2F22%2Fmanifest_s2_ctv-screens-template_poster.jpg 320w, https://imageresizer.static9.net.au/qONJ75QBRpQEQwa0HErKO1PYOio=/480x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F01%2F04%2F15%2F22%2Fmanifest_s2_ctv-screens-template_poster.jpg 480w, https://imageresizer.static9.net.au/B_m3RouLm_5UnPpo5moENBjG0Lo=/768x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F01%2F04%2F15%2F22%2Fmanifest_s2_ctv-screens-template_poster.jpg 768w, https://imageresizer.static9.net.au/zB_H5uiJ2QO5HMdOHTcG2Q0LwRA=/1280x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F01%2F04%2F15%2F22%2Fmanifest_s2_ctv-screens-template_poster.jpg 1280w, https://imageresizer.static9.net.au/PD_rAA1K4G9Nyx5nmlTxTK8QbHA=/1920x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F01%2F04%2F15%2F22%2Fmanifest_s2_ctv-screens-template_poster.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI=""/></div></a></li><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/state-of-affairs""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/wgWYghuUDT2qp08wkuGlkS2O_ss=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2020%2F10%2F22%2F09%2F04%2Fstateofaffairs_ctv_screens_template_poster.jpg 320w, https://imageresizer.static9.net.au/zOKqVkgGoicSWyvV919On8Le1Lw=/480x0/prod.static9.net.au%2F_%2Fmedia%2F2020%2F10%2F22%2F09%2F04%2Fstateofaffairs_ctv_screens_template_poster.jpg 480w, https://imageresizer.static9.net.au/MSNmFuolFBCXomuxuRxbXn_w-vM=/768x0/prod.static9.net.au%2F_%2Fmedia%2F2020%2F10%2F22%2F09%2F04%2Fstateofaffairs_ctv_screens_template_poster.jpg 768w, https://imageresizer.static9.net.au/kfgn2bVWpiNJWD4FTn3HyYPE3og=/1280x0/prod.static9.net.au%2F_%2Fmedia%2F2020%2F10%2F22%2F09%2F04%2Fstateofaffairs_ctv_screens_template_poster.jpg 1280w, https://imageresizer.static9.net.au/ZcgJLoEh0Nb9pxcr2XqchJyVYL0=/1920x0/prod.static9.net.au%2F_%2Fmedia%2F2020%2F10%2F22%2F09%2F04%2Fstateofaffairs_ctv_screens_template_poster.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI=""/></div></a></li><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/lipstick-jungle""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/_yd1BB95-AxjtLXQED6jO_COeaM=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F22%2F22%2F46%2F9now_lipstickjungle_s1_ctv_screens_template_poster.jpg 320w, https://imageresizer.static9.net.au/xxKjOJgEvO9upEkrYbTRRV-5b54=/480x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F22%2F22%2F46%2F9now_lipstickjungle_s1_ctv_screens_template_poster.jpg 480w, https://imageresizer.static9.net.au/BZJD5Z6iJRfTPMgyXrcYPSbDjQ8=/768x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F22%2F22%2F46%2F9now_lipstickjungle_s1_ctv_screens_template_poster.jpg 768w, https://imageresizer.static9.net.au/_r7tvblK39nZeFyLpUZr97FgrLg=/1280x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F22%2F22%2F46%2F9now_lipstickjungle_s1_ctv_screens_template_poster.jpg 1280w, https://imageresizer.static9.net.au/0xCI3144CRxBzEFt8N2Kj34QkGI=/1920x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F02%2F22%2F22%2F46%2F9now_lipstickjungle_s1_ctv_screens_template_poster.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI=""/></div></a></li><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/the-disappearance""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/PZLngjXh1VDAUJ_OxqJrDNwVimE=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2020%2F12%2F15%2F14%2F26%2F9now_thedisapearance_look3_ctv_templateposter.jpg 320w, https://imageresizer.static9.net.au/EALGXTLs1yf9wsmjBxiGqcG0qUE=/480x0/prod.static9.net.au%2F_%2Fmedia%2F2020%2F12%2F15%2F14%2F26%2F9now_thedisapearance_look3_ctv_templateposter.jpg 480w, https://imageresizer.static9.net.au/TXTwsgPyDiTt3OZmyAAdhDH8_Ok=/768x0/prod.static9.net.au%2F_%2Fmedia%2F2020%2F12%2F15%2F14%2F26%2F9now_thedisapearance_look3_ctv_templateposter.jpg 768w, https://imageresizer.static9.net.au/coXXlJs7md7N6Bk2RkO7LhESoEk=/1280x0/prod.static9.net.au%2F_%2Fmedia%2F2020%2F12%2F15%2F14%2F26%2F9now_thedisapearance_look3_ctv_templateposter.jpg 1280w, https://imageresizer.static9.net.au/bXj8DQl-LcVy5aAdo9Y_STDawDI=/1920x0/prod.static9.net.au%2F_%2Fmedia%2F2020%2F12%2F15%2F14%2F26%2F9now_thedisapearance_look3_ctv_templateposter.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI=""/></div></a></li><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/chicago-med""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/Tcr2m9MSujPv9X9a7Ld6QcuYUuY=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2020%2F11%2F26%2F16%2F09%2Fchicagomed_ctv_screens_template_poster.jpg 320w, https://imageresizer.static9.net.au/zdhomZR7k_RcjApOPWi5kMYLlag=/480x0/prod.static9.net.au%2F_%2Fmedia%2F2020%2F11%2F26%2F16%2F09%2Fchicagomed_ctv_screens_template_poster.jpg 480w, https://imageresizer.static9.net.au/O5f6sL6PFWpDCariCGsGA9s5elE=/768x0/prod.static9.net.au%2F_%2Fmedia%2F2020%2F11%2F26%2F16%2F09%2Fchicagomed_ctv_screens_template_poster.jpg 768w, https://imageresizer.static9.net.au/lGsr_SMU_G4Byw-8EHwm5z8T3ik=/1280x0/prod.static9.net.au%2F_%2Fmedia%2F2020%2F11%2F26%2F16%2F09%2Fchicagomed_ctv_screens_template_poster.jpg 1280w, https://imageresizer.static9.net.au/-JAhRxQEtMHJUo-LPq7981PWFyI=/1920x0/prod.static9.net.au%2F_%2Fmedia%2F2020%2F11%2F26%2F16%2F09%2Fchicagomed_ctv_screens_template_poster.jpg 1920w"" src=""data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI=""/></div></a></li><li class=""_1LWWkJ""><a itemscope="""" itemProp=""itemListElement"" itemType=""https://schema.org/TVSeries"" href=""/heartbeat-us""><div class=""_2w1eEK _2w1eEK""><img itemProp=""thumbnailUrl"" class=""lazyload _35vviN _3Nu48s"" data-sizes=""480px"" data-srcset=""https://imageresizer.static9.net.au/Tn30jYZvqOi3gsmtvXGUYFDoErY=/320x0/prod.static9.net.au%2F_%2Fmedia%2F2021%2F01%2F22%2F08%2F06%2Fheartbeat_ctv_screens_template_poster.jpg 320w, https://imageresizer.static9.net.au/i-FYz1J-yRYRD9Zmw9jHWlP9LUE=/480x0/prod.static9.net.au%2F_%2Fmedia%2","['thepiratebay.org' 'subscene.com' 'nyaa.si' 'rutracker.org'
+ 'seasonvar.ru' '1337x.to' 'extratorrent.cc' 'rezka.ag' 'rarbg.to'
+ 'y2mate.com']"
+209.99.64.71,7,2414.1428571428573,0.07019733273779481,0.9999709224611418,"['Content-Length: 1883', 'Content-Type: text/html; charset=UTF-8', 'Date: Wed, 28 Apr 2021 21:28:47 GMT', 'Server: openresty', 'Set-Cookie: vsid=929vr3671909276614577; expires=Mon, 27-Apr-2026 21:28:47 GMT; Max-Age=157680000; path=/; domain=www.persecution.org; HttpOnly', 'X-Adblock-Key: MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_mSDc5wEToH7TZ4RlhBqoS0g8AT3cRUe7MoMgr9AB6bHEm/IrfVSjlbUgiBc+c/jcMweVFvs5EGSOA4qfeuTw0w==']<!--
+	top.location=""https://www.persecution.org/?fp=tO96VAfvB%2BR7RZRSJ9gWYIWhFvT0O%2FO%2Bn9TnBlRD6wzSjrYCkhktjCi5oXQNjWcmcNpnwam03zTBSBJvZ3uIl26CoiHCGa4wEBbZMk%2F5qkjL9%2FSrkFz2VP484gkqNbEcZPUmTGTFkvzxCFGfbukGTV5L5PzayUx6q%2BmU2vFIRy0%3D&prvtof=WkV51NPVZsMnYnZAx72zezAv8uah0cBv5RFdfoa9nts%3D&poru=BO%2FvvjoAROX3U94T15h9hIwxr4ITOrPZIVXpCpKxLsADtKNZNU3aSKmwswdeTZjN&cifr=1&"";
+	/*
+-->
+<html data-adblockkey=""MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_mSDc5wEToH7TZ4RlhBqoS0g8AT3cRUe7MoMgr9AB6bHEm/IrfVSjlbUgiBc+c/jcMweVFvs5EGSOA4qfeuTw0w==""><head>
+				  <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+				  <meta name=""viewport"" content=""width=device-width""><meta http-equiv=""X-UA-Compatible"" content=""IE=EmulateIE7""><script type='text/javascript'>try{document.cookie = 'isframesetenabled=1; path=/;';}catch(exception){}</script></head><frameset rows=""100%,*"" frameborder=""no"" border=""0"" framespacing=""0"">
+	<frame src=""https://www.persecution.org/?fp=tO96VAfvB%2BR7RZRSJ9gWYIWhFvT0O%2FO%2Bn9TnBlRD6wzSjrYCkhktjCi5oXQNjWcmcNpnwam03zTBSBJvZ3uIl26CoiHCGa4wEBbZMk%2F5qkjL9%2FSrkFz2VP484gkqNbEcZPUmTGTFkvzxCFGfbukGTV5L5PzayUx6q%2BmU2vFIRy0%3D&prvtof=UBd8aC9648aukAEgE5dVl64Z%2FJZQRlJv3RQZshCTH%2B4%3D&poru=tXe0l2AKx8zOhgqG0SZC57b3MjrjbP9e4EMuANdrDAwQh%2FNv167sd39wdF2Enq7g&"">
+</frameset>
+<noframes>
+	<body bgcolor=""#ffffff"" text=""#000000"">
+	<a href=""https://www.persecution.org/?fp=tO96VAfvB%2BR7RZRSJ9gWYIWhFvT0O%2FO%2Bn9TnBlRD6wzSjrYCkhktjCi5oXQNjWcmcNpnwam03zTBSBJvZ3uIl26CoiHCGa4wEBbZMk%2F5qkjL9%2FSrkFz2VP484gkqNbEcZPUmTGTFkvzxCFGfbukGTV5L5PzayUx6q%2BmU2vFIRy0%3D&prvtof=F6rPkjtAwke04kTpPkBigF3VdebYz%2FgG%2FZbDeg4wiq0%3D&poru=NTChPdVbwgGH7JnDxDdNg7O6yT93y4YyzSzD0yX5neNK0jShVB%2BQ%2FEhkWQNQEuX6&"">Click here to proceed</a>.
+	</body>
+</noframes></html><!--
+*/
+-->","['www.persecution.org' 'www.ned.org' 'www.catholicsforchoice.org'
+ 'www.snapchat.com' 'www.paganpride.org' 'www.transparency.org'
+ 'www.getoutline.org']"

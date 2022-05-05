@@ -1,0 +1,10 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+52.89.164.39,4,316.0,0.0,1.0,"['Content-Length: 169', 'Content-Type: text/html', 'Date: Sun, 29 Aug 2021 22:42:32 GMT', 'Location: https://www.msi.com/', 'Server: nginx/1.20.0']<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.20.0</center>
+</body>
+</html>
+",['multimedia.scmp.com' 'muwire.com' 'msn.com' 'mstdn.io']
+167.172.21.207,3,233.0,0.0,1.0,"['Content-Length: 0', 'Content-Type: text/html; charset=UTF-8', 'Date: Sun, 29 Aug 2021 22:47:56 GMT', 'Location: https://www.advocatesforyouth.org/', 'Referrer-Policy: ', 'Server: Apache/2.4.41 (Ubuntu)', 'X-Redirect-By: WordPress']",['www.almanar.com.lb' 'www.ahram.org.eg' 'www.af.mil']

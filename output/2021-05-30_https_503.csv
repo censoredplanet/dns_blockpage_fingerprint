@@ -1,0 +1,3 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+111.13.149.108,5,146.0,0.0,1.0,"['Content-Length: 28', 'Content-Type: application/octet-stream', 'Date: Sun, 30 May 2021 21:12:18 GMT', 'Server: jfe']http://www.jd.com/?l=1&err=3","['td.com' 'www.ft.com' 'www.microsofttranslator.com'
+ 'www.anonymsurfen.com' 'tampermonkey.net']"

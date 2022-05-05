@@ -1,0 +1,143 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+5.189.169.177,124,89.0,0.0,1.0,"['Connection: keep-alive', 'Content-Length: 0', 'Content-Type: text/html; charset=UTF-8']","['www.tawk.to' 'tutorialspoint.com' 'secure.proxpn.com' 'hornet.com'
+ 'hotjar.com' 'haosou.com' 'convertio.co' 'yeniakit.com.tr' 'clickpost.jp'
+ 'download-step1.com' 'mercadolivre.com.br' 'oxu.az' 'wikidata.org'
+ 'huim.com' 'zhibo8.cc' 'www.sputniknews.cn' 'bnaibrith.org'
+ 'warriorplus.com' 'javatpoint.com' 'www.mainichi.co.jp'
+ 'moneyforward.com' 'aajtak.in' 'www.moderndrunkardmagazine.com'
+ 'lazada.co.th' 'lukomol.com' 'www.ananzi.co.za' 'movabletype.com'
+ 'eghtesadnews.com' 'trknex.com' 'bestlifeonline.com' 'oeeee.com' 'so.com'
+ 'mynavi.jp' 'advocacy.globalvoicesonline.org' '51sole.com'
+ 'pcbaby.com.cn' 'christwire.org' 'cint.com' 'hurriyet.com.tr'
+ 'dafont.com' 'cc.bingj.com' 'adium.im' 'cnnic.cn' 'indiatoday.in'
+ 'firefoxchina.cn' 'chsi.com.cn' 'www.mamma.com' 'www.translate.ru'
+ 'www.monacogoldcasino.com' 'www.appzplanet.com' 'mercadolibre.com.mx'
+ 'hitwe.com' 'rakuten.co.jp' 'eatthis.com' 'www.metacrawler.com'
+ 'mercadolibre.com.ve' 'flashscore.com' 'lazada.com.my' 'genpi.co'
+ 'pearson.com' 'www.hightail.com' 'www.carnivalcasino.com'
+ 'chinadaily.com.cn' 'creditkarma.com' 'qafqazinfo.az' 'zol.com.cn'
+ 'bravotube.net' 'rtl-theme.com' 'mercadolibre.com.co' 'itmedia.co.jp'
+ 'consultant.ru' 'friends.walla.co.il' 'cyol.com' 'ltn.com.tw'
+ 'bolasport.com' 'www.sina.com.cn' 'zcool.com.cn' 'iweihai.cn'
+ 'gridoto.com' 'star-clicks.com' '104.com.tw' 'dcard.tw' 'bola.com'
+ 'statista.com' 'laodong.vn' 'insecure.org' 'atlassian.net' 'runoob.com'
+ 'hbomax.com' 'crypto.com' 'fadverdirect.com' 'divar.ir'
+ 'www.casinotropez.com' 'globalvoices.org' 'thepaper.cn'
+ 'documentforce.com' 'addthis.com' 'emojipedia.org' 'ebrun.com'
+ 'wartaekonomi.co.id' 'write.as' 'pixlr.com' 'storm.mg'
+ 'www.transparency.org' 'pipedrive.com' 'u.gg' 'kickassclassical.com'
+ 'w3school.com.cn' 'prada.com' 'mercadolibre.com.ar' 'avaaz.org'
+ 'translator.babylon-software.com' 'outbrain.com' 'coursera.org'
+ 'apollo.io' 'proiezionidiborsa.it' 'www.talafone.com' 'eee114.com'
+ 'endclothing.com' 'zhanqi.tv' 'lifo.gr' 'impress.co.jp' 'hsbc.com.hk'
+ 'kontan.co.id']"
+121.36.225.114,94,1131.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 1079', 'Content-Type: text/html', 'Date: Sun, 31 Oct 2021 22:40:34 GMT', 'Etag: ""5fdc6af0-437""', 'Last-Modified: Fri, 18 Dec 2020 08:40:16 GMT', 'Server: nginx', 'Vary: Accept-Encoding']<!doctype html>
+<html>
+<head>
+    <meta charset=""utf-8"">
+    <title>恭喜，站点创建成功！</title>
+    <style>
+        .container {
+            width: 60%;
+            margin: 10% auto 0;
+            background-color: #f0f0f0;
+            padding: 2% 5%;
+            border-radius: 10px
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+            ul li {
+                line-height: 2.3
+            }
+
+        a {
+            color: #20a53a
+        }
+    </style>
+</head>
+<body>
+    <div class=""container"">
+        <h1>恭喜, 站点创建成功！</h1>
+        <h3>这是默认index.html，本页面由系统自动生成</h3>
+        <ul>
+            <li>本页面在FTP根目录下的index.html</li>
+            <li>您可以修改、删除或覆盖本页面</li>
+            <li>FTP相关信息，请到“面板系统后台 > FTP” 查看</li>
+            <li>更多功能了解，请查看<a href=""https://www.bt.cn"" target=""_blank"">宝塔官网(www.bt.cn)</a></li>
+        </ul>
+    </div>
+</body>
+</html>","['myspace.com' 'dell.com' 'xda-developers.com' 'qq.com'
+ 'chinadaily.com.cn' 'huim.com' '3dmgame.com' 'www.bing.com'
+ 'investopedia.com' 'web.wechat.com' 'renren.com' 'adobe.com' 'iweihai.cn'
+ 'sina.cn' 'nairaland.com' 'cnblogs.com' 'poki.com' 'gome.com.cn'
+ 'gusuwang.com' 'www.sputniknews.cn' 'zippyshare.com' '360.com' 'sohu.com'
+ 'tesla.com' 'moneyforward.com' 'pipedrive.com' 'warriorplus.com'
+ 'alibaba.com' '126.com' 'tmall.com' 'iyiou.com' 'tianya.cn' 'msi.com'
+ 'www.hotmail.com' 'huanqiu.com' 'engadget.com' '51sole.com' '360.cn'
+ 'zhaket.com' 'zillow.com' 'dawn.com' 'ems.com.cn' 'crazyegg.com' 'ih5.cn'
+ 'nba.com' 'dianping.com' 'nhl.com' 'livedoor.com' 'alipay.com'
+ 'download-step1.com' 't20worldcup.com' 'mi.com' 'aliexpress.com'
+ 'shippingchina.com' 'so.com' 'hao123.com' 'iqiyi.com' 'crypto.com'
+ 'aliyun.com' 'live.com' 'prada.com' 'tudou.com' 'marriott.com' 'jd.com'
+ 'outlook.live.com' 'khtahmar.com' 'digistore24.com' 'dmm.com'
+ 'zoomshare.com' 'google.cn' 'weibo.com' 'www.microsofttranslator.com'
+ 'cc.bingj.com' 'apps.apple.com' 'cybozu.com' 'oeeee.com' 'zcool.com.cn'
+ 'china.com' 'hotjar.com' 'soso.com' 'rtl-theme.com' 'xinhuanet.com'
+ 'haosou.com' 'xiaohongshu.com' 'pcbaby.com.cn' 'khanefootball.com'
+ 'firefoxchina.cn' 'nike.com' 'bing.com' '6.cn' 'login.live.com'
+ 'manychat.com' 'chsi.com.cn' 'discogs.com']"
+185.212.148.93,35,387.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 182', 'Content-Type: text/html', 'Date: Sun, 31 Oct 2021 22:43:27 GMT', 'Etag: ""b6-5ceb70a145d28""', 'Last-Modified: Tue, 19 Oct 2021 16:20:26 GMT', 'Server: Apache']﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv=""refresh"" content=""0;URL=http://46.17.107.46/"" />
+</head>
+<script>window.location = ""http://46.17.107.46/"";</script>
+</html>
+","['t.me' 'www.pornhub.com' 'www.eharmony.com' 'fc2.com' 'chaturbate.com'
+ 'livejasmin.com' 'www.itsyoursexlife.com' 'www.4chan.org'
+ 'www.no-porn.com' 'www.sex.com' 'youporn.com' 'bit.ly' 'www.lovoo.com'
+ 'xxx.lanl.gov' 'www.youporn.com' 'xnxx.com' 'hitwe.com' 'tinyurl.com'
+ 'redtube.com' 'www.gotgayporn.com' 'badoo.com' 'www.sexedlibrary.org'
+ 'www.okcupid.com' 'www.lushstories.com' 'bitly.com' 'xvideos.com'
+ 'pornhub.com' 'www.xvideos.com' 'www.meetup.com' 'ria.ru' 'vidio.com'
+ 't.co' 'lenta.ru' 'www.premaritalsex.info' 'blogspot.com']"
+125.26.170.3,12,312.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 104', 'Content-Type: text/html', 'Date: Sun, 31 Oct 2021 22:43:10 GMT', 'Etag: ""5f5749e8-68""', 'Last-Modified: Tue, 08 Sep 2020 09:07:52 GMT', 'Server: nginx/1.16.1']<html>
+<body>
+<div align=""center"">
+<img src=""mdes.jpg"" width=""800"" height=""700"">
+</div>
+</body>
+</html>
+","['www.xvideos.com' 'www.mediafire.com' 'www.pornhub.com'
+ 'www.888casino.com' 'beeg.com' 'pornhub.com' 'www.economist.com'
+ 'xnxx.com' 'bet365.com' 'blogspot.com' 'mediafire.com' 'xvideos.com']"
+202.180.9.5,9,747.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 538', 'Content-Type: text/html', 'Date: Sun, 31 Oct 2021 22:45:12 GMT', 'Etag: ""61713407-21a""', 'Last-Modified: Thu, 21 Oct 2021 09:33:59 GMT', 'Server: nginx/1.20.1']<html>
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=windows-1252"">
+<title>WEBSITES ACCESS - BLOCKED</title>
+</head>
+
+<body background=""bgblue.png"">
+
+<div align=""center"">
+	<table border=""0"" width=""825"" cellpadding=""2"" height=""510"">
+		<tr>
+			<td align=""center"">
+			<p>&nbsp;</p>
+			<br>
+			<img border=""0"" src=""Internet-Positif-Logo.png"" width=""600"" height=""200""><br>
+			<img border=""0"" src=""Internet-Positif.png"" width=""958"" height=""267"">
+		    </td>
+		</tr>
+	</table>
+</div>
+
+</body>
+
+</html>","['chaturbate.com' 'rarbg.to' 'www.89.com' 'thepiratebay.org'
+ 'www.pornhub.com' '8thstreetlatinas.com' 'pornhub.com' 'alt.com'
+ 'adultfriendfinder.com']"

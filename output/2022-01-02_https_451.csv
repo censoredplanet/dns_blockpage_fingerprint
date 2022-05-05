@@ -1,0 +1,716 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+193.58.251.11,520,2941.855769230769,1.0,0.9996600785087906,"['Content-Length: 2846' 'Content-Type: text/html; encoding=utf-8'
+ 'Date: Sun, 02 Jan 2022 23:40:41 GMT' 'Server: SkyDNS'
+ 'Set-Cookie: _csrf=000fe0f22c62baf30063c9d0faa27a06; expires=Sun, 02 Jan 2022 23:55:42 GMT'
+ 'Set-Cookie: sessionid=asdBBuiemSIPkxLzLgIKJaULoRkRgXzV; expires=Mon, 03 Jan 2022 01:40:42 GMT; path=/; HttpOnly; secure'
+ 'Vary: Cookie']
+  <!DOCTYPE html>
+  <html class=""[ page ][ 
+  theme_white
+ ]"">
+    <head>
+      <meta charset=""utf-8"">
+      
+  
+    <title>
+  Настройки фильтра обновляются
+</title>
+  
+  <base href=""https://cdn-b.skydns.ru/static/"" target=""_blank"">
+  <link rel=""preload stylesheet"" href=""css/styles.css"" type=""text/css"" as=""style"">
+  <link rel=""preload"" href=""fonts/pt/regular.ttf"" type=""font/ttf"" as=""font"" crossorigin=""preload anonymous"">
+  <link rel=""preload"" href=""fonts/pt/bold.ttf"" type=""font/ttf"" as=""font"" crossorigin=""preload anonymous"">
+
+    </head>
+    
+  <body class=""cover"">
+    <div class=""[ cover__centered ][ stack center center_width_x1.5 ]"">
+      <header class=""stack"">
+        
+          <svg class=""icon fill_blue icon_size_x10"" xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 32 32"">
+            <path d=""M7.7 16A8.3 8.3 0 0117 7.7l-3.9 4 1.7 1.7 6.7-6.7L14.7 0 13 1.7l3.8 3.6H16a10.7 10.7 0 00-7.2 18.6l1.7-1.7A8.3 8.3 0 017.7 16zm19 0c0-3.2-1.4-6-3.5-8l-1.7 1.8A8.3 8.3 0 0116 24.3l-.9-.1 4-3.9-1.7-1.7-6.7 6.7 6.7 6.7 1.6-1.7-3.7-3.7h.7c5.8 0 10.6-4.8 10.6-10.6z""></path>
+          </svg>
+        
+        <hgroup class=""font-weight_bold"">
+          <h1 class=""font-size_s5 color_blue"">
+            
+              
+  Настройки фильтра обновляются
+
+            
+          </h1>
+          <h2>
+            
+              
+              
+  Ваши новые настройки пока еще не вступили в силу. Рекомендуем перезагрузить страницу или очистить кеш браузера.
+
+            
+          </h2>
+        </hgroup>
+      </header>
+      <main class=""stack"">
+        
+          <p>
+  Как очистить кеш браузера вы можете посмотреть в <a class=""link"" href=""https://www.skydns.ru/guide/"">инструкции</a>. Если проблема будет сохраняться - свяжитесь со <a class=""link"" href=""https://www.skydns.ru/feedback/"">службой технической поддержки</a>.
+</p>
+        
+      </main>
+      <footer>
+        
+          <button class=""[ link color_blue ][ icon-container ]"" onclick=""javascript:history.back(); return false;"">
+            <svg class=""[ icon-container__icon ][ icon fill_blue ]"" xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 32 32"">
+              <path d=""M3.7 17l6 6-1.4 1.3L0 16l8.3-8.3L9.7 9l-6 6H32v2zm0 0""></path>
+            </svg>
+            
+  Вернуться назад
+
+          </button>
+        
+      </footer>
+    </div>
+    
+    
+  
+     <img
+      src=""https://dmg.digitaltarget.ru/1/7392/i/i?a=994&e=0&i=43271ff3c4b75f6a5b016c5220bd20b6""
+      height=""1""
+      width=""1"">
+  
+
+    
+  
+    <!-- profile: 0 -->
+  
+
+    
+  
+    <!-- xray: 2e34dd -->
+  
+
+  </body>
+
+  </html>
+","['rutor.info' 'www.aceshigh.com' 'iqiyi.com' 'rctiplus.com' 'freemuse.org'
+ 'worldofwarcraft.com' 'thenationalcampaign.org' 'www.glil.org'
+ 'hupun.com' 'www.ned.org' 'www.counter-strike.net' 'ettoday.net'
+ 'www.grandonline.com' 'www.transferbigfiles.com' 'grammarly.com'
+ 'xbox.com' 'protonvpn.com' 'www.hightail.com' 'sfsi.org'
+ 'www.goldenrivieracasino.com' 'www.hacktivismo.com'
+ 'www.stonewall.org.uk' 'pridesource.com' 'flickr.com' 'www.shroomery.org'
+ 'spankbang.com' 'www.hidemyass.com' 'www.tango.me' 'www.spinpalace.com'
+ 'blogspot.com' 'www.towleroad.com' 'thehiddenwiki.org'
+ 'www.runescape.com' 'www.facebook.com' 'www.fuckingfreemovies.com'
+ 'www.patreon.com' 'kapanlagi.com' 'dytt8.net' 'disqus.com'
+ 'mozilla.cloudflare-dns.com' 'www.ifge.org' 'www.shazam.com' 'dashjr.org'
+ 'www.4shared.com' 'alodokter.com' 'www.depositfiles.com'
+ 'www.pandora.com' 'www.feminist.com' 'www.ilhr.org' 'redd.it'
+ 'academia.edu' 'www.riverbelle.com' 'hotgaylist.com' 'www.tumblr.com'
+ 'www.marijuana.com' 'www.ea.com' 'dextroverse.org' 'www.teensource.org'
+ 'fc2.com' 'anonymouse.org' 'www.speeddater.co.uk' 'www.freespeech.com'
+ 'www.scarleteen.com' 'www.lushstories.com' 'depositphotos.com'
+ 'podbean.com' 'www.snapchat.com' 'yahoo.co.jp' 'www.alqassam.ps'
+ 'www.date.com' 'www.eurobicon.org' 'www.proxyweb.net' 'bitfinex.com'
+ 'www.siecus.org' 'www.thetrevorproject.org' 'www.dit-inc.us'
+ 'global.blackberry.com' 'kaleidoscopetrust.com' 'www.ebaumsworld.com'
+ 'www.itsyoursexlife.com' 'buzzfeed.com' 'www.sputniknews.cn'
+ 'www.roulette.sh' 'rarbg.to' 'www.megaproxy.com' 'www.instagram.com'
+ 'hola.org' 'imgur.com' 'www.eveonline.com' 'www.freshpair.com'
+ 'www.eurogrand.com' 'dy2018.com' 'drugs-forum.com' 'www.okcupid.com'
+ 'www.gaystarnews.com' 'rapidgator.net' 'y2mate.com'
+ 'www.sendthisfile.com' 'www.moderndrunkardmagazine.com' 'spotify.com'
+ 'www.nbc.com' 'www.nostraightnews.com' 'www.livejournal.com' 'telegra.ph'
+ 'lgbtmap.org' 'qq.com' 'www.anonymsurfen.com' 'xxx.lanl.gov'
+ 'www.figleaves.com' 'www.planetromeo.com' 'xvideos2.com' 'www.hrc.org'
+ 'mihoyo.com' 'dmm.co.jp' 'mydramalist.com' 'tamtam.chat' 'ouo.io'
+ 'getlantern.org' 'www.sina.com.cn' 'ecstasy.org' 'www.europacasino.com'
+ 'blackberry.com' 'www.whitepower.com' 'www.queerty.com'
+ '8thstreetlatinas.com' 'www.freespeechcoalition.com'
+ 'www.hizb-ut-tahrir.org' 'ultrasurf.us' 'googlevideo.com'
+ 'axieinfinity.com' 'www.chantelle.com' 'roblox.com' 'cannabis.com'
+ 'www.imdb.com' 'imdb.com' 'www.ndi.org' 'www.datpiff.com'
+ 'www.ipredator.se' 'www.bittorrent.com' 'www.outrightinternational.org'
+ 'www.pinkcupid.com' 'www.tiktok.com' 'www.dw.com' 'www.onlinedating.com'
+ 'flirtylingerie.com' 'newalbumreleases.net' 'chaturbate.com'
+ 'www.opensocietyfoundations.org' 'linkedin.com' 'reddit.com'
+ 'lauraannjacobs.com' 'fandom.com' 'guardster.com' 'www.gayegypt.com'
+ 'www.eharmony.com' 'secure.hi5.com' 'premierbet.co.ao'
+ 'www.drugsense.org' 'snapchat.com' 'de.lirio.us' 'audible.com'
+ 'ontivi.net' 'www.om.org' 'www.shoe.org' 'www.prolife.com' 'hornet.com'
+ 'bebo.com' 'www.netflix.com' 'sohu.com' 'primevideo.com' 'ebc.net.tw'
+ 'twitch.tv' 'advocacy.globalvoicesonline.org' 'dailymotion.com'
+ 'www.vanguardnewsnetwork.com' 'bet9ja.com' 'www.rollitup.org' 'canna.to'
+ 'thepiratebay.org' 'note.com' 'www.unfpa.org' 'unsplash.com' 'playgm.cn'
+ 'netflix.com' 'safervpn.com' 'www.veoh.com' 'www.wechat.com' 'espiv.net'
+ 'howtogrowmarijuana.com' 'lambdalegal.org' 'patreon.com' 'i2pforum.net'
+ 'bitcoin.org' 'www.clubdicecasino.com' 'myabortionstory.tumblr.com'
+ 'www.linkedin.com' 'www.pokerstars.com' 'www.nifty.org' 'www.2shared.com'
+ 'www.utorrent.com' 'yts.mx' 'chess.com' 'vho.org' 'rarbggo.org' 'mega.nz'
+ 'www.peacefire.org' 'www.bitcomet.com' 'www.uproxy.org'
+ 'www.afterellen.com' 'www.ipetitions.com' 'rumble.com' 'www.asstr.org'
+ 'sina.com.cn' 'vk.com' 'facebook.com' 'jezebel.com' 'www.888casino.com'
+ 'www.mamma.com' 'www.crazyshit.com' 'www.dailymotion.com' 'cuevana3.io'
+ 'kumparan.com' 'ok.ru' 'www.thegailygrind.com' 'twitter.com'
+ 'khilafah.net' 'hostloc.com' 'btguard.com' 'transsexual.org' 'poki.com'
+ 'www.queernet.org' 'www.genderandaids.org' 'www.fhi360.org'
+ 'www.glsen.org' 'www.89.com' 'xvideos.com' 'www.xxlmag.com'
+ 'playstation.com' 'www.rxmarijuana.com' 'uploaded.to' 'ikhwanonline.com'
+ 'zippyshare.com' 'www.pogo.com' 't.co' 'proxify.com' 'sexetc.org'
+ 'xhamster.com' 'panties.com' 'weedfarmer.com' 'www.usacasino.com'
+ 'www.gmhc.org' 'stackoverflow.com' 'www.quora.com' 'epicgames.com'
+ 'www.zensur.freerk.com' 'eastmoney.com' 'tiktok.com'
+ 'www.engenderhealth.org' 'www.luckynugget.com' 'pornmedium.com'
+ 'www.tsroadmap.com' 'www.guerrillagirls.com' 'tmz.com' 'www.reddit.com'
+ 'www.lovoo.com' 'kinopoisk.ru' 'www.ning.com' 'hootsuite.com'
+ 'phrack.org' 'goaskalice.columbia.edu' 'www.sendspace.com' 'badoo.com'
+ 'gamersky.com' 'www.bbm.com' 'www.chess.com' 'www.lingerieatlarge.com'
+ 'www3.iaisite.org' 'www.carnivalcasino.com' 'alt.com'
+ 'www.deathmetal.org' 'www.unfe.org' 'remove.bg' 'www.meetme.com'
+ 'fsrn.org' 'psiphon.ca' 'espivblogs.net' 'www.netzoola.com'
+ 'www.bitfinex.com' 'www.mate1.com' 'pozdravok.ru' 'www.winespectator.com'
+ 'boingboing.net' 'worldsingles.com' 'hitwe.com' 'peacefire.org'
+ 'www.tunnelbear.com' 'idntimes.com' 'autistici.org' 'forum.grasscity.com'
+ 'vseigru.net' 'www.bme.com' 'www.hustler.com' 'fmovies.to'
+ 'www.habbo.com' 'onlyfans.com' 'www.positive.org' 'www.grindr.com'
+ '1plus1.ua' 'www.globet.com' 'mixi.jp' 'www.newnownext.com'
+ 'kickassclassical.com' 'www.pinterest.com' 'www.partypoker.net'
+ 'soundcloud.com' 'www.ultimatebirthcontrol.com' 'www.square-enix.com'
+ 'www.doctissimo.fr' 'savefrom.net' 'pflag.org' 'www.pinknews.co.uk'
+ 'www.fotolog.com' '1001jogos.pt' 'europedatingonline.com' 'aparat.com'
+ 'godhatesfags.com' 'beeg.com' 'pornhub.com' 'www.gamespot.com'
+ '4chan.org' 'www.womenonwaves.org' 'www.betfair.com' 'www.realbeer.com'
+ 'rottentomatoes.com' 'quora.com' 'www.last.fm' 'www.lgbtqnation.com'
+ 'www.breastenlargementmagazine.com' 'telewebion.com' 'sci-hub.se'
+ 'www.appzplanet.com' 'www.http-tunnel.com' 'www.datingdirect.com'
+ 'unext.jp' 'online-television.net' 'nicovideo.jp' 'www.hotspotshield.com'
+ 'multiproxy.org' 'mileroticos.com' 'www.familyequality.org'
+ 'www.giganews.com' 'kanalukraina.tv' 'youtube.com' 'hulu.com'
+ 'lalgbtcenter.org' 'trashy.com' 'www.cannaweed.com' 'ddo.com'
+ 'www.poker.com' 'ameblo.jp' 'vimeo.com' 'www.torproject.org'
+ 'livejournal.com' 'www.bfed.info' 'www.anonymizer.ru' 'tor.eff.org'
+ 'www.xroxy.com' 'bet365.com' 'www.democracynow.org' 'www.stumbleupon.com'
+ 'www.abcunderwear.com' 'www.sexandu.ca' 'anonym.to' 'www.gotgayporn.com'
+ 'www.blizzard.com' 'setn.com' 'dcard.tw' 'www.out.com' 'deviantart.com'
+ 'adultfriendfinder.com' 'ontvtime.ru' 'twitpic.com' 'www.serials.ws'
+ 'www.f-list.net' 'www.spotify.com' 'www.playboy.com' 'rakuten-sec.co.jp'
+ 'www.metacafe.com' 'www.pridemedia.com' 'xnxx.com' 'www.tmz.com' 'ea.com'
+ 'youporn.com' 'www.premaritalsex.info' 'www.ipair.com' 'ali213.net'
+ 'filmix.ac' 'hao123.com' 'www.3wishes.com' 'i.instagram.com'
+ 'shadowsocks.org' 'www.pcgamer.com' 'sweet.tv' 'ilga.org'
+ 'www.rockstargames.com' 'subscene.com' 'www.delicates.co.uk'
+ 'www.meetup.com' 'www.4chan.org' 'www.pof.com'
+ 'www.advocatesforyouth.org' 'www.sexedlibrary.org' 'casino.com'
+ 'bilibili.com' 'nordvpn.com' 'www.agentprovocateur.com'
+ 'itgetsbetter.org' '1337x.to' 'ivi.ru' 'www.2ddepot.com'
+ 'www.mininova.org' 'groups.yahoo.com' 'www.onlinegambling.com'
+ 'www.gayhealth.com' 'lifestream.aol.com'
+ 'scontent-ams4-1.cdninstagram.com' 'www.babylon-x.com' 'tumblr.com'
+ 'www.photobucket.com' 'store.steampowered.com' 'ubereats.com'
+ 'www.advocate.com' 'www.liveleak.com' 'myspace.com' '9gag.com'
+ 'www.gambling.com' 'www.xvideos.com' 'astalavista.box.sk' 'identi.ca'
+ 'www.youtube.com' 'bravotube.net' 'www.opioids.com' 'nextdoor.com'
+ 'lgbtnewsnow.org' 'xanga.com' 'www.womenonweb.org' 'www.guildwars.com'
+ 'www.anonymizer.com' 'bongacams.com' 'www.familycareintl.org' 'peta.xxx'
+ 'static.xx.fbcdn.net' 'sxyprn.com' 'www.pokerpages.com' 'streamtape.com'
+ 'proxytools.sourceforge.net' 'internationalfamilyequalityday.org'
+ 'www.nazi-lauck-nsdapao.com' '666games.net' 'www.rfa.org' 'www.ccel.org'
+ 'www.privateinternetaccess.com' 'kinokrad.co' 'dmm.com'
+ 'www.blackjackinfo.com' 'hotstar.com' 'mp3.com' 'www.khilafah.com'
+ 'www.americannaziparty.com' 'anon.inf.tu-dresden.de' 'instagram.com'
+ 'www.4online-gambling.com' 'anonymizer.secuser.com' 'www.inetprivacy.com'
+ 'archiveofourown.org' 'turbobit.net' 'www.sex.com' 'www.xbox.com'
+ 'covidtracking.com' 'slate.com' 'www.translate.ru' 'www.glbtqarchive.com'
+ 'sci-hub.tw' 'www.sbs.com.au' 'www.lesbiansubmission.com'
+ 'beyondexgay.com' 'weibo.com' 'www.gay.com' 'en-ville.orange.fr'
+ 'cloudinary.com' 'www.warhammeronline.com' 'www.twitch.tv' 'tinder.com'
+ 'www.coquette.com' 'www.dating.com' 'www.angryharry.com' 'xfinity.com'
+ 'www.globalfire.tv' 'web.wechat.com' 'www.ultimate-anonymity.com'
+ 'disneyplus.com' 'www.flickr.com' 'www.absolut.com' 'russia.tv' 'tsn.ua'
+ 'www.erowid.org' 'www.royalvegas.com' 'www.ghostrecon.com'
+ 'secondlife.com' 'www.pornhub.com' 'www.casinotropez.com'
+ 'www.implantinfo.com' 'www.beer.com' 'www.fotki.com' 'www.slotland.com'
+ 'livejasmin.com' 'pixnet.net' 'plus.google.com' 'pinterest.com'
+ 'www.abortionno.org']"
+80.250.226.14,85,2796.0,0.0,1.0,"['Content-Length: 3180' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:43:24 GMT' 'Etag: ""5b0d5ab7-c6c""'
+ 'Server: nginx/1.10.2']<html>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf8"">
+  <meta http-equiv=""Refresh"" CONTENT=""30; URL=https://blocklist.rkn.gov.ru/"">
+  <head>
+    <title>Запрет доступа к запрашиваемой информации!</title>
+    <div style=""display: none;"">RestrictedMarker</div>
+  </head>
+  <body link=""#339999"" alink=""#339999"" vlink=""#339999"">
+    <font face=""Arial"">
+      <table height=""100%"" width=""100%"" cellspacing=""0"" cellpadding=""5"">
+        <tr>
+          <td align=""center"" valign=""center"">
+            <h1>Уважаемые пользователи!</h1>
+            <h2>Приносим Вам свои извинения, но доступ к запрашиваемому ресурсу ограничен!</h2>
+            <h3>Наиболее вероятная причина ограничения доступа:</h3>
+                Данный интернет-ресурс включен Единый Реестр доменных имен, указателей страниц сайтов в сети «Интернет» и сетевых адресов, 
+            <br>позволяющих идентифицировать сайты в сети «Интернет», содержащие информацию, распространение которой в Российской Федерации запрещено.
+            <br><br>Проверить наличие доменного имени и/или указателя страницы сайта, сетевого (IP) адреса в Едином Реестре можно на сайте: <a href=https://blocklist.rkn.gov.ru/>blocklist.rkn.gov.ru</a>
+            <br><br>Через 30 секунд вы будете перенаправлены на сайт <a href=""https://blocklist.rkn.gov.ru/"">blocklist.rkn.gov.ru</a>.
+            <br><br><br>
+            <hr align=""center"" width=""80%"" size=""3"" NoShade color=""000000"">
+            <h1>Dear customers!</h1>
+            <h2>We apologize, but access to the requested resource is restricted!</h2>
+            <h3>The most like reason why the access is limited:</h3>
+                This Internet resource included in Unified Register of domain names, indexes of pages of sites on the Internet and network addresses, 
+            <br>to identify sites on the Internet, that contains information the dissemination of which is prohibited in the Russian Federation.
+            <br><br>You can check the presence of the domain name and/or the site page pointer, network (IP) address in the Unified Register on the website: <a href=https://blocklist.rkn.gov.ru/>blocklist.rkn.gov.ru</a>
+            <br><br>After 30 seconds you will be redirected to the website blocklist.rkn.gov.ru <a href=""https://blocklist.rkn.gov.ru/"">blocklist.rkn.gov.ru</a>.
+            <br><br><br>
+          </td>
+        </tr>
+        <tr>
+          <td height=""5"">
+            <hr width=""100%"" size=""1"" NoShade color=""000000"">
+            <font size=""-1"">
+              <p align=""right"">&#169 2000-2018 Complat-Telecom</p>
+            </font>
+          </td>
+        </tr>
+      </table>
+    </font>
+  </body>
+</html>
+","['line.me' 'dailymotion.com' 'issuu.com' 'drugs-forum.com'
+ 'www.onlinegambling.com' 'www.anonymizer.com' 'www.carnivalcasino.com'
+ 'tsn.ua' 'www.proxyweb.net' 'www.rollitup.org' 'www.asstr.org'
+ 'xhamster.com' 'beeg.com' 'www.tunnelbear.com'
+ 'www.opensocietyfoundations.org' 'howtogrowmarijuana.com'
+ 'www.888casino.com' 'casino.com' 'filmix.ac' 'www.anonymizer.ru'
+ 'www.ndi.org' 'blackberry.com' 'proxify.com' 'bet365.com' 'psiphon.ca'
+ 'www.torproject.org' 'ontivi.net' 'hotgaylist.com' 'turbobit.net'
+ 'rutor.info' 'kinokrad.co' 'www.hotspotshield.com' 'bitcoin.org'
+ 'www.shroomery.org' 'www.hidemyass.com' 'anonymouse.org' 'weedfarmer.com'
+ 'www.europacasino.com' 'www.goldenrivieracasino.com' 'www.betfair.com'
+ 'linkedin.com' 'www.slotland.com' 'thepiratebay.org' 'www.ned.org'
+ 'global.blackberry.com' 'boingboing.net' 'www.spinpalace.com'
+ 'www.womenonwaves.org' 'www.sex.com' 'www.dailymotion.com'
+ 'www.gambling.com' 'youporn.com' 'bitfinex.com' 'rapidgator.net'
+ 'www.linkedin.com' 'bridges.torproject.org' 'sci-hub.se'
+ 'www.casinotropez.com' 'sxyprn.com' 'guardster.com' 'ikhwanonline.com'
+ 'www.partypoker.net' 'www.scribd.com' 'chaturbate.com'
+ 'www.startmail.com' 'www.bbm.com' 'www.cannaweed.com' 'www.erowid.org'
+ 'scribd.com' 'nicovideo.jp' 'www.megaproxy.com' 'www.hizb-ut-tahrir.org'
+ 'ultrasurf.us' 'bet9ja.com' 'www.khilafah.com' 'www.eurogrand.com'
+ 'dmm.co.jp' 'www.gotgayporn.com' 'xvideos2.com' 'www.pokerstars.com'
+ '1337x.to' 'khilafah.net' 'thehiddenwiki.org' 'www.bitfinex.com'
+ 'ooni.torproject.org']"
+194.34.96.6,83,2638.9638554216867,0.9412787435246267,0.9996433150300293,"['Cache-Control: no-store, no-cache, must-revalidate'
+ 'Content-Length: 3047' 'Content-Type: text/html; charset=utf-8'
+ 'Date: Sun, 02 Jan 2022 23:43:42 GMT'
+ 'Expires: Mon, 03 Jan 2022 02:43:42 +0300' 'Server: Apache']<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""><html xmlns=""http://www.w3.org/1999/xhtml""><head><title>Blocked/Доступ ограничен</title><meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" /><style>*{margin:0;padding:0;}html,body{height:100%;}body{font-size:14px;font-family:arial,sans-serif;background:#fff;}body div#main{position:absolute;left:0;right:0;top:0;bottom:0;margin:0 auto;}body div#main div.block{display:table;width:100%;height:100%;box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;}body div#main div.center{display:table-cell;line-height:100%;vertical-align:middle;}body div#main div.tile{display:table;margin:10px auto;max-width:970px;text-align:center;}body div#main div.tile img{margin-bottom:50px;}body div#main div.tile h1{font-size:16px;margin-bottom:50px;line-height:1.2;}body div#main div.tile div.basis{margin-bottom:50px;}body div#main div.tile div.basis span{display:block;margin:5px;}body div#main div.tile div.basis span label{font-weight:bold;margin-right:10px;}body div#main div.tile div.note{margin-bottom:50px;}body div#main div.tile div.note p{margin-bottom:15px;}body .hidden{display:none;}</style></head><body><span class=""hidden"">Доступ заблокирован, Доступ к информационному ресурсу ограничен на основании Федерального закона от 27 июля 2006 г. № 149-ФЗ ""Об информации, информационных технологиях и о защите информации"".</span><div id=""main""><div class=""block""><div class=""center""><div class=""tile""><img src=""/logo"" alt="""" title="""" /><h1>Данный сайт заблокирован в соответствии с действующим законодательством.</h1><div class=""note""><h1>Доступ к информационному ресурсу ограничен на основании Федерального закона от 27 июля 2006 г. № 149-ФЗ ""Об информации, информационных технологиях и о защите информации"".</h1><p>Если Вы считаете, что включение этого интернет-ресурса в ""Единый реестр..."" или ""Реестр доменных имен..."" произошло по ошибке, или оно нарушает Ваши законные права, пожалуйста, обращайтесь непосредственно к уполномоченному органу по координатам на интернет-сайте реестра.</p></div><a href=""http://blocklist.rkn.gov.ru/"">Перейти на сайт<br />Универсального сервиса проверки ограничения доступа к сайтам или страницам сайтов сети ""Интернет""</a></div></div></div></div></body></html><!--localhost-->
+","['www.pornhub.com' 'bitcoin.org' 'www.rollitup.org' 'www.888casino.com'
+ 'www.linkedin.com' 'www.tunnelbear.com' 'www.europacasino.com'
+ 'www.khilafah.com' '1337x.to' 'bet365.com' 'www.dailymotion.com'
+ 'www.slotland.com' 'scribd.com' 'tinyurl.com' 'weedfarmer.com'
+ 'filmix.ac' 'global.blackberry.com' 'www.eurogrand.com'
+ 'www.partypoker.net' 'chaturbate.com' 'www.scribd.com'
+ 'www.torproject.org' 'www.womenonwaves.org' 'www.hotspotshield.com'
+ 'www.anonymizer.com' 'drugs-forum.com' 'www.startmail.com' 'sci-hub.se'
+ 'ontivi.net' 'turbobit.net' 'dailymotion.com'
+ 'www.opensocietyfoundations.org' 'xhamster.com' 'www.gotgayporn.com'
+ 'linkedin.com' 'www.erowid.org' 'www.alarabiya.net' 'www.hidemyass.com'
+ 'rutor.info' 'blackberry.com' 'www.spinpalace.com'
+ 'www.goldenrivieracasino.com' 'tsn.ua' 'www.anonymizer.ru'
+ 'hotgaylist.com' 'proxify.com' 'ultrasurf.us' 'www.bitfinex.com'
+ 'psiphon.ca' 'rapidgator.net' 'xvideos2.com' 'thepiratebay.org'
+ 'howtogrowmarijuana.com' 'www.betfair.com' 'www.casinotropez.com'
+ 'www.gambling.com' 'www.pokerstars.com' 'kinokrad.co' 'www.ndi.org'
+ 'bet9ja.com' 'issuu.com' 'boingboing.net' 'twitpic.com' 'www.xvideos.com'
+ 'bit.ly' 'www.carnivalcasino.com' 'www.sex.com' 'www.cannaweed.com'
+ 'www.bbm.com' 'sxyprn.com' 'www.megaproxy.com' 'www.hizb-ut-tahrir.org'
+ 'www.mediafire.com' 'anonymouse.org' 'www.proxyweb.net'
+ 'www.shroomery.org' 'www.onlinegambling.com' 'www.asstr.org' 'line.me'
+ 'www.ned.org' 'khilafah.net' 'ikhwanonline.com' 'beeg.com']"
+194.247.191.190,83,2638.9638554216867,0.9412787435246268,0.9996433150300293,"['Cache-Control: no-store, no-cache, must-revalidate'
+ 'Content-Length: 1814' 'Content-Type: text/html; charset=utf-8'
+ 'Date: Sun, 02 Jan 2022 23:43:20 GMT'
+ 'Expires: Mon, 03 Jan 2022 02:43:20 +0300' 'Server: Apache']<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""><html xmlns=""http://www.w3.org/1999/xhtml""><head><title>Blocked/Доступ ограничен</title><meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" /><style>*{margin:0;padding:0;}html,body{height:100%;}body{font-size:14px;font-family:arial,sans-serif;background:#fff;}body div#main{position:absolute;left:0;right:0;top:0;bottom:0;margin:0 auto;}body div#main div.block{display:table;width:100%;height:100%;box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;}body div#main div.center{display:table-cell;line-height:100%;vertical-align:middle;}body div#main div.tile{display:table;margin:10px auto;max-width:970px;text-align:center;}body div#main div.tile img{margin-bottom:50px;}body div#main div.tile h1{font-size:16px;margin-bottom:50px;line-height:1.2;}body div#main div.tile div.basis{margin-bottom:50px;}body div#main div.tile div.basis span{display:block;margin:5px;}body div#main div.tile div.basis span label{font-weight:bold;margin-right:10px;}body div#main div.tile div.note{margin-bottom:50px;}body div#main div.tile div.note p{margin-bottom:15px;}body .hidden{display:none;}</style></head><body><span class=""hidden"">Доступ заблокирован, Доступ к информационному ресурсу ограничен на основании Федерального закона от 27 июля 2006 г. № 149-ФЗ ""Об информации, информационных технологиях и о защите информации"".</span><div id=""main""><div class=""block""><div class=""center""><div class=""tile""><h2>Доступ ограничен</h2></div></div></div></div></body></html><!--localhost-->
+","['bet9ja.com' 'twitpic.com' 'www.betfair.com' 'www.hotspotshield.com'
+ 'www.proxyweb.net' 'rapidgator.net' 'www.pornhub.com' 'www.linkedin.com'
+ 'www.slotland.com' 'www.pokerstars.com' 'www.bbm.com' 'www.mediafire.com'
+ 'bitcoin.org' 'www.hidemyass.com' 'www.alarabiya.net' 'rutor.info'
+ 'turbobit.net' 'dailymotion.com' 'www.sex.com' 'www.scribd.com'
+ 'bet365.com' 'www.anonymizer.ru' 'www.womenonwaves.org'
+ 'www.shroomery.org' 'filmix.ac' 'www.gambling.com'
+ 'www.carnivalcasino.com' 'blackberry.com' 'khilafah.net' 'ontivi.net'
+ 'xvideos2.com' 'www.partypoker.net' 'thepiratebay.org'
+ 'www.hizb-ut-tahrir.org' 'www.bitfinex.com' 'boingboing.net'
+ 'www.casinotropez.com' 'issuu.com' 'www.megaproxy.com'
+ 'www.888casino.com' 'www.rollitup.org' 'psiphon.ca' 'www.ndi.org'
+ 'www.ned.org' 'www.startmail.com' 'www.gotgayporn.com' 'beeg.com'
+ 'www.torproject.org' 'www.cannaweed.com' 'www.asstr.org'
+ 'www.onlinegambling.com' 'www.anonymizer.com' 'sci-hub.se' 'xhamster.com'
+ 'chaturbate.com' 'www.erowid.org' 'hotgaylist.com' 'sxyprn.com'
+ 'www.xvideos.com' 'anonymouse.org' 'www.europacasino.com' 'ultrasurf.us'
+ 'kinokrad.co' 'line.me' 'www.eurogrand.com' '1337x.to' 'tinyurl.com'
+ 'www.dailymotion.com' 'linkedin.com' 'bit.ly' 'tsn.ua' 'proxify.com'
+ 'drugs-forum.com' 'global.blackberry.com'
+ 'www.opensocietyfoundations.org' 'www.goldenrivieracasino.com'
+ 'howtogrowmarijuana.com' 'scribd.com' 'www.tunnelbear.com'
+ 'weedfarmer.com' 'www.khilafah.com' 'ikhwanonline.com'
+ 'www.spinpalace.com']"
+178.218.88.14,68,925.0,0.0,1.0,"['Content-Length: 966' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:42:53 GMT' 'Etag: ""f1717f0-3c6""'
+ 'Server: nginx/1.10.2']<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8""/>
+    <title>Доступ ограничен</title>
+    <!-- just for RKN util:
+    <title>Доступ ограничен</title>
+    -->
+    <style type=""text/css"">
+        body {
+            font-family: Helvetica, sans-serif;
+        }
+        h1 {
+            font-size: 60px;
+        }
+        p {
+            font-size: 55px;
+        }
+    </style>
+</head>
+<body>
+<table border=0 width=100% height=100%>
+    <tr valign=center>
+        <td align=center>
+            <h1>Доступ запрещён</h1>
+            <p>Доступ к информационному ресурсу ограничен на основании Федерального закона от 27 июля 2006 г. N 149-ФЗ ""Об информации, информационных технологиях и о защите информации""</p>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+","['ooni.torproject.org' 'www.hidemyass.com' 'bitcoin.org' 'ontivi.net'
+ 'casino.com' 'bet9ja.com' 'www.spinpalace.com' 'thehiddenwiki.org'
+ 'www.goldenrivieracasino.com' 'www.anonymizer.ru'
+ 'howtogrowmarijuana.com' 'www.hizb-ut-tahrir.org' 'www.rollitup.org'
+ 'bridges.torproject.org' 'www.slotland.com' 'www.bbm.com'
+ 'dailymotion.com' 'www.megaproxy.com' 'www.linkedin.com'
+ 'www.tunnelbear.com' 'www.sex.com' 'www.torproject.org' 'beeg.com'
+ 'www.startmail.com' 'sci-hub.se' 'xvideos2.com' 'www.asstr.org'
+ 'bet365.com' 'www.bitfinex.com' 'dmm.co.jp' 'www.casinotropez.com'
+ 'www.gambling.com' 'xhamster.com' 'www.888casino.com' 'filmix.ac'
+ 'scribd.com' 'bitfinex.com' 'thepiratebay.org' 'www.ned.org'
+ 'linkedin.com' 'www.partypoker.net' 'www.eurogrand.com'
+ 'www.khilafah.com' 'rutor.info' 'www.erowid.org' 'www.cannaweed.com'
+ 'nicovideo.jp' 'youporn.com' 'www.anonymizer.com' 'www.scribd.com'
+ 'www.pokerstars.com' 'drugs-forum.com' 'guardster.com' 'sxyprn.com'
+ 'www.carnivalcasino.com' 'www.shroomery.org' 'line.me' 'blackberry.com'
+ 'www.dailymotion.com' 'rapidgator.net' 'www.opensocietyfoundations.org'
+ 'www.proxyweb.net' 'turbobit.net' 'www.europacasino.com' 'boingboing.net'
+ 'anonymouse.org' 'www.hotspotshield.com' 'issuu.com']"
+93.191.11.90,35,1367.0,0.0,1.0,"['Content-Length: 1745' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:35:54 GMT' 'Etag: ""5d67ab3c-6d1""'
+ 'Server: nginx/1.10.2']<html>
+<head>
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8""/>
+    <title>Доступ ограничен</title>
+    <!-- just for RKN util:
+    <title>Доступ ограничен</title>
+    -->
+    <style type=""text/css"">
+        body {
+            font-family: Helvetica, sans-serif;
+        }
+        h1 {
+            font-size: 60px;
+        }
+        p {
+            font-size: 55px;
+        }
+    </style>
+</head>
+<body>
+<table border=0 width=100% height=100%>
+    <tr valign=center>
+        <td align=center>
+            <h1>Закрыто в России</h1>
+            <p>Доступ к данному ресурсу ограничен на территории Российской Федерации в соответствии с Федеральным законом от 27&nbsp;июля 2006&nbsp;г. №&nbsp;149-ФЗ &laquo;Об информации, информационных технологиях и о защите информации&raquo;</p> 
+Кажется, вы находитесь в России — и поэтому не можете увидеть этот сайт.
+Вероятно, закрыть к нему доступ потребовал российский суд или Роскомнадзор.
+Если вы все-таки хотите его увидеть, вам придется покинуть территорию России или воспользоваться какими-то более простыми и доступными методами (о которых мы не имеем права вам говорить, но которые вы и без нас прекрасно знаете).
+
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+","['ultrasurf.us' 'www.khilafah.com' 'bitcoin.org' 'psiphon.ca'
+ 'www.hidemyass.com' 'www.sex.com' '1337x.to' 'www.ndi.org'
+ 'www.goldenrivieracasino.com' 'www.ned.org' 'www.cannaweed.com'
+ 'sxyprn.com' 'ikhwanonline.com' 'www.rollitup.org'
+ 'www.onlinegambling.com' 'beeg.com' 'tsn.ua' 'www.tunnelbear.com'
+ 'www.erowid.org' 'www.shroomery.org' 'www.hotspotshield.com'
+ 'www.gambling.com' 'kinokrad.co' 'bet9ja.com' 'bridges.torproject.org'
+ 'guardster.com' 'ontivi.net' 'xhamster.com' 'www.gotgayporn.com'
+ 'www.torproject.org' 'chaturbate.com' 'thepiratebay.org'
+ 'www.bitfinex.com' 'ooni.torproject.org' 'rutor.info']"
+13.55.122.54,11,3192.181818181818,0.0036213850564474183,0.9999988655454912,"['Content-Length: 3068' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:37:15 GMT' 'Server: nginx/1.10.3 (Ubuntu)']<!DOCTYPE html>
+	<head>
+	<title>Copyright Notice</title>
+	<meta name=""robots"" content=""noindex, nofollow"">
+		<style type=""text/css"">
+			html, body, body>table{
+				height: 100%;
+				padding: 0;
+				margin: 0;
+			}
+			body, td, th {
+				color: #FFFFFF;
+				font-family: Arial, Helvetica, sans-serif;
+				font-size: 20px;
+				line-height: 1.5;
+				padding: 0;
+			}
+			body {
+				background: rgb(35,31,32);
+				background: -moz-linear-gradient(180deg, rgba(35,31,32,1) 0%, rgba(43,169,152,1) 100%, rgba(0,212,255,1) 100%);
+				background: -webkit-linear-gradient(180deg, rgba(35,31,32,1) 0%, rgba(43,169,152,1) 100%, rgba(0,212,255,1) 100%);
+				background: linear-gradient(180deg, rgba(35,31,32,1) 0%, rgba(43,169,152,1) 100%, rgba(0,212,255,1) 100%);
+				filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=""#231f20"",endColorstr=""#00d4ff"",GradientType=1);
+			}
+			a:link {
+				text-decoration: none;
+			}
+			a:visited {
+				text-decoration: none;
+				color: #2dc5b0;
+			}
+			a:hover {
+				text-decoration: underline;
+				color: #FFF;
+			}
+			a:active {
+				text-decoration: none;
+				color: #2dc5b0;
+			}
+			h1, h2, h3, h4, h5, h6 {
+				font-family: Arial, Helvetica, sans-serif;
+			}
+			a {
+				font-family: Arial, Helvetica, sans-serif;
+				font-size: 20px;
+				font-weight: bold;
+				line-height: 1.95;
+				color: #2dc5b0;
+			}
+			h1 {
+				font-size: 20px;
+				letter-spacing: 0px;
+				line-height: 1.9;
+				font-weight: bold;
+				color: #FFF;
+			}
+			@media screen and (max-width: 992px) {
+				h1{
+					font-size: 40px;
+					padding: 0 40px;
+				}
+				p{
+					font-size: 30px;
+					padding: 0 40px;
+				}
+				a{
+					font-size: 30px;
+				}
+			}
+		</style>
+        <meta charset=""utf-8"">
+	</head>
+	<body>
+	<table width=""100%"" border=""0"" cellspacing=""0"" cellpadding=""0"">
+	  <tr>
+		<td align=""center"">
+			<table width=""995"" border=""0"" cellspacing=""0"" cellpadding=""15"">
+				<tr>
+					<td align=""center"">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align=""center""><img alt=""Copyright Notice"" src=""./em2.png"" title=""Copyright Notice""/></td>
+				</tr>
+				<tr>
+					<td align=""center""><h1>ACCESS TO THIS WEBSITE HAS BEEN DISABLED BECAUSE THE FEDERAL COURT OF AUSTRALIA HAS DETERMINED THAT IT INFRINGES OR FACILITATES THE INFRINGEMENT OF COPYRIGHT.</h1></td>
+				</tr>
+				<tr>
+					<td height=""250"" align=""center"" valign=""top"">
+						<p>Please access the content you are seeking via licensed sites &ndash;<br>
+						<a href=""https://www.digitalcontentguide.com.au/"">www.digitalcontentguide.com.au</a> provides information about many sources of licensed content.
+						</p>
+					</td>
+				</tr>
+			</table>
+		</td>
+	  </tr>
+	</table>
+</body>
+</html>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-23801210-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+","['cuevana3.io' 'thepiratebay.org' 'rarbg.to' 'rutor.info' 'fmovies.to'
+ 'dytt8.net' 'yts.mx' 'y2mate.com' 'subscene.com' 'rarbggo.org' '1337x.to']"
+3.104.207.11,11,3192.818181818182,0.0036206632747386074,0.9999988659976646,"['Content-Length: 3068' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:37:04 GMT' 'Server: nginx/1.10.3 (Ubuntu)']<!DOCTYPE html>
+	<head>
+	<title>Copyright Notice</title>
+	<meta name=""robots"" content=""noindex, nofollow"">
+		<style type=""text/css"">
+			html, body, body>table{
+				height: 100%;
+				padding: 0;
+				margin: 0;
+			}
+			body, td, th {
+				color: #FFFFFF;
+				font-family: Arial, Helvetica, sans-serif;
+				font-size: 20px;
+				line-height: 1.5;
+				padding: 0;
+			}
+			body {
+				background: rgb(35,31,32);
+				background: -moz-linear-gradient(180deg, rgba(35,31,32,1) 0%, rgba(43,169,152,1) 100%, rgba(0,212,255,1) 100%);
+				background: -webkit-linear-gradient(180deg, rgba(35,31,32,1) 0%, rgba(43,169,152,1) 100%, rgba(0,212,255,1) 100%);
+				background: linear-gradient(180deg, rgba(35,31,32,1) 0%, rgba(43,169,152,1) 100%, rgba(0,212,255,1) 100%);
+				filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=""#231f20"",endColorstr=""#00d4ff"",GradientType=1);
+			}
+			a:link {
+				text-decoration: none;
+			}
+			a:visited {
+				text-decoration: none;
+				color: #2dc5b0;
+			}
+			a:hover {
+				text-decoration: underline;
+				color: #FFF;
+			}
+			a:active {
+				text-decoration: none;
+				color: #2dc5b0;
+			}
+			h1, h2, h3, h4, h5, h6 {
+				font-family: Arial, Helvetica, sans-serif;
+			}
+			a {
+				font-family: Arial, Helvetica, sans-serif;
+				font-size: 20px;
+				font-weight: bold;
+				line-height: 1.95;
+				color: #2dc5b0;
+			}
+			h1 {
+				font-size: 20px;
+				letter-spacing: 0px;
+				line-height: 1.9;
+				font-weight: bold;
+				color: #FFF;
+			}
+			@media screen and (max-width: 992px) {
+				h1{
+					font-size: 40px;
+					padding: 0 40px;
+				}
+				p{
+					font-size: 30px;
+					padding: 0 40px;
+				}
+				a{
+					font-size: 30px;
+				}
+			}
+		</style>
+        <meta charset=""utf-8"">
+	</head>
+	<body>
+	<table width=""100%"" border=""0"" cellspacing=""0"" cellpadding=""0"">
+	  <tr>
+		<td align=""center"">
+			<table width=""995"" border=""0"" cellspacing=""0"" cellpadding=""15"">
+				<tr>
+					<td align=""center"">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align=""center""><img alt=""Copyright Notice"" src=""./em2.png"" title=""Copyright Notice""/></td>
+				</tr>
+				<tr>
+					<td align=""center""><h1>ACCESS TO THIS WEBSITE HAS BEEN DISABLED BECAUSE THE FEDERAL COURT OF AUSTRALIA HAS DETERMINED THAT IT INFRINGES OR FACILITATES THE INFRINGEMENT OF COPYRIGHT.</h1></td>
+				</tr>
+				<tr>
+					<td height=""250"" align=""center"" valign=""top"">
+						<p>Please access the content you are seeking via licensed sites &ndash;<br>
+						<a href=""https://www.digitalcontentguide.com.au/"">www.digitalcontentguide.com.au</a> provides information about many sources of licensed content.
+						</p>
+					</td>
+				</tr>
+			</table>
+		</td>
+	  </tr>
+	</table>
+</body>
+</html>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-23801210-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+","['y2mate.com' 'rutor.info' 'thepiratebay.org' 'fmovies.to' 'subscene.com'
+ 'dytt8.net' 'rarbg.to' 'cuevana3.io' '1337x.to' 'yts.mx' 'rarbggo.org']"
+176.124.147.226,2,2355.5,0.3022952785628755,0.9998716640719325,"['Cache-Control: no-store, no-cache, must-revalidate'
+ 'Content-Length: 1814' 'Content-Type: text/html; charset=utf-8'
+ 'Date: Sun, 02 Jan 2022 23:43:06 GMT'
+ 'Expires: Mon, 03 Jan 2022 02:43:06 +0300' 'Server: Apache']<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""><html xmlns=""http://www.w3.org/1999/xhtml""><head><title>Blocked/Доступ ограничен</title><meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" /><style>*{margin:0;padding:0;}html,body{height:100%;}body{font-size:14px;font-family:arial,sans-serif;background:#fff;}body div#main{position:absolute;left:0;right:0;top:0;bottom:0;margin:0 auto;}body div#main div.block{display:table;width:100%;height:100%;box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;}body div#main div.center{display:table-cell;line-height:100%;vertical-align:middle;}body div#main div.tile{display:table;margin:10px auto;max-width:970px;text-align:center;}body div#main div.tile img{margin-bottom:50px;}body div#main div.tile h1{font-size:16px;margin-bottom:50px;line-height:1.2;}body div#main div.tile div.basis{margin-bottom:50px;}body div#main div.tile div.basis span{display:block;margin:5px;}body div#main div.tile div.basis span label{font-weight:bold;margin-right:10px;}body div#main div.tile div.note{margin-bottom:50px;}body div#main div.tile div.note p{margin-bottom:15px;}body .hidden{display:none;}</style></head><body><span class=""hidden"">Доступ заблокирован, Доступ к информационному ресурсу ограничен на основании Федерального закона от 27 июля 2006 г. № 149-ФЗ ""Об информации, информационных технологиях и о защите информации"".</span><div id=""main""><div class=""block""><div class=""center""><div class=""tile""><h2>Доступ ограничен</h2></div></div></div></div></body></html><!--localhost-->
+",['www.bbm.com' 'www.khilafah.com']
+5.129.186.222,2,1219.0,0.0,1.0,"['Content-Length: 1216' 'Content-Type: text/html'
+ 'Date: Sun, 02 Jan 2022 23:35:21 GMT' 'Etag: ""6130f495-4c0""'
+ 'Server: nginx/1.14.0 (Ubuntu)']<!DOCTYPE html>
+<html>
+<head>
+<meta charset=""utf-8"">
+<meta name=""viewport"" content=""width=1024, initial-scale=1.0"" />
+<title>Доступ к ресурсу ограничен</title>
+<link rel=""stylesheet"" href=""css/style.css"">
+<link rel=""shortcut icon"" href=""favicon.ico"" type=""image/x-icon"">
+<link href=""https://fonts.googleapis.com/css?family=IBM+Plex+Sans&amp;subset=cyrillic"" rel=""stylesheet"">
+</head>
+<body>
+		<table class=""mainTable"" cellspacing=""0"" cellpadding=""0"" border=""0"">
+			<tbody>
+				<tr class=""mainTable-content"">
+
+					<td>
+						<div class=""mainTable-content-icons"">	
+							<img src=""img/logo.svg"" alt="""" style=""width: 150px;"">
+						</div>
+						<h1>Доступ к ресурсу ограничен</h1>
+						<p>Проверить наличие доменного имени и (или) указателя страницы сайта, сетевого адреса в Едином реестре можно на сайте <a href=""https://blocklist.rkn.gov.ru/"" target=""_blank"">blocklist.rkn.gov.ru</a>.</p>	
+					</td>
+				</tr>
+				<tr class=""mainTable-footer"">
+					<td><img src=""img/footer.jpg"" alt=""""></td>
+				</tr>
+			</tbody>
+		</table>
+</body>
+</html>
+",['tsn.ua' 'bet9ja.com']

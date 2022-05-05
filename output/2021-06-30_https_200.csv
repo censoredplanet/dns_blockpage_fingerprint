@@ -1,0 +1,1859 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+130.211.15.150,252,142.0,0.0,1.0,"['Alt-Svc: clear', 'Content-Length: 0', 'Content-Type: text/plain', 'Date: Thu, 01 Jul 2021 00:17:47 GMT', 'Server: nginx', 'Via: 1.1 google']","['it.wikipedia.org' 'mastodon.cloud' 'dailymail.co.uk' 'udn.com'
+ 'www.anonymizer.com' 'www.flickr.com' 'y2mate.com' 'nordvpn.com'
+ 'de.wikipedia.org' 'istockphoto.com' 'etsy.com' 'web.archive.org'
+ 'redbubble.com' 'badoo.com' 'www.peacefire.org' 'www.meetme.com'
+ 'www.rfa.org' 'steamcommunity.com' 'xnxx.com' 'www.uproxy.org'
+ 'www.theatlantic.com' 'disqus.com' 'www.bbc.com' 'www.dw.com'
+ 'www.cbc.ca' 'jawapos.com' 'reddit.com' 'tvants.uptodown.com'
+ 'www.privateinternetaccess.com' 'riseup.net' 'dcard.tw' 'chaturbate.com'
+ 'freenetproject.org' 'proxify.com' 'www.dailymail.co.uk' 'medium.com'
+ 'www.nbcnews.com' 'www.cfr.org' 'slate.com' 'genius.com' 'line.me'
+ 'www.betternet.co' 'www.ned.org' 'elpais.com' 'thunder.free-signal.com'
+ 'mstdn.io' 'www.fidh.org' 'theguardian.com' 'www.xroxy.com'
+ 'goodreads.com' 'www.crazyshit.com' 'mixi.jp' 'ltn.com.tw'
+ 'ja.wikipedia.org' 'www.tumblr.com' 'pixnet.net' 'news.com.au'
+ 'mastodon.social' 'discord.com' 'www.ndi.org' 'dropbox.com' 'youporn.com'
+ 'geti2p.net' 'kakao.com' 'yt1s.com' 'alt.com' 'bbc.com' 'www.youporn.com'
+ 'www.lemonde.fr' 'mastodon.xyz' 'www.securityinabox.org' 'www.twitch.tv'
+ 'www.wikipedia.org' 'www.ebaumsworld.com' 'issuu.com'
+ 'www.amnestyusa.org' 'signal.org' 'www.cpj.org' 'www.voanews.com'
+ 'beeg.com' 'feedly.com' 'ocsp.int-x3.letsencrypt.org' 'turbobit.net'
+ 'www.dailymotion.com' 'livejasmin.com' 'www.4shared.com'
+ 'get-express-vpn.online' 'www.xvideos.com' 'tor.eff.org' 'nbcnews.com'
+ 'vimeo.com' 'telegram.org' 'archive.org' '1337x.to' 'thepiratebay.org'
+ 'www.persecution.org' 'flickr.com' 'nypost.com' 'www.overdrive.com'
+ 'nikkei.com' 'secure.flickr.com' '9gag.com' 'ca.wikipedia.org'
+ 'duckduckgo.com' 'flipboard.com' 'ar.wikipedia.org' 'gate.io'
+ 'www.hotspotshield.com' 'ask.com' 'pchome.com.tw' 'businessinsider.com'
+ 'dailymotion.com' 'web.telegram.org' 'www.scribd.com' 'globalvoices.org'
+ 'imgur.com' 'www.joinclubhouse.com' 'www.ftchinese.com'
+ 'ru.wikipedia.org' 'wire.com' 'rakuten.co.jp' 'unpo.org' 'securevpn.com'
+ 'hootsuite.com' 'goo.ne.jp' 'speedify.com' 'www.pinterest.com'
+ 'getlantern.org' 'en.wikipedia.org' 'wikileaks.org' 'www.gotgayporn.com'
+ 'telegra.ph' 'rsf.org' 'bloomberg.com' 'multimedia.scmp.com'
+ 'www.tiktok.com' 'bridges.torproject.org' 'www.opentech.fund' 'quora.com'
+ 'twitch.tv' 'www.binance.com' 'facebook.com' 'setn.com'
+ 'www.ultimate-anonymity.com' 'freedomhouse.org' 'www.economist.com'
+ 'ytmp3.cc' 'www.clubhouseapi.com' 'www.proxyweb.net' 'ar.m.wikipedia.org'
+ 'www.brookings.edu' 'www.adventist.org' 'www.transparency.org'
+ 'joinmastodon.org' 'www.dailysabah.com' 'www.trendsmap.com'
+ 'groups.yahoo.com' 'www.goodreads.com' 'git.io' 'cmoney.tw'
+ 'ultrasurf.us' 'www.nytimes.com' 'daum.net' 'pt.m.wikipedia.org'
+ 'www.megaproxy.com' 'timesofindia.indiatimes.com' 'citizenlab.ca'
+ 'www.dropbox.com' 'www.pornhub.com' 'www.whatsapp.com' 'es.wikipedia.org'
+ 'indiatoday.in' 'washingtonpost.com' 'www.change.org' 'www.asstr.org'
+ 'protonvpn.com' 'archiveofourown.org' 'www.aljazeera.com'
+ 'depositphotos.com' 'en.m.wikipedia.org' 'guardster.com'
+ 'es.m.wikipedia.org' 'www.lightsailvpn.com' 'www.theguardian.com'
+ 'abc.net.au' 'ndtv.com' 'nytimes.com' 'www.amnesty.org' 'ok.ru'
+ 'soundcloud.com' 'behance.net' 'www.search.com' 'slideshare.net'
+ 'myabortionstory.tumblr.com' 'theintercept.com' 'www.rferl.org'
+ 'btguard.com' 'rumble.com' 'onedrive.live.com' 'surfshark.com'
+ 'www.heritage.org' 'uptodown.com' 'digg.com' 'www.hrw.org' 'app.wire.com'
+ 'www.bitfinex.com' 'redd.it' 'www.purevpn.com' 'bravotube.net'
+ 'www.giganews.com' 'xhamster.com' 'peacefire.org' 'coursehero.com'
+ 'wikipedia.org' 'binance.com' 'pornhub.com' 'freespeechdebate.com'
+ 'www.slideshare.net' 'psiphon.ca' 'twitter.com' 'xvideos.com'
+ 'kumparan.com' 'nicovideo.jp' 'brave.com' 'whatsapp.com' 'tumblr.com'
+ 'www.frontlinedefenders.org' 'www.hizb-ut-tahrir.org'
+ 'www.democracynow.org' 'livestream.com' 'imo.im' 'fr.wikipedia.org'
+ 'deviantart.com' 'search.brave.com' 'searx.me' 'www.ifj.org'
+ 'openvpn.net' 'shopee.tw' 'bild.de' 'www.reddit.com' 'www.facebook.com'
+ 'zh.wikipedia.org' 'pinterest.com' 'tiktok.com' 'www.washingtontimes.com'
+ 'www.bbc.co.uk' 'www.reuters.com' 'www.csmonitor.com' 'livemint.com'
+ 'avg.com' 'bbc.co.uk' 'bet365.com']"
+5.189.169.177,131,89.0,0.0,1.0,"['Connection: keep-alive', 'Content-Length: 0', 'Content-Type: text/html; charset=UTF-8']","['zol.com.cn' 'wartaekonomi.co.id' 'outbrain.com' 'get-express-vpn.online'
+ 'huim.com' 'mercadolibre.com.ve' 'flashscore.com' 'astalavista.box.sk'
+ 'realestate.com.au' 'safervpn.com' 'www.casinotropez.com' 'zingnews.vn'
+ 'mydramalist.com' 'firefoxchina.cn' 'eghtesadnews.com' 'coursera.org'
+ 'hornet.com' 'haosou.com' 'milliyet.com.tr' 'google.co.ve'
+ 'mercadolibre.com.co' 'pixlr.com' 'dashjr.org' 'impress.co.jp'
+ 'movabletype.com' 'chinadaily.com.cn' 'www.appzplanet.com'
+ 'www.sina.com.cn' '104.com.tw' 'theintercept.com' 'infourok.ru'
+ 'google.com.pk' 'linguee.com' 'www.moderndrunkardmagazine.com' 'adium.im'
+ 'baiducontent.com' 'statcounter.com' 'bolasport.com' 'mileroticos.com'
+ 'hurriyet.com.tr' 'wikidata.org' 'mercadolivre.com.br' 'pchome.com.tw'
+ 'ltn.com.tw' 'aliexpress.ru' 'endclothing.com' 'clickpost.jp' 'so.com'
+ 'kickassclassical.com' 'cnnindonesia.com' 'cnad.com' 'google.co.za'
+ 'yahoo.co.jp' 'asana.com' 'friends.walla.co.il' 'www.metacrawler.com'
+ 'brainly.com.br' 'reclameaqui.com.br' 'rakuten.co.jp' 'google.com.vn'
+ 'www.blackhat.be' 'iweihai.cn' 'secure.proxpn.com' 'proiezionidiborsa.it'
+ 'qualtrics.com' 'cnbcindonesia.com' 'target.com' 'tabelog.com'
+ 'hitwe.com' 'insecure.org' 'www.sputniknews.cn' 'dcard.tw' 'convertio.co'
+ 'zhibo8.cc' 'dafont.com' 'christwire.org' 'dmm.co.jp' 'thepaper.cn'
+ 'www.transparency.org' 'www.mamma.com' 'www.angelfire.lycos.com'
+ 'emalls.ir' 'qiita.com' 'thegatewaypundit.com' 'www.unfpa.org'
+ 'sonhoo.com' 'eatthis.com' 'ebrun.com' 'cmoney.tw' 'pcbaby.com.cn'
+ 'kontan.co.id' 'regecish.net' 'www.tawk.to'
+ 'advocacy.globalvoicesonline.org' 'globalvoices.org'
+ 'www.carnivalcasino.com' 'google.co.kr' 'www.lanacion.com.ar'
+ 'doctolib.fr' 'bnaibrith.org' 'onmarshtompor.com' '11st.co.kr'
+ 'itmedia.co.jp' 'zcool.com.cn' 'www.monacogoldcasino.com' 'lazada.co.th'
+ 'www.mainichi.co.jp' 'tutorialspoint.com' 'hotjar.com' 'www.hightail.com'
+ 'guardster.com' 'consultant.ru' 'cnnic.cn' 'w3school.com.cn' 'runoob.com'
+ 'www.telegraph.co.uk' 'tempo.co' 'bestlifeonline.com' 'agacelebir.com'
+ 'thethao247.vn' 'indiatoday.in' 'www.ananzi.co.za' 'bola.net'
+ 'activehosted.com' 'sina.com.cn' 'atlassian.net' 'mercadolibre.com.ar'
+ '51sole.com' 'segmentfault.com' 'avaaz.org' 'tumblr.com']"
+103.149.238.140,57,40090.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 39818', 'Content-Type: text/html; charset=UTF-8', 'Date: Thu, 01 Jul 2021 00:18:33 GMT', 'Etag: ""9b8a-5b175c9df5586""', 'Last-Modified: Mon, 12 Oct 2020 09:18:59 GMT', 'Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.2.34']<!doctype html>
+<html lang=""en"">
+<head>
+  <meta charset=""utf-8"">
+  <title>bitniaga.net.id</title>
+  <meta content=""width=device-width, initial-scale=1.0"" name=""viewport"">
+  <meta content="""" name=""keywords"">
+  <meta content="""" name=""description"">
+
+  <!-- Favicons -->
+  <link href=""img/logo/bcg.jpeg"" rel=""icon"">
+  <link href=""img/apple-touch-icon.png"" rel=""apple-touch-icon"">
+
+  <!-- Google Fonts -->
+  <link href=""https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700|Raleway:300,400,400i,500,500i,700,800,900"" rel=""stylesheet"">
+
+  <!-- Bootstrap CSS File -->
+  <link href=""lib/bootstrap/css/bootstrap.min.css"" rel=""stylesheet"">
+
+  <!-- Libraries CSS Files -->
+  <link href=""lib/nivo-slider/css/nivo-slider.css"" rel=""stylesheet"">
+  <link href=""lib/owlcarousel/owl.carousel.css"" rel=""stylesheet"">
+  <link href=""lib/owlcarousel/owl.transitions.css"" rel=""stylesheet"">
+  <link href=""lib/font-awesome/css/font-awesome.min.css"" rel=""stylesheet"">
+  <link href=""lib/animate/animate.min.css"" rel=""stylesheet"">
+  <link href=""lib/venobox/venobox.css"" rel=""stylesheet"">
+
+  <!-- Nivo Slider Theme -->
+  <link href=""css/nivo-slider-theme.css"" rel=""stylesheet"">
+
+  <!-- Main Stylesheet File -->
+  <link href=""css/style.css"" rel=""stylesheet"">
+
+  <!-- Responsive Stylesheet File -->
+  <link href=""css/responsive.css"" rel=""stylesheet"">
+
+  <!-- =======================================================
+    Theme Name: eBusiness
+    Theme URL: https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/
+    Author: BootstrapMade.com
+    License: https://bootstrapmade.com/license/
+  ======================================================= -->
+</head>
+
+<body data-spy=""scroll"" data-target=""#navbar-example"">
+
+  <div id=""preloader""></div>
+
+  <header>
+    <!-- header-area start -->
+    <div id=""sticker"" class=""header-area"">
+      <div class=""container"">
+        <div class=""row"">
+          <div class=""col-md-12 col-sm-12"">
+
+            <!-- Navigation -->
+            <nav class=""navbar navbar-default"">
+              <!-- Brand and toggle get grouped for better mobile display -->
+              <div class=""navbar-header"">
+                <button type=""button"" class=""navbar-toggle collapsed"" data-toggle=""collapse"" data-target="".bs-example-navbar-collapse-1"" aria-expanded=""false"">
+										<span class=""sr-only"">Toggle navigation</span>
+										<span class=""icon-bar""></span>
+										<span class=""icon-bar""></span>
+										<span class=""icon-bar""></span>
+									</button>
+                <!-- Brand -->
+                <a class=""navbar-brand page-scroll sticky-logo"" href=""index.html"">
+                  <h1><span>B</span>itniaga</h1>
+                  <!-- Uncomment below if you prefer to use an image logo -->
+                  <!-- <img src=""img/logo.png"" alt="""" title=""""> -->
+								</a>
+              </div>
+              <!-- Collect the nav links, forms, and other content for toggling -->
+              <div class=""collapse navbar-collapse main-menu bs-example-navbar-collapse-1"" id=""navbar-example"">
+                <ul class=""nav navbar-nav navbar-right"">
+                  <li class=""active"">
+                    <a class=""page-scroll"" href=""#home"">Home</a>
+                  </li>
+                  <li>
+                    <a class=""page-scroll"" href=""#about"">About</a>
+                  </li>
+                  <li>
+                    <a class=""page-scroll"" href=""#services"">Services</a>
+                  </li>
+                 <!--  <li>
+                    <a class=""page-scroll"" href=""#team"">Team</a>
+                  </li> -->
+                  <!-- <li>
+                    <a class=""page-scroll"" href=""#portfolio"">Portfolio</a>
+                  </li> -->
+
+                  <!-- <li class=""dropdown""><a href=""#"" class=""dropdown-toggle"" data-toggle=""dropdown"">Drop Down<span class=""caret""></span></a>
+                    <ul class=""dropdown-menu"" role=""menu"">
+                      <li><a href=# >Drop Down 1</a></li>
+                      <li><a href=# >Drop Down 2</a></li>
+                    </ul> 
+                  </li> -->
+
+                  <!-- <li>
+                    <a class=""page-scroll"" href=""#blog"">Blog</a>
+                  </li> -->
+                  <li>
+                    <a class=""page-scroll"" href=""#contact"">Contact</a>
+                  </li>
+                </ul>
+              </div>
+              <!-- navbar-collapse -->
+            </nav>
+            <!-- END: Navigation -->
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- header-area end -->
+  </header>
+  <!-- header end -->
+
+  <!-- Start Slider Area -->
+  <div id=""home"" class=""slider-area"">
+    <div class=""bend niceties preview-2"">
+      <div id=""ensign-nivoslider"" class=""slides"">
+        <img src=""img/slider/slider1.jpg"" alt="""" title=""#slider-direction-1"" />
+        <img src=""img/slider/slider2.jpg"" alt="""" title=""#slider-direction-2"" />
+        <img src=""img/slider/slider3.jpg"" alt="""" title=""#slider-direction-3"" />
+      </div>
+
+      <!-- direction 1 -->
+      <div id=""slider-direction-1"" class=""slider-direction slider-one"">
+        <div class=""container"">
+          <div class=""row"">
+            <div class=""col-md-12 col-sm-12 col-xs-12"">
+              <div class=""slider-content"">
+                <!-- layer 1 -->
+                <div class=""layer-1-1 hidden-xs wow slideInDown"" data-wow-duration=""2s"" data-wow-delay="".2s"">
+                  <h2 class=""title1"">Partner in Technology and Solutions</h2>
+                </div>
+                <!-- layer 2 -->
+                <div class=""layer-1-2 wow slideInUp"" data-wow-duration=""2s"" data-wow-delay="".1s"">
+                  <h1 class=""title2"">We are all now connected by the Internet, like neurons in a giant brain.</h1>
+                </div>
+                <!-- layer 3 -->
+                <div class=""layer-1-3 hidden-xs wow slideInUp"" data-wow-duration=""2s"" data-wow-delay="".2s"">
+                  <a class=""ready-btn right-btn page-scroll"" href=""#services"">See Product</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- direction 2 -->
+      <div id=""slider-direction-2"" class=""slider-direction slider-two"">
+        <div class=""container"">
+          <div class=""row"">
+            <div class=""col-md-12 col-sm-12 col-xs-12"">
+              <div class=""slider-content text-center"">
+                <!-- layer 1 -->
+                <div class=""layer-1-1 hidden-xs wow slideInUp"" data-wow-duration=""2s"" data-wow-delay="".2s"">
+                  <h2 class=""title1""> Partner in Technology and Solutions </h2>
+                </div>
+                <!-- layer 2 -->
+                <div class=""layer-1-2 wow slideInUp"" data-wow-duration=""2s"" data-wow-delay="".1s"">
+                  <h1 class=""title2"">The Best Information Communication Technology</h1>
+                </div>
+                <!-- layer 3 -->
+                <div class=""layer-1-3 hidden-xs wow slideInUp"" data-wow-duration=""2s"" data-wow-delay="".2s"">
+                  <a class=""ready-btn right-btn page-scroll"" href=""#services"">See Product</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- direction 3 -->
+      <div id=""slider-direction-3"" class=""slider-direction slider-two"">
+        <div class=""container"">
+          <div class=""row"">
+            <div class=""col-md-12 col-sm-12 col-xs-12"">
+              <div class=""slider-content"">
+                <!-- layer 1 -->
+                <div class=""layer-1-1 hidden-xs wow slideInUp"" data-wow-duration=""2s"" data-wow-delay="".2s"">
+                  <h2 class=""title1"">Partner in Technology and Solutions</h2>
+                </div>
+                <!-- layer 2 -->
+                <div class=""layer-1-2 wow slideInUp"" data-wow-duration=""2s"" data-wow-delay="".1s"">
+                  <h1 class=""title2"">We're In The Business Of Get Quality Internet Service</h1>
+                </div>
+                <!-- layer 3 -->
+                <div class=""layer-1-3 hidden-xs wow slideInUp"" data-wow-duration=""2s"" data-wow-delay="".2s"">
+                  <a class=""ready-btn right-btn page-scroll"" href=""#services"">See Product</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End Slider Area -->
+
+  <!-- Start About area -->
+  <div id=""about"" class=""about-area area-padding"">
+    <div class=""container"">
+      <div class=""row"">
+        <div class=""col-md-12 col-sm-12 col-xs-12"">
+          <div class=""section-headline text-center"">
+            <h2>About bitniaga.net.id</h2>
+          </div>
+        </div>
+      </div>
+      <div class=""row"">
+        <!-- single-well start-->
+        <div class=""col-md-6 col-sm-6 col-xs-12"">
+          <div class=""well-left"">
+            <div class=""single-well"">
+              <a href=""#"">
+								  <img src=""img/about/1.jpg"" alt="""">
+								</a>
+            </div>
+          </div>
+        </div>
+        <!-- single-well end-->
+        <div class=""col-md-6 col-sm-6 col-xs-12"">
+          <div class=""well-middle"">
+            <div class=""single-well"">
+              <a href=""#"">
+                <h4 class=""sec-head"">Bitniaga</h4>
+              </a>
+              <p>
+                PT. Bitniaga Cipta Gemilang adalah ISP yang berdomisili di Mojokerto .Tujuan kami adalah memberikan pelayanan internet yang terbaik dalam hal kualitas dengan harga yang terjangkau.
+              </p>
+              <p>Sebagai Internet Service Provider, kami melayani</p>
+              <ul>
+                <li>
+                  <i class=""fa fa-check""></i> Internet broadband
+                </li>
+                <li>
+                  <i class=""fa fa-check""></i> Internet Dedicated
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <!-- End col-->
+      </div>
+    </div>
+  </div>
+  <!-- End About area -->
+
+  <!-- Start Service area -->
+  <div id=""services"" class=""services-area area-padding"">
+    <div class=""container"">
+      <div class=""row"">
+        <div class=""col-md-12 col-sm-12 col-xs-12"">
+          <div class=""section-headline services-head text-center"">
+            <h2>Our Services</h2>
+          </div>
+        </div>
+      </div>
+      <div class=""row text-center"">
+        <div class=""services-contents"">
+          <!-- Start Left services -->
+          <div class=""col-md-6 col-sm-6 col-xs-12"">
+            <div class=""about-move"">
+              <div class=""services-details"">
+                <div class=""single-services"">
+                  <a class=""services-icon"" href=""#"">
+											<img src=""img/logo/home.png"" style=""width:50px"" alt="""">
+										</a>
+                  <h4>Internet Broadband</h4>
+                  <p>
+                    Kami melayani pemasangan internet broadband yang cocok untuk keluarga dirumah.
+                  </p>
+                </div>
+              </div>
+              <!-- end about-details -->
+            </div>
+          </div>
+          <div class=""col-md-6 col-sm-6 col-xs-12"">
+            <div class=""about-move"">
+              <div class=""services-details"">
+                <div class=""single-services"">
+                  <a class=""services-icon"" href=""#"">
+											<img src=""img/logo/company.png"" style=""width:50px"" alt="""">
+										</a>
+                  <h4>Internet Dedicated</h4>
+                  <p>
+                    Kami melayani internet dedicated yang cocok untuk perusahaan - perusahaan.
+                  </p>
+                </div>
+              </div>
+              <!-- end about-details -->
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+  <!-- End Service area -->
+
+  <!-- our-skill-area start -->
+  <div class=""our-skill-area fix hidden-sm"">
+    <div class=""test-overly""></div>
+    <div class=""skill-bg area-padding-2"">
+      <div class=""container"">
+        <!-- section-heading end -->
+        <div class=""row"">
+          <div class=""skill-text"">
+            <!-- single-skill start -->
+            <div class=""col-xs-12 col-sm-3 col-md-3 text-center"">
+              <div class=""single-skill"">
+                <div class=""progress-circular"">
+                  <input type=""text"" class=""knob"" value=""0"" data-rel=""95"" data-linecap=""round"" data-width=""175"" data-bgcolor=""#fff"" data-fgcolor=""#3EC1D5"" data-thickness="".20"" data-readonly=""true"" disabled>
+                  <h3 class=""progress-h4"">Web Server</h3>
+                </div>
+              </div>
+            </div>
+            <!-- single-skill end -->
+            <!-- single-skill start -->
+            <div class=""col-xs-12 col-sm-3 col-md-3 text-center"">
+              <div class=""single-skill"">
+                <div class=""progress-circular"">
+                  <input type=""text"" class=""knob"" value=""0"" data-rel=""85"" data-linecap=""round"" data-width=""175"" data-bgcolor=""#fff"" data-fgcolor=""#3EC1D5"" data-thickness="".20"" data-readonly=""true"" disabled>
+                  <h3 class=""progress-h4"">Server</h3>
+                </div>
+              </div>
+            </div>
+            <!-- single-skill end -->
+            <!-- single-skill start -->
+            <div class=""col-xs-12 col-sm-3 col-md-3 text-center"">
+              <div class=""single-skill"">
+                <div class=""progress-circular"">
+                  <input type=""text"" class=""knob"" value=""0"" data-rel=""90"" data-linecap=""round"" data-width=""175"" data-bgcolor=""#fff"" data-fgcolor=""#3EC1D5"" data-thickness="".20"" data-readonly=""true"" disabled>
+                  <h3 class=""progress-h4"">Security Internet</h3>
+                </div>
+              </div>
+            </div>
+            <!-- single-skill end -->
+            <!-- single-skill start -->
+            <div class=""col-xs-12 col-sm-3 col-md-3 text-center"">
+              <div class=""single-skill"">
+                <div class=""progress-circular"">
+                  <input type=""text"" class=""knob"" value=""0"" data-rel=""85"" data-linecap=""round"" data-width=""175"" data-bgcolor=""#fff"" data-fgcolor=""#3EC1D5"" data-thickness="".20"" data-readonly=""true"" disabled>
+                  <h3 class=""progress-h4"">Data Center</h3>
+                </div>
+              </div>
+            </div>
+            <!-- single-skill end -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- our-skill-area end -->
+
+  
+
+  <!-- Start Wellcome Area -->
+ <!--  <div class=""wellcome-area"">
+    <div class=""well-bg"">
+      <div class=""test-overly""></div>
+      <div class=""container"">
+        <div class=""row"">
+          <div class=""col-md-12 col-sm-12 col-xs-12"">
+            <div class=""wellcome-text"">
+              <div class=""well-text text-center"">
+                <h2>Welcome To Our eBusiness</h2>
+                <p>
+                </p>
+                <div class=""subs-feilds"">
+                  <div class=""suscribe-input"">
+                    <input type=""email"" class=""email form-control width-80"" id=""sus_email"" placeholder=""Email"">
+                    <button type=""submit"" id=""sus_submit"" class=""add-btn width-20"">Subscribe</button>
+                    <div id=""msg_Submit"" class=""h3 text-center hidden""></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> -->
+  <!-- End Wellcome Area -->
+
+  <!-- Start team Area -->
+  <!-- <div id=""team"" class=""our-team-area area-padding"">
+    <div class=""container"">
+      <div class=""row"">
+        <div class=""col-md-12 col-sm-12 col-xs-12"">
+          <div class=""section-headline text-center"">
+            <h2>Our special Team</h2>
+          </div>
+        </div>
+      </div>
+      <div class=""row"">
+        <div class=""team-top"">
+          <div class=""col-md-3 col-sm-3 col-xs-12"">
+            <div class=""single-team-member"">
+              <div class=""team-img"">
+                <a href=""#"">
+										<img src=""img/team/1.jpg"" alt="""">
+									</a>
+                <div class=""team-social-icon text-center"">
+                  <ul>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-facebook""></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-twitter""></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-instagram""></i>
+												</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class=""team-content text-center"">
+                <h4>Jhon Mickel</h4>
+                <p>Seo</p>
+              </div>
+            </div>
+          </div>
+
+          <div class=""col-md-3 col-sm-3 col-xs-12"">
+            <div class=""single-team-member"">
+              <div class=""team-img"">
+                <a href=""#"">
+										<img src=""img/team/2.jpg"" alt="""">
+									</a>
+                <div class=""team-social-icon text-center"">
+                  <ul>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-facebook""></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-twitter""></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-instagram""></i>
+												</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class=""team-content text-center"">
+                <h4>Andrew Arnold</h4>
+                <p>Web Developer</p>
+              </div>
+            </div>
+          </div>
+          <div class=""col-md-3 col-sm-3 col-xs-12"">
+            <div class=""single-team-member"">
+              <div class=""team-img"">
+                <a href=""#"">
+										<img src=""img/team/3.jpg"" alt="""">
+									</a>
+                <div class=""team-social-icon text-center"">
+                  <ul>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-facebook""></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-twitter""></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-instagram""></i>
+												</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class=""team-content text-center"">
+                <h4>Lellien Linda</h4>
+                <p>Web Design</p>
+              </div>
+            </div>
+          </div>
+          <div class=""col-md-3 col-sm-3 col-xs-12"">
+            <div class=""single-team-member"">
+              <div class=""team-img"">
+                <a href=""#"">
+										<img src=""img/team/4.jpg"" alt="""">
+									</a>
+                <div class=""team-social-icon text-center"">
+                  <ul>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-facebook""></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-twitter""></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href=""#"">
+													<i class=""fa fa-instagram""></i>
+												</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class=""team-content text-center"">
+                <h4>Jhon Powel</h4>
+                <p>Seo Expert</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> -->
+  <!-- End Team Area -->
+
+  <!-- Start reviews Area -->
+  <!-- <div class=""reviews-area hidden-xs"">
+    <div class=""work-us"">
+      <div class=""work-left-text"">
+        <a href=""#"">
+						<img src=""img/about/2.jpg"" alt="""">
+					</a>
+      </div>
+      <div class=""work-right-text text-center"">
+        <h2>working with us</h2>
+        <h5>Web Design, Ready Home, Construction and Co-operate Outstanding Buildings.</h5>
+        <a href=""#contact"" class=""ready-btn"">Contact us</a>
+      </div>
+    </div>
+  </div> -->
+  <!-- End reviews Area -->
+
+  <!-- Start portfolio Area -->
+  <!-- <div id=""portfolio"" class=""portfolio-area area-padding fix"">
+    <div class=""container"">
+      <div class=""row"">
+        <div class=""col-lg-12 col-md-12 col-sm-12 col-xs-12"">
+          <div class=""section-headline text-center"">
+            <h2>Our Portfolio</h2>
+          </div>
+        </div>
+      </div>
+      <div class=""row"">
+        <div class=""awesome-project-1 fix"">
+          <div class=""col-lg-12 col-md-12 col-sm-12 col-xs-12"">
+            <div class=""awesome-menu "">
+              <ul class=""project-menu"">
+                <li>
+                  <a href=""#"" class=""active"" data-filter=""*"">All</a>
+                </li>
+                <li>
+                  <a href=""#"" data-filter="".development"">Development</a>
+                </li>
+                <li>
+                  <a href=""#"" data-filter="".design"">Design</a>
+                </li>
+                <li>
+                  <a href=""#"" data-filter="".photo"">Photoshop</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class=""awesome-project-content"">
+          <div class=""col-md-4 col-sm-4 col-xs-12 design development"">
+            <div class=""single-awesome-project"">
+              <div class=""awesome-img"">
+                <a href=""#""><img src=""img/portfolio/1.jpg"" alt="""" /></a>
+                <div class=""add-actions text-center"">
+                  <div class=""project-dec"">
+                    <a class=""venobox"" data-gall=""myGallery"" href=""img/portfolio/1.jpg"">
+                      <h4>Business City</h4>
+                      <span>Web Development</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class=""col-md-4 col-sm-4 col-xs-12 photo"">
+            <div class=""single-awesome-project"">
+              <div class=""awesome-img"">
+                <a href=""#""><img src=""img/portfolio/2.jpg"" alt="""" /></a>
+                <div class=""add-actions text-center"">
+                  <div class=""project-dec"">
+                    <a class=""venobox"" data-gall=""myGallery"" href=""img/portfolio/2.jpg"">
+                      <h4>Blue Sea</h4>
+                      <span>Photosho</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class=""col-md-4 col-sm-4 col-xs-12 design"">
+            <div class=""single-awesome-project"">
+              <div class=""awesome-img"">
+                <a href=""#""><img src=""img/portfolio/3.jpg"" alt="""" /></a>
+                <div class=""add-actions text-center"">
+                  <div class=""project-dec"">
+                    <a class=""venobox"" data-gall=""myGallery"" href=""img/portfolio/3.jpg"">
+                      <h4>Beautiful Nature</h4>
+                      <span>Web Design</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class=""col-md-4 col-sm-4 col-xs-12 photo development"">
+            <div class=""single-awesome-project"">
+              <div class=""awesome-img"">
+                <a href=""#""><img src=""img/portfolio/4.jpg"" alt="""" /></a>
+                <div class=""add-actions text-center"">
+                  <div class=""project-dec"">
+                    <a class=""venobox"" data-gall=""myGallery"" href=""img/portfolio/4.jpg"">
+                      <h4>Creative Team</h4>
+                      <span>Web design</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class=""col-md-4 col-sm-4 col-xs-12 development"">
+            <div class=""single-awesome-project"">
+              <div class=""awesome-img"">
+                <a href=""#""><img src=""img/portfolio/5.jpg"" alt="""" /></a>
+                <div class=""add-actions text-center text-center"">
+                  <div class=""project-dec"">
+                    <a class=""venobox"" data-gall=""myGallery"" href=""img/portfolio/5.jpg"">
+                      <h4>Beautiful Flower</h4>
+                      <span>Web Development</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class=""col-md-4 col-sm-4 col-xs-12 design photo"">
+            <div class=""single-awesome-project"">
+              <div class=""awesome-img"">
+                <a href=""#""><img src=""img/portfolio/6.jpg"" alt="""" /></a>
+                <div class=""add-actions text-center"">
+                  <div class=""project-dec"">
+                    <a class=""venobox"" data-gall=""myGallery"" href=""img/portfolio/6.jpg"">
+                      <h4>Night Hill</h4>
+                      <span>Photoshop</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> -->
+  <!-- awesome-portfolio end -->
+  <!-- start pricing area -->
+  <div id=""pricing"" class=""pricing-area area-padding"">
+    <div class=""container"">
+      <div class=""row"">
+        <div class=""col-md-12 col-sm-12 col-xs-12"">
+          <div class=""section-headline text-center"">
+            <h2>Pricing Table</h2>
+          </div>
+        </div>
+      </div>
+      <div class=""row"">
+        <div class=""col-md-4 col-sm-4 col-xs-12"">
+          <div class=""pri_table_list"">
+            <h3>Internet Broadband ( Upto 5 Mbps ) <br/> <span>Rp 300.000 / month</span></h3>
+            <ol>
+              <li class=""check"">Unlimited</li>
+              <li class=""check"">Download</li>
+              <li class=""check"">Upload</li>
+              <li class=""check cross"">24 jam</li>
+              <li class=""check cross"">Cash back</li>
+            </ol>
+            <button>Beli</button>
+          </div>
+        </div>
+         <div class=""col-md-4 col-sm-4 col-xs-12"">
+          <div class=""pri_table_list"">
+            <h3>Internet Broadband ( Upto 10 Mbps ) <br/> <span>Rp 500.000 / month</span></h3>
+            <ol>
+              <li class=""check"">Unlimited</li>
+              <li class=""check"">Download</li>
+              <li class=""check"">Upload</li>
+              <li class=""check cross"">24 jam</li>
+              <li class=""check cross"">Cash back</li>
+            </ol>
+            <button>Beli</button>
+          </div>
+        </div>
+        <div class=""col-md-4 col-sm-4 col-xs-12"">
+          <div class=""pri_table_list active"">
+            <span class=""saleon"">top sale</span>
+            <h3>Dedicated <br/> <span>Rp. 5.0000.000 / month</span></h3>
+            <ol>
+              <li class=""check"">Unlimited</li>
+              <li class=""check"">Download</li>
+              <li class=""check"">Upload</li>
+              <li class=""check"">24 jam</li>
+              <li class=""check"">Cash back</li>
+            </ol>
+            <button>Beli</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End pricing table area -->
+  <!-- Start Testimonials -->
+  <div class=""testimonials-area"">
+    <div class=""testi-inner area-padding"">
+      <div class=""testi-overly""></div>
+      <div class=""container "">
+        <div class=""row"">
+          <div class=""col-md-12 col-sm-12 col-xs-12"">
+            <!-- Start testimonials Start -->
+            <div class=""testimonial-content text-center"">
+              <a class=""quate"" href=""#""><i class=""fa fa-quote-right""></i></a>
+              <!-- start testimonial carousel -->
+              <div class=""testimonial-carousel"">
+                <div class=""single-testi"">
+                  <div class=""testi-text"">
+                    <p>
+                    </p>
+                    <h6>Boby</h6>
+                  </div>
+                </div>
+                <!-- End single item -->
+                <div class=""single-testi"">
+                  <div class=""testi-text"">
+                    <p>
+                    </p>
+                    <h6>Jhon</h6>
+                  </div>
+                </div>
+                <!-- End single item -->
+                <div class=""single-testi"">
+                  <div class=""testi-text"">
+                    <p>
+                    </p>
+                    <h6>Fleming</h6>
+                  </div>
+                </div>
+                <!-- End single item -->
+              </div>
+            </div>
+            <!-- End testimonials end -->
+          </div>
+          <!-- End Right Feature -->
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End Testimonials -->
+  <!-- Start Blog Area -->
+  <!-- <div id=""blog"" class=""blog-area"">
+    <div class=""blog-inner area-padding"">
+      <div class=""blog-overly""></div>
+      <div class=""container "">
+        <div class=""row"">
+          <div class=""col-md-12 col-sm-12 col-xs-12"">
+            <div class=""section-headline text-center"">
+              <h2>Latest News</h2>
+            </div>
+          </div>
+        </div>
+        <div class=""row"">
+          <div class=""col-md-4 col-sm-4 col-xs-12"">
+            <div class=""single-blog"">
+              <div class=""single-blog-img"">
+                <a href=""blog.html"">
+										<img src=""img/blog/1.jpg"" alt="""">
+									</a>
+              </div>
+              <div class=""blog-meta"">
+                <span class=""comments-type"">
+										<i class=""fa fa-comment-o""></i>
+										<a href=""#"">13 comments</a>
+									</span>
+                <span class=""date-type"">
+										<i class=""fa fa-calendar""></i>2016-03-05 / 09:10:16
+									</span>
+              </div>
+              <div class=""blog-text"">
+                <h4>
+                                        <a href=""blog.html"">Assumenda repud eum veniam</a>
+									</h4>
+                <p>
+                </p>
+              </div>
+              <span>
+									<a href=""blog.html"" class=""ready-btn"">Read more</a>
+								</span>
+            </div>
+          <div class=""col-md-4 col-sm-4 col-xs-12"">
+            <div class=""single-blog"">
+              <div class=""single-blog-img"">
+                <a href=""blog.html"">
+										<img src=""img/blog/2.jpg"" alt="""">
+									</a>
+              </div>
+              <div class=""blog-meta"">
+                <span class=""comments-type"">
+										<i class=""fa fa-comment-o""></i>
+										<a href=""#"">130 comments</a>
+									</span>
+                <span class=""date-type"">
+										<i class=""fa fa-calendar""></i>2016-03-05 / 09:10:16
+									</span>
+              </div>
+              <div class=""blog-text"">
+                <h4>
+                                        <a href=""blog.html"">Explicabo magnam quibusdam.</a>
+									</h4>
+                <p>
+                </p>
+              </div>
+              <span>
+									<a href=""blog.html"" class=""ready-btn"">Read more</a>
+								</span>
+            </div>
+          </div>
+          <div class=""col-md-4 col-sm-4 col-xs-12"">
+            <div class=""single-blog"">
+              <div class=""single-blog-img"">
+                <a href=""blog.html"">
+										<img src=""img/blog/3.jpg"" alt="""">
+									</a>
+              </div>
+              <div class=""blog-meta"">
+                <span class=""comments-type"">
+										<i class=""fa fa-comment-o""></i>
+										<a href=""#"">10 comments</a>
+									</span>
+                <span class=""date-type"">
+										<i class=""fa fa-calendar""></i>2016-03-05 / 09:10:16
+									</span>
+              </div>
+              <div class=""blog-text"">
+                <h4>
+                                        <a href=""blog.html"">Lorem ipsum dolor sit amet</a>
+									</h4>
+                <p>
+                  Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.
+                </p>
+              </div>
+              <span>
+									<a href=""blog.html"" class=""ready-btn"">Read more</a>
+								</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> -->
+  <!-- End Blog -->
+  <!-- Start Suscrive Area -->
+  <div class=""suscribe-area"">
+    <div class=""container"">
+      <div class=""row"">
+        <div class=""col-lg-12 col-md-12 col-sm-12 col-xs=12"">
+          <div class=""suscribe-text text-center"">
+            <h3>Welcome to Bitniaga.net</h3>
+            <!-- <a class=""sus-btn"" href=""#"">Get A quate</a> -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End Suscrive Area -->
+  <!-- Start contact Area -->
+  <div id=""contact"" class=""contact-area"">
+    <div class=""contact-inner area-padding"">
+      <div class=""contact-overly""></div>
+      <div class=""container "">
+        <div class=""row"">
+          <div class=""col-md-12 col-sm-12 col-xs-12"">
+            <div class=""section-headline text-center"">
+              <h2>Contact us</h2>
+            </div>
+          </div>
+        </div>
+        <div class=""row"">
+          <!-- Start contact icon column -->
+          <div class=""col-md-4 col-sm-4 col-xs-12"">
+            <div class=""contact-icon text-center"">
+              <div class=""single-icon"">
+                <i class=""fa fa-mobile""></i>
+                <p>
+                  Call: 0813-3500-0083<br>
+                  <span>Whatapps : 0813-3500-0083</span>
+                  <span>monday-saturday (8am-4pm)</span>
+                </p>
+              </div>
+            </div>
+          </div>
+          <!-- Start contact icon column -->
+          <div class=""col-md-4 col-sm-4 col-xs-12"">
+            <div class=""contact-icon text-center"">
+              <div class=""single-icon"">
+                <i class=""fa fa-envelope-o""></i>
+                <p>
+                  Email: support@bitniaga.net.id
+                  <br><span>Email Teknis : noc@bitniaga.net.id</span></br>
+                  <span>Web: www.bitniaga.net.id</span>
+                </p>
+              </div>
+            </div>
+          </div>
+          <!-- Start contact icon column -->
+          <div class=""col-md-4 col-sm-4 col-xs-12"">
+            <div class=""contact-icon text-center"">
+              <div class=""single-icon"">
+                <i class=""fa fa-map-marker""></i>
+                <p>
+                  Location: Dsn. Ringgit Ds. Kembang Ringgit, RT 03 RW 06, Kec.Pungging<br>
+                  <span>- Mojokerto</span>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class=""row"">
+
+          <!-- Start Google Map -->
+          <div class=""col-md-12 col-sm-12 col-xs-12"">
+            <!-- Start Map -->
+            <iframe src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1631.3445649755315!2d112.5957110489257!3d-7.526631798224305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7875480dce0a6d%3A0xef771135efdeb755!2sKembangringgit%2C%20Kec.%20Pungging%2C%20Mojokerto%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1584380783279!5m2!1sid!2sid"" width=""100%"" height=""450"" frameborder=""0"" style=""border:0;"" allowfullscreen="""" aria-hidden=""false"" tabindex=""0""></iframe>
+            <!-- End Map -->
+          </div>
+          <!-- End Google Map -->
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End Contact Area -->
+
+  <!-- Start Footer bottom Area -->
+  <footer>
+    <div class=""footer-area"">
+      <div class=""container"">
+        <div class=""row"">
+          <div class=""col-md-4 col-sm-4 col-xs-12"">
+            <div class=""footer-content"">
+              <div class=""footer-head"">
+                <div class=""footer-logo"">
+                  <h2><span>B</span>itniaga</h2>
+                </div>
+
+                <p></p>
+                <div class=""footer-icons"">
+                  <!--<ul>-->
+                  <!--  <li>-->
+                  <!--    <a href=""#""><i class=""fa fa-facebook""></i></a>-->
+                  <!--  </li>-->
+                  <!--  <li>-->
+                  <!--    <a href=""#""><i class=""fa fa-twitter""></i></a>-->
+                  <!--  </li>-->
+                  <!--  <li>-->
+                  <!--    <a href=""#""><i class=""fa fa-google""></i></a>-->
+                  <!--  </li>-->
+                  <!--  <li>-->
+                  <!--    <a href=""#""><i class=""fa fa-pinterest""></i></a>-->
+                  <!--  </li>-->
+                  <!--</ul>-->
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end single footer -->
+          <div class=""col-md-4 col-sm-4 col-xs-12"">
+            <div class=""footer-content"">
+              <div class=""footer-head"">
+                <h4>information</h4>
+                <p>
+                  
+                </p>
+                <div class=""footer-contacts"">
+                  <p><span>Tel:</span> 0813 - 3500 - 0083</p>
+                  <p><span>Email:</span> support@bitniaga.net.id</p>
+                  <p><span>Working Hours:</span> 8am-4pm</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end single footer -->
+          <div class=""col-md-4 col-sm-4 col-xs-12"">
+            <div class=""footer-content"">
+              <div class=""footer-head"">
+                <h4>Instagram</h4>
+                <div class=""flicker-img"">
+                  <a href=""#""><img src=""img/portfolio/1.jpg"" alt=""""></a>
+                  <a href=""#""><img src=""img/portfolio/2.jpg"" alt=""""></a>
+                  <a href=""#""><img src=""img/portfolio/3.jpg"" alt=""""></a>
+                  <a href=""#""><img src=""img/portfolio/4.jpg"" alt=""""></a>
+                  <a href=""#""><img src=""img/portfolio/5.jpg"" alt=""""></a>
+                  <a href=""#""><img src=""img/portfolio/6.jpg"" alt=""""></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class=""footer-area-bottom"">
+      <div class=""container"">
+        <div class=""row"">
+          <div class=""col-md-12 col-sm-12 col-xs-12"">
+            <div class=""copyright text-center"">
+              <!-- <p>
+                &copy; Copyright <strong>Bitnia</strong>. All Rights Reserved
+              </p> -->
+            </div>
+            <div class=""credits"">
+              <!--
+                All the links in the footer should remain intact.
+                You can delete the links only if you purchased the pro version.
+                Licensing information: https://bootstrapmade.com/license/
+                Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=eBusiness
+              -->
+            <!--   Designed by <a href=""https://bootstrapmade.com/"">BootstrapMade</a> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <a href=""#"" class=""back-to-top""><i class=""fa fa-chevron-up""></i></a>
+
+  <!-- JavaScript Libraries -->
+  <script src=""lib/jquery/jquery.min.js""></script>
+  <script src=""lib/bootstrap/js/bootstrap.min.js""></script>
+  <script src=""lib/owlcarousel/owl.carousel.min.js""></script>
+  <script src=""lib/venobox/venobox.min.js""></script>
+  <script src=""lib/knob/jquery.knob.js""></script>
+  <script src=""lib/wow/wow.min.js""></script>
+  <script src=""lib/parallax/parallax.js""></script>
+  <script src=""lib/easing/easing.min.js""></script>
+  <script src=""lib/nivo-slider/js/jquery.nivo.slider.js"" type=""text/javascript""></script>
+  <script src=""lib/appear/jquery.appear.js""></script>
+  <script src=""lib/isotope/isotope.pkgd.min.js""></script>
+
+  <!-- Contact Form JavaScript File -->
+  <script src=""contactform/contactform.js""></script>
+
+  <script src=""js/main.js""></script>
+</body>
+
+</html>
+","['worldsingles.com' 'youporn.com' '4chan.org' 'trashy.com'
+ 'sportradar.com' 'alt.com' 'www.xvideos.com' 'www.youporn.com'
+ 'bet9ja.com' 'transsexual.org' 'bongacams.com' 'southcn.com'
+ 'teenadvice.about.com' 'bisexual.org' '1337x.to' 'rutracker.org'
+ 'www.coquette.com' 'mileroticos.com' 'rarbg.to' 'www.89.com' 'ilga.org'
+ 'xnxx.com' 'pridesource.com' 'adultfriendfinder.com' 'xvideos.com'
+ 'www.3wishes.com' 'www.ultimate-anonymity.com' 'www.queernet.org'
+ 'www.ilga-europe.org' 'vimeo.com' 'thepiratebay.org' 'livejasmin.com'
+ 'sfsi.org' 'anonymouse.org' 'flirtylingerie.com' 'godhatesfags.com'
+ 'bravotube.net' 'www.lesbiansubmission.com' '8thstreetlatinas.com'
+ 'panties.com' 'subscene.com' 'hotgaylist.com' 'heavy.com' 'casino.com'
+ 'www.hizb-ut-tahrir.org' 'poki.com' 'onlyfans.com' 'bet365.com'
+ 'pornhub.com' 'sxyprn.com' 'dmm.co.jp' 'www.pornhub.com' 'chaturbate.com'
+ 'xhamster.com' 'beeg.com' 'reddit.com' 'www.lushstories.com']"
+125.26.170.3,12,312.0,0.0,1.0,"['Accept-Ranges: bytes', 'Content-Length: 104', 'Content-Type: text/html', 'Date: Thu, 01 Jul 2021 00:10:46 GMT', 'Etag: ""5f5749e8-68""', 'Last-Modified: Tue, 08 Sep 2020 09:07:52 GMT', 'Server: nginx/1.16.1']<html>
+<body>
+<div align=""center"">
+<img src=""mdes.jpg"" width=""800"" height=""700"">
+</div>
+</body>
+</html>
+","['www.xvideos.com' 'blogspot.com' 'www.pornhub.com' 'bild.de'
+ 'www.change.org' 'bet365.com' 'mediafire.com' 'www.mediafire.com'
+ 'pornhub.com' 'xnxx.com' 'www.888casino.com' 'xvideos.com']"
+212.250.202.173,5,36001.0,0.0,1.0,"['Cache-Control: private', 'Content-Length: 35709', 'Content-Type: text/html; charset=utf-8', 'Date: Thu, 01 Jul 2021 00:14:52 GMT', 'Server: Microsoft-IIS/10.0', 'Set-Cookie: ASP.NET_SessionId=s2ssfimv5ktwpt45lrb1ol55; path=/; HttpOnly', 'X-Aspnet-Version: 2.0.50727', 'X-Powered-By: ASP.NET']
+<!DOCTYPE html>
+<html lang=""en"">
+<head><meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" /><meta charset=""utf-8"" /><meta name=""viewport"" content=""width=device-width, initial-scale=1"" /><link rel=""shortcut icon"" href=""favicon.ico"" /><link href=""https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400"" rel=""stylesheet"" type=""text/css"" /><link rel=""stylesheet"" type=""text/css"" href=""css/2016/bootstrap.min.css"" /><link rel=""stylesheet"" type=""text/css"" href=""css/2016/font-awesome.min.css"" /><link rel=""stylesheet"" type=""text/css"" href=""css/2016/animate.min.css"" /><link rel=""stylesheet"" type=""text/css"" href=""css/2016/style.css?v=3.2.0"" /><link rel=""stylesheet"" type=""text/css"" href=""css/2016/themes/flat-yellow.css?v=3.2.0"" /><link rel=""stylesheet"" type=""text/css"" href=""css/2016/telerik.theme.custom.light.css?v=3.2.0"" /><link rel=""stylesheet"" type=""text/css"" href=""css/2016/jquery.mCustomScrollbar.min.css"" /><link rel=""stylesheet"" type=""text/css"" href=""css/2016/hopscotch.css"" />
+    <!--[if lt IE 9]>
+    <script src=""https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js""></script>
+    <![endif]-->
+    <!--[if lte IE 9]> 
+        <script src=""https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js""></script>
+    <![endif]-->
+    
+    <title>RallyStageTeam.co.uk</title>
+<link href=""https://d35islomi5rx1v.cloudfront.net/ajax/2015.2.623/FormDecoratorLite.css"" type=""text/css"" rel=""stylesheet"" class=""Telerik_stylesheet"" /><link href=""https://d35islomi5rx1v.cloudfront.net/ajax/2015.2.623/MetroTouchLite/FormDecorator.MetroTouch.css"" type=""text/css"" rel=""stylesheet"" class=""Telerik_stylesheet"" /><link href=""https://d35islomi5rx1v.cloudfront.net/ajax/2015.2.623/Common/fonticons.css"" type=""text/css"" rel=""stylesheet"" class=""Telerik_stylesheet"" /><link href=""https://d35islomi5rx1v.cloudfront.net/ajax/2015.2.623/WindowLite.css"" type=""text/css"" rel=""stylesheet"" class=""Telerik_stylesheet"" /><link href=""https://d35islomi5rx1v.cloudfront.net/ajax/2015.2.623/MetroTouchLite/Window.MetroTouch.css"" type=""text/css"" rel=""stylesheet"" class=""Telerik_stylesheet"" /><title>
+
+</title></head>
+<body id=""ctl00_body"" class=""flat-yellow landing-page homepage"">
+    <form name=""aspnetForm"" method=""post"" action=""/default.aspx"" id=""aspnetForm"">
+<input type=""hidden"" name=""ctl00_RadStyleSheetManager1_TSSM"" id=""ctl00_RadStyleSheetManager1_TSSM"" value="""" />
+<input type=""hidden"" name=""ctl00_RadScriptManager1_TSM"" id=""ctl00_RadScriptManager1_TSM"" value="""" />
+<input type=""hidden"" name=""__VIEWSTATE"" id=""__VIEWSTATE"" value=""/wEPDwULLTExNTQ5Njg0NDkPZBYCZg9kFgICAw8WAh4FY2xhc3MFIWZsYXQteWVsbG93IGxhbmRpbmctcGFnZSBob21lcGFnZRYCAgEPZBYIAgIPDxYIHhVFbmFibGVFbWJlZGRlZFNjcmlwdHNnHhxFbmFibGVFbWJlZGRlZEJhc2VTdHlsZXNoZWV0Zx4SUmVzb2x2ZWRSZW5kZXJNb2RlCylyVGVsZXJpay5XZWIuVUkuUmVuZGVyTW9kZSwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAxNS4yLjYyMy4zNSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0Ah4XRW5hYmxlQWpheFNraW5SZW5kZXJpbmdoFgIeBXN0eWxlBQ1kaXNwbGF5Om5vbmU7ZAIED2QWBAILDxYCHgdWaXNpYmxlaGQCEw8WAh8GaBYEAgEPDxYCHgRUZXh0ZWRkAgMPDxYCHwdlZGQCBQ9kFgICAQ9kFgJmD2QWBgIHD2QWAgIBDw9kFgIeB29uQ2xpY2sFGHJldHVybiBMQ19sb2FkUlNURW1haWwoKWQCDQ8PZBYCHwgFGXJldHVybiBMQ19JbnZpdGVCdWRkaWVzKClkAhMPFgIfBmhkAgYPZBYEAgEPZBYCZg8PFgIfBmdkFgICAg8WAh8HZWQCAw8UKwACFCsAAw8WCB8DCysEAh8BZx8CZx8EaGRkZBAWAmYCARYCFCsAAw8WCB8BZx8EaB8CZx8DCysEAmRkZBQrAAMPFggfAmcfAWcfBGgfAwsrBAJkZGQPFgJmZhYBBXFUZWxlcmlrLldlYi5VSS5SYWRXaW5kb3csIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMTUuMi42MjMuMzUsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MTIxZmFlNzgxNjViYTNkNBYEZg8UKwADDxYIHwFnHwRoHwJnHwMLKwQCZGRkZAIBDxQrAAMPFggfAmcfAWcfBGgfAwsrBAJkZGRkGAkFRWN0bDAwJHJpZ2h0Q29sdW1uJHJpZ2h0Q29sdW1uJG1hbnVhbFByb2ZpbGUkcmFkZGRsUHJvZmlsZUFjdGl2ZVN0YXR1cw8UKwACZWVkBUdjdGwwMCRyaWdodENvbHVtbiRyaWdodENvbHVtbiRqdW5jdGlvblRhYiRzdGFnZVNlY3VyaXR5JHJjU2VjdXJpdHlMZXZlbA8UKwACZWVkBURjdGwwMCRyaWdodENvbHVtbiRyaWdodENvbHVtbiRzdXBlclByb2ZpbGUkcmFkZGRsUHJvZmlsZUFjdGl2ZVN0YXR1cw8UKwACZWVkBTZjdGwwMCRyaWdodENvbHVtbiRyaWdodENvbHVtbiRtYW51YWxQcm9maWxlJGRkbENvdW50cnkPFCsAAmVlZAU1Y3RsMDAkcmlnaHRDb2x1bW4kcmlnaHRDb2x1bW4kc3VwZXJQcm9maWxlJGRkbENvdW50cnkPFCsAAmVlZAVeY3RsMDAkcmlnaHRDb2x1bW4kcmlnaHRDb2x1bW4kbWFyc2hhbFJlZ2lzdHJhdGlvbldpemFyZFRhYiRtYXJzaGFsUmVnaXN0cmF0aW9uV2l6YXJkJGRkbEV2ZW50cw8UKwACZWVkBTdjdGwwMCRyaWdodENvbHVtbiRyaWdodENvbHVtbiRjb250YWN0Rm9ybSRyYWRkZGxTdWJqZWN0DxQrAAJlZWQFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYEBRRjdGwwMCRGb3JtRGVjb3JhdG9yMQUjY3RsMDAkcmlnaHRDb2x1bW4kUmFkV2luZG93TWFuYWdlcjEFImN0bDAwJHJpZ2h0Q29sdW1uJHJhZFdpbmRvd0xlZnRDb2wFIGN0bDAwJHJpZ2h0Q29sdW1uJHJhZFdpbmRvd0xvZ29uBUVjdGwwMCRyaWdodENvbHVtbiRyaWdodENvbHVtbiRzdGFnZVRhYiRyZWdpb25TZWN1cml0eSRyY1NlY3VyaXR5TGV2ZWwPFCsAAmVlZA/5zU0HqnkVDNnWW8jzmSc8p6lL"" />
+
+
+<script src=""/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl00_RadScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d3.5.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-GB%3a26b46f9a-960d-495a-80cc-8322dbfc40e3%3aea597d4b"" type=""text/javascript""></script>
+<script src=""https://d2i2wahzwrm1n5.cloudfront.net/ajax/2015.2.623/Common/Core.js"" type=""text/javascript""></script>
+<script src=""https://d2i2wahzwrm1n5.cloudfront.net/ajax/2015.2.623/Common/jQuery.js"" type=""text/javascript""></script>
+<script src=""https://d2i2wahzwrm1n5.cloudfront.net/ajax/2015.2.623/Common/jQueryInclude.js"" type=""text/javascript""></script>
+<script src=""https://d2i2wahzwrm1n5.cloudfront.net/ajax/2015.2.623/Common/ShortCutManager/ShortCutManagerScripts.js"" type=""text/javascript""></script>
+<script src=""https://d2i2wahzwrm1n5.cloudfront.net/ajax/2015.2.623/FormDecorator/RadFormDecorator.js"" type=""text/javascript""></script>
+<script src=""https://d2i2wahzwrm1n5.cloudfront.net/ajax/2015.2.623/Common/Popup/PopupScripts.js"" type=""text/javascript""></script>
+<script src=""https://d2i2wahzwrm1n5.cloudfront.net/ajax/2015.2.623/Common/jQueryPlugins.js"" type=""text/javascript""></script>
+<script src=""https://d2i2wahzwrm1n5.cloudfront.net/ajax/2015.2.623/Common/AnimationFramework/AnimationFramework.js"" type=""text/javascript""></script>
+<script src=""https://d2i2wahzwrm1n5.cloudfront.net/ajax/2015.2.623/Common/Animation/AnimationScripts.js"" type=""text/javascript""></script>
+<script src=""https://d2i2wahzwrm1n5.cloudfront.net/ajax/2015.2.623/Common/TouchScrollExtender.js"" type=""text/javascript""></script>
+<script src=""https://d2i2wahzwrm1n5.cloudfront.net/ajax/2015.2.623/Common/Widgets/Draggable.js"" type=""text/javascript""></script>
+<script src=""https://d2i2wahzwrm1n5.cloudfront.net/ajax/2015.2.623/Common/Widgets/Resizable.js"" type=""text/javascript""></script>
+<script src=""https://d2i2wahzwrm1n5.cloudfront.net/ajax/2015.2.623/Window/RadWindowScripts.js"" type=""text/javascript""></script>
+<script src=""https://d2i2wahzwrm1n5.cloudfront.net/ajax/2015.2.623/Window/RadWindowManager.js"" type=""text/javascript""></script>
+<input type=""hidden"" name=""__VIEWSTATEGENERATOR"" id=""__VIEWSTATEGENERATOR"" value=""CA0B0334"" />
+        
+        
+        <div id=""ctl00_FormDecorator1"" class=""RadFormDecorator"" style=""display:none;"">
+	<!-- 2015.2.623.35 --><script type=""text/javascript"">
+//<![CDATA[
+
+if (typeof(WebForm_AutoFocus) != 'undefined' && !isWebFormAutoFocusMethodCalled)
+{   
+	var old_WebForm_AutoFocus = WebForm_AutoFocus;
+	WebForm_AutoFocus = function(arg)
+	{
+		Sys.Application.add_load(function()
+		{            
+			old_WebForm_AutoFocus(arg);
+			WebForm_AutoFocus = old_WebForm_AutoFocus;
+		});
+	}
+    var isWebFormAutoFocusMethodCalled = true;
+}
+if (typeof(Telerik) != 'undefined' && Type.isNamespace(Telerik.Web))
+{
+	if (Telerik.Web.UI.RadFormDecorator)
+	{
+		Telerik.Web.UI.RadFormDecorator.initializePage(""ctl00_FormDecorator1"", """", ""MetroTouch"", 65271);
+	}
+}
+//]]>
+</script><input id=""ctl00_FormDecorator1_ClientState"" name=""ctl00_FormDecorator1_ClientState"" type=""hidden"" />
+</div>
+        
+                <nav class=""navbar navbar-default navbar-fixed-top navbar-top navbar-affix top-menu"" data-spy=""affix"" data-offset-top=""60"" role=""navigation"">
+                    <div class=""container"">
+                        <div class=""navbar-header"">
+                            <a id=""ctl00_lnkLogo"" class=""navbar-brand"" href=""javascript:__doPostBack('ctl00$lnkLogo','')""><img src=""images/rst-logo-220.png"" id=""ctl00_logo"" class=""logo"" alt=""Rally Stage Team"" /></a>
+                            <button type=""button"" class=""navbar-toggle collapsed"" data-toggle=""collapse"" data-target=""#navbar"" aria-expanded=""false"" aria-controls=""navbar"">
+                                <span class=""sr-only"">Toggle navigation</span>
+                                <span class=""icon-bar""></span>
+                                <span class=""icon-bar""></span>
+                                <span class=""icon-bar""></span>
+                            </button>
+                        </div>
+                        <!-- nav -->
+                        
+
+
+<div id=""navbar"" class=""navbar-collapse collapse"" aria-expanded=""true"">
+    <ul class=""nav navbar-nav navbar-right"">
+        <li class=""active"">
+            <a id=""ctl00_menu_lnkHome"" href=""javascript:__doPostBack('ctl00$menu$lnkHome','')"">Home</a></li>
+        <li class=""dropdown"">
+            <a href=""#"" class=""dropdown-toggle"" data-toggle=""dropdown"" role=""button"" aria-haspopup=""true"" aria-expanded=""false"">My Portal<span class=""menu-arrow visible-xs-inline-block""></span></a>
+            <ul class=""dropdown-menu dropdown-menu-left"" role=""menu"">
+                <li>
+                    <a id=""ctl00_menu_lnkMyPortal"" href=""javascript:__doPostBack('ctl00$menu$lnkMyPortal','')"">My Portal</a></li>
+                <li>
+                    <a id=""ctl00_menu_lnkMyProfile"" href=""javascript:__doPostBack('ctl00$menu$lnkMyProfile','')"">My Profile</a></li>
+                <li>
+                    <a id=""ctl00_menu_lnkRSTEmail"" href=""javascript:__doPostBack('ctl00$menu$lnkRSTEmail','')"">RST Email</a></li>
+            </ul>
+        </li>
+        <li class=""dropdown"">
+            <a href=""#"" class=""dropdown-toggle"" data-toggle=""dropdown"" role=""button"" aria-haspopup=""true"" aria-expanded=""false"">Events<span class=""menu-arrow visible-xs-inline-block""></span></a>
+            <ul class=""dropdown-menu dropdown-menu-left"" role=""menu"">
+                <li>
+                    <a id=""ctl00_menu_lnkEventRegistration"" href=""javascript:__doPostBack('ctl00$menu$lnkEventRegistration','')"">Event Registration</a></li>
+            </ul>
+        </li>
+        
+        <li>
+            <a id=""ctl00_menu_lnkContactRST"" href=""javascript:__doPostBack('ctl00$menu$lnkContactRST','')"">Contact RST</a></li>
+        <li id=""ctl00_menu_liRegister"">
+            <a id=""ctl00_menu_lnkRegister"" href=""javascript:__doPostBack('ctl00$menu$lnkRegister','')"">Register</a></li>
+        <li id=""ctl00_menu_liLogin"">
+            <a id=""ctl00_menu_lnkLogin"" href=""javascript:__doPostBack('ctl00$menu$lnkLogin','')"">Login</a></li>
+        
+    </ul>
+</div>
+
+                        <!--/nav -->
+                    </div>
+                </nav>
+
+                
+    
+
+
+
+<input type=""submit"" name=""ctl00$leftColumn$leftColumn$btnEvents"" value=""Events"" id=""ctl00_leftColumn_leftColumn_btnEvents"" style=""display: none;"" />
+<input type=""submit"" name=""ctl00$leftColumn$leftColumn$btnStage"" value=""Stage"" id=""ctl00_leftColumn_leftColumn_btnStage"" style=""display: none;"" />
+<input type=""hidden"" name=""ctl00$leftColumn$leftColumn$hidEventId"" id=""ctl00_leftColumn_leftColumn_hidEventId"" />
+<input type=""hidden"" name=""ctl00$leftColumn$leftColumn$hidStageId"" id=""ctl00_leftColumn_leftColumn_hidStageId"" />
+
+
+
+
+
+    <input name=""ctl00$leftColumn$hidNavItem"" type=""hidden"" id=""ctl00_leftColumn_hidNavItem"" />
+
+
+                
+    
+
+
+<script language=""javascript"">
+    function GetClicked(command) {
+        var hid = document.getElementById(""ctl00_rightColumn_rightColumn_hidViewToLoad"");
+    hid.value = command;
+    document.getElementById(""ctl00_rightColumn_rightColumn_btnAjax"").click();
+    return false;
+}
+</script>
+
+
+
+<style type=""text/css"">
+    .panel-body .fa-angle-double-right
+    {
+	padding-right: 10px;
+    }
+	
+    .panel.register-panel .panel-body h5
+    {
+	clear: both;
+    }
+    .panel.register-panel .panel-body h5 span
+    {
+	float: left;
+	margin: 5px 0px;
+	padding: 6px 0px;
+    }
+</style>
+<div class=""jumbotron app-header home"">
+    <div class=""masked-jumbotron"">
+        <div class=""container"">
+            <h2 class=""align-center"">
+                <div class=""color-white neuropol"">Welcome to RallyStageTeam</div>
+                <p class=""animated fadeIn color-white app-description align-center"">
+                    <br />
+                    <br />
+                    This website is designed to support marshalling for motorsport, enabling marshals to gain access to more events and providing events with access to more marshals.
+				</p>
+			</h2>
+            <div class=""row"">
+                <div class=""col-md-4 col-sm-4 col-xs-12"">
+					<!--<div class=""panel fresh-color panel-danger"" style=""height:49%"">
+                        <div class=""panel-heading"">
+						<h4>WALES RALLY GB 2019 ROUTE</h4>
+                        </div>
+                        <div class=""panel-body"">
+					<!--<img class=""pull-left thumbnail"" alt=""#Rally4Wales"" src=""https://resources.RallyStageTeam.co.uk/misc/rally4wales.png"" style=""width: 150px"">-->
+					<!--<p>The announcement of the Wales Rally GB 2019 route will be on Wednesday 22nd May at 10am and will be immediately available on RST.</p>
+					<!--<p>Sign the petition NOW.  <a class=""btn btn-danger pull-right"" href=""https://www.assembly.wales/en/gethome/e-petitions/Pages/petitiondetail.aspx?PetitionID=943"" target=""_blank"">CLICK HERE</a></p>-->
+					<!--</div>-->
+                    <!--</div>-->
+                    <p class=""align-center app-content-description"">
+						We are continuing to develop this website to maximise the benefits to Marshals and 
+						Event Organisers.&nbsp; This means that Marshals get to know about more events and that events can be more safely run due to increased Marshal attendance.&nbsp;  RallyStageTeam has already been used on many events, 
+						including Rally of Great Britain 2009, the Jim Clark Rally, Richard Burns Memorial Rally, Wales Rally GB since 2007, Circuit of Ireland IRC since 2012 and has proven to be a great success.
+						<br />
+						<br />
+						We need <b>your</b> help to make it successful, by encouraging Events and 
+						Marshals to sign up and use RST.&nbsp;
+						<br />
+						<br />
+						This site is free to register for Marshals and Events and holds details of over 
+						10,000 Marshals, the majority of which are Online users of the System.
+					</p>
+					
+					<div class=""panel fresh-color panel-warning"">
+						<div class=""panel-heading rst-stats"">
+							<h4>Registered Marshals: <span id=""marshalsCounter"" class=""number neuropol pull-right"" data-count=""12937"" data-duration=""4"">12937</span></h4>
+						</div>
+					</div>
+					<div class=""btn-group btn-group-lg btn-group-justified"">
+						<a id=""ctl00_rightColumn_rightColumn_home_lnkJoinUs"" class=""btn btn-primary app-btn w100"" role=""button"" href=""javascript:__doPostBack('ctl00$rightColumn$rightColumn$home$lnkJoinUs','')"">Join Us »</a>
+						<div class=""btn"" style=""width:5px; padding:0px""></div>								
+						<a id=""ctl00_rightColumn_rightColumn_home_lnkLoginHome"" class=""btn btn-primary app-btn w100"" role=""button"" href=""javascript:__doPostBack('ctl00$rightColumn$rightColumn$home$lnkLoginHome','')"">Log In »</a>
+					</div>
+					<br/>
+				</div>
+				
+                <div class=""col-md-8 col-sm-8 col-xs-12"">
+                    <div class=""panel fresh-color panel-purple"">
+                        <div class=""panel-heading"">
+                            <h4>What's New?</h4>
+						</div>
+						<div class=""panel-body"">
+							<h5><i class=""fa fa-angle-double-right""></i>16 May: &nbsp;&nbsp;Old Forge Mewla Rally 2021 (29 August) - ON LINE NOW</h5>
+							<h5><i class=""fa fa-angle-double-right""></i>19 Mar: &nbsp;&nbsp;Three Shires Stages 2021 (5 Sept) - ON LINE NOW</h5>
+							<h5><i class=""fa fa-angle-double-right""></i>19 Mar: &nbsp;&nbsp;Nicky Grist Stages 2021 (10 July) - ON LINE NOW</h5>
+						</div>
+					</div>
+					<div class=""panel fresh-color panel-success register-panel"">
+                        <div class=""panel-heading"">
+                            <h4>Register for Events</h4>
+						</div>
+                        <div class=""panel-body"">
+							<!---<p> There are currently no Events available for Registration. </p>-->
+							<h5>
+                                <span>
+								<i class=""fa fa-angle-double-right""></i>
+								Nicky Grist Stages 2021, Builth Wells, Wales, UK
+                                </span>
+                                <a href=""default.aspx?EventID=115"" class=""btn btn-success pull-right"">Click Here</a>
+							</h5>
+							<h5>
+                                <span>
+								<i class=""fa fa-angle-double-right""></i>
+								Three Shires Stages 2021, Gloucestershire, UK
+                                </span>
+                                <a href=""default.aspx?EventID=117"" class=""btn btn-success pull-right"">Click Here</a>
+								</h5>
+							<h5>
+                                <span>
+								<i class=""fa fa-angle-double-right""></i>
+								Old Forge Mewla Rally 2021, Epynt, Wales, UK
+                                </span>
+                                <a href=""default.aspx?EventID=117"" class=""btn btn-success pull-right"">Click Here</a>
+								</h5>	
+							
+							<!--<h5>
+                                <span>
+                                    <i class=""fa fa-angle-double-right""></i>
+                                    Hertfordshire Closed Road Rally 2021, Herts, UK
+								</span>
+                                <a href=""default.aspx?EventID=114"" class=""btn btn-success pull-right"">Click Here</a>
+							</h5>-->
+						</div>
+					</div>
+					<div class=""row two-col"">
+					<div class=""col-md-6 col-sm-12 col-xs-12 h100"">
+						<div class=""panel fresh-color panel-info"">
+							<div class=""panel-heading"">
+								<h4>Online Now - Nicky Grist Stages 2021</h4>
+							</div>
+							<div class=""panel-body"">
+								<img style=""width: 330px; max-width: 100%"" alt=""Hertfordshire Stages 2021"" src=""https://resources.RallyStageTeam.co.uk/events/nickygrist21/event_logo.png"">
+									<div class=""countdown align-center clear-both"">
+									<div class=""countdown-container"" id=""countdown5"" data-time=""2021/07/10 09:00:00""></div>
+								</div>
+							</div>
+						</div>
+					</div>
+						<div class=""col-md-6 col-sm-12 col-xs-12 h100"">
+						<div class=""panel fresh-color panel-info"">
+						<div class=""panel-heading"">
+						<h4>Online Now - Three Shires Stages 2021</h4>
+						</div>
+						<div class=""panel-body"">
+						<img class=""center thumbnail"" width=""245px"" alt=""Three Shires Stages 2021"" src=""https://resources.RallyStageTeam.co.uk/events/3shires21/event_logo.png"">
+					<!--<h5>Dayinsure Wales Rally GB 2018 will be Online from 09:00am 17th April</h5>-->
+					<div class=""countdown align-center clear-both"">
+						<div class=""countdown-container"" id=""countdown1"" data-time=""2021/9/05 09:00:00""></div>
+						</div>
+						</div>
+					</div>
+					</div>
+					<div class=""col-md-6 col-sm-12 col-xs-12 h100"">
+						<div class=""panel fresh-color panel-info"">
+							<div class=""panel-heading"">
+								<h4>Online Now - Old Forge Mewla Rally 2021</h4>
+							</div>
+							<div class=""panel-body"">
+								<img class=""center thumbnail"" width=""150px"" alt=""Hertfordshire Stages 2021"" src=""https://resources.RallyStageTeam.co.uk/events/mewlarally/event_logo.png"">
+								<!--<h5>Dayinsure Wales Rally GB 2018 will be Online from 09:00am 17th April</h5>-->
+								<div class=""countdown align-center clear-both"">
+									<div class=""countdown-container"" id=""countdown5"" data-time=""2021/8/29 09:00:00""></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!--                            <div class=""panel fresh-color panel-warning"">
+						<div class=""panel-heading rst-stats"">
+						<h4>Online Registered Marshals: <span id=""marshalsCounter"" class=""number neuropol pull-right"" data-count=""12937"" data-duration=""4"">12937</span></h4>
+						</div>
+					</div>-->
+
+				<!--<div class=""col-md-6 col-sm-12 col-xs-12 h100"">
+					<div class=""panel fresh-color panel-info"">
+					<div class=""panel-heading"">
+					<h4>Online Now - North West Stages 2020</h4>
+					</div>
+					<div class=""panel-body"">
+				<img class=""center thumbnail"" width=""245px"" alt=""Legend Fires North West Stages 2020"" src=""https://resources.RallyStageTeam.co.uk/events/nws20/event_logo.png"">-->
+				<!--<h5>Dayinsure Wales Rally GB 2018 will be Online from 09:00am 17th April</h5>-->
+				<!--									<div class=""countdown align-center clear-both"">
+					<div class=""countdown-container"" id=""countdown5"" data-time=""2020/3/21 09:00:00""></div>
+					</div>
+					</div>
+				</div> -->
+				<!--							<div class=""panel fresh-color panel-success"">
+					<div class=""panel-heading"">
+					<h4>Online Now - Jim Clark Rally 2019</h4>
+					</div>
+					<div class=""panel-body"">
+					<img class=""center thumbnail"" alt=""Jim Clark Rally 2019"" width=""150px"" src=""https://resources.RallyStageTeam.co.uk/events/JimClark19/event_logo.png"">
+				<!--<h5>Dayinsure Wales Rally GB 2018 will be Online from: 30th April - 10am.</h5>-->
+				<!--									<div class=""countdown align-center clear-both"">
+					<div class=""countdown-container"" id=""countdown4"" data-time=""2019/11/7 19:00:00""></div>
+					</div>
+				</div>-->
+			</div>					
+			
+			
+			<!--<div class=""panel fresh-color panel-getready"">
+				<div class=""panel-heading"">
+				<h4>Coming Soon on RST</h4>
+				</div>
+				<div class=""panel-body"">
+				<img style=""width: 330px; max-width: 100%"" alt=""Dayinsure Wales Rally GB 2018"" src=""https://resources.RallyStageTeam.co.uk/events/wrgb18/event_logo.png"">
+				<h5>Dayinsure Wales Rally GB 2018 will be Online from 09:00am 17th April</h5>
+				</div>
+			</div>-->
+			<!--                            <div class=""panel fresh-color panel-warning"">
+				<div class=""panel-heading rst-stats"">
+				<h4>Online Registered Marshals: <span id=""marshalsCounter"" class=""number neuropol pull-right"" data-count=""12937"" data-duration=""4"">12937</span></h4>
+				</div>
+			</div>-->
+			
+			<!--                        </div>
+				<!--                        <div class=""col-md-6 col-sm-12 col-xs-12 h100"">
+				<div class=""panel fresh-color panel-success"">
+				<div class=""panel-heading"">
+				<h4>Online Now - Dayinsure Wales Rally GB 2018</h4>
+				</div>
+				<div class=""panel-body"">
+				<img class=""center thumbnail"" alt=""Dayinsure Wales Rally GB 2018"" width=""150px"" src=""https://resources.RallyStageTeam.co.uk/events/wrgb18/event_logo.png"">
+			<!--<h5>Dayinsure Wales Rally GB 2018 will be Online from: 30th April - 10am.</h5>-->
+			<!--									<div class=""countdown align-center clear-both"">
+				<div class=""countdown-container"" id=""countdown3"" data-time=""2018/10/04 19:00:00""></div>
+				</div>
+				</div>
+				</div>								
+			</div>	-->			
+		</div>
+	</div>
+</div>
+<span style=""display: none"">
+</span>
+
+<div class=""container-fluid app-content-a"">
+    <div class=""container pt20 pb-20"">
+        <div class=""row home-rally-logos visible-lg-block visible-md-block hidden-sm hidden-xs animated fadeIn"">
+            <div class=""col-md-2 col-sm-4 col-xs-6 col-md-offset-1 col-sm-offset-0"">
+                <div class=""home-rally-logo wrc""></div>
+			</div>
+            <div class=""col-md-2 col-sm-4 col-xs-6"">
+                <div class=""home-rally-logo wales""></div>
+			</div>
+            <div class=""col-md-2 col-sm-4 col-xs-6"">
+                <div class=""home-rally-logo irland""></div>
+			</div>
+            <div class=""col-md-2 col-sm-4 col-xs-6 col-md-offset-0 col-sm-offset-2 col-xs-offset-0"">
+                <div class=""home-rally-logo clark""></div>
+			</div>
+            <div class=""col-md-2 col-sm-4 col-xs-12"">
+                <div class=""home-rally-logo burns""></div>
+			</div>
+		</div>
+        <div class=""row hidden-lg hidden-md visible-sm-block hidden-xs"">
+            <div id=""logosCarousel-sm"" class=""logosCarousel carousel slide row home-rally-logos"" data-ride=""carousel"">
+                <div class=""carousel-inner"" role=""listbox"">
+                    <div class=""item active"">
+                        <div class=""row"">
+                            <div class=""col-sm-4"">
+                                <div class=""home-rally-logo wrc""></div>
+							</div>
+                            <div class=""col-sm-4"">
+                                <div class=""home-rally-logo wales""></div>
+							</div>
+                            <div class=""col-sm-4"">
+                                <div class=""home-rally-logo irland""></div>
+							</div>
+						</div>
+					</div>
+                    <div class=""item"">
+                        <div class=""row"">
+                            <div class=""col-sm-6"">
+                                <div class=""home-rally-logo clark""></div>
+							</div>
+                            <div class=""col-sm-6"">
+                                <div class=""home-rally-logo burns""></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+        <div class=""row hidden-lg hidden-md hidden-sm visible-xs-block"">
+            <div id=""logosCarousel-xs"" class=""logosCarousel carousel slide row home-rally-logos"" data-ride=""carousel"">
+                <div class=""carousel-inner"" role=""listbox"">
+                    <div class=""item active"">
+                        <div class=""row"">
+                            <div class=""col-xs-6"">
+                                <div class=""home-rally-logo wrc""></div>
+							</div>
+                            <div class=""col-xs-6"">
+                                <div class=""home-rally-logo wales""></div>
+							</div>
+						</div>
+					</div>
+                    <div class=""item"">
+					    <div class=""row"">
+                            <div class=""col-xs-6"">
+                                <div class=""home-rally-logo irland""></div>
+							</div>
+                            <div class=""col-xs-6"">
+                                <div class=""home-rally-logo burns""></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+        <div class=""row home-rally-logos-caption"">
+            <p class=""text-center app-content-description""><span class=""neuropol"">RallyStageTeam</span> has been used on many events with great success</p>
+		</div>
+	</div>
+</div>
+
+
+<!--
+	panel-info = blue
+	panel-success = green
+	panel-purple = purple
+panel-warning = yellow -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div id=""ctl00_rightColumn_RadWindowManager1"" style=""display:none;"">
+	<div id=""ctl00_rightColumn_radWindowLeftCol"" style=""display:none;"">
+		<div id=""ctl00_rightColumn_radWindowLeftCol_C"" style=""display:none;"">
+
+		</div><input id=""ctl00_rightColumn_radWindowLeftCol_ClientState"" name=""ctl00_rightColumn_radWindowLeftCol_ClientState"" type=""hidden"" />
+	</div><div id=""ctl00_rightColumn_radWindowLogon"" class=""rwLogon"" style=""display:none;"">
+		<div id=""ctl00_rightColumn_radWindowLogon_C"" style=""display:none;"">
+
+		</div><input id=""ctl00_rightColumn_radWindowLogon_ClientState"" name=""ctl00_rightColumn_radWindowLogon_ClientState"" type=""hidden"" />
+	</div><div id=""ctl00_rightColumn_RadWindowManager1_alerttemplate"" style=""display:none;"">
+		<div class=""rwDialog rwAlertDialog"">
+			<div class=""rwDialogContent"">
+				<div class=""rwDialogMessage"">{1}</div>
+			</div>
+			<div class=""rwDialogButtons"">
+				<input type=""button"" value=""##LOC[OK]##"" class=""rwOkBtn"" onclick=""$find('{0}').close(true); return false;"" />
+			</div>
+		</div>
+		</div><div id=""ctl00_rightColumn_RadWindowManager1_prompttemplate"" style=""display:none;"">
+		 <div class=""rwDialog rwPromptDialog"">
+			<div class=""rwDialogContent"">
+				<div class=""rwDialogMessage"">{1}</div>
+				<div class=""rwPromptInputContainer"">
+					<script type=""text/javascript"">
+						function RadWindowprompt_detectenter(id, ev, input)
+						{
+							if (!ev) ev = window.event;
+							if (ev.keyCode == 13)
+							{
+								var but = input.parentNode.parentNode.getElementsByTagName(""A"")[0];
+								if (but)
+								{
+									if (but.click) but.click();
+									else if (but.onclick)
+									{
+										but.focus(); var click = but.onclick; but.onclick = null; if (click) click.call(but);
+									}
+								}
+								return false;
+							}
+							else return true;
+						}
+						</script>
+					<input title=""Enter Value"" onkeydown=""return RadWindowprompt_detectenter('{0}', event, this);"" type=""text""  class=""rwPromptInput radPreventDecorate"" value=""{2}"" />
+				</div>
+			</div>
+			<div class=""rwDialogButtons"">
+				<input type=""button"" value=""##LOC[OK]##"" class=""rwOkBtn"" onclick=""$find('{0}').close(this.parentNode.parentNode.getElementsByTagName('input')[0].value); return false;"" />
+				<input type=""button"" value=""##LOC[Cancel]##"" class=""rwCancelBtn"" onclick=""$find('{0}').close(null); return false;"" />
+			</div>
+		</div>
+
+		</div><div id=""ctl00_rightColumn_RadWindowManager1_confirmtemplate"" style=""display:none;"">
+		<div class=""rwDialog rwConfirmDialog"">
+			<div class=""rwDialogContent"">
+				<div class=""rwDialogMessage"">{1}</div>
+			</div>
+			<div class=""rwDialogButtons"">
+				<input type=""button"" value=""##LOC[OK]##"" class=""rwOkBtn"" onclick=""$find('{0}').close(true); return false;"" />
+				<input type=""button"" value=""##LOC[Cancel]##"" class=""rwCancelBtn"" onclick=""$find('{0}').close(false); return false;"" />
+			</div>
+		</div>
+		</div><input id=""ctl00_rightColumn_RadWindowManager1_ClientState"" name=""ctl00_rightColumn_RadWindowManager1_ClientState"" type=""hidden"" />
+</div>
+    <input type=""submit"" name=""ctl00$rightColumn$btnGotoLogin"" value="""" id=""ctl00_rightColumn_btnGotoLogin"" style=""display: none"" />
+
+                
+            <!-- footer -->
+            <footer class=""app-footer"">
+                <div class=""container-fluid"">
+                    <div class=""wrapper"">
+                        <span class=""text-muted pull-left"">www.RallyStageTeam.co.uk | Event Management v2020.07.1 &copy;</span>
+                        <a href=""/PrivacyPolicy.aspx"" class=""pull-right"">Privacy Policy</a>
+                    </div>
+                </div>
+            </footer>
+            
+
+        <script type=""text/javascript"" src=""jscripts/bootstrap.min.js""></script>
+        <script type=""text/javascript"" src=""jscripts/jquery.bootstrap-dropdown-hover.min.js""></script>
+        <script type=""text/javascript"" src=""jscripts/jquery.mCustomScrollbar.concat.min.js""></script>
+        <script type=""text/javascript"" src=""jscripts/jquery.matchHeight-min.js""></script>
+        <script type=""text/javascript"" src=""jscripts/jquery.countdown.min.js""></script>
+        
+        
+        
+        <script src=""jscripts/app.js?v=2020.07.1"" type=""text/javascript""></script>
+        <script src=""jscripts/RST.js"" type=""text/javascript""></script>
+        <script src=""jscripts/hopscotch.min.js"" type=""text/javascript""></script>
+
+        <script type=""text/javascript"">
+
+            Sys.WebForms.PageRequestManager.getInstance().add_endRequest(EndRequestHandler);
+
+            function EndRequestHandler(sender, args) {
+
+                if (args.get_error() != undefined && args.get_error().httpStatusCode == '500') {
+                    var errorMessage = args.get_error().message;
+                    args.set_errorHandled(true);
+                    if (errorMessage == ""Sys.WebForms.PageRequestManagerServerErrorException: session_expired"") {
+                        ShowLogonPopup();
+                    }
+                }
+
+            }
+
+        </script>
+        <!--[if lt IE 9]>
+            <script type=""text/javascript"">$(document).ready(function(){$(""body"").addClass(""lte9"");});</script>
+        <![endif]-->
+        <!--[if lt IE 9]>
+            <script type=""text/javascript"">
+                var $buoop = {
+                    vs: {i:8,f:25,o:12.1,s:7},c:2,
+                    reminder: 0, 
+                    reminderClosed: 24, 
+                    onshow: function(infos){}, 
+                    onclick: function(infos){},
+                    onclose: function(infos){}, 
+                    l: false, 
+                    test: false,
+                    text: 'Your experience on this website may be degraded because your browser is <b>out of date</b>. Update your browser for more security, best experience and access to all website features.', 
+                    newwindow: false,
+                    url: ""javascript:void(0)""
+                };
+
+                function $buo_f(){ 
+                 var e = document.createElement(""script""); 
+                 e.src = ""//browser-update.org/update.min.js""; 
+                 document.body.appendChild(e);
+                };
+                try {document.addEventListener(""DOMContentLoaded"", $buo_f,false)}
+                catch(e){window.attachEvent(""onload"", $buo_f)}
+                window.onerror = function (errorMsg) {
+                    if (errorMsg.indexOf(""'h' is null or not an object"") > -1) {
+                        alert(""You need to install Adobe Flash Player plugin to view this video."");
+                    }
+                };
+            </script>    
+    <![endif]-->
+    
+
+<script type=""text/javascript"">
+//<![CDATA[
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadFormDecorator, {""_renderMode"":2,""clientStateFieldID"":""ctl00_FormDecorator1_ClientState"",""decoratedControls"":65271,""enabled"":true,""skin"":""MetroTouch""}, null, null, $get(""ctl00_FormDecorator1""));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindow, {""_dockMode"":false,""_renderMode"":2,""behaviors"":36,""clientStateFieldID"":""ctl00_rightColumn_radWindowLeftCol_ClientState"",""formID"":""aspnetForm"",""iconUrl"":"""",""minimizeIconUrl"":"""",""modal"":true,""name"":""radWindowLeftCol"",""reloadOnShow"":true,""showContentDuringLoad"":false,""skin"":""MetroTouch"",""title"":""Popup Window"",""visibleStatusbar"":false}, null, null, $get(""ctl00_rightColumn_radWindowLeftCol""));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindow, {""_dockMode"":false,""_renderMode"":2,""behaviors"":36,""clientStateFieldID"":""ctl00_rightColumn_radWindowLogon_ClientState"",""formID"":""aspnetForm"",""height"":""370px"",""iconUrl"":"""",""minimizeIconUrl"":"""",""modal"":true,""name"":""radWindowLogon"",""reloadOnShow"":true,""showContentDuringLoad"":false,""skin"":""MetroTouch"",""title"":""Session Expired"",""visibleStatusbar"":false,""width"":""400px""}, {""close"":radWindowLogon_close,""show"":radWindowLogon_show}, null, $get(""ctl00_rightColumn_radWindowLogon""));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindowManager, {""_renderMode"":2,""clientStateFieldID"":""ctl00_rightColumn_RadWindowManager1_ClientState"",""formID"":""aspnetForm"",""iconUrl"":"""",""minimizeIconUrl"":"""",""name"":""RadWindowManager1"",""skin"":""MetroTouch"",""windowControls"":""['ctl00_rightColumn_radWindowLeftCol','ctl00_rightColumn_radWindowLogon']""}, null, {""child"":""ctl00_rightColumn_radWindowLeftCol""}, $get(""ctl00_rightColumn_RadWindowManager1""));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>
+",['epicgames.com' 'tiktok.com' 'youtube.com' 'netflix.com' 'roblox.com']

@@ -1,0 +1,104 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+69.162.134.178,300,322.0,0.0,1.0,"['Cache-Control: no-cache, must-revalidate, max-age=0', 'Content-Length: 0', 'Content-Type: text/html; charset=UTF-8', 'Date: Sun, 31 Oct 2021 22:46:43 GMT', 'Expires: Wed, 11 Jan 1984 05:00:00 GMT', 'Location: https://misseljay.co.uk/', 'Server: Apache', 'Upgrade: h2,h2c', 'Vary: User-Agent', 'X-Redirect-By: WordPress']","['www.facebook.com' 'theguardian.com' 'google.co.uk'
+ 'www.securityinabox.org' 'tor.eff.org' 'thunder.free-signal.com'
+ 'googlevideo.com' 'www.uproxy.org' 'binance.us' '9gag.com'
+ 'it.wikipedia.org' 'www.cbc.ca' 'y2mate.com' 'nordvpn.com'
+ 'www.theepochtimes.com' 'badoo.com' 'nbcnews.com' 'nikkei.com'
+ 'proxify.com' 'ultrasurf.us' 'www.betternet.co' 'turbobit.net'
+ 'google.co.jp' 'www.gotgayporn.com' 'www.bitfinex.com'
+ 'www.hizb-ut-tahrir.org' '1337x.to' 'www.brookings.edu' 'google.com.tr'
+ 'google.co.in' 'google.com.mx' 'disqus.com' 'coursehero.com'
+ 'bloomberg.com' 'duckduckgo.com' 'www.transparency.org'
+ 'businessinsider.com' 'fr.wikipedia.org' 'localbitcoins.com' 'bet365.com'
+ 'www.csmonitor.com' 'dcard.tw' 'plus.google.com' 'udn.com'
+ 'ru.wikipedia.org' 'mixi.jp' 'google.ro' 'google.co.za'
+ 'www.getoutline.org' 'tvants.uptodown.com' 'www.ned.org' 'xhamster.com'
+ 'www.economist.com' 'google.com.my' 'goodreads.com' 'google.com.ua'
+ 'www.democracynow.org' 'www.ftchinese.com' 'genius.com' 'www.tango.me'
+ 'www.privateinternetaccess.com' 'google.ru' 'kumparan.com' 'www.bbc.com'
+ 'globalvoices.org' 'www.youporn.com' 'redd.it' 'www.omct.org'
+ 'www.aljazeera.com' 'www.proxyweb.net' 'jawapos.com' 'www.xroxy.com'
+ 'google.co.th' 'www.amnestyusa.org' 'www.ndi.org' 'riseup.net' 'searx.me'
+ 'medium.com' 'www.dailysabah.com' 'slate.com' 'protonvpn.com' 'kakao.com'
+ 'ltn.com.tw' 'www.ask.com' 'wikipedia.org' 'www.dropbox.com'
+ 'speedify.com' 'es.wikipedia.org' 'livestream.com' 'soundcloud.com'
+ 'freenetproject.org' 'www.heritage.org' 'google.cl' 'behance.net'
+ 'setn.com' 'www.cfr.org' 'zh.wikipedia.org' 'binance.com' 'google.pt'
+ 'bybit.com' 'hootsuite.com' 'google.es' 'www.peacefire.org'
+ 'ar.wikipedia.org' 'openvpn.net' 'google.com.eg' 'secure.flickr.com'
+ 'mstdn.io' 'elpais.com' 'archiveofourown.org' 'thepiratebay.org'
+ 'rsf.org' 'alt.com' 'www.washingtontimes.com' 'google.com.au'
+ 'pornhub.com' 'citizenlab.ca' 'www.opentech.fund' 'torrentz.eu'
+ 'google.com.br' 'www.megaproxy.com' 'brave.com' 'coinmarketcap.com'
+ 'www.pinterest.com' 'www.slideshare.net' 'livejasmin.com' 'facebook.com'
+ 'digg.com' 'multimedia.scmp.com' 'rakuten.co.jp'
+ 'webcache.googleusercontent.com' 'myabortionstory.tumblr.com'
+ 'www.whatsapp.com' 'xnxx.com' 'google.co.kr' 'google.co.id'
+ 'www.meetme.com' 'groups.google.com' 'whatsapp.com' 'psiphon.ca'
+ 'www.reuters.com' 'google.com.ar' 'de.wikipedia.org' 'ja.wikipedia.org'
+ 'google.com.vn' 'tiktok.com' 'web.telegram.org' 'wikileaks.org'
+ 'joinmastodon.org' 'signal.org' 'dailymail.co.uk' 'indiatoday.in'
+ 'archive.is' 'geti2p.net' 'issuu.com' 'youtube.com' 'line.me'
+ 'www.flickr.com' 'es.m.wikipedia.org' 'www.theguardian.com' 'telegra.ph'
+ 'freedomhouse.org' 'www.hrw.org' 'www.xvideos.com' 'google.ca'
+ 'pinterest.com' 'unpo.org' 'www.change.org' 'coingecko.com'
+ 'washingtonpost.com' 'www.trendsmap.com' 'ndtv.com' 'dropbox.com'
+ 'surfshark.com' 'www.cpj.org' 'www.bbc.co.uk' 'google.com.sa'
+ 'nicovideo.jp' 'www.ifj.org' 'en.wikipedia.org' 'storm.mg'
+ 'www.hotspotshield.com' 'groups.yahoo.com' 'google.gr' 'ftx.com'
+ 'www.dw.com' 'steamcommunity.com' 'getlantern.org' 'google.de'
+ 'amazon.co.jp' 'www.crazyshit.com' 'www.4shared.com'
+ 'www.frontlinedefenders.org' 'www.asstr.org' 'ask.com' 'theintercept.com'
+ 'beeg.com' 'tradingview.com' 'mastodon.xyz' 'bbc.co.uk' 'google.co.ve'
+ 'redtube.com' 'reddit.com' 'chaturbate.com' 'www.pokerstars.com'
+ 'www.joinclubhouse.com' 'www.goodreads.com' 'ocsp.int-x3.letsencrypt.org'
+ 'www.occrp.org' 'www.overdrive.com' 'breitbart.com' 'shopee.tw'
+ 'mastodon.social' 'ok.ru' 'www.ultimate-anonymity.com' 'wire.com'
+ 'xvideos.com' 'google.az' 'nypost.com' 'dailymotion.com' 'blogspot.com'
+ 'livemint.com' 'pixnet.net' 'www.twitch.tv' 'slideshare.net'
+ 'twitter.com' 'guardster.com' 'btguard.com' 'www.clubhouseapi.com'
+ 'tumblr.com' 'www.theatlantic.com' 'avaaz.org' 'pinterest.jp'
+ 'www.lemonde.fr' 'ca.wikipedia.org' 'imo.im' 'discord.com'
+ 'www.tiktok.com' 'quora.com' 'encrypted.google.com' 'en.m.wikipedia.org'
+ 'discordapp.com' 'www.persecution.org' 'google.pl' 'www.tumblr.com'
+ 'www.dailymotion.com' 'bravotube.net' 'app.wire.com' 'i.instagram.com'
+ 'google.com.pe' 'timesofindia.indiatimes.com' 'www.reddit.com'
+ 'www.rfa.org' 'www.fidh.org' 'external-content.duckduckgo.com'
+ 'google.com.hk' 'ar.m.wikipedia.org' 'www.anonymizer.com' 'ameba.jp'
+ 'web.archive.org' 'www.adventist.org' 'securevpn.com' 'imgur.com'
+ 'google.com.tw' 'deviantart.com' 'www.purevpn.com' 'www.voanews.com'
+ 'www.binance.com' 'bbc.com' 'twitch.tv' 'gate.io' 'www.youtube.com'
+ 'uptodown.com' 'www.google.com' 'miro.medium.com' 'google.com.sg'
+ 'youporn.com' 'jw.org' 'www.giganews.com' 'archive.org' 'vimeo.com'
+ 'www.search.com' 'onedrive.live.com' 'feedly.com' 'docs.google.com'
+ 'www.ebaumsworld.com' 'sites.google.com' 'freespeechdebate.com'
+ 'flickr.com' 'getoutline.org' 'www.torproject.org' 'www.nbcnews.com'
+ 'google.fr' 'redbubble.com' 'www.blogger.com' 'www.lightsailvpn.com'
+ 'peacefire.org' 'www.instagram.com' 'etsy.com' 'instagram.com']"
+31.171.244.133,4,336.0,0.0,1.0,"['Content-Length: 185', 'Content-Type: text/html', 'Date: Sun, 31 Oct 2021 22:45:33 GMT', 'Location: https://www.fabulous.ch/', 'Server: nginx/1.14.2']<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor=""white"">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.14.2</center>
+</body>
+</html>
+","['www.stumbleupon.com' 'www.solicitorsfromhell.com' 'www.telegraph.co.uk'
+ 'www.sida.se']"
+162.93.215.103,3,96.0,0.0,1.0,"['Connection: close', 'Content-Length: 0', 'Location: https://www.schwab.com/', 'Server: BigIP']",['scontent-ams4-1.cdninstagram.com' 'searx.me' 'sci-hub.se']
+52.50.17.13,3,440.0,0.0,1.0,"['Content-Length: 185', 'Content-Type: text/html', 'Date: Sun, 31 Oct 2021 23:05:04 GMT', 'Location: https://secfirst.org/', 'Server: nginx/1.12.2', 'Strict-Transport-Security: max-age=15768000', 'X-Content-Type-Options: nosniff', 'X-Frame-Options: DENY']<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor=""white"">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.12.2</center>
+</body>
+</html>
+",['sexetc.org' 'seclists.org' 'www.sexedlibrary.org']
+52.89.164.39,3,316.0,0.0,1.0,"['Content-Length: 169', 'Content-Type: text/html', 'Date: Sun, 31 Oct 2021 22:45:02 GMT', 'Location: https://www.msi.com/', 'Server: nginx/1.20.0']<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.20.0</center>
+</body>
+</html>
+",['muwire.com' 'multiproxy.org' 'multimedia.scmp.com']
+162.93.229.103,3,96.0,0.0,1.0,"['Connection: close', 'Content-Length: 0', 'Location: https://www.schwab.com/', 'Server: BigIP']",['sci-hub.se' 'searx.me' 'scontent-ams4-1.cdninstagram.com']

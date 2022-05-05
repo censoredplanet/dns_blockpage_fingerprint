@@ -1,0 +1,11 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+148.163.69.168,4,281.0,0.0,1.0,"['Content-Length: 0', 'Content-Type: text/html; charset=UTF-8', 'Date: Thu, 01 Jul 2021 00:15:26 GMT', 'Location: https://arpanmission.com/', 'Server: Apache', 'Vary: Accept-Encoding,Cookie,User-Agent', 'X-Pingback: https://arpanmission.com/xmlrpc.php', 'X-Redirect-By: WordPress']",['deepl.com' 'defcon.org' 'depositphotos.com' 'dextroverse.org']
+54.71.103.102,3,326.0,0.0,1.0,"['Content-Length: 169', 'Content-Type: text/html', 'Date: Thu, 01 Jul 2021 00:15:22 GMT', 'Location: https://www.risebroadband.com/', 'Server: nginx/1.18.0']<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.18.0</center>
+</body>
+</html>
+",['royalbank.com' 'rutracker.org' 'riseup.net']
+199.223.115.240,3,190.0,0.0,1.0,"['Content-Length: 0', 'Content-Type: text/html; charset=UTF-8', 'Date: Thu, 01 Jul 2021 00:14:56 GMT', 'Location: https://www.common-fund.org/', 'Server: Apache', 'X-Redirect-By: WordPress']",['concursolutions.com' 'commons.wikimedia.org' 'consultant.ru']

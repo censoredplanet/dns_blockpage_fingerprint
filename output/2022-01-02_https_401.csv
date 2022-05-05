@@ -1,0 +1,17 @@
+ip,domain_count,avg_length,standard_deviation,similarity,content,domains
+91.224.60.25,2,672.0,0.0,1.0,"['Content-Length: 381' 'Content-Type: text/html; charset=iso-8859-1'
+ 'Date: Sun, 02 Jan 2022 23:55:00 GMT'
+ 'Server: Apache/2.4.10 (Debian) PHP/5.6.30-0+deb8u1 mod_python/3.3.1 Python/2.7.9 OpenSSL/1.0.1t mod_perl/2.0.9dev Perl/v5.20.2'
+ 'Www-Authenticate: Basic realm=""Katalog chroniony""']<!DOCTYPE HTML PUBLIC ""-//IETF//DTD HTML 2.0//EN"">
+<html><head>
+<title>401 Unauthorized</title>
+</head><body>
+<h1>Unauthorized</h1>
+<p>This server could not verify that you
+are authorized to access the document
+requested.  Either you supplied the wrong
+credentials (e.g., bad password), or your
+browser doesn't understand how to supply
+the credentials required.</p>
+</body></html>
+",['google.pl' 'onet.pl']
