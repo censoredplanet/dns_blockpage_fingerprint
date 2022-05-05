@@ -35,9 +35,9 @@ pip install -r requirements.txt
 
 ## Generate blockpage fingerprints
 
-1. Modify `config.json` and run `scripts/main.py` to generate blockpage candidates (run `./check_format.sh` to format code).
+Modify `config.json` and run `scripts/main.py` to generate blockpage candidates (run `./check_format.sh` to format code).
 
-2. Get data from `firehook-censoredplanet.laplante.satellite_blockpage_scan`. Modify `config.json` to set start time, end time and type (`HTTP` vs `HTTPS`):
+1. Get data from `firehook-censoredplanet.laplante.satellite_blockpage_scan`. Modify `config.json` to set start time, end time and type (`HTTP` vs `HTTPS`):
 
    ```
    {
@@ -65,7 +65,7 @@ pip install -r requirements.txt
    * `read_file_logic = "1"`: Read table from local file and generate the annotated file with TP, FP fingerprint matching.
    * `read_file_logic = "2"`: Read annotated table from local file.
 
-3. Debugging info: 
+2. Debugging info: 
 
    ```
    2022-05-04 21:03.04 [debug    ] Starting checking 500 on 2022-01-02...
@@ -103,15 +103,40 @@ pip install -r requirements.txt
 
    means that satellite v2 sent HTTP(S) request for 4 domains for IP `151.101.66.133`. The response matches the FP fingerprint, and the 4 domains do not share a common TLD. The similarity of the response is `0.04925776628665697`. We set the `similarity_threshold` as `0.2` to decrease FN. 
 
-4. Manual fingerprint generation: output files can be found in `output/<date>_http(s)_<status_code>.csv`, the format of the output is (clustered based on page length):
+3. Manual fingerprint generation: output files can be found in `output/<date>_http(s)_<status_code>.csv`, the format of the output is (clustered based on page length):
 
    | ip                 | domain_count | avg_length | standard_deviation | similarity | content                                                      | domains   |
    | ------------------ | ------------ | ---------- | ------------------ | ---------- | ------------------------------------------------------------ | --------- |
    | 109.235.61.171,389 | 389          | 408        | 0.4672             | 0.9988     | ...'Location: https://login.jusprogdns.com/block/?uri=qq.com&age=6'... | (omitted) |
 
-   From previous experience, the 200 status code candidates and redirects (301, 302, 307, 308) are the ones you should really check to generate fingerprints.  
+   From previous experience, the 200 status code candidates and redirects (301, 302, 307, 308) are the ones you should really check to generate fingerprints.  To add new fingerprints to [blockpage_signatures.json](https://raw.githubusercontent.com/censoredplanet/assets-censoredplanet/master/blockpage_signatures.json) and [false_positive_signatures.json](https://raw.githubusercontent.com/censoredplanet/assets-censoredplanet/master/false_positive_signatures.json), you need to follow the following naming rules:
 
-5. We see non-censorship injected pages a lot, especially in HTTP pages. To evade generating these pages as candidate, you can add matching `(status, ip)` pair to `special_ips` under `scripts/config.json`. 
+   ```json
+   Prefix:
+   - a_prod_: where censorship product is specified, e.g.:
+     {"fingerprint":"a_prod_fortinet_5","pattern":"FortiGate Application Control"} 
+     
+   - b_nat: where the blocking is national, e.g.:
+     {"fingerprint":"b_nat_sa_national","pattern":"<title> Blocked URL العنوان محجو"}
+     
+   - c_isp: where the blocking is conducted by specific ISPs, e.g.:
+     {"fingerprint":"c_isp_ru_alestanet","pattern":"http://zapret\\.alestanet\\.ru/"}
+   
+   - d_corp: where the blocking is corporational, e.g.:
+     {"fingerprint":"d_corp_shanghai_blue_cloud","pattern":"<title>上海蓝云阻断页面</title>"}
+     
+   - e_unk: where we can't determine if it is national, ISP-level or corporational, e.g.:
+     {"fingerprint":"e_unk_ru_blocked_2","pattern":"<title>Запрос блокирован</title>"}
+     
+   - f_gen: general blocking information, e.g.:
+     {"fingerprint":"f_gen_blocked_1","pattern":"Acceso Restringido"}
+     
+   Suffix:
+   - _satellite: add to blockpage fingerprints generated from satellite.
+     {"fingerprint":"b_nat_cn_antispam_satellite","pattern":"<div class=\"title\">国家反诈中心</div>"}
+   ```
+
+4. We see non-censorship injected pages a lot, especially in HTTP pages. To evade generating these pages as candidate, you can add matching `(status, ip)` pair to `special_ips` under `scripts/config.json`. 
 
 ​	
 
