@@ -111,7 +111,7 @@ Modify `config.json` and run `scripts/main.py` to generate blockpage candidates 
 
    From previous experience, the 200 status code candidates and redirects (301, 302, 307, 308) are the ones you should really check to generate fingerprints.  To add new fingerprints to [blockpage_signatures.json](https://raw.githubusercontent.com/censoredplanet/assets-censoredplanet/master/blockpage_signatures.json) and [false_positive_signatures.json](https://raw.githubusercontent.com/censoredplanet/assets-censoredplanet/master/false_positive_signatures.json), you need to follow the following naming rules:
 
-   ```json
+   ```
    Prefix:
    - a_prod_: where censorship product is specified, e.g.:
      {"fingerprint":"a_prod_fortinet_5","pattern":"FortiGate Application Control"} 
@@ -142,7 +142,7 @@ Modify `config.json` and run `scripts/main.py` to generate blockpage candidates 
 
 
 
-
+Rename the satellite file.
 
 
 
