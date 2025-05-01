@@ -1,4 +1,4 @@
-# DNSBlockPage
+# DNSBlockpage
 ## Generate DNS blockpage fingerprint from Satellite v2 data
 ###### Code and notebooks for generating DNS blockpage fingerprints and other analysis
 
